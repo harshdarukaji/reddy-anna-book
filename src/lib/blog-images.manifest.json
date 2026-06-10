@@ -1,0 +1,16 @@
+{
+  "bySlug": {
+    "reddy-anna-book-bonus-offers-new-users": "/images/blog/bonus-offers.jpg",
+    "best-time-to-bet-on-reddy-anna-book": "/images/blog/best-time-bet.jpg",
+    "simple-reddy-anna-live-betting-strategies": "/images/blog/live-betting-strategies.webp"
+  },
+  "byCategory": {
+    "Cricket Betting": "/images/blog/cricket-hero.jpg",
+    "IPL 2026": "/images/blog/ipl-cricket.jpg",
+    "Cricket News": "/images/blog/cricket-news.jpg",
+    "Casino": "/images/blog/casino-games.jpg",
+    "App & Login": "/images/blog/mobile-app.jpg",
+    "Payments": "/images/blog/payments.jpg",
+    "Guides": "/images/blog/guides-default.jpg"
+  }
+}

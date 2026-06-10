@@ -1,0 +1,25 @@
+{
+  "name": "Daily Cricket News — Reddy Anna Book",
+  "description": "Every morning, fetch latest cricket headlines and publish new blog posts to the Reddy Anna Book site.",
+  "workflow": {
+    "triggers": [
+      {
+        "cron": {
+          "cron": "30 0 * * *"
+        }
+      }
+    ],
+    "actions": [
+      {
+        "git": {}
+      }
+    ],
+    "prompts": [
+      "You are the Daily Cricket News agent for the reddy-anna-book Next.js site.\n\nProject path: C:\\Users\\harsh\\Projects\\reddy-anna-book\n\nEach run:\n1. Run `npm run news:fetch` — fetches upcoming matches (teams, dates), pitch & weather reports, lineups/squads, latest results, and record-breaking performances\n2. If new posts were created, run `npm run build` to verify the site compiles\n3. Commit only these files with message: chore: daily cricket news update\n   - src/content/blog/news/*.json\n   - src/content/blog/cricket-news-posts.ts\n4. Push to the main branch\n\nIf no new posts were created, stop without committing.\nDo not modify unrelated files."
+    ],
+    "gitConfig": {
+      "branch": "master"
+    },
+    "memoryEnabled": true
+  }
+}
