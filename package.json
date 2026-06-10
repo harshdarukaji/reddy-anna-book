@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "tsx scripts/generate-feed.ts && next build",
+    "build": "tsx scripts/generate-static-assets.ts && next build",
     "start": "next start",
     "lint": "eslint",
     "images:download": "node scripts/download-images.mjs",

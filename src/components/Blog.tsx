@@ -57,8 +57,8 @@ export function BlogContent({ blocks }: { blocks: BlogBlock[] }) {
             );
           case "table":
             return (
-              <div key={i} className="mb-6 overflow-x-auto rounded-xl border border-white/10">
-                <table className="w-full text-sm">
+              <div key={i} className="-mx-1 mb-6 overflow-x-auto rounded-xl border border-white/10 sm:mx-0">
+                <table className="w-full min-w-[520px] text-sm">
                   <thead>
                     <tr className="border-b border-white/10 bg-white/5">
                       {block.headers.map((h) => (
@@ -154,7 +154,7 @@ export function BlogCard({
           )}
         </div>
       </Link>
-      <div className="p-6">
+      <div className="p-4 sm:p-6">
         <div className="mb-3 flex flex-wrap items-center gap-3 text-xs text-zinc-500">
           <span className="rounded-full bg-gold/10 px-2.5 py-0.5 font-medium text-gold">
             {category}

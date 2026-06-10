@@ -1,6 +1,7 @@
 import fs from "fs";
 import { getAllPosts } from "../src/content/blog/posts";
 import { siteConfig } from "../src/lib/site-config";
+import { assetPath, basePath } from "../src/lib/asset";
 
 const posts = getAllPosts();
 
@@ -31,5 +32,32 @@ const rss = `<?xml version="1.0" encoding="UTF-8"?>
   </channel>
 </rss>`;
 
+const manifest = {
+  name: siteConfig.name,
+  short_name: siteConfig.shortName,
+  description: siteConfig.description,
+  start_url: basePath ? `${basePath}/` : "/",
+  scope: basePath ? `${basePath}/` : "/",
+  display: "standalone",
+  background_color: "#0a0e17",
+  theme_color: "#0a0e17",
+  lang: "en-IN",
+  orientation: "portrait-primary",
+  icons: [
+    {
+      src: assetPath("/favicon.png"),
+      sizes: "512x512",
+      type: "image/png",
+    },
+    {
+      src: assetPath("/logo.png"),
+      sizes: "512x512",
+      type: "image/png",
+      purpose: "any maskable",
+    },
+  ],
+};
+
 fs.writeFileSync("public/feed.xml", rss.trim());
-console.log("Generated public/feed.xml with", posts.length, "posts");
+fs.writeFileSync("public/manifest.json", JSON.stringify(manifest, null, 2));
+console.log(`Generated feed.xml + manifest.json (basePath: ${basePath || "/"})`);

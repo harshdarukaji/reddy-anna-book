@@ -50,6 +50,7 @@ jobs:
       - name: Build static site
         env:
           GITHUB_PAGES: "true"
+          NEXT_PUBLIC_BASE_PATH: /reddy-anna-book
           NEXT_PUBLIC_SITE_URL: https://harshdarukaji.github.io/reddy-anna-book
           NEXT_PUBLIC_WHATSAPP_LINK: https://wa.link/Reddyofficial
         run: npm run build

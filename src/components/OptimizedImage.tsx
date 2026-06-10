@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { assetPath } from "@/lib/asset";
 
 type OptimizedImageProps = {
   src: string;
@@ -21,10 +22,12 @@ export function OptimizedImage({
   fill = false,
   sizes = "(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 768px",
 }: OptimizedImageProps) {
+  const resolvedSrc = assetPath(src);
+
   if (fill) {
     return (
       <Image
-        src={src}
+        src={resolvedSrc}
         alt={alt}
         fill
         priority={priority}
@@ -36,7 +39,7 @@ export function OptimizedImage({
 
   return (
     <Image
-      src={src}
+      src={resolvedSrc}
       alt={alt}
       width={width}
       height={height}

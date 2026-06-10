@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const isGithubPages = process.env.GITHUB_PAGES === "true";
-const repoBase = "/reddy-anna-book";
+const repoBase = process.env.NEXT_PUBLIC_BASE_PATH || "/reddy-anna-book";
 
 const nextConfig: NextConfig = {
   ...(isGithubPages

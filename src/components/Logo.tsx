@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { assetPath } from "@/lib/asset";
 
 type LogoProps = {
   className?: string;
@@ -12,7 +13,7 @@ export function Logo({ className = "", height = 48, href = "/" }: LogoProps) {
 
   const image = (
     <Image
-      src="/logo.png"
+      src={assetPath("/logo.png")}
       alt="Reddy Anna — Since 2010"
       width={width}
       height={height}

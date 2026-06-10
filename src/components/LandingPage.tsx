@@ -51,7 +51,7 @@ export function LandingPage({
         ]}
       />
 
-      <article className="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
+      <article className="mx-auto max-w-4xl px-4 py-10 sm:px-6 sm:py-16 lg:px-8">
         <nav className="mb-8 text-sm text-zinc-500" aria-label="Breadcrumb">
           <Link href="/" className="hover:text-gold">
             Home
@@ -73,7 +73,7 @@ export function LandingPage({
           </div>
         )}
 
-        <h1 className="text-4xl font-bold text-white">{h1}</h1>
+        <h1 className="text-3xl font-bold leading-tight text-white sm:text-4xl">{h1}</h1>
         <p className="mt-4 text-lg text-zinc-400">{description}</p>
         <p className="mt-6 leading-relaxed text-zinc-300">{intro}</p>
 

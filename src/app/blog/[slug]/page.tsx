@@ -56,7 +56,7 @@ export default async function BlogPostPage({ params }: Props) {
         ]}
       />
 
-      <article className="mx-auto max-w-4xl px-4 py-12 sm:px-6 lg:px-8">
+      <article className="mx-auto max-w-4xl px-4 py-8 pb-24 sm:px-6 sm:py-12 sm:pb-12 lg:px-8">
         <Breadcrumbs
           items={[
             { label: "Home", href: "/" },
@@ -131,6 +131,13 @@ export default async function BlogPostPage({ params }: Props) {
               </div>
             </div>
           </aside>
+        </div>
+
+        <div className="mt-10 lg:hidden">
+          <div className="rounded-2xl border border-green/30 bg-green/5 p-5 text-center">
+            <p className="mb-3 text-sm text-zinc-300">Ready to bet on today&apos;s cricket?</p>
+            <WhatsAppButton className="w-full">Get Reddy Anna ID on WhatsApp</WhatsAppButton>
+          </div>
         </div>
 
         <RelatedPosts posts={related} />

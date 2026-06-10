@@ -15,7 +15,7 @@ export function CTAButton({
   external?: boolean;
 }) {
   const base =
-    "inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-all duration-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gold/50";
+    "inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-all duration-200 hover:scale-105 active:scale-[0.98] focus:outline-none focus:ring-2 focus:ring-gold/50 sm:min-h-0";
 
   const variants = {
     primary: "bg-gold text-dark shadow-lg shadow-gold/20 hover:bg-gold-light",
@@ -88,7 +88,7 @@ export function SectionHeading({
           {eyebrow}
         </p>
       )}
-      <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
+      <h2 className="text-2xl font-bold tracking-tight text-white sm:text-3xl lg:text-4xl">
         {title}
       </h2>
       {description && (

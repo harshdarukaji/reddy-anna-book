@@ -1,20 +1,22 @@
 {
   "name": "Reddy Anna Book",
   "short_name": "Reddy Anna",
-  "description": "India's most trusted online cricket betting platform",
-  "start_url": "/",
+  "description": "Reddy Anna Book — India's #1 trusted platform for online cricket betting, live casino, and sports exchange. Get your instant Cricket ID, 24-hour withdrawals, and 24/7 support. Join 55,000+ users today.",
+  "start_url": "/reddy-anna-book/",
+  "scope": "/reddy-anna-book/",
   "display": "standalone",
   "background_color": "#0a0e17",
   "theme_color": "#0a0e17",
   "lang": "en-IN",
+  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/reddy-anna-book/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/logo.png",
+      "src": "/reddy-anna-book/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

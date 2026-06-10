@@ -11,8 +11,8 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-white/10 bg-dark/95 backdrop-blur-md">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
-        <Logo height={44} />
+      <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-3 py-2.5 sm:px-6 sm:py-3 lg:px-8">
+        <Logo height={40} />
 
         <nav className="hidden items-center gap-6 lg:flex" aria-label="Main">
           {siteConfig.navLinks.map((link) => (
@@ -26,16 +26,18 @@ export function Header() {
           ))}
         </nav>
 
-        <div className="hidden items-center gap-3 sm:flex">
+        <div className="hidden items-center gap-3 md:flex">
           <CTAButton href="/login" variant="outline" className="!px-4 !py-2">
             Login
           </CTAButton>
           <WhatsAppButton className="!px-4 !py-2">Get ID</WhatsAppButton>
         </div>
 
-        <button
-          type="button"
-          className="rounded-lg p-2 text-zinc-300 lg:hidden"
+        <div className="flex items-center gap-1.5 md:hidden">
+          <WhatsAppButton className="!min-h-10 !px-3 !py-2 !text-xs">Get ID</WhatsAppButton>
+          <button
+            type="button"
+            className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg text-zinc-300 active:bg-white/10"
           onClick={() => setOpen(!open)}
           aria-expanded={open}
           aria-label="Toggle menu"
@@ -47,7 +49,8 @@ export function Header() {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
             )}
           </svg>
-        </button>
+          </button>
+        </div>
       </div>
 
       {open && (
