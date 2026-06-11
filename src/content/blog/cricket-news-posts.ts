@@ -3,6 +3,935 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-06-11",
+    "title": "Cricket Daily Digest — Thursday, 11 June 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 11 June 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-06-11 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 11 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 11 Jun, 2026, 10:00 am",
+            "India A vs Afghanistan A",
+            "ODI",
+            "Dambulla",
+            "Tri Nation A Series in Sri Lanka  2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 10:30 am",
+            "Australia vs Bangladesh",
+            "ODI",
+            "Dhaka",
+            "Bangladesh v Australia, 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 1:00 pm",
+            "Nigeria Women vs Brazil Women",
+            "T20",
+            "Kigali City",
+            "Kwibuka Women's T20I Tournament"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 1:15 pm",
+            "Rwanda Women vs Malawi Women",
+            "T20",
+            "Kigali City",
+            "Kwibuka Women's T20I Tournament"
+          ],
+          [
+            "Fri, 12 Jun, 2026, 7:00 am",
+            "Thailand Women vs Indonesia Women",
+            "T20",
+            "Kuala Lumpur",
+            "ACC Women's T20I Premier Cup 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 2:00 pm",
+            "ARCS Andheri vs Aakash Tigers MWS",
+            "T20",
+            "Mumbai",
+            "T20 Mumbai 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 2:00 pm",
+            "Sweden vs Norway",
+            "T20",
+            "Stockholm",
+            "Viking Cup"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 2:30 pm",
+            "Ujjain Falcons vs Jabalpur Royal Lions",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 3:00 pm",
+            "Royal Nimar Eagles vs Malwa Stallions",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 6:00 pm",
+            "Finland vs Austria",
+            "T20",
+            "Stockholm",
+            "Viking Cup"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 7:00 pm",
+            "North Mumbai Panthers vs MSC Maratha Royals",
+            "T20",
+            "Mumbai",
+            "T20 Mumbai 2026"
+          ],
+          [
+            "Thu, 11 Jun, 2026, 7:30 pm",
+            "Gwalior Cheetahs vs Chambal Ghariyals",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Netherlands vs Canada (112th Match, ODI): Canada won by 2 wkts — NED: 214/10 (47.6 ov) | CAN: 218/8 (49.5 ov)",
+          "South Africa A vs England Lions (3rd unofficial ODI, ODI): England Lions won by 6 wkts (Match reduced to 47 overs due to rain) — RSAA: 146/10 (31.3 ov) | ENGA: 148/4 (28.1 ov)",
+          "Bangladesh vs Australia (1st ODI, ODI): Bangladesh won by 86 runs (DLS method) — BAN: 284/8 (49.6 ov) | AUS: 191/9 (42.2 ov)",
+          "India A vs Sri Lanka A (1st Match, ODI): India A won by 8 runs — INDA: 277/6 (49.6 ov) | SLA: 269/10 (48.5 ov)",
+          "West Indies vs Sri Lanka (3rd ODI, ODI): Match abandoned due to rain — WI: 214/10 (47.6 ov) | SL: 218/8 (49.5 ov)",
+          "Netherlands vs United States of America (111th Match, ODI): Netherlands won by 21 runs — NED: 196/8 (49.6 ov) | USA: 175/10 (47.5 ov)",
+          "Surrey vs Hampshire (31st Match, TEST): Match drawn — SUR: 421/10 (82.5 ov) & 259/5 (47.6 ov) | HAM: 333/10 (96.4 ov) & 101/2 (43.6 ov)",
+          "England Lions vs South Africa A (2nd unofficial ODI, ODI): South Africa A won by 10 wkts — ENGA: 198/10 (47.1 ov) | RSAA: 201/0 (30.3 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'In emergency, break glass' - England seek stability in Root — BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test ",
+          "Lawrence hits 64-ball ton as Surrey draw with Hants — Hampshire dig deep to stave off the threat of defeat after Surrey's Dan Lawrence smashes another century in their County",
+          "Bangladesh beat Australia in ODI for first time in 21 years — Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series",
+          "From hating cricket to world number one - the rise of England's Smith — Linsey Smith admits to \"hating\" the first part of her international career but has risen to her current position of the ",
+          "Lord's pitch rated 'unsatisfactory' by ICC — The Lord's pitch for the first Test between England and New Zealand is rated \"unsatisfactory\", with the historic venue g",
+          "India complete record Test win over Afghanistan — Debutant Manav Suthar takes seven wickets in the match as India thrash Afghanistan by an innings and 300 runs to claim t"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stokes out of England squad, Root named captain",
+          "Sciver-Brunt finds form as England overcome India",
+          "Stokes should not be sacked as captain - Vaughan",
+          "Former Warwickshire wicketkeeper Piper dies aged 56",
+          "A shock group-stage exit? T20 World Cup team guide"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-bangladesh-beat-australia-in-odi-for-first-time-in",
+    "title": "Bangladesh beat Australia in ODI for first time in 21 years | Cricket News",
+    "description": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
+    "excerpt": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/cz6vw6yvvdjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Bangladesh beat Australia in ODI for first time in 21 years",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Bangladesh beat Australia in ODI for first time in 21 years. Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur."
+      },
+      {
+        "type": "p",
+        "text": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-in-emergency-break-glass-england-seek-stability-in",
+    "title": "'In emergency, break glass' - England seek stability in Root | Cricket News",
+    "description": "BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain.",
+    "excerpt": "BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c6219nxw6llo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'In emergency, break glass' - England seek stability in Root",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'In emergency, break glass' - England seek stability in Root. BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain."
+      },
+      {
+        "type": "p",
+        "text": "BBC cricket correspondent Stephan Shemilt explains why England turned to Joe Root to replace Ben Stokes as interim Test captain."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-lawrence-hits-64-ball-ton-as-surrey-draw-with-hant",
+    "title": "Lawrence hits 64-ball ton as Surrey draw with Hants | Cricket News",
+    "description": "Hampshire dig deep to stave off the threat of defeat after Surrey's Dan Lawrence smashes another century in their County Championship match.",
+    "excerpt": "Hampshire dig deep to stave off the threat of defeat after Surrey's Dan Lawrence smashes another century in their County Championship match.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/ckg07lw4k8wo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Lawrence hits 64-ball ton as Surrey draw with Hants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Lawrence hits 64-ball ton as Surrey draw with Hants. Hampshire dig deep to stave off the threat of defeat after Surrey's Dan Lawrence smashes another century in their County Championship match."
+      },
+      {
+        "type": "p",
+        "text": "Hampshire dig deep to stave off the threat of defeat after Surrey's Dan Lawrence smashes another century in their County Championship match."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-sciver-brunt-finds-form-as-england-overcome-india",
+    "title": "Sciver-Brunt finds form as England overcome India | Cricket News",
+    "description": "Nat Sciver-Brunt spends valuable time in the middle as England beat India in their final warm-up match before the Women's T20 World Cup starts on Friday.",
+    "excerpt": "Nat Sciver-Brunt spends valuable time in the middle as England beat India in their final warm-up match before the Women's T20 World Cup starts on Friday.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c802ldd5dlgo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sciver-Brunt finds form as England overcome India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sciver-Brunt finds form as England overcome India. Nat Sciver-Brunt spends valuable time in the middle as England beat India in their final warm-up match before the Women's T20 World Cup starts on Friday."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-stokes-out-of-england-squad-root-named-captain",
+    "title": "Stokes out of England squad, Root named captain | Cricket News",
+    "description": "Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim cap",
+    "excerpt": "Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim cap",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Stokes out of England squad, Root named captain",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Stokes out of England squad, Root named captain. Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim captain."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-11-stokes-should-not-be-sacked-as-captain-vaughan",
+    "title": "Stokes should not be sacked as captain - Vaughan | Cricket News",
+    "description": "Ben Stokes’ involvement in an incident in a London nightclub should not cost him his job as England Test captain, according to Michael Vaughan.",
+    "excerpt": "Ben Stokes’ involvement in an incident in a London nightclub should not cost him his job as England Test captain, according to Michael Vaughan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c3vylndelp6o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Stokes should not be sacked as captain - Vaughan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Stokes should not be sacked as captain - Vaughan. Ben Stokes’ involvement in an incident in a London nightclub should not cost him his job as England Test captain, according to Michael Vaughan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ned-vs-can-2026-06-10",
+    "title": "Canada won by 2 wkts | 112th Match Cricket News",
+    "description": "Netherlands vs Canada result: Canada won by 2 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Canada won by 2 wkts — NED: 214/10 (47.6 ov) | CAN: 218/8 (49.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Netherlands vs Canada result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Netherlands vs Canada cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Netherlands vs Canada (112th Match, ODI) — Canada won by 2 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Netherlands",
+            "214/10 (47.6 ov)"
+          ],
+          [
+            "Canada",
+            "218/8 (49.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Canada won by 2 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Canada chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Shreyas Movva delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-aus-vs-ban-2026-06-11",
+    "title": "Australia vs Bangladesh Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "Australia vs Bangladesh preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Thu, 11 Jun, 2026, 10:30 am.",
+    "excerpt": "Australia vs Bangladesh — pitch: Slow, low bounce; spinners key in middle overs. Turn increases under lights.… Weather: Thunderstorm · High 34°C / Low 26°C · Rain: 4.6 mm · Wind: up to 13 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Australia vs Bangladesh",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Australia vs Bangladesh cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Australia face Bangladesh in 2nd ODI (ODI) on Thu, 11 Jun, 2026, 10:30 am at Shere Bangla National Stadium Dhaka. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Australia vs Bangladesh"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Bangladesh v Australia, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 11 Jun, 2026, 10:30 am"
+          ],
+          [
+            "Venue",
+            "Shere Bangla National Stadium Dhaka"
+          ],
+          [
+            "Status",
+            "Australia opt to bat"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow, low bounce; spinners key in middle overs. Turn increases under lights."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 230–260 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 34°C / Low 26°C · Rain: 4.6 mm · Wind: up to 13 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ngaw-vs-braw-2026-06-11",
+    "title": "Nigeria Women vs Brazil Women Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Nigeria Women vs Brazil Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 11 Jun, 2026, 1:00 pm.",
+    "excerpt": "Nigeria Women vs Brazil Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 26°C / Low 16°C · Rain: 0.9 mm · Wind: up to 9 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nigeria Women vs Brazil Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nigeria Women vs Brazil Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Nigeria Women face Brazil Women in 2nd Match (T20) on Thu, 11 Jun, 2026, 1:00 pm at Gahanga International Cricket Stadium Kigali City. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Nigeria Women vs Brazil Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Kwibuka Women's T20I Tournament"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 11 Jun, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Gahanga International Cricket Stadium Kigali City"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 11, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 26°C / Low 16°C · Rain: 0.9 mm · Wind: up to 9 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rwaw-vs-mwiw-2026-06-11",
+    "title": "Rwanda Women vs Malawi Women Preview — Pitch, Weather & Lineup | 3rd Match",
+    "description": "Rwanda Women vs Malawi Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 11 Jun, 2026, 1:15 pm.",
+    "excerpt": "Rwanda Women vs Malawi Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 27°C / Low 16°C · Rain: 0.7 mm · Wind: up to 9 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Rwanda Women vs Malawi Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Rwanda Women vs Malawi Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Rwanda Women face Malawi Women in 3rd Match (T20) on Thu, 11 Jun, 2026, 1:15 pm at Gahanga B Ground Kigali City. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Rwanda Women vs Malawi Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Kwibuka Women's T20I Tournament"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 11 Jun, 2026, 1:15 pm"
+          ],
+          [
+            "Venue",
+            "Gahanga B Ground Kigali City"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 11, 07:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 27°C / Low 16°C · Rain: 0.7 mm · Wind: up to 9 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-06-10",
     "title": "Cricket Daily Digest — Wednesday, 10 June 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
