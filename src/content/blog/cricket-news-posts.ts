@@ -3,6 +3,1048 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-06-13",
+    "title": "Cricket Daily Digest — Saturday, 13 June 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 13 June 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-06-13 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 13 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 13 Jun, 2026, 10:00 am",
+            "Afghanistan A vs Sri Lanka A",
+            "ODI",
+            "Dambulla",
+            "Tri Nation A Series in Sri Lanka  2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 1:30 pm",
+            "India vs Afghanistan",
+            "ODI",
+            "Dharamsala",
+            "Afghanistan tour of India 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 3:00 pm",
+            "Scotland Women vs Ireland Women",
+            "T20",
+            "Manchester",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 7:00 pm",
+            "Australia Women vs South Africa Women",
+            "T20",
+            "Manchester",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 11:00 pm",
+            "West Indies Women vs New Zealand Women",
+            "T20",
+            "Southampton",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 11:30 am",
+            "Thailand Women vs United Arab Emirates Women",
+            "T20",
+            "Kuala Lumpur",
+            "ACC Women's T20I Premier Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 9:30 am",
+            "Jabalpur Royal Lions vs Malwa Stallions",
+            "T20",
+            "Indore",
+            "MPPL 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 2:00 pm",
+            "Norway vs Finland",
+            "T20",
+            "Stockholm",
+            "Viking Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 2:30 pm",
+            "Bundelkhand Bulls vs Gwalior Cheetahs",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 3:00 pm",
+            "Ujjain Falcons vs Rewa Jaguars",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 6:00 pm",
+            "Sweden vs Austria",
+            "T20",
+            "Stockholm",
+            "Viking Cup 2026"
+          ],
+          [
+            "Sat, 13 Jun, 2026, 7:00 pm",
+            "ARCS Andheri vs MSC Maratha Royals",
+            "T20",
+            "Mumbai",
+            "T20 Mumbai 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Canada vs United States of America (113th Match, ODI): United States of America won by 5 wkts — CAN: 275/8 (49.6 ov) | USA: 276/5 (49.6 ov)",
+          "Australia vs Bangladesh (2nd ODI, ODI): Bangladesh won by 5 wkts (DLS Method) — AUS: 187/8 (41.6 ov) | BAN: 195/5 (34.6 ov)",
+          "India A vs Afghanistan A (2nd Match, ODI): Afghanistan A won by 4 runs (DLS method) — INDA: 349/9 (48.6 ov) | AFGA: 177/2 (25.5 ov)",
+          "Netherlands vs Canada (112th Match, ODI): Canada won by 2 wkts — NED: 214/10 (47.6 ov) | CAN: 218/8 (49.5 ov)",
+          "South Africa A vs England Lions (3rd unofficial ODI, ODI): England Lions won by 6 wkts (Match reduced to 47 overs due to rain) — RSAA: 146/10 (31.3 ov) | ENGA: 148/4 (28.1 ov)",
+          "Bangladesh vs Australia (1st ODI, ODI): Bangladesh won by 86 runs (DLS method) — BAN: 284/8 (49.6 ov) | AUS: 191/9 (42.2 ov)",
+          "India A vs Sri Lanka A (1st Match, ODI): India A won by 8 runs — INDA: 277/6 (49.6 ov) | SLA: 269/10 (48.5 ov)",
+          "West Indies vs Sri Lanka (3rd ODI, ODI): Match abandoned due to rain — WI: 275/8 (49.6 ov) | SL: 276/5 (49.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Wyatt-Hodge stars as England easily beat Sri Lanka in T20 World Cup — Danni Wyatt-Hodge hits an unbeaten century as England thrash Sri Lanka by 87 runs in the opening match of the ICC Women'",
+          "England win World Cup opener after Wyatt-Hodge ton — Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement vi",
+          "'What a moment' - Wyatt-Hodge gives England perfect start — Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide England to an 85-run win against Sri Lanka, and ",
+          "Hermann ton helps Somerset recover against Notts — A partnership of 122 between Jordan Hermann and Tom Rew steers a Somerset recovery of sorts from 47-3 against Nottingham",
+          "Cox ton puts Essex in charge against Leicestershire — Jordan Cox celebrates his call-up to the England squad with an unbeaten 184 as Essex overcome a rocky start to dominate ",
+          "17 T20 World Cup games, 17 losses - can Ireland break duck? — BBC Sport NI looks ahead to Ireland's T20 World Cup campaign in which they will try pick up a first win after 17 losses "
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun",
+          "NZ legend Williamson retires from international cricket",
+          "Afghan refugee team's future to be discussed by ICC",
+          "Test Match Special",
+          "Lancashire's Livingstone takes five wickets against Kent"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-afghan-refugee-team-s-future-to-be-discussed-by-ic",
+    "title": "Afghan refugee team's future to be discussed by ICC | Cricket News",
+    "description": "The future funding of the Afghanistan women's refugee team will be one of the topics discussed at the International Cricket Council's annual conference next mon",
+    "excerpt": "The future funding of the Afghanistan women's refugee team will be one of the topics discussed at the International Cricket Council's annual conference next mon",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c2kyxy418jqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Afghan refugee team's future to be discussed by ICC",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Afghan refugee team's future to be discussed by ICC. The future funding of the Afghanistan women's refugee team will be one of the topics discussed at the International Cricket Council's annual conference next month."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-england-win-world-cup-opener-after-wyatt-hodge-ton",
+    "title": "England win World Cup opener after Wyatt-Hodge ton | Cricket News",
+    "description": "Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement victory.",
+    "excerpt": "Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement victory.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/cx2jpz5nl7lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England win World Cup opener after Wyatt-Hodge ton",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England win World Cup opener after Wyatt-Hodge ton. Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement victory."
+      },
+      {
+        "type": "p",
+        "text": "Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement victory."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-mummy-hundred-gives-wyatt-hodge-her-deserved-day-i",
+    "title": "'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun | Cricket News",
+    "description": "Danni Wyatt-Hodge gives England's T20 World Cup campaign lift-off with a 'mummy hundred', writes Matthew Henry.",
+    "excerpt": "Danni Wyatt-Hodge gives England's T20 World Cup campaign lift-off with a 'mummy hundred', writes Matthew Henry.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c23yvjpv7kpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun. Danni Wyatt-Hodge gives England's T20 World Cup campaign lift-off with a 'mummy hundred', writes Matthew Henry."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-nz-legend-williamson-retires-from-international-cr",
+    "title": "NZ legend Williamson retires from international cricket | Cricket News",
+    "description": "Former New Zealand captain Kane Williamson - his country's all-time leading run-scorer - retires from all international cricket with immediate effect.",
+    "excerpt": "Former New Zealand captain Kane Williamson - his country's all-time leading run-scorer - retires from all international cricket with immediate effect.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c5yzg5gnpevo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: NZ legend Williamson retires from international cricket",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: NZ legend Williamson retires from international cricket. Former New Zealand captain Kane Williamson - his country's all-time leading run-scorer - retires from all international cricket with immediate effect."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-what-a-moment-wyatt-hodge-gives-england-perfect-st",
+    "title": "'What a moment' - Wyatt-Hodge gives England perfect start | Cricket News",
+    "description": "Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide England to an 85-run win against Sri Lanka, and give the hosts the perfect start to the ",
+    "excerpt": "Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide England to an 85-run win against Sri Lanka, and give the hosts the perfect start to the ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/videos/c3ey3g3p47ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'What a moment' - Wyatt-Hodge gives England perfect start",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'What a moment' - Wyatt-Hodge gives England perfect start. Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide England to an 85-run win against Sri Lanka, and give the hosts the perfect start to the ICC Women's T20 World Cup."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide England to an 85-run win against Sri Lanka, and give the hosts the perfect start to the ICC Women's T20 World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-13-wyatt-hodge-stars-as-england-easily-beat-sri-lanka",
+    "title": "Wyatt-Hodge stars as England easily beat Sri Lanka in T20 World Cup | Cricket News",
+    "description": "Danni Wyatt-Hodge hits an unbeaten century as England thrash Sri Lanka by 87 runs in the opening match of the ICC Women's T20 World Cup at Edgbaston.",
+    "excerpt": "Danni Wyatt-Hodge hits an unbeaten century as England thrash Sri Lanka by 87 runs in the opening match of the ICC Women's T20 World Cup at Edgbaston.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/videos/c9w2k87gld0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Wyatt-Hodge stars as England easily beat Sri Lanka in T20 World Cup",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Wyatt-Hodge stars as England easily beat Sri Lanka in T20 World Cup. Danni Wyatt-Hodge hits an unbeaten century as England thrash Sri Lanka by 87 runs in the opening match of the ICC Women's T20 World Cup at Edgbaston."
+      },
+      {
+        "type": "p",
+        "text": "Danni Wyatt-Hodge hits an unbeaten century as England thrash Sri Lanka by 87 runs in the opening match of the ICC Women's T20 World Cup at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-can-vs-usa-2026-06-12",
+    "title": "United States of America won by 5 wkts | 113th Match Cricket News",
+    "description": "Canada vs United States of America result: United States of America won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "United States of America won by 5 wkts — CAN: 275/8 (49.6 ov) | USA: 276/5 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Canada vs United States of America result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Canada vs United States of America cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Canada vs United States of America (113th Match, ODI) — United States of America won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Canada",
+            "275/8 (49.6 ov)"
+          ],
+          [
+            "United States of America",
+            "276/5 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: United States of America won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: United States of America chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Milind Kumar delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-afga-vs-sla-2026-06-13",
+    "title": "Afghanistan A vs Sri Lanka A Preview — Pitch, Weather & Lineup | 3rd Match",
+    "description": "Afghanistan A vs Sri Lanka A preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 13 Jun, 2026, 10:00 am.",
+    "excerpt": "Afghanistan A vs Sri Lanka A — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 29°C / Low 23°C · Rain: 2.2 mm · Wind: up to 32 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Afghanistan A vs Sri Lanka A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Afghanistan A vs Sri Lanka A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Afghanistan A face Sri Lanka A in 3rd Match (ODI) on Sat, 13 Jun, 2026, 10:00 am at Rangiri Dambulla International Stadium Dambulla. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Afghanistan A vs Sri Lanka A"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Tri Nation A Series in Sri Lanka  2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 13 Jun, 2026, 10:00 am"
+          ],
+          [
+            "Venue",
+            "Rangiri Dambulla International Stadium Dambulla"
+          ],
+          [
+            "Status",
+            "Sri Lanka A opt to bowl"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 29°C / Low 23°C · Rain: 2.2 mm · Wind: up to 32 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ausw-vs-rsaw-2026-06-13",
+    "title": "Australia Women vs South Africa Women Preview — Pitch, Weather & Lineup | 3rd Match, Group A",
+    "description": "Australia Women vs South Africa Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 13 Jun, 2026, 7:00 pm.",
+    "excerpt": "Australia Women vs South Africa Women — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Light drizzle · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 24 km/h. Light r…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Australia Women vs South Africa Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Australia Women vs South Africa Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Australia Women face South Africa Women in 3rd Match, Group A (T20) on Sat, 13 Jun, 2026, 7:00 pm at Emirates Old Trafford Manchester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Australia Women vs South Africa Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 13 Jun, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Emirates Old Trafford Manchester"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 13, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 24 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ind-vs-afg-2026-06-13",
+    "title": "India vs Afghanistan Preview — Pitch, Weather & Lineup | 1st ODI",
+    "description": "India vs Afghanistan preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 13 Jun, 2026, 1:30 pm.",
+    "excerpt": "India vs Afghanistan — pitch: Pace and bounce on offer; seamers enjoy early overs.… Weather: Variable conditions · High 22°C / Low 16°C · Rain: 13.6 mm · Wind: up to 15 km/h…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India vs Afghanistan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India vs Afghanistan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India face Afghanistan in 1st ODI (ODI) on Sat, 13 Jun, 2026, 1:30 pm at Himachal Pradesh Cricket Association Stadium Dharamsala. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India vs Afghanistan"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Afghanistan tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 13 Jun, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Himachal Pradesh Cricket Association Stadium Dharamsala"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 13, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce on offer; seamers enjoy early overs."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 165–180 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 22°C / Low 16°C · Rain: 13.6 mm · Wind: up to 15 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-scow-vs-irew-2026-06-13",
+    "title": "Scotland Women vs Ireland Women Preview — Pitch, Weather & Lineup | 2nd Match, Group A",
+    "description": "Scotland Women vs Ireland Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 13 Jun, 2026, 3:00 pm.",
+    "excerpt": "Scotland Women vs Ireland Women — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Light drizzle · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 24 km/h. Light r…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Scotland Women vs Ireland Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-13",
+    "updatedAt": "2026-06-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Scotland Women vs Ireland Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Scotland Women face Ireland Women in 2nd Match, Group A (T20) on Sat, 13 Jun, 2026, 3:00 pm at Emirates Old Trafford Manchester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Scotland Women vs Ireland Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 13 Jun, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Emirates Old Trafford Manchester"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 13, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 24 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-06-12",
     "title": "Cricket Daily Digest — Friday, 12 June 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 20+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
