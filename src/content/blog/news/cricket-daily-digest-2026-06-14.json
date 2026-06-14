@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-06-14",
+  "title": "Cricket Daily Digest — Sunday, 14 June 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 14 June 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-06-14",
+  "updatedAt": "2026-06-14",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-06-14 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Sunday, 14 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sun, 14 Jun, 2026, 10:30 am",
+          "Bangladesh vs Australia",
+          "ODI",
+          "Dhaka",
+          "Bangladesh v Australia, 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 8:30 pm",
+          "United States of America vs Netherlands",
+          "ODI",
+          "King City",
+          "ICC Cricket World Cup League Two 2023-27"
+        ],
+        [
+          "Mon, 15 Jun, 2026, 10:00 am",
+          "Sri Lanka A vs India A",
+          "ODI",
+          "Dambulla",
+          "Tri Nation A Series in Sri Lanka  2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 3:00 pm",
+          "Bangladesh Women vs Netherlands Women",
+          "T20",
+          "Birmingham",
+          "ICC Women's T20 World Cup 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 3:30 pm",
+          "Jersey Women vs Guernsey Women",
+          "T20",
+          "St Saviour",
+          "Guernsey Women tour of Jersey, 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 7:00 pm",
+          "India Women vs Pakistan Women",
+          "T20",
+          "Birmingham",
+          "ICC Women's T20 World Cup 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 7:30 pm",
+          "Jersey Women vs Guernsey Women",
+          "T20",
+          "St Saviour",
+          "Guernsey Women tour of Jersey, 2026"
+        ],
+        [
+          "Mon, 15 Jun, 2026, 6:00 am",
+          "West Indies vs Sri Lanka",
+          "T20",
+          "Kingston, Jamaica",
+          "Sri Lanka tour of West Indies 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 1:15 pm",
+          "Rwanda Women vs Brazil Women",
+          "T20",
+          "Kigali City",
+          "Kwibuka Women's T20I Tournament, 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 5:00 pm",
+          "Malawi Women vs Nigeria Women",
+          "T20",
+          "Kigali City",
+          "Kwibuka Women's T20I Tournament, 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 7:00 pm",
+          "Leicestershire Women vs Kent Women",
+          "T20",
+          "Kibworth",
+          "Womens T20 Blast League Two 2026"
+        ],
+        [
+          "Sun, 14 Jun, 2026, 7:00 pm",
+          "Worcestershire Women vs Middlesex Women",
+          "T20",
+          "Bromsgrove",
+          "Womens T20 Blast League Two 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Afghanistan vs India (1st ODI, ODI): India won by 7 wkts  -  25 overs game due to rain — AFG: 194/10 (24.5 ov) | IND: 195/3 (22.5 ov)",
+        "Afghanistan A vs Sri Lanka A (3rd Match, ODI): Sri Lanka A won by 8 wkts (2nd innings reduced to 41 overs due to rain, DLS target 231) — AFGA: 245/10 (49.4 ov) | SLA: 231/2 (28.1 ov)",
+        "Canada vs United States of America (113th Match, ODI): United States of America won by 5 wkts — CAN: 275/8 (49.6 ov) | USA: 276/5 (49.6 ov)",
+        "Australia vs Bangladesh (2nd ODI, ODI): Bangladesh won by 5 wkts (DLS Method) — AUS: 187/8 (41.6 ov) | BAN: 195/5 (34.6 ov)",
+        "India A vs Afghanistan A (2nd Match, ODI): Afghanistan A won by 4 runs (DLS method) — INDA: 349/9 (48.6 ov) | AFGA: 177/2 (25.5 ov)",
+        "Netherlands vs Canada (112th Match, ODI): Canada won by 2 wkts — NED: 214/10 (47.6 ov) | CAN: 218/8 (49.5 ov)",
+        "South Africa A vs England Lions (3rd unofficial ODI, ODI): England Lions won by 6 wkts (Match reduced to 47 overs due to rain) — RSAA: 146/10 (31.3 ov) | ENGA: 148/4 (28.1 ov)",
+        "Bangladesh vs Australia (1st ODI, ODI): Bangladesh won by 86 runs (DLS method) — BAN: 284/8 (49.6 ov) | AUS: 191/9 (42.2 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "West Indies beat holders New Zealand in thriller — Shemaine Campbelle finishes unbeaten on 90 as West Indies edge past defending champions New Zealand with a ball to spare",
+        "Campbelle stars as West Indies beat New Zealand with a ball to spare — Shemaine Campbelle finishes unbeaten on 90 as West Indies chase down 163 to beat defending champions New Zealand by seve",
+        "Campbelle in tears as West Indies seal famous win against New Zealand — Watch the moment West Indies seal victory in an frenetic run chase against defending champions New Zealand, as they reac",
+        "New Zealand call up Young after Williamson retirement — Will Young will replace New Zealand's record run-scorer Kane Williamson in the squad for the remaining two Tests in Engl",
+        "England win World Cup opener after Wyatt-Hodge ton — Danni Wyatt-Hodge lights up the opening night of the T20 World Cup with 105 not out as England begin with a statement vi",
+        "Yorkshire's Luxton hits century against Warwicks — Will Luxton scores 167 as Yorkshire finish on 386-6 against Warwickshire on day one of their County Championship match a"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Australia begin World Cup with win over South Africa",
+        "Uncapped Crocombe added to England Test squad",
+        "West Indies v Sri Lanka - second T20 scorecard",
+        "Coles career-best as Sussex punish Glamorgan",
+        "Elwiss stars for Women's One-Day Cup leaders Blaze"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
