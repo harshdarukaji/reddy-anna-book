@@ -1,0 +1,142 @@
+{
+  "slug": "cricket-daily-digest-2026-06-15",
+  "title": "Cricket Daily Digest — Monday, 15 June 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 4+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 15 June 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-06-15",
+  "updatedAt": "2026-06-15",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-06-15 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Monday, 15 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Mon, 15 Jun, 2026, 1:15 pm",
+          "Brazil Women vs Nigeria Women",
+          "T20",
+          "Kigali City",
+          "Kwibuka Women's T20I Tournament, 2026"
+        ],
+        [
+          "Mon, 15 Jun, 2026, 5:00 pm",
+          "Rwanda Women vs Malawi Women",
+          "T20",
+          "Kigali City",
+          "Kwibuka Women's T20I Tournament, 2026"
+        ],
+        [
+          "Mon, 15 Jun, 2026, 3:00 pm",
+          "Rewa Jaguars vs Gwalior Cheetahs",
+          "T20",
+          "Indore",
+          "Madhya Pradesh Premier League 2026"
+        ],
+        [
+          "Mon, 15 Jun, 2026, 7:30 pm",
+          "Jabalpur Royal Lions vs Bhopal Leopards",
+          "T20",
+          "Indore",
+          "Madhya Pradesh Premier League 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "United States of America vs Netherlands (114th Match, ODI): Match abandoned due to rain (no toss) — USA: 275/8 (49.6 ov) | NED: 276/5 (49.6 ov)",
+        "Bangladesh vs Australia (3rd ODI, ODI): Australia won by 1 wkt — BAN: 274/5 (49.6 ov) | AUS: 277/9 (49.3 ov)",
+        "Afghanistan vs India (1st ODI, ODI): India won by 7 wkts  -  25 overs game due to rain — AFG: 194/10 (24.5 ov) | IND: 195/3 (22.5 ov)",
+        "Afghanistan A vs Sri Lanka A (3rd Match, ODI): Sri Lanka A won by 8 wkts (2nd innings reduced to 41 overs due to rain, DLS target 231) — AFGA: 245/10 (49.4 ov) | SLA: 231/2 (28.1 ov)",
+        "Canada vs United States of America (113th Match, ODI): United States of America won by 5 wkts — CAN: 275/8 (49.6 ov) | USA: 276/5 (49.6 ov)",
+        "Glamorgan vs Sussex (34th Match, TEST): Sussex won by an innings and 98 runs — GLAM: 155/10 (51.2 ov) & 268/10 (99.3 ov) | SUS: 521/10 (125.1 ov)",
+        "Durham vs Derbyshire (28th Match, TEST): Durham won by an innings and 22 runs — DUR: 377/10 (120.1 ov) | DERBY: 118/10 (29.4 ov) & 237/10 (95.3 ov)",
+        "Kent vs Lancashire (26th Match, TEST): Kent won by 140 runs — KENT: 178/10 (68.6 ov) & 332/10 (83.5 ov) | LANCS: 87/10 (31.6 ov) & 283/10 (81.5 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sussex go top after beating Glamorgan — James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the C",
+        "Thomas Rew hits maiden ton for dominant Somerset at Notts — Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire.",
+        "Potts takes eight wickets as Durham beat Derbyshire — Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105.",
+        "West Indies beat holders New Zealand in thriller — Shemaine Campbelle finishes unbeaten on 90 as West Indies edge past defending champions New Zealand with a ball to spare",
+        "India thrash Pakistan to open T20 World Cup with win — Smriti Mandhana's 68-run knock and Deepti Sharma's five-wicket haul helped India secure an impressive 64-run win over Pa",
+        "Campbelle stars as West Indies beat New Zealand with a ball to spare — Shemaine Campbelle finishes unbeaten on 90 as West Indies chase down 163 to beat defending champions New Zealand by seve"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "England bowler Robinson ruled out of second Test",
+        "Mandhana and Deepti star as India beat Pakistan",
+        "West Indies v Sri Lanka - third T20 scorecard",
+        "'Outstanding' Deepti takes five wickets in win over Pakistan",
+        "Patil takes diving grab as Pakistan collapse"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

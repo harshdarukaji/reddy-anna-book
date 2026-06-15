@@ -3,6 +3,1075 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-06-15",
+    "title": "Cricket Daily Digest — Monday, 15 June 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 4+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 15 June 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-06-15 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 15 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 15 Jun, 2026, 1:15 pm",
+            "Brazil Women vs Nigeria Women",
+            "T20",
+            "Kigali City",
+            "Kwibuka Women's T20I Tournament, 2026"
+          ],
+          [
+            "Mon, 15 Jun, 2026, 5:00 pm",
+            "Rwanda Women vs Malawi Women",
+            "T20",
+            "Kigali City",
+            "Kwibuka Women's T20I Tournament, 2026"
+          ],
+          [
+            "Mon, 15 Jun, 2026, 3:00 pm",
+            "Rewa Jaguars vs Gwalior Cheetahs",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Mon, 15 Jun, 2026, 7:30 pm",
+            "Jabalpur Royal Lions vs Bhopal Leopards",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "United States of America vs Netherlands (114th Match, ODI): Match abandoned due to rain (no toss) — USA: 275/8 (49.6 ov) | NED: 276/5 (49.6 ov)",
+          "Bangladesh vs Australia (3rd ODI, ODI): Australia won by 1 wkt — BAN: 274/5 (49.6 ov) | AUS: 277/9 (49.3 ov)",
+          "Afghanistan vs India (1st ODI, ODI): India won by 7 wkts  -  25 overs game due to rain — AFG: 194/10 (24.5 ov) | IND: 195/3 (22.5 ov)",
+          "Afghanistan A vs Sri Lanka A (3rd Match, ODI): Sri Lanka A won by 8 wkts (2nd innings reduced to 41 overs due to rain, DLS target 231) — AFGA: 245/10 (49.4 ov) | SLA: 231/2 (28.1 ov)",
+          "Canada vs United States of America (113th Match, ODI): United States of America won by 5 wkts — CAN: 275/8 (49.6 ov) | USA: 276/5 (49.6 ov)",
+          "Glamorgan vs Sussex (34th Match, TEST): Sussex won by an innings and 98 runs — GLAM: 155/10 (51.2 ov) & 268/10 (99.3 ov) | SUS: 521/10 (125.1 ov)",
+          "Durham vs Derbyshire (28th Match, TEST): Durham won by an innings and 22 runs — DUR: 377/10 (120.1 ov) | DERBY: 118/10 (29.4 ov) & 237/10 (95.3 ov)",
+          "Kent vs Lancashire (26th Match, TEST): Kent won by 140 runs — KENT: 178/10 (68.6 ov) & 332/10 (83.5 ov) | LANCS: 87/10 (31.6 ov) & 283/10 (81.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sussex go top after beating Glamorgan — James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the C",
+          "Thomas Rew hits maiden ton for dominant Somerset at Notts — Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire.",
+          "Potts takes eight wickets as Durham beat Derbyshire — Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105.",
+          "West Indies beat holders New Zealand in thriller — Shemaine Campbelle finishes unbeaten on 90 as West Indies edge past defending champions New Zealand with a ball to spare",
+          "India thrash Pakistan to open T20 World Cup with win — Smriti Mandhana's 68-run knock and Deepti Sharma's five-wicket haul helped India secure an impressive 64-run win over Pa",
+          "Campbelle stars as West Indies beat New Zealand with a ball to spare — Shemaine Campbelle finishes unbeaten on 90 as West Indies chase down 163 to beat defending champions New Zealand by seve"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England bowler Robinson ruled out of second Test",
+          "Mandhana and Deepti star as India beat Pakistan",
+          "West Indies v Sri Lanka - third T20 scorecard",
+          "'Outstanding' Deepti takes five wickets in win over Pakistan",
+          "Patil takes diving grab as Pakistan collapse"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-england-bowler-robinson-ruled-out-of-second-test",
+    "title": "England bowler Robinson ruled out of second Test | Cricket News",
+    "description": "England bowler Ollie Robinson becomes the latest player ruled out of the second Test against New Zealand after suffering soreness in his right knee.",
+    "excerpt": "England bowler Ollie Robinson becomes the latest player ruled out of the second Test against New Zealand after suffering soreness in his right knee.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/crr8dlwvygno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England bowler Robinson ruled out of second Test",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England bowler Robinson ruled out of second Test. England bowler Ollie Robinson becomes the latest player ruled out of the second Test against New Zealand after suffering soreness in his right knee."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-mandhana-and-deepti-star-as-india-beat-pakistan",
+    "title": "Mandhana and Deepti star as India beat Pakistan | Cricket News",
+    "description": "Smriti Mandhana hits 68 as India open their T20 World Cup with a 64-run win over arch-rivals Pakistan in Group One.",
+    "excerpt": "Smriti Mandhana hits 68 as India open their T20 World Cup with a 64-run win over arch-rivals Pakistan in Group One.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/ce8jy547mx5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Mandhana and Deepti star as India beat Pakistan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Mandhana and Deepti star as India beat Pakistan. Smriti Mandhana hits 68 as India open their T20 World Cup with a 64-run win over arch-rivals Pakistan in Group One."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-potts-takes-eight-wickets-as-durham-beat-derbyshir",
+    "title": "Potts takes eight wickets as Durham beat Derbyshire | Cricket News",
+    "description": "Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105.",
+    "excerpt": "Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/cx2xp98640xo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Potts takes eight wickets as Durham beat Derbyshire",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Potts takes eight wickets as Durham beat Derbyshire. Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105."
+      },
+      {
+        "type": "p",
+        "text": "Matthew Potts takes 8-66 as Durham beat Derbyshire by an innings and 22 runs, despite Harry Came's unbeaten 105."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-sussex-go-top-after-beating-glamorgan",
+    "title": "Sussex go top after beating Glamorgan | Cricket News",
+    "description": "James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the County Championship.",
+    "excerpt": "James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the County Championship.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c3vyp3pn5p5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sussex go top after beating Glamorgan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sussex go top after beating Glamorgan. James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the County Championship."
+      },
+      {
+        "type": "p",
+        "text": "James Coles follows up his double century with three wickets as Sussex beat Glamorgan by an innings and 98 runs in the County Championship."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-thomas-rew-hits-maiden-ton-for-dominant-somerset-a",
+    "title": "Thomas Rew hits maiden ton for dominant Somerset at Notts | Cricket News",
+    "description": "Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire.",
+    "excerpt": "Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/c0lyz6z0gl6o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Thomas Rew hits maiden ton for dominant Somerset at Notts",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Thomas Rew hits maiden ton for dominant Somerset at Notts. Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire."
+      },
+      {
+        "type": "p",
+        "text": "Thomas Rew hits 127 not out in just his third first-class match as Somerset close in on victory over Nottinghamshire."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-15-west-indies-v-sri-lanka-third-t20-scorecard",
+    "title": "West Indies v Sri Lanka - third T20 scorecard | Cricket News",
+    "description": "Latest scorecard from the third Twenty20 international between West Indies and Sri Lanka in Jamaica.",
+    "excerpt": "Latest scorecard from the third Twenty20 international between West Indies and Sri Lanka in Jamaica.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-239515?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: West Indies v Sri Lanka - third T20 scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: West Indies v Sri Lanka - third T20 scorecard. Latest scorecard from the third Twenty20 international between West Indies and Sri Lanka in Jamaica."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ban-vs-aus-2026-06-14",
+    "title": "Australia won by 1 wkt | 3rd ODI Cricket News",
+    "description": "Bangladesh vs Australia result: Australia won by 1 wkt. Scores, player of the match, and pitch report.",
+    "excerpt": "Australia won by 1 wkt — BAN: 274/5 (49.6 ov) | AUS: 277/9 (49.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh vs Australia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh vs Australia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh vs Australia (3rd ODI, ODI) — Australia won by 1 wkt. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh",
+            "274/5 (49.6 ov)"
+          ],
+          [
+            "Australia",
+            "277/9 (49.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Australia won by 1 wkt."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Bangladesh chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Cooper Connolly delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Slow, low bounce; spinners key in middle overs. Turn increases under lights."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-usa-vs-ned-2026-06-14",
+    "title": "Match abandoned due to rain (no toss) | 114th Match Cricket News",
+    "description": "United States of America vs Netherlands result: Match abandoned due to rain (no toss). Scores, player of the match, and pitch report.",
+    "excerpt": "Match abandoned due to rain (no toss) — USA: 275/8 (49.6 ov) | NED: 276/5 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United States of America vs Netherlands result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United States of America vs Netherlands cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: United States of America vs Netherlands (114th Match, ODI) — Match abandoned due to rain (no toss). Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "United States of America",
+            "275/8 (49.6 ov)"
+          ],
+          [
+            "Netherlands",
+            "276/5 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Match abandoned due to rain (no toss)."
+      },
+      {
+        "type": "p",
+        "text": "Toss:  chose ."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-braw-vs-ngaw-2026-06-15",
+    "title": "Brazil Women vs Nigeria Women Preview — Pitch, Weather & Lineup | 8th Match",
+    "description": "Brazil Women vs Nigeria Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 15 Jun, 2026, 1:15 pm.",
+    "excerpt": "Brazil Women vs Nigeria Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 26°C / Low 15°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Brazil Women vs Nigeria Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Brazil Women vs Nigeria Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Brazil Women face Nigeria Women in 8th Match (T20) on Mon, 15 Jun, 2026, 1:15 pm at Gahanga B Ground Kigali City. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Brazil Women vs Nigeria Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Kwibuka Women's T20I Tournament, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 15 Jun, 2026, 1:15 pm"
+          ],
+          [
+            "Venue",
+            "Gahanga B Ground Kigali City"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 15, 07:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 15°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-jrl-vs-bl-2026-06-15",
+    "title": "Jabalpur Royal Lions vs Bhopal Leopards Preview — Pitch, Weather & Lineup | 29th Match",
+    "description": "Jabalpur Royal Lions vs Bhopal Leopards preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 15 Jun, 2026, 7:30 pm.",
+    "excerpt": "Jabalpur Royal Lions vs Bhopal Leopards — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 36°C / Low 26°C · Rain: 0.5 mm · Wind: up to 18 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Jabalpur Royal Lions vs Bhopal Leopards",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Jabalpur Royal Lions vs Bhopal Leopards cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Jabalpur Royal Lions face Bhopal Leopards in 29th Match (T20) on Mon, 15 Jun, 2026, 7:30 pm at Holkar Stadium Indore. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Jabalpur Royal Lions vs Bhopal Leopards"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 15 Jun, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "Holkar Stadium Indore"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 15, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 36°C / Low 26°C · Rain: 0.5 mm · Wind: up to 18 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rj-vs-gc-2026-06-15",
+    "title": "Rewa Jaguars vs Gwalior Cheetahs Preview — Pitch, Weather & Lineup | 28th Match",
+    "description": "Rewa Jaguars vs Gwalior Cheetahs preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 15 Jun, 2026, 3:00 pm.",
+    "excerpt": "Rewa Jaguars vs Gwalior Cheetahs — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 36°C / Low 26°C · Rain: 0.5 mm · Wind: up to 18 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Rewa Jaguars vs Gwalior Cheetahs",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Rewa Jaguars vs Gwalior Cheetahs cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Rewa Jaguars face Gwalior Cheetahs in 28th Match (T20) on Mon, 15 Jun, 2026, 3:00 pm at Holkar Stadium Indore. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Rewa Jaguars vs Gwalior Cheetahs"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 15 Jun, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Holkar Stadium Indore"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 15, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 36°C / Low 26°C · Rain: 0.5 mm · Wind: up to 18 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rwaw-vs-mwiw-2026-06-15",
+    "title": "Rwanda Women vs Malawi Women Preview — Pitch, Weather & Lineup | 9th Match",
+    "description": "Rwanda Women vs Malawi Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 15 Jun, 2026, 5:00 pm.",
+    "excerpt": "Rwanda Women vs Malawi Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 25°C / Low 15°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Rwanda Women vs Malawi Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Rwanda Women vs Malawi Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Rwanda Women face Malawi Women in 9th Match (T20) on Mon, 15 Jun, 2026, 5:00 pm at Gahanga International Cricket Stadium Kigali City. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Rwanda Women vs Malawi Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Kwibuka Women's T20I Tournament, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 15 Jun, 2026, 5:00 pm"
+          ],
+          [
+            "Venue",
+            "Gahanga International Cricket Stadium Kigali City"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 15, 11:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 25°C / Low 15°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-06-14",
     "title": "Cricket Daily Digest — Sunday, 14 June 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
