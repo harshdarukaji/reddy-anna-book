@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-inda-vs-afga-2026-06-17",
+  "title": "India A won by 101 runs | 5th Match Cricket News",
+  "description": "India A vs Afghanistan A result: India A won by 101 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "India A won by 101 runs — INDA: 319/9 (49.6 ov) | AFGA: 218/10 (36.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "India A vs Afghanistan A result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-06-18",
+  "updatedAt": "2026-06-18",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "India A vs Afghanistan A cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: India A vs Afghanistan A (5th Match, ODI) — India A won by 101 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "India A",
+          "319/9 (49.6 ov)"
+        ],
+        [
+          "Afghanistan A",
+          "218/10 (36.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: India A won by 101 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Afghanistan A chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Nishant Sindhu delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
