@@ -3,6 +3,955 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-06-19",
+    "title": "Cricket Daily Digest — Friday, 19 June 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 25+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 19 June 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-06-19 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 19 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Essex vs Nottinghamshire",
+            "TEST",
+            "Chelmsford",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Leicestershire vs Yorkshire",
+            "TEST",
+            "Leicester",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Glamorgan vs Surrey",
+            "TEST",
+            "Cardiff",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Sussex vs Hampshire",
+            "TEST",
+            "Hove",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Somerset vs Warwickshire",
+            "TEST",
+            "Taunton",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Kent vs Middlesex",
+            "TEST",
+            "Canterbury",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Derbyshire vs Lancashire",
+            "TEST",
+            "Chesterfield",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Worcestershire vs Gloucestershire",
+            "TEST",
+            "Worcester",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 3:30 pm",
+            "Durham vs Northamptonshire",
+            "TEST",
+            "Chester-le-Street",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 1:00 pm",
+            "Cyprus Women vs Malta Women",
+            "T20",
+            "Episkopi",
+            "Malta Women tour of Cyprus, 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 1:30 pm",
+            "Bangladesh vs Australia",
+            "T20",
+            "Chattogram",
+            "Australia tour of Bangladesh, 2026"
+          ],
+          [
+            "Fri, 19 Jun, 2026, 2:00 pm",
+            "Denmark vs Germany",
+            "T20",
+            "Brondby",
+            "Germany tour of Denmark, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "India vs Afghanistan (2nd ODI, ODI): India won by 170 runs — IND: 402/10 (49.5 ov) | AFG: 232/10 (44.3 ov)",
+          "India A vs Afghanistan A (5th Match, ODI): India A won by 101 runs — INDA: 319/9 (49.6 ov) | AFGA: 218/10 (36.5 ov)",
+          "Netherlands vs Canada (115th Match, ODI): No result (due to dangerous pitch) — NED: 15/1 (4.1 ov)",
+          "India A vs Sri Lanka A (4th Match, ODI): Match tied (Sri Lanka A won the Super Over)  — INDA: 265/10 (49.2 ov) | SLA: 265/9 (49.6 ov)",
+          "United States of America vs Netherlands (114th Match, ODI): Match abandoned due to rain (no toss) — USA: 275/8 (49.6 ov) | NED: 276/5 (49.6 ov)",
+          "Bangladesh vs Australia (3rd ODI, ODI): Australia won by 1 wkt — BAN: 274/5 (49.6 ov) | AUS: 277/9 (49.3 ov)",
+          "Afghanistan vs India (1st ODI, ODI): India won by 7 wkts  -  25 overs game due to rain — AFG: 194/10 (24.5 ov) | IND: 195/3 (22.5 ov)",
+          "Afghanistan A vs Sri Lanka A (3rd Match, ODI): Sri Lanka A won by 8 wkts (2nd innings reduced to 41 overs due to rain, DLS target 231) — AFGA: 245/10 (49.4 ov) | SLA: 231/2 (28.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Dean left out of England squad for Lord's Test — Uncapped pair Ellie Threlkeld are Grace Potts are picked in England's squad for the historic first women's Test at Lord'",
+          "Milestone, then misery - Gay reaches 50 and then gives wicket away — England opener Emilio Gay makes a patient 53 in the second Test against New Zealand at The Oval, but after reaching the ",
+          "'He's led New Zealand's charge' - Phillips scores first Test hundred — New Zealand's Glenn Phillips scores his first Test century against England at The Oval, to help his side reach 391 on th",
+          "One-Day Cup: Hants pair share record 246 & Blaze lose — Hampshire's Maia Bouchier and Ella McCaughan share a record stand of 246 in the One-Day Cup, while Somerset, Yorkshire a",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stokes could return as captain for third Test against NZ",
+          "Scotland fall short of famous win over Windies",
+          "England in trouble after dreadful day against NZ",
+          "Lord Botham criticises Stokes for breaking curfew",
+          "Dropped England captain Stokes to play for Durham"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-dean-left-out-of-england-squad-for-lord-s-test",
+    "title": "Dean left out of England squad for Lord's Test | Cricket News",
+    "description": "Uncapped pair Ellie Threlkeld are Grace Potts are picked in England's squad for the historic first women's Test at Lord's against India but Charlie Dean is left",
+    "excerpt": "Uncapped pair Ellie Threlkeld are Grace Potts are picked in England's squad for the historic first women's Test at Lord's against India but Charlie Dean is left",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/crkv20rlrn2o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Dean left out of England squad for Lord's Test",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Dean left out of England squad for Lord's Test. Uncapped pair Ellie Threlkeld are Grace Potts are picked in England's squad for the historic first women's Test at Lord's against India but Charlie Dean is left out."
+      },
+      {
+        "type": "p",
+        "text": "Uncapped pair Ellie Threlkeld are Grace Potts are picked in England's squad for the historic first women's Test at Lord's against India but Charlie Dean is left out."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-england-in-trouble-after-dreadful-day-against-nz",
+    "title": "England in trouble after dreadful day against NZ | Cricket News",
+    "description": "England are in a dire position against New Zealand after spiralling from a chaotic morning on day two of the second Test at The Oval.",
+    "excerpt": "England are in a dire position against New Zealand after spiralling from a chaotic morning on day two of the second Test at The Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/cgrk52lk1j7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England in trouble after dreadful day against NZ",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England in trouble after dreadful day against NZ. England are in a dire position against New Zealand after spiralling from a chaotic morning on day two of the second Test at The Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-he-s-led-new-zealand-s-charge-phillips-scores-firs",
+    "title": "'He's led New Zealand's charge' - Phillips scores first Test hundred | Cricket News",
+    "description": "New Zealand's Glenn Phillips scores his first Test century against England at The Oval, to help his side reach 391 on the second day of the second Test.",
+    "excerpt": "New Zealand's Glenn Phillips scores his first Test century against England at The Oval, to help his side reach 391 on the second day of the second Test.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/videos/ce8k0n7d10no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'He's led New Zealand's charge' - Phillips scores first Test hundred",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'He's led New Zealand's charge' - Phillips scores first Test hundred. New Zealand's Glenn Phillips scores his first Test century against England at The Oval, to help his side reach 391 on the second day of the second Test."
+      },
+      {
+        "type": "p",
+        "text": "New Zealand's Glenn Phillips scores his first Test century against England at The Oval, to help his side reach 391 on the second day of the second Test."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-milestone-then-misery-gay-reaches-50-and-then-give",
+    "title": "Milestone, then misery - Gay reaches 50 and then gives wicket away | Cricket News",
+    "description": "England opener Emilio Gay makes a patient 53 in the second Test against New Zealand at The Oval, but after reaching the milestone, he's then caught in bizarre c",
+    "excerpt": "England opener Emilio Gay makes a patient 53 in the second Test against New Zealand at The Oval, but after reaching the milestone, he's then caught in bizarre c",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/videos/cx23jpdjp3xo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Milestone, then misery - Gay reaches 50 and then gives wicket away",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Milestone, then misery - Gay reaches 50 and then gives wicket away. England opener Emilio Gay makes a patient 53 in the second Test against New Zealand at The Oval, but after reaching the milestone, he's then caught in bizarre circumstances in the very next ball as En"
+      },
+      {
+        "type": "p",
+        "text": "England opener Emilio Gay makes a patient 53 in the second Test against New Zealand at The Oval, but after reaching the milestone, he's then caught in bizarre circumstances in the very next ball as England fall 142-3 in their first innings."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-scotland-fall-short-of-famous-win-over-windies",
+    "title": "Scotland fall short of famous win over Windies | Cricket News",
+    "description": "Scotland come up agonisingly short of a famous victory at the T20 World Cup as West Indies somehow come through to win a tumultuous game at Headingley.",
+    "excerpt": "Scotland come up agonisingly short of a famous victory at the T20 World Cup as West Indies somehow come through to win a tumultuous game at Headingley.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/cly738qd150o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Scotland fall short of famous win over Windies",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Scotland fall short of famous win over Windies. Scotland come up agonisingly short of a famous victory at the T20 World Cup as West Indies somehow come through to win a tumultuous game at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-19-stokes-could-return-as-captain-for-third-test-agai",
+    "title": "Stokes could return as captain for third Test against NZ | Cricket News",
+    "description": "Ben Stokes could return as England captain as early as next week for the third Test against New Zealand at Trent Bridge.",
+    "excerpt": "Ben Stokes could return as England captain as early as next week for the third Test against New Zealand at Trent Bridge.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.com/sport/cricket/articles/clyeggrj8ddo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Stokes could return as captain for third Test against NZ",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Stokes could return as captain for third Test against NZ. Ben Stokes could return as England captain as early as next week for the third Test against New Zealand at Trent Bridge."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ess-vs-notts-2026-06-19",
+    "title": "Essex vs Nottinghamshire Preview — Pitch, Weather & Lineup | 36th Match",
+    "description": "Essex vs Nottinghamshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Fri, 19 Jun, 2026, 3:30 pm.",
+    "excerpt": "Essex vs Nottinghamshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 30°C / Low 17°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Nottinghamshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Nottinghamshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Essex face Nottinghamshire in 36th Match (TEST) on Fri, 19 Jun, 2026, 3:30 pm at County Ground Chelmsford. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Essex vs Nottinghamshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 19 Jun, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Chelmsford"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 19, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 30°C / Low 17°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-glam-vs-sur-2026-06-19",
+    "title": "Glamorgan vs Surrey Preview — Pitch, Weather & Lineup | 38th Match",
+    "description": "Glamorgan vs Surrey preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Fri, 19 Jun, 2026, 3:30 pm.",
+    "excerpt": "Glamorgan vs Surrey — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Light drizzle · High 23°C / Low 16°C · Rain: 0.2 mm · Wind: up to 19 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Surrey",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Surrey cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Glamorgan face Surrey in 38th Match (TEST) on Fri, 19 Jun, 2026, 3:30 pm at Sophia Gardens Cardiff. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Glamorgan vs Surrey"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 19 Jun, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Sophia Gardens Cardiff"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 19, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 23°C / Low 16°C · Rain: 0.2 mm · Wind: up to 19 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-leic-vs-yorks-2026-06-19",
+    "title": "Leicestershire vs Yorkshire Preview — Pitch, Weather & Lineup | 37th Match",
+    "description": "Leicestershire vs Yorkshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Fri, 19 Jun, 2026, 3:30 pm.",
+    "excerpt": "Leicestershire vs Yorkshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Leicestershire vs Yorkshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Leicestershire vs Yorkshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Leicestershire face Yorkshire in 37th Match (TEST) on Fri, 19 Jun, 2026, 3:30 pm at Grace Road Leicester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Leicestershire vs Yorkshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 19 Jun, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Grace Road Leicester"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 19, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sus-vs-ham-2026-06-19",
+    "title": "Sussex vs Hampshire Preview — Pitch, Weather & Lineup | 39th Match",
+    "description": "Sussex vs Hampshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Fri, 19 Jun, 2026, 3:30 pm.",
+    "excerpt": "Sussex vs Hampshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 22°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sussex vs Hampshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-19",
+    "updatedAt": "2026-06-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sussex vs Hampshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sussex face Hampshire in 39th Match (TEST) on Fri, 19 Jun, 2026, 3:30 pm at County Ground Hove. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sussex vs Hampshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 19 Jun, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Hove"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 19, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 22°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-06-18",
     "title": "Cricket Daily Digest — Thursday, 18 June 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 11+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
