@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-afg-vs-ind-2026-06-20",
+  "title": "India won by 9 wkts | 3rd ODI Cricket News",
+  "description": "Afghanistan vs India result: India won by 9 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "India won by 9 wkts — AFG: 218/10 (44.2 ov) | IND: 224/1 (28.4 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Afghanistan vs India result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-06-21",
+  "updatedAt": "2026-06-21",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Afghanistan vs India cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Afghanistan vs India (3rd ODI, ODI) — India won by 9 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Afghanistan",
+          "218/10 (44.2 ov)"
+        ],
+        [
+          "India",
+          "224/1 (28.4 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: India won by 9 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Afghanistan chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Prasidh Krishna delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Traditional spin-friendly track; low-scoring Tests, balanced in limited overs."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
