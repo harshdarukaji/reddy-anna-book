@@ -3,6 +3,1039 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-06-25",
+    "title": "Cricket Daily Digest — Thursday, 25 June 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 15+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 25 June 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-06-25 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 25 June 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 25 Jun, 2026, 10:00 am",
+            "India A vs Sri Lanka A",
+            "TEST",
+            "Galle",
+            "India A tour of Sri Lanka 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 3:30 pm",
+            "England vs New Zealand",
+            "TEST",
+            "Nottingham",
+            "New Zealand tour of England, 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 7:30 pm",
+            "West Indies vs Sri Lanka",
+            "TEST",
+            "North Sound, Antigua",
+            "Sri Lanka tour of West Indies 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 7:00 pm",
+            "India Women vs Bangladesh Women",
+            "T20",
+            "Manchester",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 7:00 pm",
+            "Bermuda vs Panama",
+            "T20",
+            "Hamilton",
+            "ICC Mens T20 World Cup Americas Sub Regi"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 11:00 pm",
+            "South Africa Women vs Netherlands Women",
+            "T20",
+            "Bristol",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 11:00 pm",
+            "England A Women vs India A Women",
+            "T20",
+            "Chelmsford",
+            "India A Women tour of England 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 11:30 pm",
+            "Bahamas vs Brazil",
+            "T20",
+            "Hamilton",
+            "ICC Mens T20 World Cup Americas Sub Regi"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 11:00 am",
+            "Thailand vs Uzbekistan",
+            "T20",
+            "Singapore",
+            " Asia Pacific Cricket Champions Trophy 2"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 2:30 pm",
+            "Coastal Kings Mangaluru vs Mysore Warriors",
+            "T20",
+            "Mysore",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 3:00 pm",
+            "Royal Nimar Eagles vs Rewa Jaguars",
+            "T20",
+            "Indore",
+            "Madhya Pradesh Premier League 2026"
+          ],
+          [
+            "Thu, 25 Jun, 2026, 4:00 pm",
+            "Singapore vs Indonesia",
+            "T20",
+            "Singapore",
+            " Asia Pacific Cricket Champions Trophy 2"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "India A vs Sri Lanka A (Final, ODI): India A won by 66 runs — INDA: 377/9 (49.6 ov) | SLA: 311/10 (47.1 ov)",
+          "Afghanistan vs India (3rd ODI, ODI): India won by 9 wkts — AFG: 218/10 (44.2 ov) | IND: 224/1 (28.4 ov)",
+          "Glamorgan vs Surrey (38th Match, TEST): Glamorgan won by 7 wkts — GLAM: 358/10 (114.1 ov) & 197/3 (45.1 ov) | SUR: 105/10 (34.4 ov) & 447/10 (142.5 ov)",
+          "Essex vs Nottinghamshire (36th Match, TEST): Nottinghamshire won by an innings and 52 runs — ESS: 184/10 (57.4 ov) & 221/10 (82.5 ov) | NOTTS: 457/10 (125.6 ov)",
+          "Hampshire vs Sussex (39th Match, TEST): Hampshire won by 118 runs — HAM: 191/10 (60.4 ov) & 220/10 (85.5 ov) | SUS: 159/10 (49.5 ov) & 134/10 (56.5 ov)",
+          "Yorkshire vs Leicestershire (37th Match, TEST): Leicestershire won by an innings and 39 runs — YORKS: 185/10 (54.2 ov) & 229/10 (74.1 ov) | LEIC: 453/10 (113.4 ov)",
+          "Somerset vs Warwickshire (40th Match, TEST): Match drawn — SOM: 208/10 (64.6 ov) & 435/10 (153.5 ov) | WARKS: 330/10 (101.6 ov) & 98/2 (38.6 ov)",
+          "Gloucestershire vs Worcestershire (31st Match, TEST): Worcestershire won by 5 wkts — GLOUCS: 289/10 (105.6 ov) & 185/10 (81.1 ov) | WORCS: 388/10 (148.4 ov) & 87/5 (25.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stokes reveals 'highest pressure' of England captaincy — Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took ch",
+          "Australia thrash Pakistan to edge closer to semis — Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to remain unbeaten at the Women's T20 World Cup.",
+          "Wyatt-Hodge half-century powers England against Windies — Watch how Danni Wyatt-Hodge reached a half century for England while playing against West Indies in the ICC Women's T20 ",
+          "Athapaththu's stunning century helps Sri Lanka thrash Ireland — Sri Lanka captain Chamari Athapaththu hits an unbeaten 106, the highest score of the 2026 T20 World Cup, as she leads he",
+          "'Dominant' Athapaththu hits tournament-best 106 for Sri Lanka — Chamari Athapaththu hits a superb unbeaten 106 as Sri Lanka cruise to a nine-wicket win against Ireland to keep their T2",
+          "Sri Lanka beat Ireland to stay in semi-final hunt — Chamari Athapaththu hits an unbeaten 106 as Sri Lanka cruise to a nine-wicket win over Ireland to keep their World Cup s"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "No hiding place as England again drink in last-chance saloon",
+          "Run records & miserly Aussies - what we've learned from T20 World Cup",
+          "Sciver-Brunt targets semi-final return after positive scan",
+          "England beat West Indies to secure semi-final place",
+          "England ease into semi-finals with win over Windies"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-australia-thrash-pakistan-to-edge-closer-to-semis",
+    "title": "Australia thrash Pakistan to edge closer to semis | Cricket News",
+    "description": "Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to remain unbeaten at the Women's T20 World Cup.",
+    "excerpt": "Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to remain unbeaten at the Women's T20 World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c0lykpx1d39o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Australia thrash Pakistan to edge closer to semis",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Australia thrash Pakistan to edge closer to semis. Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to remain unbeaten at the Women's T20 World Cup."
+      },
+      {
+        "type": "p",
+        "text": "Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to remain unbeaten at the Women's T20 World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-no-hiding-place-as-england-again-drink-in-last-cha",
+    "title": "No hiding place as England again drink in last-chance saloon | Cricket News",
+    "description": "There no excuses now England have their captain back and their best XI available for series decider against New Zealand, writes Stephan Shemilt.",
+    "excerpt": "There no excuses now England have their captain back and their best XI available for series decider against New Zealand, writes Stephan Shemilt.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cy8w5ww1jpdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: No hiding place as England again drink in last-chance saloon",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: No hiding place as England again drink in last-chance saloon. There no excuses now England have their captain back and their best XI available for series decider against New Zealand, writes Stephan Shemilt."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-run-records-miserly-aussies-what-we-ve-learned-fro",
+    "title": "Run records & miserly Aussies - what we've learned from T20 World Cup | Cricket News",
+    "description": "Standout trends from the Women's T20 World Cup, including run-scoring records, curious tactics and more scoops than ever.",
+    "excerpt": "Standout trends from the Women's T20 World Cup, including run-scoring records, curious tactics and more scoops than ever.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm2jzrgy839o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Run records & miserly Aussies - what we've learned from T20 World Cup",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Run records & miserly Aussies - what we've learned from T20 World Cup. Standout trends from the Women's T20 World Cup, including run-scoring records, curious tactics and more scoops than ever."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-sciver-brunt-targets-semi-final-return-after-posit",
+    "title": "Sciver-Brunt targets semi-final return after positive scan | Cricket News",
+    "description": "England captain Nat Sciver-Brunt is feeling \"positive\" and believes her calf injury is going in the right \"direction\", says her wife Katherine.",
+    "excerpt": "England captain Nat Sciver-Brunt is feeling \"positive\" and believes her calf injury is going in the right \"direction\", says her wife Katherine.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c872y9xy225o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sciver-Brunt targets semi-final return after positive scan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sciver-Brunt targets semi-final return after positive scan. England captain Nat Sciver-Brunt is feeling \"positive\" and believes her calf injury is going in the right \"direction\", says her wife Katherine."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-stokes-reveals-highest-pressure-of-england-captain",
+    "title": "Stokes reveals 'highest pressure' of England captaincy | Cricket News",
+    "description": "Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago.",
+    "excerpt": "Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c7vy10p37p5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Stokes reveals 'highest pressure' of England captaincy",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Stokes reveals 'highest pressure' of England captaincy. Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago."
+      },
+      {
+        "type": "p",
+        "text": "Captain Ben Stokes admits England are under the “highest amount of pressure” since he and coach Brendon McCullum took charge four years ago."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-06-25-wyatt-hodge-half-century-powers-england-against-wi",
+    "title": "Wyatt-Hodge half-century powers England against Windies | Cricket News",
+    "description": "Watch how Danni Wyatt-Hodge reached a half century for England while playing against West Indies in the ICC Women's T20 World Cup.",
+    "excerpt": "Watch how Danni Wyatt-Hodge reached a half century for England while playing against West Indies in the ICC Women's T20 World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/videos/cpd397w91z0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Wyatt-Hodge half-century powers England against Windies",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Wyatt-Hodge half-century powers England against Windies. Watch how Danni Wyatt-Hodge reached a half century for England while playing against West Indies in the ICC Women's T20 World Cup."
+      },
+      {
+        "type": "p",
+        "text": "Watch how Danni Wyatt-Hodge reached a half century for England while playing against West Indies in the ICC Women's T20 World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-glam-vs-sur-2026-06-19",
+    "title": "Glamorgan won by 7 wkts | 38th Match Cricket News",
+    "description": "Glamorgan vs Surrey result: Glamorgan won by 7 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Glamorgan won by 7 wkts — GLAM: 358/10 (114.1 ov) & 197/3 (45.1 ov) | SUR: 105/10 (34.4 ov) & 447/10 (142.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Surrey result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Surrey cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Glamorgan vs Surrey (38th Match, TEST) — Glamorgan won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Glamorgan",
+            "358/10 (114.1 ov) & 197/3 (45.1 ov)"
+          ],
+          [
+            "Surrey",
+            "105/10 (34.4 ov) & 447/10 (142.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Glamorgan won by 7 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Glamorgan chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-eng-vs-nz-2026-06-25",
+    "title": "England vs New Zealand Preview — Pitch, Weather & Lineup | 3rd Test",
+    "description": "England vs New Zealand preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 25 Jun, 2026, 3:30 pm.",
+    "excerpt": "England vs New Zealand — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Overcast · High 31°C / Low 19°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs New Zealand",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs New Zealand cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: England face New Zealand in 3rd Test (TEST) on Thu, 25 Jun, 2026, 3:30 pm at Trent Bridge Nottingham. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "England vs New Zealand"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "New Zealand tour of England, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 25 Jun, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Trent Bridge Nottingham"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 25, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 31°C / Low 19°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-inda-vs-sla-2026-06-25",
+    "title": "India A vs Sri Lanka A Preview — Pitch, Weather & Lineup | 1st Unofficial Test",
+    "description": "India A vs Sri Lanka A preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 25 Jun, 2026, 10:00 am.",
+    "excerpt": "India A vs Sri Lanka A — pitch: Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests.… Weather: Thunderstorm · High 30°C / Low 25°C · Rain: 8.2 mm · Wind: up to 22 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India A vs Sri Lanka A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India A vs Sri Lanka A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India A face Sri Lanka A in 1st Unofficial Test (TEST) on Thu, 25 Jun, 2026, 10:00 am at Galle International Stadium Galle. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India A vs Sri Lanka A"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "India A tour of Sri Lanka 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 25 Jun, 2026, 10:00 am"
+          ],
+          [
+            "Venue",
+            "Galle International Stadium Galle"
+          ],
+          [
+            "Status",
+            "India A opt to bat"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 240–270 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 30°C / Low 25°C · Rain: 8.2 mm · Wind: up to 22 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indw-vs-banw-2026-06-25",
+    "title": "India Women vs Bangladesh Women Preview — Pitch, Weather & Lineup | 23rd Match, Group A",
+    "description": "India Women vs Bangladesh Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 25 Jun, 2026, 7:00 pm.",
+    "excerpt": "India Women vs Bangladesh Women — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Overcast · High 32°C / Low 22°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India Women vs Bangladesh Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India Women vs Bangladesh Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India Women face Bangladesh Women in 23rd Match, Group A (T20) on Thu, 25 Jun, 2026, 7:00 pm at Emirates Old Trafford Manchester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India Women vs Bangladesh Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 25 Jun, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Emirates Old Trafford Manchester"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 25, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 32°C / Low 22°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wi-vs-sl-2026-06-25",
+    "title": "West Indies vs Sri Lanka Preview — Pitch, Weather & Lineup | 1st Test",
+    "description": "West Indies vs Sri Lanka preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 25 Jun, 2026, 7:30 pm.",
+    "excerpt": "West Indies vs Sri Lanka — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Light drizzle · High 30°C / Low 27°C · Rain: 1.1 mm · Wind: up to 28 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs Sri Lanka",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-06-25",
+    "updatedAt": "2026-06-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs Sri Lanka cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: West Indies face Sri Lanka in 1st Test (TEST) on Thu, 25 Jun, 2026, 7:30 pm at Sir Vivian Richards Stadium North Sound, Antigua. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "West Indies vs Sri Lanka"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Sri Lanka tour of West Indies 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 25 Jun, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "Sir Vivian Richards Stadium North Sound, Antigua"
+          ],
+          [
+            "Status",
+            "Match starts at Jun 25, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 30°C / Low 27°C · Rain: 1.1 mm · Wind: up to 28 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-06-24",
     "title": "Cricket Daily Digest — Wednesday, 24 June 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
