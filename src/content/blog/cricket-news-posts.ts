@@ -3,6 +3,815 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-02",
+    "title": "Cricket Daily Digest — Thursday, 2 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 2 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-02 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 2 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 2 Jul, 2026, 10:00 am",
+            "Sri Lanka A vs India A",
+            "TEST",
+            "Galle",
+            "India A tour of Sri Lanka 2026"
+          ],
+          [
+            "Thu, 2 Jul, 2026, 1:30 pm",
+            "Sweden vs Portugal",
+            "T20",
+            "Stockholm",
+            "Portugal tour of Sweden, 2026"
+          ],
+          [
+            "Thu, 2 Jul, 2026, 11:00 pm",
+            "England Women vs South Africa Women",
+            "T20",
+            "London",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Fri, 3 Jul, 2026, 9:00 am",
+            "India Women U19 vs Sri Lanka Women U19",
+            "ODI",
+            "Puducherry",
+            "Sri Lanka Women U19 tour of India 2026"
+          ],
+          [
+            "Thu, 2 Jul, 2026, 2:15 pm",
+            "Karimnagar Diamonds vs Ranga Reddy Risers",
+            "T20",
+            "Hyderabad",
+            "TG20 2026"
+          ],
+          [
+            "Thu, 2 Jul, 2026, 2:30 pm",
+            "Hubli Tigers vs Mysore Warriors",
+            "T20",
+            "Hubli",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Thu, 2 Jul, 2026, 7:00 pm",
+            "Coastal Kings Mangaluru vs Shivamogga Yodhas",
+            "T20",
+            "Hubli",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Fri, 3 Jul, 2026, 7:00 am",
+            "Seattle Orcas vs MI New York",
+            "T20",
+            "Pomona",
+            "Major League Cricket 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh vs Zimbabwe (One-off Test, TEST): Zimbabwe won by an innings and 85 runs — BAN: 140/10 (47.2 ov) & 185/10 (44.6 ov) | ZIM: 410/10 (107.2 ov)",
+          "Sri Lanka vs West Indies (1st Test, TEST): West Indies won by an innings and 217 runs — SL: 308/10 (71.5 ov) & 101/10 (31.2 ov) | WI: 626/9 (160.5 ov)",
+          "New Zealand vs England (3rd Test, TEST): New Zealand won by 160 runs — NZ: 438/10 (114.5 ov) & 288/9 (93.6 ov) | ENG: 354/10 (88.2 ov) & 212/10 (51.2 ov)",
+          "India A vs Sri Lanka A (1st Unofficial Test, TEST): Match drawn — INDA: 452/6 (111.4 ov) & 189/8 (56.6 ov) | SLA: 330/10 (101.4 ov) & 70/2 (14.6 ov)",
+          "India vs England (1st T20I, T20): No result due to rain — IND: 189/7 (19.6 ov)",
+          "Sweden vs Portugal (2nd T20I, T20): Portugal won by 7 wkts — SWE: 143/9 (19.6 ov) | PORT: 144/3 (17.4 ov)",
+          "England A Women vs India A Women (Unofficial 2nd ODI, ODI): England A Women won by 125 runs — ENGAW: 298/5 (49.6 ov) | INDWA: 173/10 (42.3 ov)",
+          "Portugal vs Sweden (1st T20I, T20): Portugal won by 12 runs — PORT: 169/8 (19.6 ov) | SWE: 157/8 (19.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "T20 Blast round-up: Northants maintain perfect record — Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol.",
+          "England and India frustrated by rain as first T20 abandoned — England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain duri",
+          "Australia thrash West Indies to reach T20 World Cup final — Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Ova",
+          "NZ thrash England to seal historic series win — New Zealand beat England by 160 runs in the third Test at Trent Bridge to seal a 2-1 series victory in Ben Stokes' final",
+          "How 'ambitious' new coach Wilson plans to grow Irish cricket — Ireland's new men's cricket head coach Gary Wilson tells BBC Sport NI about his ambitions for the job and how the team c",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "First England-India T20 abandoned because of rain",
+          "Sciver-Brunt passed fit for England's semi-final",
+          "The therapy used by NBA icon O'Neal to get England's Sciver-Brunt fit",
+          "Test Match Special Podcast",
+          "Brook would accept 'honour' of Test captaincy"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-australia-thrash-west-indies-to-reach-t20-world-cu",
+    "title": "Australia thrash West Indies to reach T20 World Cup final | Cricket News",
+    "description": "Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Oval, to reach their eighth ICC Women's T20",
+    "excerpt": "Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Oval, to reach their eighth ICC Women's T20",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cjeg37v0v8qo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Australia thrash West Indies to reach T20 World Cup final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Australia thrash West Indies to reach T20 World Cup final. Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Oval, to reach their eighth ICC Women's T20 World Cup final, where they'll face Eng"
+      },
+      {
+        "type": "p",
+        "text": "Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Oval, to reach their eighth ICC Women's T20 World Cup final, where they'll face England or South Africa."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-england-and-india-frustrated-by-rain-as-first-t20-",
+    "title": "England and India frustrated by rain as first T20 abandoned | Cricket News",
+    "description": "England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain during the innings break, after India had se",
+    "excerpt": "England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain during the innings break, after India had se",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c20yjv3en2go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England and India frustrated by rain as first T20 abandoned",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England and India frustrated by rain as first T20 abandoned. England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain during the innings break, after India had set England 190 to win at Chester-le-Stree"
+      },
+      {
+        "type": "p",
+        "text": "England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain during the innings break, after India had set England 190 to win at Chester-le-Street."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-first-england-india-t20-abandoned-because-of-rain",
+    "title": "First England-India T20 abandoned because of rain | Cricket News",
+    "description": "England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain.",
+    "excerpt": "England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cjegnjq72yqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: First England-India T20 abandoned because of rain",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: First England-India T20 abandoned because of rain. England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-sciver-brunt-passed-fit-for-england-s-semi-final",
+    "title": "Sciver-Brunt passed fit for England's semi-final | Cricket News",
+    "description": "England captain Nat Sciver-Brunt is passed fit to return from injury for Thursday's T20 World Cup semi-final against South Africa.",
+    "excerpt": "England captain Nat Sciver-Brunt is passed fit to return from injury for Thursday's T20 World Cup semi-final against South Africa.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cze902zj526o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sciver-Brunt passed fit for England's semi-final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sciver-Brunt passed fit for England's semi-final. England captain Nat Sciver-Brunt is passed fit to return from injury for Thursday's T20 World Cup semi-final against South Africa."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-t20-blast-round-up-northants-maintain-perfect-reco",
+    "title": "T20 Blast round-up: Northants maintain perfect record | Cricket News",
+    "description": "Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol.",
+    "excerpt": "Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cly7zjnl089o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: T20 Blast round-up: Northants maintain perfect record",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: T20 Blast round-up: Northants maintain perfect record. Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol."
+      },
+      {
+        "type": "p",
+        "text": "Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-02-the-therapy-used-by-nba-icon-o-neal-to-get-england",
+    "title": "The therapy used by NBA icon O'Neal to get England's Sciver-Brunt fit | Cricket News",
+    "description": "England captain Nat Sciver-Brunt used a rare treatment employed by NBA great Shaquille O'Neal in bid to be fit for T20 World Cup semi-final.",
+    "excerpt": "England captain Nat Sciver-Brunt used a rare treatment employed by NBA great Shaquille O'Neal in bid to be fit for T20 World Cup semi-final.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crelxqlgpeeo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: The therapy used by NBA icon O'Neal to get England's Sciver-Brunt fit",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: The therapy used by NBA icon O'Neal to get England's Sciver-Brunt fit. England captain Nat Sciver-Brunt used a rare treatment employed by NBA great Shaquille O'Neal in bid to be fit for T20 World Cup semi-final."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-engw-vs-rsaw-2026-07-02",
+    "title": "England Women vs South Africa Women Preview — Pitch, Weather & Lineup | 2nd Semi-Final",
+    "description": "England Women vs South Africa Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 2 Jul, 2026, 11:00 pm.",
+    "excerpt": "England Women vs South Africa Women — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Light drizzle · High 25°C / Low 17°C · Rain: 0.1 mm · Wind: up to 20 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England Women vs South Africa Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England Women vs South Africa Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: England Women face South Africa Women in 2nd Semi-Final (T20) on Thu, 2 Jul, 2026, 11:00 pm at Kennington Oval London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "England Women vs South Africa Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 2 Jul, 2026, 11:00 pm"
+          ],
+          [
+            "Venue",
+            "Kennington Oval London"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 02, 17:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 25°C / Low 17°C · Rain: 0.1 mm · Wind: up to 20 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indwu19-vs-slwu19-2026-07-03",
+    "title": "India Women U19 vs Sri Lanka Women U19 Preview — Pitch, Weather & Lineup | 2nd unofficial ODI",
+    "description": "India Women U19 vs Sri Lanka Women U19 preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 3 Jul, 2026, 9:00 am.",
+    "excerpt": "India Women U19 vs Sri Lanka Women U19 — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 34°C / Low 29°C · Rain: 0.4 mm · Wind: up to 19 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India Women U19 vs Sri Lanka Women U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India Women U19 vs Sri Lanka Women U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India Women U19 face Sri Lanka Women U19 in 2nd unofficial ODI (ODI) on Fri, 3 Jul, 2026, 9:00 am at Cricket Association Puducherry Siechem Ground Puducherry. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India Women U19 vs Sri Lanka Women U19"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Sri Lanka Women U19 tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 3 Jul, 2026, 9:00 am"
+          ],
+          [
+            "Venue",
+            "Cricket Association Puducherry Siechem Ground Puducherry"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 03, 03:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 34°C / Low 29°C · Rain: 0.4 mm · Wind: up to 19 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-swe-vs-port-2026-07-02",
+    "title": "Sweden vs Portugal Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Sweden vs Portugal preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 2 Jul, 2026, 1:30 pm.",
+    "excerpt": "Sweden vs Portugal — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 24°C / Low 15°C · Rain: 0.1 mm · Wind: up to 22 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sweden vs Portugal",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-02",
+    "updatedAt": "2026-07-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sweden vs Portugal cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sweden face Portugal in 3rd T20I (T20) on Thu, 2 Jul, 2026, 1:30 pm at Botkyrka Cricket Center Stockholm. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sweden vs Portugal"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Portugal tour of Sweden, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 2 Jul, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Botkyrka Cricket Center Stockholm"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 02, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 24°C / Low 15°C · Rain: 0.1 mm · Wind: up to 22 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-01",
     "title": "Cricket Daily Digest — Wednesday, 1 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 15+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
