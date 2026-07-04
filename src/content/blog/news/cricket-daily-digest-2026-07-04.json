@@ -1,0 +1,183 @@
+{
+  "slug": "cricket-daily-digest-2026-07-04",
+  "title": "Cricket Daily Digest — Saturday, 4 July 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 4 July 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-04",
+  "updatedAt": "2026-07-04",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-07-04 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Saturday, 4 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sat, 4 Jul, 2026, 9:30 am",
+          "Sri Lanka U19 vs India U19",
+          "ODI",
+          "Hambantota",
+          "India U19 tour of Sri Lanka 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 1:30 pm",
+          "Finland vs Portugal",
+          "T20",
+          "Kerava",
+          "Portugal tour of Finland, 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 3:30 pm",
+          "England A Women vs India A Women",
+          "ODI",
+          "Taunton",
+          "India A Women tour of England 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 6:30 pm",
+          "Finland vs Portugal",
+          "T20",
+          "Kerava",
+          "Portugal tour of Finland, 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 7:00 pm",
+          "England vs India",
+          "T20",
+          "Manchester",
+          "India tour of England, 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 2:15 pm",
+          "Anvita Khammam Aces vs Ranga Reddy Risers",
+          "T20",
+          "Hyderabad",
+          "TG20 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 7:15 pm",
+          "Hyderabad E Champions vs Karimnagar Diamonds",
+          "T20",
+          "Hyderabad",
+          "TG20 2026"
+        ],
+        [
+          "Sat, 4 Jul, 2026, 11:30 pm",
+          "Gloucestershire vs Surrey",
+          "T20",
+          "Bristol",
+          "T20 Blast 2026"
+        ],
+        [
+          "Sun, 5 Jul, 2026, 3:00 am",
+          "Washington Freedom vs San Francisco Unicorns",
+          "T20",
+          "Pomona",
+          "Major League Cricket 2026"
+        ],
+        [
+          "Sun, 5 Jul, 2026, 7:00 am",
+          "Los Angeles Knight Riders vs MI New York",
+          "T20",
+          "Pomona",
+          "Major League Cricket 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bangladesh vs Zimbabwe (One-off Test, TEST): Zimbabwe won by an innings and 85 runs — BAN: 140/10 (47.2 ov) & 185/10 (44.6 ov) | ZIM: 410/10 (107.2 ov)",
+        "Sri Lanka vs West Indies (1st Test, TEST): West Indies won by an innings and 217 runs — SL: 308/10 (71.5 ov) & 101/10 (31.2 ov) | WI: 626/9 (160.5 ov)",
+        "New Zealand vs England (3rd Test, TEST): New Zealand won by 160 runs — NZ: 438/10 (114.5 ov) & 288/9 (93.6 ov) | ENG: 354/10 (88.2 ov) & 212/10 (51.2 ov)",
+        "India A vs Sri Lanka A (1st Unofficial Test, TEST): Match drawn — INDA: 452/6 (111.4 ov) & 189/8 (56.6 ov) | SLA: 330/10 (101.4 ov) & 70/2 (14.6 ov)",
+        "Portugal vs Finland (1st T20I, T20): Portugal won by 32 runs — PORT: 142/9 (19.6 ov) | FIN: 110/10 (17.2 ov)",
+        "India Women U19 vs Sri Lanka Women U19 (2nd unofficial ODI, ODI): India Women U19 won by 49 runs — INDWU19: 209/8 (50 ov) | SLWU19: 160/10 (41.2 ov)",
+        "England Women vs South Africa Women (2nd Semi-Final, T20): England Women won by 40 runs — ENGW: 169/5 (19.6 ov) | RSAW: 129/8 (19.6 ov)",
+        "Sweden vs Portugal (3rd T20I, T20): Match tied ( Portugal won the super over) — SWE: 156/10 (19.6 ov) | PORT: 156/7 (19.6 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "England's ever-reliable Knight steps up again with vital half-century — England's Heather Knight uses all her experience to hit a vital 53 off 47 balls to help her side recover from 23-3 to 16",
+        "England and India frustrated by rain as first T20 abandoned — England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain duri",
+        "Australia thrash West Indies to reach T20 World Cup final — Beth Mooney finishes unbeaten on 61 to help six-time winners Australia ease past West Indies by eight wickets at The Ova",
+        "NZ thrash England to seal historic series win — New Zealand beat England by 160 runs in the third Test at Trent Bridge to seal a 2-1 series victory in Ben Stokes' final",
+        "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Curran wants chance to replace Stokes in Test team",
+        "Hard work and a disco jacket - how England turned fielding woes around",
+        "Perry comes through training before T20 World Cup final",
+        "West Indies v Sri Lanka - second Test scorecard",
+        "Notts squeeze home against Lancashire to stay top - T20 Blast round-up"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
