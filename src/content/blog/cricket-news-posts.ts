@@ -3,6 +3,926 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-05",
+    "title": "Cricket Daily Digest — Sunday, 5 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 23+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 5 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-05 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Sunday, 5 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 6 Jul, 2026, 9:30 am",
+            "Sri Lanka U19 vs India U19",
+            "ODI",
+            "Hambantota",
+            "India U19 tour of Sri Lanka 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 1:30 pm",
+            "Finland vs Portugal",
+            "T20",
+            "Kerava",
+            "Portugal tour of Finland, 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 6:30 pm",
+            "Finland vs Portugal",
+            "T20",
+            "Kerava",
+            "Portugal tour of Finland, 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 8:00 pm",
+            "England Women vs Australia Women",
+            "T20",
+            "London",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Essex Women vs Surrey Women",
+            "T20",
+            "Chelmsford",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Hampshire Women vs Lancashire Women",
+            "T20",
+            "Southampton",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Warwickshire Women vs Yorkshire Women",
+            "T20",
+            "Birmingham",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Durham Women vs The Blaze Women",
+            "T20",
+            "Chester-le-Street",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Glamorgan Women vs Worcestershire Women",
+            "T20",
+            "Cardiff",
+            "Womens T20 Blast League Two 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 4:00 pm",
+            "Northamptonshire Women vs Gloucestershire Women",
+            "T20",
+            "Northampton",
+            "Womens T20 Blast League Two 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 7:00 pm",
+            "Derbyshire Women vs Leicestershire Women",
+            "T20",
+            "Derby",
+            "Womens T20 Blast League Two 2026"
+          ],
+          [
+            "Sun, 5 Jul, 2026, 7:00 pm",
+            "Middlesex Women vs Sussex Women",
+            "T20",
+            "Radlett",
+            "Womens T20 Blast League Two 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sri Lanka U19 vs India U19 (1st unofficial ODI, ODI): India U19 won by 4 wkts — SLU19: 320/6 (49.6 ov) | INDU19: 324/6 (49.2 ov)",
+          "Bangladesh vs Zimbabwe (One-off Test, TEST): Zimbabwe won by an innings and 85 runs — BAN: 140/10 (47.2 ov) & 185/10 (44.6 ov) | ZIM: 410/10 (107.2 ov)",
+          "Sri Lanka vs West Indies (1st Test, TEST): West Indies won by an innings and 217 runs — SL: 308/10 (71.5 ov) & 101/10 (31.2 ov) | WI: 626/9 (160.5 ov)",
+          "New Zealand vs England (3rd Test, TEST): New Zealand won by 160 runs — NZ: 438/10 (114.5 ov) & 288/9 (93.6 ov) | ENG: 354/10 (88.2 ov) & 212/10 (51.2 ov)",
+          "India A vs Sri Lanka A (1st Unofficial Test, TEST): Match drawn — INDA: 452/6 (111.4 ov) & 189/8 (56.6 ov) | SLA: 330/10 (101.4 ov) & 70/2 (14.6 ov)",
+          "India vs England (2nd T20I, T20): England won by 4 wkts — IND: 190/7 (19.6 ov) | ENG: 191/6 (18.6 ov)",
+          "Portugal vs Finland (3rd T20I, T20): Portugal won by 8 runs — PORT: 181/4 (19.6 ov) | FIN: 173/6 (19.6 ov)",
+          "India A Women vs England A Women (Unofficial 3rd ODI, ODI): India A Women won by 59 runs — INDWA: 281/7 (49.6 ov) | ENGAW: 222/10 (45.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sooryavanshi, 15, debuts in India loss to England — Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win",
+          "Bethell stars as he guides England to impressive win against India — Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the sec",
+          "'Sixes all around the ground!' - Bethell at his best in England win — Watch Jacob Bethell's best moments as he leads England's successful chase of 191, scoring an unbeaten 76 as his side bea",
+          "Glos ease to victory over Surrey in T20 Blast — D'Arcy Short hits an unbeaten 92 as Gloucestershire beat Surrey by 57 runs in their inter-group match at the Seat Unique",
+          "England's ever-reliable Knight steps up again with vital half-century — England's Heather Knight uses all her experience to hit a vital 53 off 47 balls to help her side recover from 23-3 to 16",
+          "England and India frustrated by rain as first T20 abandoned — England and India are both left frustrated as the first T20 in their five match series is abandoned because of rain duri"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Belief back as England brace for their biggest game since 2017",
+          "Relive England's thrilling 2017 World Cup win",
+          "T20 Cricket",
+          "Organisers ease concern of clash between World Cup final warm-ups and Rita Ora set",
+          "Do Australia have mental edge over England before final?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-belief-back-as-england-brace-for-their-biggest-gam",
+    "title": "Belief back as England brace for their biggest game since 2017 | Cricket News",
+    "description": "It's been a long road to get here, but fans of the England women's cricket team can finally believe heading into Sunday's T20 World Cup final, writes Matthew He",
+    "excerpt": "It's been a long road to get here, but fans of the England women's cricket team can finally believe heading into Sunday's T20 World Cup final, writes Matthew He",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c8923q4gndjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Belief back as England brace for their biggest game since 2017",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Belief back as England brace for their biggest game since 2017. It's been a long road to get here, but fans of the England women's cricket team can finally believe heading into Sunday's T20 World Cup final, writes Matthew Henry."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-bethell-stars-as-he-guides-england-to-impressive-w",
+    "title": "Bethell stars as he guides England to impressive win against India | Cricket News",
+    "description": "Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the second T20 at Old Trafford and take a 1-0 l",
+    "excerpt": "Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the second T20 at Old Trafford and take a 1-0 l",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c621xdq2pk5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Bethell stars as he guides England to impressive win against India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Bethell stars as he guides England to impressive win against India. Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the second T20 at Old Trafford and take a 1-0 lead in the five match series."
+      },
+      {
+        "type": "p",
+        "text": "Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the second T20 at Old Trafford and take a 1-0 lead in the five match series."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-relive-england-s-thrilling-2017-world-cup-win",
+    "title": "Relive England's thrilling 2017 World Cup win | Cricket News",
+    "description": "Ahead of England facing Australia in the final of the ICC Women's T20 World Cup final, BBC Sport looks back at the last time England won a major tournament on h",
+    "excerpt": "Ahead of England facing Australia in the final of the ICC Women's T20 World Cup final, BBC Sport looks back at the last time England won a major tournament on h",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cn7p5x1vje4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Relive England's thrilling 2017 World Cup win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Relive England's thrilling 2017 World Cup win. Ahead of England facing Australia in the final of the ICC Women's T20 World Cup final, BBC Sport looks back at the last time England won a major tournament on home soil, when they beat India by nine runs at Lord's in the 50-over World Cup in 2017."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-sixes-all-around-the-ground-bethell-at-his-best-in",
+    "title": "'Sixes all around the ground!' - Bethell at his best in England win | Cricket News",
+    "description": "Watch Jacob Bethell's best moments as he leads England's successful chase of 191, scoring an unbeaten 76 as his side beat India by four wickets at Old Trafford.",
+    "excerpt": "Watch Jacob Bethell's best moments as he leads England's successful chase of 191, scoring an unbeaten 76 as his side beat India by four wickets at Old Trafford.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c75y9x519qlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Sixes all around the ground!' - Bethell at his best in England win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Sixes all around the ground!' - Bethell at his best in England win. Watch Jacob Bethell's best moments as he leads England's successful chase of 191, scoring an unbeaten 76 as his side beat India by four wickets at Old Trafford."
+      },
+      {
+        "type": "p",
+        "text": "Watch Jacob Bethell's best moments as he leads England's successful chase of 191, scoring an unbeaten 76 as his side beat India by four wickets at Old Trafford."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-sooryavanshi-15-debuts-in-india-loss-to-england",
+    "title": "Sooryavanshi, 15, debuts in India loss to England | Cricket News",
+    "description": "Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win in the second T20 at Old Trafford.",
+    "excerpt": "Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win in the second T20 at Old Trafford.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq61pz1e1nno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sooryavanshi, 15, debuts in India loss to England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sooryavanshi, 15, debuts in India loss to England. Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win in the second T20 at Old Trafford."
+      },
+      {
+        "type": "p",
+        "text": "Teenage sensation Vaibhav Sooryavanshi becomes the youngest man to play for India in England’s thrilling four-wicket win in the second T20 at Old Trafford."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-05-t20-cricket",
+    "title": "T20 Cricket | Cricket News",
+    "description": "England v India, Second T20. The series continues at Old Trafford",
+    "excerpt": "England v India, Second T20. The series continues at Old Trafford",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/iplayer/episode/m002yqzr?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: T20 Cricket",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: T20 Cricket. England v India, Second T20. The series continues at Old Trafford"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-slu19-vs-indu19-2026-07-04",
+    "title": "India U19 won by 4 wkts | 1st unofficial ODI Cricket News",
+    "description": "Sri Lanka U19 vs India U19 result: India U19 won by 4 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "India U19 won by 4 wkts — SLU19: 320/6 (49.6 ov) | INDU19: 324/6 (49.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka U19 vs India U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka U19 vs India U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Sri Lanka U19 vs India U19 (1st unofficial ODI, ODI) — India U19 won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Sri Lanka U19",
+            "320/6 (49.6 ov)"
+          ],
+          [
+            "India U19",
+            "324/6 (49.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: India U19 won by 4 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: India U19 chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-engw-vs-ausw-2026-07-05",
+    "title": "England Women vs Australia Women Preview — Pitch, Weather & Lineup | Final",
+    "description": "England Women vs Australia Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 5 Jul, 2026, 8:00 pm.",
+    "excerpt": "England Women vs Australia Women — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Overcast · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England Women vs Australia Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England Women vs Australia Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: England Women face Australia Women in Final (T20) on Sun, 5 Jul, 2026, 8:00 pm at Lord's London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "England Women vs Australia Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's T20 World Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 5 Jul, 2026, 8:00 pm"
+          ],
+          [
+            "Venue",
+            "Lord's London"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 05, 14:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-fin-vs-port-2026-07-05",
+    "title": "Finland vs Portugal Preview — Pitch, Weather & Lineup | 4th T20I",
+    "description": "Finland vs Portugal preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 5 Jul, 2026, 1:30 pm.",
+    "excerpt": "Finland vs Portugal — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain · High 17°C / Low 14°C · Rain: 11.6 mm · Wind: up to 13 km/h. Rain likely —…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Finland vs Portugal",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Finland vs Portugal cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Finland face Portugal in 4th T20I (T20) on Sun, 5 Jul, 2026, 1:30 pm at Kerava National Cricket Ground Kerava. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Finland vs Portugal"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Portugal tour of Finland, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 5 Jul, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Kerava National Cricket Ground Kerava"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 05, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 17°C / Low 14°C · Rain: 11.6 mm · Wind: up to 13 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-slu19-vs-indu19-2026-07-06",
+    "title": "Sri Lanka U19 vs India U19 Preview — Pitch, Weather & Lineup | 2nd unofficial ODI",
+    "description": "Sri Lanka U19 vs India U19 preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Mon, 6 Jul, 2026, 9:30 am.",
+    "excerpt": "Sri Lanka U19 vs India U19 — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 36°C / Low 26°C · Rain: 0 mm · Wind: up to 28 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka U19 vs India U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-05",
+    "updatedAt": "2026-07-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka U19 vs India U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sri Lanka U19 face India U19 in 2nd unofficial ODI (ODI) on Mon, 6 Jul, 2026, 9:30 am at Mahinda Rajapaksa International Stadium Hambantota. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sri Lanka U19 vs India U19"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "India U19 tour of Sri Lanka 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 6 Jul, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Mahinda Rajapaksa International Stadium Hambantota"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 06, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 36°C / Low 26°C · Rain: 0 mm · Wind: up to 28 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-04",
     "title": "Cricket Daily Digest — Saturday, 4 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
