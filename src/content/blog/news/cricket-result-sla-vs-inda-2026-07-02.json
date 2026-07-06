@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-sla-vs-inda-2026-07-02",
+  "title": "India A won by 10 wkts | 2nd Unofficial Test Cricket News",
+  "description": "Sri Lanka A vs India A result: India A won by 10 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "India A won by 10 wkts — SLA: 366/10 (109.6 ov) & 209/10 (48.3 ov) | INDA: 543/9 (143.3 ov) & 36/0 (6.2 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Sri Lanka A vs India A result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-06",
+  "updatedAt": "2026-07-06",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Sri Lanka A vs India A cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Sri Lanka A vs India A (2nd Unofficial Test, TEST) — India A won by 10 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Sri Lanka A",
+          "366/10 (109.6 ov) & 209/10 (48.3 ov)"
+        ],
+        [
+          "India A",
+          "543/9 (143.3 ov) & 36/0 (6.2 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: India A won by 10 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: India A chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
