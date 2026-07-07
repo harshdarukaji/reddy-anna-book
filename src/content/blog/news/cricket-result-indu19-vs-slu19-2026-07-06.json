@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-indu19-vs-slu19-2026-07-06",
+  "title": "Sri Lanka U19 won by 8 wkts | 2nd unofficial ODI Cricket News",
+  "description": "India U19 vs Sri Lanka U19 result: Sri Lanka U19 won by 8 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Sri Lanka U19 won by 8 wkts — INDU19: 285/10 (47.2 ov) | SLU19: 291/2 (47.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "India U19 vs Sri Lanka U19 result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-07",
+  "updatedAt": "2026-07-07",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "India U19 vs Sri Lanka U19 cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: India U19 vs Sri Lanka U19 (2nd unofficial ODI, ODI) — Sri Lanka U19 won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "India U19",
+          "285/10 (47.2 ov)"
+        ],
+        [
+          "Sri Lanka U19",
+          "291/2 (47.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Sri Lanka U19 won by 8 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: India U19 chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
