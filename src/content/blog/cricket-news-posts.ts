@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-08",
+    "title": "Cricket Daily Digest — Wednesday, 8 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Wednesday, 8 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-08 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Wednesday, 8 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Wed, 8 Jul, 2026, 2:00 pm",
+            "Denmark vs Estonia",
+            "T20",
+            "Brondby",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 2:00 pm",
+            "Belgium vs Gibraltar",
+            "T20",
+            "Koge",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 7:00 pm",
+            "Norway vs Hungary",
+            "T20",
+            "Brondby",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 7:00 pm",
+            "Romania vs Serbia",
+            "T20",
+            "Koge",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 6:30 pm",
+            "Surrey Women vs Warwickshire Women",
+            "T20",
+            "London",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 7:30 pm",
+            "Hampshire Women vs The Blaze Women",
+            "T20",
+            "Southampton",
+            "Womens T20 Blast 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 2:00 pm",
+            "Mysore Warriors vs Shivamogga Yodhas",
+            "T20",
+            "Bengaluru",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 7:00 pm",
+            "Coastal Kings Mangaluru vs Gulbarga Mystics",
+            "T20",
+            "Bengaluru",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 11:00 pm",
+            "Surrey vs Sussex",
+            "T20",
+            "London",
+            "T20 Blast 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 11:00 pm",
+            "Glamorgan vs Northamptonshire",
+            "T20",
+            "Cardiff",
+            "T20 Blast 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 11:00 pm",
+            "Derbyshire vs Somerset",
+            "T20",
+            "Derby",
+            "T20 Blast 2026"
+          ],
+          [
+            "Wed, 8 Jul, 2026, 11:00 pm",
+            "Leicestershire vs Durham",
+            "T20",
+            "Leicester",
+            "T20 Blast 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Zimbabwe vs Bangladesh (1st ODI, ODI): Zimbabwe won by 25 runs — ZIM: 141/10 (36.4 ov) | BAN: 116/10 (33.1 ov)",
+          "India U19 vs Sri Lanka U19 (2nd unofficial ODI, ODI): Sri Lanka U19 won by 8 wkts — INDU19: 285/10 (47.2 ov) | SLU19: 291/2 (47.6 ov)",
+          "Sri Lanka U19 vs India U19 (1st unofficial ODI, ODI): India U19 won by 4 wkts — SLU19: 320/6 (49.6 ov) | INDU19: 324/6 (49.2 ov)",
+          "Sri Lanka vs West Indies (2nd Test, TEST): Match drawn — SL: 549/9 (139.3 ov) & 251/9 (48.6 ov) | WI: 499/10 (165.5 ov) & 109/0 (39.6 ov)",
+          "Sri Lanka A vs India A (2nd Unofficial Test, TEST): India A won by 10 wkts — SLA: 366/10 (109.6 ov) & 209/10 (48.3 ov) | INDA: 543/9 (143.3 ov) & 36/0 (6.2 ov)",
+          "Bangladesh vs Zimbabwe (One-off Test, TEST): Zimbabwe won by an innings and 85 runs — BAN: 140/10 (47.2 ov) & 185/10 (44.6 ov) | ZIM: 410/10 (107.2 ov)",
+          "England vs India (3rd T20I, T20): England won by 125 runs — ENG: 201/7 (19.6 ov) | IND: 76/10 (11.4 ov)",
+          "England Women vs Australia Women (Final, T20): Australia Women won by 7 wkts — ENGW: 150/4 (19.6 ov) | AUSW: 153/3 (17.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Superb England inflict record T20 defeat on India — England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two",
+          "England enjoy stunning victory as India fall to record T20 defeat — England take an unbeatable 2-0 lead in their five-match series by crushing India in the third T20 at Trent Bridge, bowli",
+          "'They've been hammered' - Rashid wicket inflicts record loss on India — Adil Rashid picks up the final wicket of Varun Chakravarthy at Trent Bridge as England inflict India's heaviest T20 defe",
+          "Superb Holland takes Somerset to win over Essex — Niamh Holland hits an unbeaten 92 as Somerset beat Essex by two wickets in the Women's T20 Blast.",
+          "Sciver-Brunt hits fifty to give England hope in World Cup final — England captain Nat Sciver-Brunt leads from the front as she finishes unbeaten on 58 to help her side post 150 in the Wo",
+          "Bethell stars as he guides England to impressive win against India — Jacob Bethell hits an unbeaten 76 as England recover from 1-2 to chase down 191 to beat India by four wickets in the sec"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Former Afghanistan fast bowler Zadran dies aged 38",
+          "How close is that? - Buttler removes Varma with fingertip stumping",
+          "Ireland face 'big question' on World Test Championship",
+          "Australia give improved England plenty to ponder one year out from Ashes",
+          "Test Match Special Podcast"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-england-enjoy-stunning-victory-as-india-fall-to-re",
+    "title": "England enjoy stunning victory as India fall to record T20 defeat | Cricket News",
+    "description": "England take an unbeatable 2-0 lead in their five-match series by crushing India in the third T20 at Trent Bridge, bowling them out for 76 to secure a 125-run w",
+    "excerpt": "England take an unbeatable 2-0 lead in their five-match series by crushing India in the third T20 at Trent Bridge, bowling them out for 76 to secure a 125-run w",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England enjoy stunning victory as India fall to record T20 defeat",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England enjoy stunning victory as India fall to record T20 defeat. England take an unbeatable 2-0 lead in their five-match series by crushing India in the third T20 at Trent Bridge, bowling them out for 76 to secure a 125-run win."
+      },
+      {
+        "type": "p",
+        "text": "England take an unbeatable 2-0 lead in their five-match series by crushing India in the third T20 at Trent Bridge, bowling them out for 76 to secure a 125-run win."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-former-afghanistan-fast-bowler-zadran-dies-aged-38",
+    "title": "Former Afghanistan fast bowler Zadran dies aged 38 | Cricket News",
+    "description": "Former Afghanistan fast bowler and \"foundation-laying figure\" Shapoor Zadran dies at the age of 38.",
+    "excerpt": "Former Afghanistan fast bowler and \"foundation-laying figure\" Shapoor Zadran dies at the age of 38.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cdx78nwxkjno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Former Afghanistan fast bowler Zadran dies aged 38",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Former Afghanistan fast bowler Zadran dies aged 38. Former Afghanistan fast bowler and \"foundation-laying figure\" Shapoor Zadran dies at the age of 38."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-how-close-is-that-buttler-removes-varma-with-finge",
+    "title": "How close is that? - Buttler removes Varma with fingertip stumping | Cricket News",
+    "description": "England's Jos Buttler stumps India's Tilak Varma but only just, after managing to hang on to the ball for just enough time to hit the stumps before dropping it,",
+    "excerpt": "England's Jos Buttler stumps India's Tilak Varma but only just, after managing to hang on to the ball for just enough time to hit the stumps before dropping it,",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cgevwr3ldyeo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: How close is that? - Buttler removes Varma with fingertip stumping",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: How close is that? - Buttler removes Varma with fingertip stumping. England's Jos Buttler stumps India's Tilak Varma but only just, after managing to hang on to the ball for just enough time to hit the stumps before dropping it, with the wicket delighting the home crowd at Trent Bridge."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-ireland-face-big-question-on-world-test-championsh",
+    "title": "Ireland face 'big question' on World Test Championship | Cricket News",
+    "description": "Cricket Ireland chief executive Sarah Keane says the prospect of joining the World Test Championship is an \"exciting\" one but some \"big discussions\" are needed ",
+    "excerpt": "Cricket Ireland chief executive Sarah Keane says the prospect of joining the World Test Championship is an \"exciting\" one but some \"big discussions\" are needed ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4gyj29pd14o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Ireland face 'big question' on World Test Championship",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Ireland face 'big question' on World Test Championship. Cricket Ireland chief executive Sarah Keane says the prospect of joining the World Test Championship is an \"exciting\" one but some \"big discussions\" are needed over the challenges that come with it."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-superb-england-inflict-record-t20-defeat-on-india",
+    "title": "Superb England inflict record T20 defeat on India | Cricket News",
+    "description": "England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining.",
+    "excerpt": "England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn59nkwp275o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Superb England inflict record T20 defeat on India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Superb England inflict record T20 defeat on India. England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining."
+      },
+      {
+        "type": "p",
+        "text": "England inflict a record defeat on India in the third Twenty20 at Trent Bridge to give the home side a 2-0 lead with two matches in the series remaining."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-08-they-ve-been-hammered-rashid-wicket-inflicts-recor",
+    "title": "'They've been hammered' - Rashid wicket inflicts record loss on India | Cricket News",
+    "description": "Adil Rashid picks up the final wicket of Varun Chakravarthy at Trent Bridge as England inflict India's heaviest T20 defeat, with the tourists bowled out for 76 ",
+    "excerpt": "Adil Rashid picks up the final wicket of Varun Chakravarthy at Trent Bridge as England inflict India's heaviest T20 defeat, with the tourists bowled out for 76 ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'They've been hammered' - Rashid wicket inflicts record loss on India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'They've been hammered' - Rashid wicket inflicts record loss on India. Adil Rashid picks up the final wicket of Varun Chakravarthy at Trent Bridge as England inflict India's heaviest T20 defeat, with the tourists bowled out for 76 to lose by 125 runs."
+      },
+      {
+        "type": "p",
+        "text": "Adil Rashid picks up the final wicket of Varun Chakravarthy at Trent Bridge as England inflict India's heaviest T20 defeat, with the tourists bowled out for 76 to lose by 125 runs."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bel-vs-gib-2026-07-08",
+    "title": "Belgium vs Gibraltar Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Belgium vs Gibraltar preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 8 Jul, 2026, 2:00 pm.",
+    "excerpt": "Belgium vs Gibraltar — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Partly cloudy · High 24°C / Low 12°C · Rain: 0 mm · Wind: up to 23 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Belgium vs Gibraltar",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Belgium vs Gibraltar cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Belgium face Gibraltar in 2nd Match (T20) on Wed, 8 Jul, 2026, 2:00 pm at Koge Cricket Club Koge. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Belgium vs Gibraltar"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 8 Jul, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "Koge Cricket Club Koge"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 08, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 24°C / Low 12°C · Rain: 0 mm · Wind: up to 23 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-den-vs-est-2026-07-08",
+    "title": "Denmark vs Estonia Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Denmark vs Estonia preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 8 Jul, 2026, 2:00 pm.",
+    "excerpt": "Denmark vs Estonia — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Partly cloudy · High 24°C / Low 13°C · Rain: 0 mm · Wind: up to 25 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Denmark vs Estonia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Denmark vs Estonia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Denmark face Estonia in 1st Match (T20) on Wed, 8 Jul, 2026, 2:00 pm at Svanholm Park Brondby. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Denmark vs Estonia"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 8 Jul, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "Svanholm Park Brondby"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 08, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 24°C / Low 13°C · Rain: 0 mm · Wind: up to 25 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nor-vs-hun-2026-07-08",
+    "title": "Norway vs Hungary Preview — Pitch, Weather & Lineup | 3rd Match",
+    "description": "Norway vs Hungary preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 8 Jul, 2026, 7:00 pm.",
+    "excerpt": "Norway vs Hungary — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Partly cloudy · High 24°C / Low 13°C · Rain: 0 mm · Wind: up to 25 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Norway vs Hungary",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Norway vs Hungary cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Norway face Hungary in 3rd Match (T20) on Wed, 8 Jul, 2026, 7:00 pm at Svanholm Park Brondby. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Norway vs Hungary"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 8 Jul, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Svanholm Park Brondby"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 08, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 24°C / Low 13°C · Rain: 0 mm · Wind: up to 25 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rom-vs-srb-2026-07-08",
+    "title": "Romania vs Serbia Preview — Pitch, Weather & Lineup | 4th Match",
+    "description": "Romania vs Serbia preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 8 Jul, 2026, 7:00 pm.",
+    "excerpt": "Romania vs Serbia — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Partly cloudy · High 24°C / Low 12°C · Rain: 0 mm · Wind: up to 23 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Romania vs Serbia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Romania vs Serbia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Romania face Serbia in 4th Match (T20) on Wed, 8 Jul, 2026, 7:00 pm at Koge Cricket Club Koge. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Romania vs Serbia"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 8 Jul, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Koge Cricket Club Koge"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 08, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 24°C / Low 12°C · Rain: 0 mm · Wind: up to 23 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-07",
     "title": "Cricket Daily Digest — Tuesday, 7 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 5+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
