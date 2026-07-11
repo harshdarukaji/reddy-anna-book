@@ -3,6 +3,928 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-11",
+    "title": "Cricket Daily Digest — Saturday, 11 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 11 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-11 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 11 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 11 Jul, 2026, 1:00 pm",
+            "Zimbabwe vs Bangladesh",
+            "ODI",
+            "Harare",
+            "Bangladesh tour of Zimbabwe, 2026"
+          ],
+          [
+            "Sun, 12 Jul, 2026, 12:00 am",
+            "West Indies vs New Zealand",
+            "ODI",
+            "Guyana",
+            "New Zealand tour of West Indies, 2026"
+          ],
+          [
+            "Sat, 11 Jul, 2026, 2:00 pm",
+            "Germany Women vs Switzerland Women",
+            "T20",
+            "Karlsruhe",
+            "Switzerland Women tour of Germany, 2026"
+          ],
+          [
+            "Sat, 11 Jul, 2026, 7:00 pm",
+            "England vs India",
+            "T20",
+            "Southampton",
+            "India tour of England, 2026"
+          ],
+          [
+            "Sat, 11 Jul, 2026, 7:00 pm",
+            "Germany Women vs Switzerland Women",
+            "T20",
+            "Karlsruhe",
+            "Switzerland Women tour of Germany, 2026"
+          ],
+          [
+            "Sat, 11 Jul, 2026, 2:00 pm",
+            "Shivamogga Yodhas vs Coastal Kings Mangaluru",
+            "T20",
+            "Bengaluru",
+            "Maharaja Trophy KSCA T20 2026"
+          ],
+          [
+            "Sun, 12 Jul, 2026, 2:00 am",
+            "Texas Super Kings vs Washington Freedom",
+            "T20",
+            "Dallas",
+            "Major League Cricket 2026"
+          ],
+          [
+            "Sun, 12 Jul, 2026, 6:00 am",
+            "Seattle Orcas vs San Francisco Unicorns",
+            "T20",
+            "Dallas",
+            "Major League Cricket 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Zimbabwe vs Bangladesh (2nd ODI, ODI): Zimbabwe won by 13 runs — ZIM: 247/6 (49.6 ov) | BAN: 234/10 (48.1 ov)",
+          "India U19 vs Sri Lanka U19 (3rd unofficial ODI, ODI): Sri Lanka U19 won by 1 wkt — INDU19: 290/8 (49.6 ov) | SLU19: 291/9 (49.6 ov)",
+          "Zimbabwe vs Bangladesh (1st ODI, ODI): Zimbabwe won by 25 runs — ZIM: 141/10 (36.4 ov) | BAN: 116/10 (33.1 ov)",
+          "India U19 vs Sri Lanka U19 (2nd unofficial ODI, ODI): Sri Lanka U19 won by 8 wkts — INDU19: 285/10 (47.2 ov) | SLU19: 291/2 (47.6 ov)",
+          "Sri Lanka U19 vs India U19 (1st unofficial ODI, ODI): India U19 won by 4 wkts — SLU19: 320/6 (49.6 ov) | INDU19: 324/6 (49.2 ov)",
+          "Sri Lanka vs West Indies (2nd Test, TEST): Match drawn — SL: 549/9 (139.3 ov) & 251/9 (48.6 ov) | WI: 499/10 (165.5 ov) & 109/0 (39.6 ov)",
+          "Sri Lanka A vs India A (2nd Unofficial Test, TEST): India A won by 10 wkts — SLA: 366/10 (109.6 ov) & 209/10 (48.3 ov) | INDA: 543/9 (143.3 ov) & 36/0 (6.2 ov)",
+          "Belgium vs Serbia (9th Match, T20): Belgium won by 64 runs — BEL: 171/8 (19.6 ov) | SRB: 107/10 (19.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ecclestone breaks record - in front of those who paved the way — Sophie Ecclestone is a fitting player to take the headlines after a momentous opening day at Lord's, where past England ",
+          "'A lovely delivery!' - Filer's historic Test wicket at Lord's — Lauren Filer puts herself into the history books, by becoming the first bowler to take a wicket in the first women's Tes",
+          "Watch: England v India day one highlights — England v India, Day 1. World Cup stars feature in the historic women’s test at Lord’s",
+          "No century for Mandhana as England finally get breakthrough after lunch — There's no historic century for India captain Smriti Mandhana as she's caught for 83 off the bowling of Issy Wong as Ind",
+          "England thrash India as Brook shines in Bristol to secure series win — Harry Brook hit an unbeaten 79 to guide England to a nine-wicket win against India in Bristol, to go 3-0 in the five mat",
+          "Big-hitting in Bristol - Brook's special innings in England win — Watch Harry Brook's best shots against India in the fourth T20 as he finishes unbeaten on 79 from 35 balls to guide Engl"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "ECB to face no action over Stokes retirement video",
+          "History made at Lord's - with Test finely balanced after opening day",
+          "Ecclestone makes history as England fight back",
+          "T20 Blast: Surrey and Glos through, Lancs win Roses",
+          "'She's cleaned up!' - Ecclestone takes three wickets in six balls"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-a-lovely-delivery-filer-s-historic-test-wicket-at-",
+    "title": "'A lovely delivery!' - Filer's historic Test wicket at Lord's | Cricket News",
+    "description": "Lauren Filer puts herself into the history books, by becoming the first bowler to take a wicket in the first women's Test at Lord's, as she removed Shafali Verm",
+    "excerpt": "Lauren Filer puts herself into the history books, by becoming the first bowler to take a wicket in the first women's Test at Lord's, as she removed Shafali Verm",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cvg7yglq74ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'A lovely delivery!' - Filer's historic Test wicket at Lord's",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'A lovely delivery!' - Filer's historic Test wicket at Lord's. Lauren Filer puts herself into the history books, by becoming the first bowler to take a wicket in the first women's Test at Lord's, as she removed Shafali Verma for 0 on the opening morning of the on"
+      },
+      {
+        "type": "p",
+        "text": "Lauren Filer puts herself into the history books, by becoming the first bowler to take a wicket in the first women's Test at Lord's, as she removed Shafali Verma for 0 on the opening morning of the one-off Test."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-ecb-to-face-no-action-over-stokes-retirement-video",
+    "title": "ECB to face no action over Stokes retirement video | Cricket News",
+    "description": "England will face no action from the International Cricket Council (ICC) over Ben Stokes' retirement video.",
+    "excerpt": "England will face no action from the International Cricket Council (ICC) over Ben Stokes' retirement video.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cy8w39qvpdlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: ECB to face no action over Stokes retirement video",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: ECB to face no action over Stokes retirement video. England will face no action from the International Cricket Council (ICC) over Ben Stokes' retirement video."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-ecclestone-breaks-record-in-front-of-those-who-pav",
+    "title": "Ecclestone breaks record - in front of those who paved the way | Cricket News",
+    "description": "Sophie Ecclestone is a fitting player to take the headlines after a momentous opening day at Lord's, where past England players were honoured for paving the way",
+    "excerpt": "Sophie Ecclestone is a fitting player to take the headlines after a momentous opening day at Lord's, where past England players were honoured for paving the way",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwylvdn7gdyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Ecclestone breaks record - in front of those who paved the way",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Ecclestone breaks record - in front of those who paved the way. Sophie Ecclestone is a fitting player to take the headlines after a momentous opening day at Lord's, where past England players were honoured for paving the way."
+      },
+      {
+        "type": "p",
+        "text": "Sophie Ecclestone is a fitting player to take the headlines after a momentous opening day at Lord's, where past England players were honoured for paving the way."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-ecclestone-makes-history-as-england-fight-back",
+    "title": "Ecclestone makes history as England fight back | Cricket News",
+    "description": "Sophie Ecclestone becomes England's all-time leading wicket-taker across all formats as the hosts fight back late on day one against India of the first women's ",
+    "excerpt": "Sophie Ecclestone becomes England's all-time leading wicket-taker across all formats as the hosts fight back late on day one against India of the first women's ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c992d942gd5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Ecclestone makes history as England fight back",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Ecclestone makes history as England fight back. Sophie Ecclestone becomes England's all-time leading wicket-taker across all formats as the hosts fight back late on day one against India of the first women's Test at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-history-made-at-lord-s-with-test-finely-balanced-a",
+    "title": "History made at Lord's - with Test finely balanced after opening day | Cricket News",
+    "description": "It's a day for the history books as Lord's hosts it's first women's Test match with England closing the day on 21-1, 264 runs behind India's first innings total",
+    "excerpt": "It's a day for the history books as Lord's hosts it's first women's Test match with England closing the day on 21-1, 264 runs behind India's first innings total",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c74ypl5dgdlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: History made at Lord's - with Test finely balanced after opening day",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: History made at Lord's - with Test finely balanced after opening day. It's a day for the history books as Lord's hosts it's first women's Test match with England closing the day on 21-1, 264 runs behind India's first innings total of 285 - an innings which saw Sophie Ecclestone become England's leading wicket-taker in all formats."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-11-watch-england-v-india-day-one-highlights",
+    "title": "Watch: England v India day one highlights | Cricket News",
+    "description": "England v India, Day 1. World Cup stars feature in the historic women’s test at Lord’s",
+    "excerpt": "England v India, Day 1. World Cup stars feature in the historic women’s test at Lord’s",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/iplayer/episode/m002yqln?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Watch: England v India day one highlights",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Watch: England v India day one highlights. England v India, Day 1. World Cup stars feature in the historic women’s test at Lord’s"
+      },
+      {
+        "type": "p",
+        "text": "World Cup stars feature in the historic women’s test at Lord’s"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-eng-vs-ind-2026-07-11",
+    "title": "England vs India Preview — Pitch, Weather & Lineup | 5th T20I",
+    "description": "England vs India preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 11 Jul, 2026, 7:00 pm.",
+    "excerpt": "England vs India — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 32°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs India",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs India cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: England face India in 5th T20I (T20) on Sat, 11 Jul, 2026, 7:00 pm at The Rose Bowl Southampton. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "England vs India"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "India tour of England, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 11 Jul, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "The Rose Bowl Southampton"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 11, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 32°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-gerw-vs-suiw-2026-07-11",
+    "title": "Germany Women vs Switzerland Women Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Germany Women vs Switzerland Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 11 Jul, 2026, 2:00 pm.",
+    "excerpt": "Germany Women vs Switzerland Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 34°C / Low 17°C · Rain: 0 mm · Wind: up to 16 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Germany Women vs Switzerland Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Germany Women vs Switzerland Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Germany Women face Switzerland Women in 3rd T20I (T20) on Sat, 11 Jul, 2026, 2:00 pm at SSC, Karlsruhe Karlsruhe. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Germany Women vs Switzerland Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Switzerland Women tour of Germany, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 11 Jul, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "SSC, Karlsruhe Karlsruhe"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 11, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 34°C / Low 17°C · Rain: 0 mm · Wind: up to 16 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wi-vs-nz-2026-07-11",
+    "title": "West Indies vs New Zealand Preview — Pitch, Weather & Lineup | 1st ODI",
+    "description": "West Indies vs New Zealand preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 12 Jul, 2026, 12:00 am.",
+    "excerpt": "West Indies vs New Zealand — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 31°C / Low 19°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs New Zealand",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs New Zealand cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: West Indies face New Zealand in 1st ODI (ODI) on Sun, 12 Jul, 2026, 12:00 am at Providence Stadium Guyana. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "West Indies vs New Zealand"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "New Zealand tour of West Indies, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 12 Jul, 2026, 12:00 am"
+          ],
+          [
+            "Venue",
+            "Providence Stadium Guyana"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 12, 18:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 31°C / Low 19°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zim-vs-ban-2026-07-11",
+    "title": "Zimbabwe vs Bangladesh Preview — Pitch, Weather & Lineup | 3rd ODI",
+    "description": "Zimbabwe vs Bangladesh preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 11 Jul, 2026, 1:00 pm.",
+    "excerpt": "Zimbabwe vs Bangladesh — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 22°C / Low 10°C · Rain: 0 mm · Wind: up to 12 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe vs Bangladesh",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-11",
+    "updatedAt": "2026-07-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe vs Bangladesh cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe face Bangladesh in 3rd ODI (ODI) on Sat, 11 Jul, 2026, 1:00 pm at Harare Sports Club Harare. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe vs Bangladesh"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Bangladesh tour of Zimbabwe, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 11 Jul, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Harare Sports Club Harare"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 11, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 22°C / Low 10°C · Rain: 0 mm · Wind: up to 12 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-10",
     "title": "Cricket Daily Digest — Friday, 10 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 26+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
