@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-nz-vs-wi-2026-07-11",
+  "title": "West Indies won by 7 wkts | 1st ODI Cricket News",
+  "description": "New Zealand vs West Indies result: West Indies won by 7 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "West Indies won by 7 wkts — NZ: 267/10 (49.5 ov) | WI: 268/3 (48.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "New Zealand vs West Indies result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-12",
+  "updatedAt": "2026-07-12",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "New Zealand vs West Indies cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: New Zealand vs West Indies (1st ODI, ODI) — West Indies won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "New Zealand",
+          "267/10 (49.5 ov)"
+        ],
+        [
+          "West Indies",
+          "268/3 (48.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: West Indies won by 7 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: West Indies chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Keacy Carty delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
