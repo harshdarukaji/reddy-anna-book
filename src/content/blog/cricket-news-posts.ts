@@ -3,6 +3,787 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-13",
+    "title": "Cricket Daily Digest — Monday, 13 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 4+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 13 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-13 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 13 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 13 Jul, 2026, 10:00 am",
+            "Sri Lanka U19 vs India U19",
+            "TEST",
+            "Galle",
+            "India U19 tour of Sri Lanka 2026"
+          ],
+          [
+            "Tue, 14 Jul, 2026, 12:00 am",
+            "West Indies vs New Zealand",
+            "ODI",
+            "Guyana",
+            "West Indies V New Zealand"
+          ],
+          [
+            "Mon, 13 Jul, 2026, 2:00 pm",
+            "Denmark vs Hungary",
+            "T20",
+            "Brondby",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ],
+          [
+            "Mon, 13 Jul, 2026, 6:00 pm",
+            "Estonia vs Turkey",
+            "T20",
+            "Brondby",
+            "ICC Men's T20 World Cup Europe Sub Regio"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "New Zealand vs West Indies (1st ODI, ODI): West Indies won by 7 wkts — NZ: 267/10 (49.5 ov) | WI: 268/3 (48.5 ov)",
+          "Zimbabwe vs Bangladesh (3rd ODI, ODI): Bangladesh won by 7 wkts — ZIM: 199/10 (48.1 ov) | BAN: 200/3 (35.6 ov)",
+          "Zimbabwe vs Bangladesh (2nd ODI, ODI): Zimbabwe won by 13 runs — ZIM: 247/6 (49.6 ov) | BAN: 234/10 (48.1 ov)",
+          "India U19 vs Sri Lanka U19 (3rd unofficial ODI, ODI): Sri Lanka U19 won by 1 wkt — INDU19: 290/8 (49.6 ov) | SLU19: 291/9 (49.6 ov)",
+          "Zimbabwe vs Bangladesh (1st ODI, ODI): Zimbabwe won by 25 runs — ZIM: 141/10 (36.4 ov) | BAN: 116/10 (33.1 ov)",
+          "India U19 vs Sri Lanka U19 (2nd unofficial ODI, ODI): Sri Lanka U19 won by 8 wkts — INDU19: 285/10 (47.2 ov) | SLU19: 291/2 (47.6 ov)",
+          "Sri Lanka vs West Indies (2nd Test, TEST): Match drawn — SL: 549/9 (139.3 ov) & 251/9 (48.6 ov) | WI: 499/10 (165.5 ov) & 109/0 (39.6 ov)",
+          "Hungary vs Turkey (13th Match, T20): Hungary won by 20 runs (DLS method) - Reduced to 5 overs the chase due to rain — HUN: 164/6 (19.6 ov) | TKY: 30/5 (4.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "History maker - The best of Bhatia's brilliant century at Lord's — Yastika Bhatia produces a stunning innings to score 113 on day three of the one-off Test between England and India, with",
+          "England too good for India as Buttler hits 131 — Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their oppo",
+          "England toil as India take control in front of record crowd — India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 i",
+          "Jones makes brilliant catch as England strike early on day three — Amy Jones takes a brilliant diving catch to remove Smriti Mandhana, as India's opening batter misses out on making a cen",
+          "Gaud and Mandhana star as India take control against struggling England — Kranti Gaud takes five wickets and makes history, before Smriti Mandhana frustrates England with an unbeaten 69 as India",
+          "'Six more!' - Brilliant Brook brings up quickfire half-century — Harry Brook hits five sixes as he reaches 50 off just 19 balls as England head towards a huge score, batting first in th"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "From the ride to the rubble - how McCullum lost England Test job",
+          "England want new coach before Pakistan - who could it be?",
+          "Why Knight's legacy goes beyond the numbers - and what next for England?",
+          "Goodbyes to Beaumont and Knight as India close in on Test win",
+          "The highs and lows of Bazball"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-england-toil-as-india-take-control-in-front-of-rec",
+    "title": "England toil as India take control in front of record crowd | Cricket News",
+    "description": "India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 in their first innings.",
+    "excerpt": "India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 in their first innings.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1wyv9zeq5eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England toil as India take control in front of record crowd",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England toil as India take control in front of record crowd. India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 in their first innings."
+      },
+      {
+        "type": "p",
+        "text": "India take a lead of 269 into day three of the one-off Test match at Lord's, after England are bowled out for just 170 in their first innings."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-england-too-good-for-india-as-buttler-hits-131",
+    "title": "England too good for India as Buttler hits 131 | Cricket News",
+    "description": "Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings.",
+    "excerpt": "Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cy73ljle6dro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England too good for India as Buttler hits 131",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England too good for India as Buttler hits 131. Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings."
+      },
+      {
+        "type": "p",
+        "text": "Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-england-want-new-coach-before-pakistan-who-could-i",
+    "title": "England want new coach before Pakistan - who could it be? | Cricket News",
+    "description": "England will consider between six and 10 names as they look to replace Brendon McCullum as Test head coach, says ECB chief executive Richard Gould.",
+    "excerpt": "England will consider between six and 10 names as they look to replace Brendon McCullum as Test head coach, says ECB chief executive Richard Gould.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England want new coach before Pakistan - who could it be?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England want new coach before Pakistan - who could it be?. England will consider between six and 10 names as they look to replace Brendon McCullum as Test head coach, says ECB chief executive Richard Gould."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-from-the-ride-to-the-rubble-how-mccullum-lost-engl",
+    "title": "From the ride to the rubble - how McCullum lost England Test job | Cricket News",
+    "description": "The Brendon McCullum era gave England a ride but it careered off the rails and the next Test coach has a huge rebuilding job on their hands.",
+    "excerpt": "The Brendon McCullum era gave England a ride but it careered off the rails and the next Test coach has a huge rebuilding job on their hands.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqx15e27v3eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: From the ride to the rubble - how McCullum lost England Test job",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: From the ride to the rubble - how McCullum lost England Test job. The Brendon McCullum era gave England a ride but it careered off the rails and the next Test coach has a huge rebuilding job on their hands."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-history-maker-the-best-of-bhatia-s-brilliant-centu",
+    "title": "History maker - The best of Bhatia's brilliant century at Lord's | Cricket News",
+    "description": "Yastika Bhatia produces a stunning innings to score 113 on day three of the one-off Test between England and India, with the century putting Bhatia into the rec",
+    "excerpt": "Yastika Bhatia produces a stunning innings to score 113 on day three of the one-off Test between England and India, with the century putting Bhatia into the rec",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cevlrellmz9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: History maker - The best of Bhatia's brilliant century at Lord's",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: History maker - The best of Bhatia's brilliant century at Lord's. Yastika Bhatia produces a stunning innings to score 113 on day three of the one-off Test between England and India, with the century putting Bhatia into the record books as she becomes the first woman"
+      },
+      {
+        "type": "p",
+        "text": "Yastika Bhatia produces a stunning innings to score 113 on day three of the one-off Test between England and India, with the century putting Bhatia into the record books as she becomes the first woman to score a Test century at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-13-why-knight-s-legacy-goes-beyond-the-numbers-and-wh",
+    "title": "Why Knight's legacy goes beyond the numbers - and what next for England? | Cricket News",
+    "description": "Heather Knight leaves behind a legacy to English cricket that goes far beyond the numbers on the field, writes Ffion Wynne.",
+    "excerpt": "Heather Knight leaves behind a legacy to English cricket that goes far beyond the numbers on the field, writes Ffion Wynne.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c7vy236p9zzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Why Knight's legacy goes beyond the numbers - and what next for England?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Why Knight's legacy goes beyond the numbers - and what next for England?. Heather Knight leaves behind a legacy to English cricket that goes far beyond the numbers on the field, writes Ffion Wynne."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-den-vs-hun-2026-07-13",
+    "title": "Denmark vs Hungary Preview — Pitch, Weather & Lineup | 15th Match",
+    "description": "Denmark vs Hungary preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 13 Jul, 2026, 2:00 pm.",
+    "excerpt": "Denmark vs Hungary — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Heavy rain · High 24°C / Low 18°C · Rain: 28.7 mm · Wind: up to 25 km/h. Rain li…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Denmark vs Hungary",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Denmark vs Hungary cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Denmark face Hungary in 15th Match (T20) on Mon, 13 Jul, 2026, 2:00 pm at Svanholm Park Brondby. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Denmark vs Hungary"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 13 Jul, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "Svanholm Park Brondby"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 13, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Heavy rain · High 24°C / Low 18°C · Rain: 28.7 mm · Wind: up to 25 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-est-vs-tky-2026-07-13",
+    "title": "Estonia vs Turkey Preview — Pitch, Weather & Lineup | 16th Match",
+    "description": "Estonia vs Turkey preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 13 Jul, 2026, 6:00 pm.",
+    "excerpt": "Estonia vs Turkey — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Heavy rain · High 24°C / Low 18°C · Rain: 28.7 mm · Wind: up to 25 km/h. Rain li…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Estonia vs Turkey",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Estonia vs Turkey cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Estonia face Turkey in 16th Match (T20) on Mon, 13 Jul, 2026, 6:00 pm at Svanholm Park Brondby. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Estonia vs Turkey"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Europe Sub Regional Qualifier B"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 13 Jul, 2026, 6:00 pm"
+          ],
+          [
+            "Venue",
+            "Svanholm Park Brondby"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 13, 12:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Heavy rain · High 24°C / Low 18°C · Rain: 28.7 mm · Wind: up to 25 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wi-vs-nz-2026-07-13",
+    "title": "West Indies vs New Zealand Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "West Indies vs New Zealand preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 14 Jul, 2026, 12:00 am.",
+    "excerpt": "West Indies vs New Zealand — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 30°C / Low 17°C · Rain: 0 mm · Wind: up to 23 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs New Zealand",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs New Zealand cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: West Indies face New Zealand in 2nd ODI (ODI) on Tue, 14 Jul, 2026, 12:00 am at Providence Stadium Guyana. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "West Indies vs New Zealand"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "West Indies V New Zealand"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 14 Jul, 2026, 12:00 am"
+          ],
+          [
+            "Venue",
+            "Providence Stadium Guyana"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 14, 18:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 30°C / Low 17°C · Rain: 0 mm · Wind: up to 23 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-12",
     "title": "Cricket Daily Digest — Sunday, 12 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 26+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
