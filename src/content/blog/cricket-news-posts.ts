@@ -3,6 +3,914 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-19",
+    "title": "Cricket Daily Digest — Sunday, 19 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 19 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-19 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Sunday, 19 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sun, 19 Jul, 2026, 3:30 pm",
+            "England vs India",
+            "ODI",
+            "London",
+            "India tour of England, 2026"
+          ],
+          [
+            "Sun, 19 Jul, 2026, 7:30 pm",
+            "West Indies vs New Zealand",
+            "ODI",
+            "Bridgetown, Barbados",
+            "New Zealand tour of West Indies, 2026"
+          ],
+          [
+            "Mon, 20 Jul, 2026, 9:30 am",
+            "Sri Lanka U19 vs India U19",
+            "TEST",
+            "Galle",
+            "India U19 tour of Sri Lanka 2026"
+          ],
+          [
+            "Sun, 19 Jul, 2026, 4:00 pm",
+            "Zimbabwe vs Bangladesh",
+            "T20",
+            "Bulawayo",
+            "Bangladesh tour of Zimbabwe, 2026"
+          ],
+          [
+            "Sun, 19 Jul, 2026, 3:00 pm",
+            "Dambulla Sixers vs Jaffna Kings",
+            "T20",
+            "Colombo",
+            "Lanka Premier League 2026"
+          ],
+          [
+            "Sun, 19 Jul, 2026, 7:30 pm",
+            "Colombo Kaps vs Kandy Falcons",
+            "T20",
+            "Colombo",
+            "Lanka Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "West Indies vs New Zealand (3rd ODI, ODI): New Zealand won by 6 wkts — WI: 140/10 (37.1 ov) | NZ: 141/4 (39.3 ov)",
+          "India vs England (2nd ODI, ODI): England won by 4 wkts — IND: 233/10 (43.6 ov) | ENG: 235/6 (44.1 ov)",
+          "England vs India (1st ODI, ODI): India won by 6 wkts — ENG: 258/10 (47.5 ov) | IND: 262/4 (45.2 ov)",
+          "West Indies vs New Zealand (2nd ODI, ODI): New Zealand won by 5 wkts — WI: 138/10 (35.6 ov) | NZ: 141/5 (32.4 ov)",
+          "Sri Lanka U19 vs India U19 (1st unofficial Test, TEST): Match drawn — SLU19: 424/9 (106.4 ov) & 178/6 (39.1 ov) | INDU19: 576/10 (173.5 ov)",
+          "Bangladesh vs Zimbabwe (2nd T20I, T20): Bangladesh won by 34 runs — BAN: 186/5 (19.6 ov) | ZIM: 152/10 (19.4 ov)",
+          "Zimbabwe vs Bangladesh (1st T20I, T20): Zimbabwe won by 32 runs — ZIM: 170/6 (19.6 ov) | BAN: 138/10 (18.6 ov)",
+          "West Indies Women vs Ireland Women (3rd ODI, ODI): West Indies Women won by 64 runs — WIW: 257/10 (49.6 ov) | IREW: 193/10 (43.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "The ultimate all-round sportsman - Sobers could do it all — Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century ",
+          "The Blaze thump Durham by 10 wickets to win T20 Blast — Former England international Tammy Beaumont makes an unbeaten half-century as The Blaze beat Durham to lift the Women's ",
+          "Reliable Root steps up again as England beat India to level series — Joe Root hits an unbeaten 99 as he guides England to a four-wicket win against India in the second one-day international",
+          "No century, but plenty of class - Root leads England to victory — Joe Root finishes on 99 not out as he guides England to a four wicket win against India during the second one-day intern",
+          "'Excellent' Archer takes quick wickets to give England control — Jofra Archer takes back-to-back wickets to remove Axar Patel and Shivam Dube, but falls just short of a hat-trick as Ind",
+          "Root's run-a-ball 76 gets England up to 258 — Joe Root rescues England with an unbeaten run a ball 76 to guide the home side to 258 during the first one-day internati"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Northants claim third T20 Blast title after beating Hants",
+          "Weatherley & Fuller help Hants beat Notts in Blast semi",
+          "Northants edge Somerset thriller to make Blast final",
+          "Flower rules himself out as England seek Test coach",
+          "Gorvin to lead Glamorgan in One Day Cup"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-northants-claim-third-t20-blast-title-after-beatin",
+    "title": "Northants claim third T20 Blast title after beating Hants | Cricket News",
+    "description": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+    "excerpt": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Northants claim third T20 Blast title after beating Hants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Northants claim third T20 Blast title after beating Hants. Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-northants-edge-somerset-thriller-to-make-blast-fin",
+    "title": "Northants edge Somerset thriller to make Blast final | Cricket News",
+    "description": "Northamptonshire Steelbacks beat defending champions Somerset by 17 runs to book their place in the T20 Blast final at Edgbaston.",
+    "excerpt": "Northamptonshire Steelbacks beat defending champions Somerset by 17 runs to book their place in the T20 Blast final at Edgbaston.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c9v4pxv2ndpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Northants edge Somerset thriller to make Blast final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Northants edge Somerset thriller to make Blast final. Northamptonshire Steelbacks beat defending champions Somerset by 17 runs to book their place in the T20 Blast final at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-reliable-root-steps-up-again-as-england-beat-india",
+    "title": "Reliable Root steps up again as England beat India to level series | Cricket News",
+    "description": "Joe Root hits an unbeaten 99 as he guides England to a four-wicket win against India in the second one-day international in Cardiff to level the three match ser",
+    "excerpt": "Joe Root hits an unbeaten 99 as he guides England to a four-wicket win against India in the second one-day international in Cardiff to level the three match ser",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c151gppk448o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Reliable Root steps up again as England beat India to level series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Reliable Root steps up again as England beat India to level series. Joe Root hits an unbeaten 99 as he guides England to a four-wicket win against India in the second one-day international in Cardiff to level the three match series, with one match to play."
+      },
+      {
+        "type": "p",
+        "text": "Joe Root hits an unbeaten 99 as he guides England to a four-wicket win against India in the second one-day international in Cardiff to level the three match series, with one match to play."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-the-blaze-thump-durham-by-10-wickets-to-win-t20-bl",
+    "title": "The Blaze thump Durham by 10 wickets to win T20 Blast | Cricket News",
+    "description": "Former England international Tammy Beaumont makes an unbeaten half-century as The Blaze beat Durham to lift the Women's T20 Blast title.",
+    "excerpt": "Former England international Tammy Beaumont makes an unbeaten half-century as The Blaze beat Durham to lift the Women's T20 Blast title.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ce8ldy54we1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: The Blaze thump Durham by 10 wickets to win T20 Blast",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: The Blaze thump Durham by 10 wickets to win T20 Blast. Former England international Tammy Beaumont makes an unbeaten half-century as The Blaze beat Durham to lift the Women's T20 Blast title."
+      },
+      {
+        "type": "p",
+        "text": "Former England international Tammy Beaumont makes an unbeaten half-century as The Blaze beat Durham to lift the Women's T20 Blast title."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-the-ultimate-all-round-sportsman-sobers-could-do-i",
+    "title": "The ultimate all-round sportsman - Sobers could do it all | Cricket News",
+    "description": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the",
+    "excerpt": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: The ultimate all-round sportsman - Sobers could do it all",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: The ultimate all-round sportsman - Sobers could do it all. Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the "
+      },
+      {
+        "type": "p",
+        "text": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-19-weatherley-fuller-help-hants-beat-notts-in-blast-s",
+    "title": "Weatherley & Fuller help Hants beat Notts in Blast semi | Cricket News",
+    "description": "Hampshire Hawks beat Notts Outlaws by 27 runs at Edgbaston to join Northamptonshire Steelbacks in the T20 Blast final.",
+    "excerpt": "Hampshire Hawks beat Notts Outlaws by 27 runs at Edgbaston to join Northamptonshire Steelbacks in the T20 Blast final.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c171l2vggr9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Weatherley & Fuller help Hants beat Notts in Blast semi",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Weatherley & Fuller help Hants beat Notts in Blast semi. Hampshire Hawks beat Notts Outlaws by 27 runs at Edgbaston to join Northamptonshire Steelbacks in the T20 Blast final."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-eng-vs-ind-2026-07-19",
+    "title": "England vs India Preview — Pitch, Weather & Lineup | 3rd ODI",
+    "description": "England vs India preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 19 Jul, 2026, 3:30 pm.",
+    "excerpt": "England vs India — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Overcast · High 22°C / Low 13°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs India",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs India cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: England face India in 3rd ODI (ODI) on Sun, 19 Jul, 2026, 3:30 pm at Lord's London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "England vs India"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "India tour of England, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 19 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Lord's London"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 19, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 22°C / Low 13°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-slu19-vs-indu19-2026-07-20",
+    "title": "Sri Lanka U19 vs India U19 Preview — Pitch, Weather & Lineup | 2nd unofficial Test",
+    "description": "Sri Lanka U19 vs India U19 preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Mon, 20 Jul, 2026, 9:30 am.",
+    "excerpt": "Sri Lanka U19 vs India U19 — pitch: Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests.… Weather: Drizzle · High 29°C / Low 24°C · Rain: 7.5 mm · Wind: up to 21 km/h. Rain likely…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka U19 vs India U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka U19 vs India U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sri Lanka U19 face India U19 in 2nd unofficial Test (TEST) on Mon, 20 Jul, 2026, 9:30 am at Galle International Stadium Galle. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sri Lanka U19 vs India U19"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "India U19 tour of Sri Lanka 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 20 Jul, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Galle International Stadium Galle"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 20, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 240–270 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 29°C / Low 24°C · Rain: 7.5 mm · Wind: up to 21 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wi-vs-nz-2026-07-19",
+    "title": "West Indies vs New Zealand Preview — Pitch, Weather & Lineup | 4th ODI",
+    "description": "West Indies vs New Zealand preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 19 Jul, 2026, 7:30 pm.",
+    "excerpt": "West Indies vs New Zealand — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 31°C / Low 25°C · Rain: 1 mm · Wind: up to 26 km/h. Light r…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs New Zealand",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs New Zealand cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: West Indies face New Zealand in 4th ODI (ODI) on Sun, 19 Jul, 2026, 7:30 pm at Kensington Oval Bridgetown, Barbados. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "West Indies vs New Zealand"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "New Zealand tour of West Indies, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 19 Jul, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "Kensington Oval Bridgetown, Barbados"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 19, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 31°C / Low 25°C · Rain: 1 mm · Wind: up to 26 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zim-vs-ban-2026-07-19",
+    "title": "Zimbabwe vs Bangladesh Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Zimbabwe vs Bangladesh preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 19 Jul, 2026, 4:00 pm.",
+    "excerpt": "Zimbabwe vs Bangladesh — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 26°C / Low 12°C · Rain: 0 mm · Wind: up to 13 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe vs Bangladesh",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-19",
+    "updatedAt": "2026-07-19",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe vs Bangladesh cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe face Bangladesh in 3rd T20I (T20) on Sun, 19 Jul, 2026, 4:00 pm at Queens Sports Club Bulawayo. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe vs Bangladesh"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Bangladesh tour of Zimbabwe, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 19 Jul, 2026, 4:00 pm"
+          ],
+          [
+            "Venue",
+            "Queens Sports Club Bulawayo"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 19, 10:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 26°C / Low 12°C · Rain: 0 mm · Wind: up to 13 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-18",
     "title": "Cricket Daily Digest — Saturday, 18 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
