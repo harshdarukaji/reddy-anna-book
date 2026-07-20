@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-eng-vs-ind-2026-07-19",
+  "title": "England won by 27 runs | 3rd ODI Cricket News",
+  "description": "England vs India result: England won by 27 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "England won by 27 runs — ENG: 387/3 (49.6 ov) | IND: 360/7 (49.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "England vs India result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-20",
+  "updatedAt": "2026-07-20",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "England vs India cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: England vs India (3rd ODI, ODI) — England won by 27 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "England",
+          "387/3 (49.6 ov)"
+        ],
+        [
+          "India",
+          "360/7 (49.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: England won by 27 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: England chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Jacob Bethell delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

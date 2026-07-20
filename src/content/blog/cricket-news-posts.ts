@@ -3,6 +3,611 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-20",
+    "title": "Cricket Daily Digest — Monday, 20 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 1+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 20 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-20 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 20 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 20 Jul, 2026, 10:00 am",
+            "Sri Lanka U19 vs India U19",
+            "TEST",
+            "Colombo",
+            "India U19 tour of Sri Lanka 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "West Indies vs New Zealand (4th ODI, ODI): New Zealand won by 1 wkt — WI: 188/10 (44.4 ov) | NZ: 189/9 (44.1 ov)",
+          "England vs India (3rd ODI, ODI): England won by 27 runs — ENG: 387/3 (49.6 ov) | IND: 360/7 (49.6 ov)",
+          "West Indies vs New Zealand (3rd ODI, ODI): New Zealand won by 6 wkts — WI: 140/10 (37.1 ov) | NZ: 141/4 (39.3 ov)",
+          "India vs England (2nd ODI, ODI): England won by 4 wkts — IND: 233/10 (43.6 ov) | ENG: 235/6 (44.1 ov)",
+          "England vs India (1st ODI, ODI): India won by 6 wkts — ENG: 258/10 (47.5 ov) | IND: 262/4 (45.2 ov)",
+          "West Indies vs New Zealand (2nd ODI, ODI): New Zealand won by 5 wkts — WI: 138/10 (35.6 ov) | NZ: 141/5 (32.4 ov)",
+          "Sri Lanka U19 vs India U19 (1st unofficial Test, TEST): Match drawn — SLU19: 424/9 (106.4 ov) & 178/6 (39.1 ov) | INDU19: 576/10 (173.5 ov)",
+          "Zimbabwe vs Bangladesh (3rd T20I, T20): Bangladesh won by 4 wkts — ZIM: 143/7 (19.6 ov) | BAN: 144/6 (19.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England seal series with record Lord's ODI total — England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series v",
+          "Runs and records galore as England beat India to seal ODI series win — Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, wi",
+          "Patience, power, perfection - Duckett's record-breaking innings — Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the h",
+          "The ultimate all-round sportsman - Sobers could do it all — Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century ",
+          "No ODI century but Bethell helps England to stunning start — Watch the best shots from Jacob Bethell as he makes 91 off 93 balls to put England on course for a big score in the seri",
+          "Heroic and historic - Rohit's century to remember at Lord's — Rohit Sharma becomes the first Indian to score a one-day century at Lord's as he scored 138, in an innings that included"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Weatherley 'gutted' by Hants' Finals Day defeat",
+          "Santner steers NZ to narrow win over Windies - fourth ODI scorecard",
+          "Northants claim third T20 Blast title after beating Hants",
+          "Bangladesh beat Zimbabwe to win T20 series 2-1 - scorecard",
+          "Weatherley & Fuller help Hants beat Notts in Blast semi"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-england-seal-series-with-record-lord-s-odi-total",
+    "title": "England seal series with record Lord's ODI total | Cricket News",
+    "description": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.",
+    "excerpt": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England seal series with record Lord's ODI total",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England seal series with record Lord's ODI total. England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory."
+      },
+      {
+        "type": "p",
+        "text": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-northants-claim-third-t20-blast-title-after-beatin",
+    "title": "Northants claim third T20 Blast title after beating Hants | Cricket News",
+    "description": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+    "excerpt": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Northants claim third T20 Blast title after beating Hants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Northants claim third T20 Blast title after beating Hants. Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-patience-power-perfection-duckett-s-record-breakin",
+    "title": "Patience, power, perfection - Duckett's record-breaking innings | Cricket News",
+    "description": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an O",
+    "excerpt": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an O",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Patience, power, perfection - Duckett's record-breaking innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Patience, power, perfection - Duckett's record-breaking innings. Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an ODI at Lord's, beating the previous recor"
+      },
+      {
+        "type": "p",
+        "text": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an ODI at Lord's, beating the previous record of 138, set by Sir Viv Richards in 1975."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-runs-and-records-galore-as-england-beat-india-to-s",
+    "title": "Runs and records galore as England beat India to seal ODI series win | Cricket News",
+    "description": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 serie",
+    "excerpt": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 serie",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/football/videos/c5yz1n25892o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Runs and records galore as England beat India to seal ODI series win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Runs and records galore as England beat India to seal ODI series win. Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 series win."
+      },
+      {
+        "type": "p",
+        "text": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 series win."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-santner-steers-nz-to-narrow-win-over-windies-fourt",
+    "title": "Santner steers NZ to narrow win over Windies - fourth ODI scorecard | Cricket News",
+    "description": "Latest scorecard from the fourth one-day international between West Indies and New Zealand in Barbados.",
+    "excerpt": "Latest scorecard from the fourth one-day international between West Indies and New Zealand in Barbados.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-239522?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Santner steers NZ to narrow win over Windies - fourth ODI scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Santner steers NZ to narrow win over Windies - fourth ODI scorecard. Latest scorecard from the fourth one-day international between West Indies and New Zealand in Barbados."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-20-weatherley-gutted-by-hants-finals-day-defeat",
+    "title": "Weatherley 'gutted' by Hants' Finals Day defeat | Cricket News",
+    "description": "Hampshire batter Joe Weatherley says he is \"gutted\" after the Hawks are narrowly beaten in the final of the T20 Blast by Northamptonshire Steelbacks.",
+    "excerpt": "Hampshire batter Joe Weatherley says he is \"gutted\" after the Hawks are narrowly beaten in the final of the T20 Blast by Northamptonshire Steelbacks.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c78g9elgy1vo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Weatherley 'gutted' by Hants' Finals Day defeat",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Weatherley 'gutted' by Hants' Finals Day defeat. Hampshire batter Joe Weatherley says he is \"gutted\" after the Hawks are narrowly beaten in the final of the T20 Blast by Northamptonshire Steelbacks."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-eng-vs-ind-2026-07-19",
+    "title": "England won by 27 runs | 3rd ODI Cricket News",
+    "description": "England vs India result: England won by 27 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "England won by 27 runs — ENG: 387/3 (49.6 ov) | IND: 360/7 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs India result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs India cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: England vs India (3rd ODI, ODI) — England won by 27 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "England",
+            "387/3 (49.6 ov)"
+          ],
+          [
+            "India",
+            "360/7 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: England won by 27 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: England chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Jacob Bethell delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-wi-vs-nz-2026-07-19",
+    "title": "New Zealand won by 1 wkt | 4th ODI Cricket News",
+    "description": "West Indies vs New Zealand result: New Zealand won by 1 wkt. Scores, player of the match, and pitch report.",
+    "excerpt": "New Zealand won by 1 wkt — WI: 188/10 (44.4 ov) | NZ: 189/9 (44.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs New Zealand result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs New Zealand cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: West Indies vs New Zealand (4th ODI, ODI) — New Zealand won by 1 wkt. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "West Indies",
+            "188/10 (44.4 ov)"
+          ],
+          [
+            "New Zealand",
+            "189/9 (44.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: New Zealand won by 1 wkt."
+      },
+      {
+        "type": "p",
+        "text": "Toss: New Zealand chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Mitchell Santner delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-19",
     "title": "Cricket Daily Digest — Sunday, 19 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
