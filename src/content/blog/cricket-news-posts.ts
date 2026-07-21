@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-21",
+    "title": "Cricket Daily Digest — Tuesday, 21 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 21 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-21 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 21 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 21 Jul, 2026, 2:30 pm",
+            "Nepal vs Namibia",
+            "ODI",
+            "Utrecht",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Derbyshire vs Durham",
+            "ODI",
+            "Derby",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Lancashire vs Surrey",
+            "ODI",
+            "Sedbergh",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Middlesex vs Essex",
+            "ODI",
+            "Radlett",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Northamptonshire vs Warwickshire",
+            "ODI",
+            "Northampton",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Nottinghamshire vs Somerset",
+            "ODI",
+            "Nettleworth",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 3:30 pm",
+            "Yorkshire vs Hampshire",
+            "ODI",
+            "Scarborough",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Wed, 22 Jul, 2026, 12:00 am",
+            "West Indies vs New Zealand",
+            "ODI",
+            "Bridgetown, Barbados",
+            "West Indies V New Zealand"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 1:00 pm",
+            "Hong Kong, China Women vs Uganda Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 5:30 pm",
+            "Namibia Women vs Tanzania Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 7:15 pm",
+            "MI London Women vs Sunrisers Leeds Women",
+            "HUN",
+            "London",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Tue, 21 Jul, 2026, 7:30 pm",
+            "Dambulla Sixers vs Kandy Falcons",
+            "T20",
+            "Dambulla",
+            "Lanka Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "West Indies vs New Zealand (4th ODI, ODI): New Zealand won by 1 wkt — WI: 188/10 (44.4 ov) | NZ: 189/9 (44.1 ov)",
+          "England vs India (3rd ODI, ODI): England won by 27 runs — ENG: 387/3 (49.6 ov) | IND: 360/7 (49.6 ov)",
+          "West Indies vs New Zealand (3rd ODI, ODI): New Zealand won by 6 wkts — WI: 140/10 (37.1 ov) | NZ: 141/4 (39.3 ov)",
+          "India vs England (2nd ODI, ODI): England won by 4 wkts — IND: 233/10 (43.6 ov) | ENG: 235/6 (44.1 ov)",
+          "England vs India (1st ODI, ODI): India won by 6 wkts — ENG: 258/10 (47.5 ov) | IND: 262/4 (45.2 ov)",
+          "Sri Lanka U19 vs India U19 (1st unofficial Test, TEST): Match drawn — SLU19: 424/9 (106.4 ov) & 178/6 (39.1 ov) | INDU19: 576/10 (173.5 ov)",
+          "Zimbabwe vs Bangladesh (3rd T20I, T20): Bangladesh won by 4 wkts — ZIM: 143/7 (19.6 ov) | BAN: 144/6 (19.4 ov)",
+          "Bangladesh vs Zimbabwe (2nd T20I, T20): Bangladesh won by 34 runs — BAN: 186/5 (19.6 ov) | ZIM: 152/10 (19.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England seal series with record Lord's ODI total — England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series v",
+          "Runs and records galore as England beat India to seal ODI series win — Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, wi",
+          "Patience, power, perfection - Duckett's record-breaking innings — Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the h",
+          "No ODI century but Bethell helps England to stunning start — Watch the best shots from Jacob Bethell as he makes 91 off 93 balls to put England on course for a big score in the seri",
+          "Heroic and historic - Rohit's century to remember at Lord's — Rohit Sharma becomes the first Indian to score a one-day century at Lord's as he scored 138, in an innings that included",
+          "'He's got it!' - Rohit Sharma reaches historic century in style — Rohit Sharma bring up his eighth 100 in England and becomes the first Indian on the ODI honours bored at Lord's as he lo"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Are England finally improving in ODI cricket?",
+          "Sciver-Brunt joins Trent Rockets coaching staff",
+          "What has changed in The Hundred for 2026?",
+          "Test Match Special Podcast",
+          "Northants coach Lehmann praises 'Shoe Army' support"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-are-england-finally-improving-in-odi-cricket",
+    "title": "Are England finally improving in ODI cricket? | Cricket News",
+    "description": "After beating India 2-1, BBC Sport asks if England are finally building momentum one year out from the World Cup.",
+    "excerpt": "After beating India 2-1, BBC Sport asks if England are finally building momentum one year out from the World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq5626gq3gdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Are England finally improving in ODI cricket?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Are England finally improving in ODI cricket?. After beating India 2-1, BBC Sport asks if England are finally building momentum one year out from the World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-england-seal-series-with-record-lord-s-odi-total",
+    "title": "England seal series with record Lord's ODI total | Cricket News",
+    "description": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.",
+    "excerpt": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England seal series with record Lord's ODI total",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England seal series with record Lord's ODI total. England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory."
+      },
+      {
+        "type": "p",
+        "text": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-patience-power-perfection-duckett-s-record-breakin",
+    "title": "Patience, power, perfection - Duckett's record-breaking innings | Cricket News",
+    "description": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an O",
+    "excerpt": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an O",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Patience, power, perfection - Duckett's record-breaking innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Patience, power, perfection - Duckett's record-breaking innings. Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an ODI at Lord's, beating the previous recor"
+      },
+      {
+        "type": "p",
+        "text": "Ben Duckett rewrites the record books as he scores 141 in the third and final One Day International against India, the highest score by any men's batter in an ODI at Lord's, beating the previous record of 138, set by Sir Viv Richards in 1975."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-runs-and-records-galore-as-england-beat-india-to-s",
+    "title": "Runs and records galore as England beat India to seal ODI series win | Cricket News",
+    "description": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 serie",
+    "excerpt": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 serie",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/football/videos/c5yz1n25892o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Runs and records galore as England beat India to seal ODI series win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Runs and records galore as England beat India to seal ODI series win. Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 series win."
+      },
+      {
+        "type": "p",
+        "text": "Ben Duckett hits a record-breaking 141 to help England beat India by 27 runs in a thrilling series decider at Lord's, with the victory also securing a 2-1 series win."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-sciver-brunt-joins-trent-rockets-coaching-staff",
+    "title": "Sciver-Brunt joins Trent Rockets coaching staff | Cricket News",
+    "description": "Former England bowler Katherine Sciver-Brunt joins Trent Rockets Women as an assistant coach for the 2026 edition of The Hundred.",
+    "excerpt": "Former England bowler Katherine Sciver-Brunt joins Trent Rockets Women as an assistant coach for the 2026 edition of The Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn8nl0eyd4xo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sciver-Brunt joins Trent Rockets coaching staff",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sciver-Brunt joins Trent Rockets coaching staff. Former England bowler Katherine Sciver-Brunt joins Trent Rockets Women as an assistant coach for the 2026 edition of The Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-21-what-has-changed-in-the-hundred-for-2026",
+    "title": "What has changed in The Hundred for 2026? | Cricket News",
+    "description": "BBC Sport's Ask Me Anything team looks at what has changed for this year's edition of The Hundred.",
+    "excerpt": "BBC Sport's Ask Me Anything team looks at what has changed for this year's edition of The Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4gygg97v4po?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: What has changed in The Hundred for 2026?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: What has changed in The Hundred for 2026?. BBC Sport's Ask Me Anything team looks at what has changed for this year's edition of The Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-derby-vs-dur-2026-07-21",
+    "title": "Derbyshire vs Durham Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Derbyshire vs Durham preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 21 Jul, 2026, 3:30 pm.",
+    "excerpt": "Derbyshire vs Durham — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 26°C / Low 13°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Derbyshire vs Durham",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Derbyshire vs Durham cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Derbyshire face Durham in Group B (ODI) on Tue, 21 Jul, 2026, 3:30 pm at County Ground Derby. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Derbyshire vs Durham"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 21 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Derby"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 21, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 13°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-lancs-vs-sur-2026-07-21",
+    "title": "Lancashire vs Surrey Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Lancashire vs Surrey preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 21 Jul, 2026, 3:30 pm.",
+    "excerpt": "Lancashire vs Surrey — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 21°C / Low 13°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lancashire vs Surrey",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lancashire vs Surrey cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Lancashire face Surrey in Group A (ODI) on Tue, 21 Jul, 2026, 3:30 pm at Sedbergh School Ground Sedbergh. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Lancashire vs Surrey"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 21 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Sedbergh School Ground Sedbergh"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 21, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 21°C / Low 13°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-mdx-vs-ess-2026-07-21",
+    "title": "Middlesex vs Essex Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Middlesex vs Essex preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 21 Jul, 2026, 3:30 pm.",
+    "excerpt": "Middlesex vs Essex — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 15°C / Low 8°C · Rain: 0 mm · Wind: up to 15 km/h. Cloud cover e…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Middlesex vs Essex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Middlesex vs Essex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Middlesex face Essex in Group B (ODI) on Tue, 21 Jul, 2026, 3:30 pm at Brunton Memorial Ground Radlett. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Middlesex vs Essex"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 21 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Brunton Memorial Ground Radlett"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 21, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 15°C / Low 8°C · Rain: 0 mm · Wind: up to 15 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nep-vs-nam-2026-07-21",
+    "title": "Nepal vs Namibia Preview — Pitch, Weather & Lineup | 116th Match",
+    "description": "Nepal vs Namibia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 21 Jul, 2026, 2:30 pm.",
+    "excerpt": "Nepal vs Namibia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 24°C / Low 14°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nepal vs Namibia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nepal vs Namibia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Nepal face Namibia in 116th Match (ODI) on Tue, 21 Jul, 2026, 2:30 pm at Sportpark Maarschalkerweerd Utrecht. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Nepal vs Namibia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 21 Jul, 2026, 2:30 pm"
+          ],
+          [
+            "Venue",
+            "Sportpark Maarschalkerweerd Utrecht"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 21, 09:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 24°C / Low 14°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-20",
     "title": "Cricket Daily Digest — Monday, 20 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 1+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
