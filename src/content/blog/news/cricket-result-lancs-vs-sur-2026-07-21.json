@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-lancs-vs-sur-2026-07-21",
+  "title": "Surrey won by 7 wkts | Group A Cricket News",
+  "description": "Lancashire vs Surrey result: Surrey won by 7 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Surrey won by 7 wkts — LANCS: 280/5 (49.6 ov) | SUR: 285/3 (47.4 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Lancashire vs Surrey result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-22",
+  "updatedAt": "2026-07-22",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Lancashire vs Surrey cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Lancashire vs Surrey (Group A, ODI) — Surrey won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Lancashire",
+          "280/5 (49.6 ov)"
+        ],
+        [
+          "Surrey",
+          "285/3 (47.4 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Surrey won by 7 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Surrey chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
