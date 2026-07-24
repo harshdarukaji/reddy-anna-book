@@ -3,6 +3,1131 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-24",
+    "title": "Cricket Daily Digest — Friday, 24 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 24 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-24 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 24 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 24 Jul, 2026, 3:30 pm",
+            "Glamorgan vs Yorkshire",
+            "ODI",
+            "Neath, Wales",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 3:30 pm",
+            "Hampshire vs Middlesex",
+            "ODI",
+            "Southampton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 3:30 pm",
+            "Kent vs Northamptonshire",
+            "ODI",
+            "Canterbury",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 3:30 pm",
+            "Surrey vs Leicestershire",
+            "ODI",
+            "Guildford",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 3:30 pm",
+            "Worcestershire vs Derbyshire",
+            "ODI",
+            "Worcester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 6:00 pm",
+            "Durham vs Sussex",
+            "ODI",
+            "Chester-le-Street",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 6:30 pm",
+            "Somerset vs Gloucestershire",
+            "ODI",
+            "Taunton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 1:00 pm",
+            "Tanzania Women vs Uganda Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 5:30 pm",
+            "Namibia Women vs Hong Kong, China Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 7:30 pm",
+            "Lahore Qalandars vs Desert Vipers",
+            "T20",
+            "Guyana",
+            "Global Super League 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 7:30 pm",
+            "Birmingham Phoenix Women vs Trent Rockets Women",
+            "HUN",
+            "Birmingham",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Fri, 24 Jul, 2026, 11:00 pm",
+            "Birmingham Phoenix vs Trent Rockets",
+            "HUN",
+            "Birmingham",
+            "The Hundred Men's Competition 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Warwickshire vs Nottinghamshire (Group A, ODI): Nottinghamshire won by 3 wkts — WARKS: 282/10 (49.5 ov) | NOTTS: 283/7 (48.3 ov)",
+          "Nepal vs Netherlands (117th Match, ODI): Netherlands won by 6 wkts — NEP: 157/10 (44.4 ov) | NED: 158/4 (44.1 ov)",
+          "Glamorgan vs Sussex (Group B, ODI): Glamorgan won by 12 runs — GLAM: 295/8 (49.6 ov) | SUS: 283/8 (49.6 ov)",
+          "Gloucestershire vs Leicestershire (Group A, ODI): Leicestershire won by 2 wkts — GLOUCS: 235/10 (48.6 ov) | LEIC: 239/8 (48.2 ov)",
+          "New Zealand vs West Indies (5th ODI, ODI): West Indies won by 2 wkts — NZ: 268/9 (49.6 ov) | WI: 269/8 (47.3 ov)",
+          "Middlesex vs Essex (Group B, ODI): Middlesex won by 41 runs — MDX: 294/8 (49.6 ov) | ESS: 253/10 (46.2 ov)",
+          "Hampshire vs Yorkshire (Group B, ODI): Hampshire won by 50 runs — HAM: 320/8 (49.6 ov) | YORKS: 270/10 (46.6 ov)",
+          "Derbyshire vs Durham (Group B, ODI): Durham won by 5 wkts — DERBY: 256/9 (49.6 ov) | DUR: 257/5 (49.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'A brutal innings' - Seifert's best strikes of his half-century — Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set Londo",
+          "Sooryavanshi hits first India half-century in win over Zimbabwe - scorecard — Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare.",
+          "Verreynne leads Notts to One-Day Cup win over Warks — Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup.",
+          "Captain Salt leads Fire to victory against Brave — Welsh Fire captain Phil Salt leads from the front as his unbeaten 47 helps them begin the 2026 Hundred season with a six",
+          "Salt leads Welsh Fire to victory as they edge past Southern Brave — Captain Phil Salt led from the front as he finished unbeaten on 47 to guide Welsh Fire to a six-wicket victory against S",
+          "Cox half-century helps Leics beat Glos in ODC — Ben Cox's half-century helps Leicestershire Foxes begin their One-Day Cup campaign with victory over Gloucestershire."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Super Giants beat Spirit despite Livingstone flurry",
+          "Australia open to playing Test against England in India",
+          "England men begin Ashes at Trent Bridge with women's Test at Headingley",
+          "Super Giants thrash dismal Spirit at Lord's",
+          "'What's happened there?!' - Buttler and Dawson's moment to forget"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-a-brutal-innings-seifert-s-best-strikes-of-his-hal",
+    "title": "'A brutal innings' - Seifert's best strikes of his half-century | Cricket News",
+    "description": "Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set London Spirit 139 to win in their opening fix",
+    "excerpt": "Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set London Spirit 139 to win in their opening fix",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cwyrjl149gwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'A brutal innings' - Seifert's best strikes of his half-century",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'A brutal innings' - Seifert's best strikes of his half-century. Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set London Spirit 139 to win in their opening fixture of the 2026 men's Hundred."
+      },
+      {
+        "type": "p",
+        "text": "Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set London Spirit 139 to win in their opening fixture of the 2026 men's Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-australia-open-to-playing-test-against-england-in-",
+    "title": "Australia open to playing Test against England in India | Cricket News",
+    "description": "England and Australia should be open to the idea of playing a Test match in India to help generate interest in the format, says the chief executive of Cricket A",
+    "excerpt": "England and Australia should be open to the idea of playing a Test match in India to help generate interest in the format, says the chief executive of Cricket A",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c9d8px74zzdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Australia open to playing Test against England in India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Australia open to playing Test against England in India. England and Australia should be open to the idea of playing a Test match in India to help generate interest in the format, says the chief executive of Cricket Australia."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-england-men-begin-ashes-at-trent-bridge-with-women",
+    "title": "England men begin Ashes at Trent Bridge with women's Test at Headingley | Cricket News",
+    "description": "Neither Old Trafford nor Headingley will host a men's Ashes Test between England and Australia next summer.",
+    "excerpt": "Neither Old Trafford nor Headingley will host a men's Ashes Test between England and Australia next summer.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1e1zl2qgpxo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England men begin Ashes at Trent Bridge with women's Test at Headingley",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England men begin Ashes at Trent Bridge with women's Test at Headingley. Neither Old Trafford nor Headingley will host a men's Ashes Test between England and Australia next summer."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-sooryavanshi-hits-first-india-half-century-in-win-",
+    "title": "Sooryavanshi hits first India half-century in win over Zimbabwe - scorecard | Cricket News",
+    "description": "Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare.",
+    "excerpt": "Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-238972?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sooryavanshi hits first India half-century in win over Zimbabwe - scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sooryavanshi hits first India half-century in win over Zimbabwe - scorecard. Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare."
+      },
+      {
+        "type": "p",
+        "text": "Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-super-giants-beat-spirit-despite-livingstone-flurr",
+    "title": "Super Giants beat Spirit despite Livingstone flurry | Cricket News",
+    "description": "Manchester Super Giants beat London Spirit by seven runs in The Hundred at Lord's, as Liam Livingstone's big-hitting effort falls just short.",
+    "excerpt": "Manchester Super Giants beat London Spirit by seven runs in The Hundred at Lord's, as Liam Livingstone's big-hitting effort falls just short.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cvgxe515jdno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Super Giants beat Spirit despite Livingstone flurry",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Super Giants beat Spirit despite Livingstone flurry. Manchester Super Giants beat London Spirit by seven runs in The Hundred at Lord's, as Liam Livingstone's big-hitting effort falls just short."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-24-verreynne-leads-notts-to-one-day-cup-win-over-wark",
+    "title": "Verreynne leads Notts to One-Day Cup win over Warks | Cricket News",
+    "description": "Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup.",
+    "excerpt": "Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwylp26e07eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Verreynne leads Notts to One-Day Cup win over Warks",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Verreynne leads Notts to One-Day Cup win over Warks. Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup."
+      },
+      {
+        "type": "p",
+        "text": "Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nep-vs-ned-2026-07-23",
+    "title": "Netherlands won by 6 wkts | 117th Match Cricket News",
+    "description": "Nepal vs Netherlands result: Netherlands won by 6 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Netherlands won by 6 wkts — NEP: 157/10 (44.4 ov) | NED: 158/4 (44.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nepal vs Netherlands result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nepal vs Netherlands cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Nepal vs Netherlands (117th Match, ODI) — Netherlands won by 6 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Nepal",
+            "157/10 (44.4 ov)"
+          ],
+          [
+            "Netherlands",
+            "158/4 (44.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Netherlands won by 6 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Netherlands chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Scott Edwards delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-warks-vs-notts-2026-07-23",
+    "title": "Nottinghamshire won by 3 wkts | Group A Cricket News",
+    "description": "Warwickshire vs Nottinghamshire result: Nottinghamshire won by 3 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Nottinghamshire won by 3 wkts — WARKS: 282/10 (49.5 ov) | NOTTS: 283/7 (48.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Warwickshire vs Nottinghamshire result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Warwickshire vs Nottinghamshire cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Warwickshire vs Nottinghamshire (Group A, ODI) — Nottinghamshire won by 3 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Warwickshire",
+            "282/10 (49.5 ov)"
+          ],
+          [
+            "Nottinghamshire",
+            "283/7 (48.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Nottinghamshire won by 3 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Nottinghamshire chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-glam-vs-yorks-2026-07-24",
+    "title": "Glamorgan vs Yorkshire Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Glamorgan vs Yorkshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 24 Jul, 2026, 3:30 pm.",
+    "excerpt": "Glamorgan vs Yorkshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 25°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Yorkshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Yorkshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Glamorgan face Yorkshire in Group B (ODI) on Fri, 24 Jul, 2026, 3:30 pm at The Gnoll Cricket Ground Neath, Wales. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Glamorgan vs Yorkshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 24 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "The Gnoll Cricket Ground Neath, Wales"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 24, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 25°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ham-vs-mdx-2026-07-24",
+    "title": "Hampshire vs Middlesex Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Hampshire vs Middlesex preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 24 Jul, 2026, 3:30 pm.",
+    "excerpt": "Hampshire vs Middlesex — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hampshire vs Middlesex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hampshire vs Middlesex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Hampshire face Middlesex in Group B (ODI) on Fri, 24 Jul, 2026, 3:30 pm at The Rose Bowl Southampton. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Hampshire vs Middlesex"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 24 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "The Rose Bowl Southampton"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 24, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kent-vs-nhnts-2026-07-24",
+    "title": "Kent vs Northamptonshire Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Kent vs Northamptonshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 24 Jul, 2026, 3:30 pm.",
+    "excerpt": "Kent vs Northamptonshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 27°C / Low 16°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Kent vs Northamptonshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Kent vs Northamptonshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Kent face Northamptonshire in Group A (ODI) on Fri, 24 Jul, 2026, 3:30 pm at St Lawrence Ground Canterbury. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Kent vs Northamptonshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 24 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "St Lawrence Ground Canterbury"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 24, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 27°C / Low 16°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sur-vs-leic-2026-07-24",
+    "title": "Surrey vs Leicestershire Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Surrey vs Leicestershire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 24 Jul, 2026, 3:30 pm.",
+    "excerpt": "Surrey vs Leicestershire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Surrey vs Leicestershire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Surrey vs Leicestershire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Surrey face Leicestershire in Group A (ODI) on Fri, 24 Jul, 2026, 3:30 pm at Woodbridge Road Guildford. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Surrey vs Leicestershire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 24 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Woodbridge Road Guildford"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 24, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-23",
     "title": "Cricket Daily Digest — Thursday, 23 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

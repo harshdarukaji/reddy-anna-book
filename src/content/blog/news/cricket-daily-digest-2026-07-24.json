@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-07-24",
+  "title": "Cricket Daily Digest — Friday, 24 July 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 24 July 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-24",
+  "updatedAt": "2026-07-24",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-07-24 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 24 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Fri, 24 Jul, 2026, 3:30 pm",
+          "Glamorgan vs Yorkshire",
+          "ODI",
+          "Neath, Wales",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 3:30 pm",
+          "Hampshire vs Middlesex",
+          "ODI",
+          "Southampton",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 3:30 pm",
+          "Kent vs Northamptonshire",
+          "ODI",
+          "Canterbury",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 3:30 pm",
+          "Surrey vs Leicestershire",
+          "ODI",
+          "Guildford",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 3:30 pm",
+          "Worcestershire vs Derbyshire",
+          "ODI",
+          "Worcester",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 6:00 pm",
+          "Durham vs Sussex",
+          "ODI",
+          "Chester-le-Street",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 6:30 pm",
+          "Somerset vs Gloucestershire",
+          "ODI",
+          "Taunton",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 1:00 pm",
+          "Tanzania Women vs Uganda Women",
+          "T20",
+          "Windhoek",
+          "Women's T20I Quadrangular Series in Nami"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 5:30 pm",
+          "Namibia Women vs Hong Kong, China Women",
+          "T20",
+          "Windhoek",
+          "Women's T20I Quadrangular Series in Nami"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 7:30 pm",
+          "Lahore Qalandars vs Desert Vipers",
+          "T20",
+          "Guyana",
+          "Global Super League 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 7:30 pm",
+          "Birmingham Phoenix Women vs Trent Rockets Women",
+          "HUN",
+          "Birmingham",
+          "The Hundred Women's Competition 2026"
+        ],
+        [
+          "Fri, 24 Jul, 2026, 11:00 pm",
+          "Birmingham Phoenix vs Trent Rockets",
+          "HUN",
+          "Birmingham",
+          "The Hundred Men's Competition 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Warwickshire vs Nottinghamshire (Group A, ODI): Nottinghamshire won by 3 wkts — WARKS: 282/10 (49.5 ov) | NOTTS: 283/7 (48.3 ov)",
+        "Nepal vs Netherlands (117th Match, ODI): Netherlands won by 6 wkts — NEP: 157/10 (44.4 ov) | NED: 158/4 (44.1 ov)",
+        "Glamorgan vs Sussex (Group B, ODI): Glamorgan won by 12 runs — GLAM: 295/8 (49.6 ov) | SUS: 283/8 (49.6 ov)",
+        "Gloucestershire vs Leicestershire (Group A, ODI): Leicestershire won by 2 wkts — GLOUCS: 235/10 (48.6 ov) | LEIC: 239/8 (48.2 ov)",
+        "New Zealand vs West Indies (5th ODI, ODI): West Indies won by 2 wkts — NZ: 268/9 (49.6 ov) | WI: 269/8 (47.3 ov)",
+        "Middlesex vs Essex (Group B, ODI): Middlesex won by 41 runs — MDX: 294/8 (49.6 ov) | ESS: 253/10 (46.2 ov)",
+        "Hampshire vs Yorkshire (Group B, ODI): Hampshire won by 50 runs — HAM: 320/8 (49.6 ov) | YORKS: 270/10 (46.6 ov)",
+        "Derbyshire vs Durham (Group B, ODI): Durham won by 5 wkts — DERBY: 256/9 (49.6 ov) | DUR: 257/5 (49.1 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "'A brutal innings' - Seifert's best strikes of his half-century — Manchester Super Giants' Tim Seifert hits 67 off 45 balls - an innings that included nine boundaries - to help set Londo",
+        "Sooryavanshi hits first India half-century in win over Zimbabwe - scorecard — Latest scorecard from the first Twenty20 international between Zimbabwe and India in Harare.",
+        "Verreynne leads Notts to One-Day Cup win over Warks — Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire by three wickets in the One-Day Cup.",
+        "Captain Salt leads Fire to victory against Brave — Welsh Fire captain Phil Salt leads from the front as his unbeaten 47 helps them begin the 2026 Hundred season with a six",
+        "Salt leads Welsh Fire to victory as they edge past Southern Brave — Captain Phil Salt led from the front as he finished unbeaten on 47 to guide Welsh Fire to a six-wicket victory against S",
+        "Cox half-century helps Leics beat Glos in ODC — Ben Cox's half-century helps Leicestershire Foxes begin their One-Day Cup campaign with victory over Gloucestershire."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Super Giants beat Spirit despite Livingstone flurry",
+        "Australia open to playing Test against England in India",
+        "England men begin Ashes at Trent Bridge with women's Test at Headingley",
+        "Super Giants thrash dismal Spirit at Lord's",
+        "'What's happened there?!' - Buttler and Dawson's moment to forget"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
