@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-leic-vs-notts-2026-07-28",
+  "title": "Nottinghamshire won by 5 wkts | Group A Cricket News",
+  "description": "Leicestershire vs Nottinghamshire result: Nottinghamshire won by 5 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Nottinghamshire won by 5 wkts — LEIC: 199/10 (48.2 ov) | NOTTS: 200/5 (42.3 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Leicestershire vs Nottinghamshire result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-07-29",
+  "updatedAt": "2026-07-29",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Leicestershire vs Nottinghamshire cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Leicestershire vs Nottinghamshire (Group A, ODI) — Nottinghamshire won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Leicestershire",
+          "199/10 (48.2 ov)"
+        ],
+        [
+          "Nottinghamshire",
+          "200/5 (42.3 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Nottinghamshire won by 5 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Leicestershire chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
