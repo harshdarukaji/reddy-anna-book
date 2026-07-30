@@ -3,6 +3,1205 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-30",
+    "title": "Cricket Daily Digest — Thursday, 30 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 30 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-30 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 30 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 30 Jul, 2026, 3:30 pm",
+            "Lancashire vs Nottinghamshire",
+            "ODI",
+            "Farington",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 9:00 pm",
+            "Argentina Women vs Canada Women",
+            "T20",
+            "Quilmes, Buenos Aires",
+            "Canada Women tour of Argentina, 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 1:00 pm",
+            "Spain Women vs Switzerland Women",
+            "T20",
+            "Embrach",
+            "Women's T20I Quadrangular Series in Swit"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 1:00 pm",
+            "Hong Kong, China Women vs Tanzania Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 5:30 pm",
+            "Brazil Women vs Jersey Women",
+            "T20",
+            "Embrach",
+            "Women's T20I Quadrangular Series in Swit"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 5:30 pm",
+            "Namibia Women vs Uganda Women",
+            "T20",
+            "Windhoek",
+            "Women's T20I Quadrangular Series in Nami"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 12:00 pm",
+            "Austria vs Romania",
+            "T20",
+            "Ilfov County",
+            "ECA Men's European Cup, 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 3:30 pm",
+            "Sri Lankan Lions vs Afghanistan Pathans",
+            "T20",
+            "Lusaka",
+            "Asian Legends League 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 5:00 pm",
+            "France vs TBC",
+            "T20",
+            "Ilfov County",
+            "ECA Men's European Cup"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 7:30 pm",
+            "Southern Brave Women vs Birmingham Phoenix Women",
+            "HUN",
+            "Southampton",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 7:30 pm",
+            "Jaffna Kings vs Kandy Royals",
+            "T20",
+            "Pallekele",
+            "Lanka Premier League 2026"
+          ],
+          [
+            "Thu, 30 Jul, 2026, 11:00 pm",
+            "Southern Brave vs Birmingham Phoenix",
+            "HUN",
+            "Southampton",
+            "The Hundred Men's Competition 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Glamorgan vs Durham (Group B, ODI): Durham won by 3 wkts — GLAM: 326/6 (49.6 ov) | DUR: 328/7 (49.3 ov)",
+          "Essex vs Sussex (Group B, ODI): Sussex won by 5 wkts — ESS: 316/6 (49.6 ov) | SUS: 320/5 (49.2 ov)",
+          "Warwickshire vs Surrey (Group A, ODI): Warwickshire won by 45 runs — WARKS: 341/4 (49.6 ov) | SUR: 296/10 (46.6 ov)",
+          "Worcestershire vs Yorkshire (Group B, ODI): Yorkshire won by 6 wkts — WORCS: 230/10 (49.6 ov) | YORKS: 231/4 (40.4 ov)",
+          "Netherlands vs Nepal (120th Match, ODI): Netherlands won by 57 runs — NED: 225/9 (49.6 ov) | NEP: 168/10 (47.6 ov)",
+          "Kent vs Lancashire (Group A, ODI): Lancashire won by 6 wkts — KENT: 223/10 (46.5 ov) | LANCS: 227/4 (47.5 ov)",
+          "Leicestershire vs Nottinghamshire (Group A, ODI): Nottinghamshire won by 5 wkts — LEIC: 199/10 (48.2 ov) | NOTTS: 200/5 (42.3 ov)",
+          "Namibia vs Nepal (119th Match, ODI): Namibia won by 3 runs — NAM: 211/7 (49.6 ov) | NEP: 208/6 (49.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Rhodes' career-best keeps Durham unbeaten after Stokes duck — Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben",
+          "Duckett hits half-century as Rockets demolish Fire — Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls",
+          "Mooney hits fluent half-century as Rockets beat Fire — Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order",
+          "Crawley and Brook help Sunrisers beat Super Giants — Leeds Sunrisers end Manchester Super Giants' unbeaten start to the season after chasing down 182 thanks to half-centurie",
+          "Classy Mandhana helps Super Giants beat Sunrisers — Smriti Mandhana's masterful unbeaten 88 off 50 balls guides Manchester Super Giants to a four-wicket win over Sunrisers ",
+          "Notts stay unbeaten, Lancs win again in One-Day Cup — Notts Outlaws maintain a perfect start to their One-Day Cup campaign, while Lancashire post a second win in Group A."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Fleming expected to be named England Test coach",
+          "Saltburn suspend Devine after 'finger-clicking' claim",
+          "Lloyd pays tribute to 'greatest' Sobers at funeral",
+          "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
+          "Pretorius inspires Spirit to win over rivals MI London"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-duckett-hits-half-century-as-rockets-demolish-fire",
+    "title": "Duckett hits half-century as Rockets demolish Fire | Cricket News",
+    "description": "Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls in the second innings.",
+    "excerpt": "Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls in the second innings.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c0m781mg9yko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Duckett hits half-century as Rockets demolish Fire",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Duckett hits half-century as Rockets demolish Fire. Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls in the second innings."
+      },
+      {
+        "type": "p",
+        "text": "Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls in the second innings."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-fleming-expected-to-be-named-england-test-coach",
+    "title": "Fleming expected to be named England Test coach | Cricket News",
+    "description": "Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.",
+    "excerpt": "Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Fleming expected to be named England Test coach",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Fleming expected to be named England Test coach. Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-lloyd-pays-tribute-to-greatest-sobers-at-funeral",
+    "title": "Lloyd pays tribute to 'greatest' Sobers at funeral | Cricket News",
+    "description": "Sir Garfield Sobers is called the \"greatest all-round cricketer the world has ever known\" by former team-mate Sir Clive Lloyd at the legendary West Indies playe",
+    "excerpt": "Sir Garfield Sobers is called the \"greatest all-round cricketer the world has ever known\" by former team-mate Sir Clive Lloyd at the legendary West Indies playe",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c87n3d4rj2vo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Lloyd pays tribute to 'greatest' Sobers at funeral",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Lloyd pays tribute to 'greatest' Sobers at funeral. Sir Garfield Sobers is called the \"greatest all-round cricketer the world has ever known\" by former team-mate Sir Clive Lloyd at the legendary West Indies player's state funeral in Barbados."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-mooney-hits-fluent-half-century-as-rockets-beat-fi",
+    "title": "Mooney hits fluent half-century as Rockets beat Fire | Cricket News",
+    "description": "Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order.",
+    "excerpt": "Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cq6dmldl9rmo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Mooney hits fluent half-century as Rockets beat Fire",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Mooney hits fluent half-century as Rockets beat Fire. Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order."
+      },
+      {
+        "type": "p",
+        "text": "Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-rhodes-career-best-keeps-durham-unbeaten-after-sto",
+    "title": "Rhodes' career-best keeps Durham unbeaten after Stokes duck | Cricket News",
+    "description": "Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben Stokes' duck.",
+    "excerpt": "Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben Stokes' duck.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4g4dldyx28o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Rhodes' career-best keeps Durham unbeaten after Stokes duck",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Rhodes' career-best keeps Durham unbeaten after Stokes duck. Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben Stokes' duck."
+      },
+      {
+        "type": "p",
+        "text": "Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben Stokes' duck."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-30-saltburn-suspend-devine-after-finger-clicking-clai",
+    "title": "Saltburn suspend Devine after 'finger-clicking' claim | Cricket News",
+    "description": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\".",
+    "excerpt": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\".",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Saltburn suspend Devine after 'finger-clicking' claim",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Saltburn suspend Devine after 'finger-clicking' claim. The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\"."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ess-vs-sus-2026-07-29",
+    "title": "Sussex won by 5 wkts | Group B Cricket News",
+    "description": "Essex vs Sussex result: Sussex won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Sussex won by 5 wkts — ESS: 316/6 (49.6 ov) | SUS: 320/5 (49.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Sussex result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Sussex cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Essex vs Sussex (Group B, ODI) — Sussex won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Essex",
+            "316/6 (49.6 ov)"
+          ],
+          [
+            "Sussex",
+            "320/5 (49.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Sussex won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Essex chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-glam-vs-dur-2026-07-29",
+    "title": "Durham won by 3 wkts | Group B Cricket News",
+    "description": "Glamorgan vs Durham result: Durham won by 3 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Durham won by 3 wkts — GLAM: 326/6 (49.6 ov) | DUR: 328/7 (49.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Durham result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Durham cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Glamorgan vs Durham (Group B, ODI) — Durham won by 3 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Glamorgan",
+            "326/6 (49.6 ov)"
+          ],
+          [
+            "Durham",
+            "328/7 (49.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Durham won by 3 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Durham chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-warks-vs-sur-2026-07-29",
+    "title": "Warwickshire won by 45 runs | Group A Cricket News",
+    "description": "Warwickshire vs Surrey result: Warwickshire won by 45 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Warwickshire won by 45 runs — WARKS: 341/4 (49.6 ov) | SUR: 296/10 (46.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Warwickshire vs Surrey result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Warwickshire vs Surrey cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Warwickshire vs Surrey (Group A, ODI) — Warwickshire won by 45 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Warwickshire",
+            "341/4 (49.6 ov)"
+          ],
+          [
+            "Surrey",
+            "296/10 (46.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Warwickshire won by 45 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Surrey chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-argw-vs-canw-2026-07-30",
+    "title": "Argentina Women vs Canada Women Preview — Pitch, Weather & Lineup | 2nd T20I",
+    "description": "Argentina Women vs Canada Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 30 Jul, 2026, 9:00 pm.",
+    "excerpt": "Argentina Women vs Canada Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 15°C / Low 10°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Argentina Women vs Canada Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Argentina Women vs Canada Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Argentina Women face Canada Women in 2nd T20I (T20) on Thu, 30 Jul, 2026, 9:00 pm at St George's College Ground Quilmes, Buenos Aires. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Argentina Women vs Canada Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Canada Women tour of Argentina, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 30 Jul, 2026, 9:00 pm"
+          ],
+          [
+            "Venue",
+            "St George's College Ground Quilmes, Buenos Aires"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 30, 15:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 15°C / Low 10°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-espw-vs-suiw-2026-07-30",
+    "title": "Spain Women vs Switzerland Women Preview — Pitch, Weather & Lineup | 3rd place play-off",
+    "description": "Spain Women vs Switzerland Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 30 Jul, 2026, 1:00 pm.",
+    "excerpt": "Spain Women vs Switzerland Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 37°C / Low 21°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Spain Women vs Switzerland Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Spain Women vs Switzerland Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Spain Women face Switzerland Women in 3rd place play-off (T20) on Thu, 30 Jul, 2026, 1:00 pm at Embrach Cricket Ground Embrach. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Spain Women vs Switzerland Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's T20I Quadrangular Series in Switzerland, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 30 Jul, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Embrach Cricket Ground Embrach"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 30, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 37°C / Low 21°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-hkc w-vs-tanw-2026-07-30",
+    "title": "Hong Kong, China Women vs Tanzania Women Preview — Pitch, Weather & Lineup | 3rd Place Play-off",
+    "description": "Hong Kong, China Women vs Tanzania Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 30 Jul, 2026, 1:00 pm.",
+    "excerpt": "Hong Kong, China Women vs Tanzania Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 25°C / Low 7°C · Rain: 0 mm · Wind: up to 10 km/h. Dry conditio…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hong Kong, China Women vs Tanzania Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hong Kong, China Women vs Tanzania Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Hong Kong, China Women face Tanzania Women in 3rd Place Play-off (T20) on Thu, 30 Jul, 2026, 1:00 pm at High Performance Oval Windhoek. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Hong Kong, China Women vs Tanzania Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's T20I Quadrangular Series in Namibia 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 30 Jul, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "High Performance Oval Windhoek"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 30, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 25°C / Low 7°C · Rain: 0 mm · Wind: up to 10 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-lancs-vs-notts-2026-07-30",
+    "title": "Lancashire vs Nottinghamshire Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Lancashire vs Nottinghamshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Thu, 30 Jul, 2026, 3:30 pm.",
+    "excerpt": "Lancashire vs Nottinghamshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 27°C / Low 26°C · Rain: 0 mm · Wind: up to 44 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lancashire vs Nottinghamshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lancashire vs Nottinghamshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Lancashire face Nottinghamshire in Group A (ODI) on Thu, 30 Jul, 2026, 3:30 pm at Farington Cricket Ground Farington. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Lancashire vs Nottinghamshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 30 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Farington Cricket Ground Farington"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 30, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 27°C / Low 26°C · Rain: 0 mm · Wind: up to 44 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-29",
     "title": "Cricket Daily Digest — Wednesday, 29 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 19+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
