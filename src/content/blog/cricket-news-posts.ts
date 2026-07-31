@@ -3,6 +3,1039 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-07-31",
+    "title": "Cricket Daily Digest — Friday, 31 July 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 18+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 31 July 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-07-31 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 31 July 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 31 Jul, 2026, 2:30 pm",
+            "Netherlands vs Namibia",
+            "ODI",
+            "Utrecht",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Derbyshire vs Glamorgan",
+            "ODI",
+            "Repton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Essex vs Hampshire",
+            "ODI",
+            "Chelmsford",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Kent vs Somerset",
+            "ODI",
+            "Canterbury",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Northamptonshire vs Leicestershire",
+            "ODI",
+            "Northampton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Worcestershire vs Middlesex",
+            "ODI",
+            "Worcester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 3:30 pm",
+            "Yorkshire vs Durham",
+            "ODI",
+            "York",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 6:30 pm",
+            "Gloucestershire vs Surrey",
+            "ODI",
+            "Bristol",
+            "England Domestic One-Day Cup"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 10:00 am",
+            "Sri Lanka Women vs Pakistan Women",
+            "T20",
+            "Dambulla",
+            "Pakistan Women tour of Sri Lanka, 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 12:30 pm",
+            "Switzerland Women vs Spain Women",
+            "T20",
+            "Embrach",
+            "Spain Women tour of Switzerland, 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 4:30 pm",
+            "Kenya vs Bahrain",
+            "T20",
+            "Nairobi",
+            "Bahrain tour of Kenya, 2026"
+          ],
+          [
+            "Fri, 31 Jul, 2026, 9:00 pm",
+            "Argentina Women vs Canada Women",
+            "T20",
+            "Quilmes, Buenos Aires",
+            "Canada Women tour of Argentina, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Lancashire vs Nottinghamshire (Group A, ODI): Lancashire won by 31 runs — LANCS: 220/10 (49.1 ov) | NOTTS: 189/10 (47.1 ov)",
+          "Essex vs Sussex (Group B, ODI): Sussex won by 5 wkts — ESS: 316/6 (49.6 ov) | SUS: 320/5 (49.2 ov)",
+          "Warwickshire vs Surrey (Group A, ODI): Warwickshire won by 45 runs — WARKS: 341/4 (49.6 ov) | SUR: 296/10 (46.6 ov)",
+          "Glamorgan vs Durham (Group B, ODI): Durham won by 3 wkts — GLAM: 326/6 (49.6 ov) | DUR: 328/7 (49.3 ov)",
+          "Worcestershire vs Yorkshire (Group B, ODI): Yorkshire won by 6 wkts — WORCS: 230/10 (49.6 ov) | YORKS: 231/4 (40.4 ov)",
+          "Netherlands vs Nepal (120th Match, ODI): Netherlands won by 57 runs — NED: 225/9 (49.6 ov) | NEP: 168/10 (47.6 ov)",
+          "Kent vs Lancashire (Group A, ODI): Lancashire won by 6 wkts — KENT: 223/10 (46.5 ov) | LANCS: 227/4 (47.5 ov)",
+          "Leicestershire vs Nottinghamshire (Group A, ODI): Nottinghamshire won by 5 wkts — LEIC: 199/10 (48.2 ov) | NOTTS: 200/5 (42.3 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Unbeaten leaders Brave beat bottom side Phoenix — Southern Brave continue their unbeaten run with an 24-run win over Birmingham Phoenix at the Utilita Bowl.",
+          "Brave take team hat-trick to set up victory over Birmingham Phoenix — Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs out Saqib Mahmood as Southern Brave take a team ",
+          "Brave remain unbeaten with victory over Birmingham Phoenix — Southern Brave make it four wins from four in the women's Hundred as they beat Birmingham Phoenix by 24-runs at the Util",
+          "Duckett hits half-century as Rockets demolish Fire — Trent Rockets win by nine wickets with Ben Duckett getting a unbeaten 52 helped by the Welsh Fire bowling seven no balls",
+          "Rhodes' career-best keeps Durham unbeaten after Stokes duck — Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben",
+          "Mooney hits fluent half-century as Rockets beat Fire — Beth Mooney puts the Trent Rockets in a good position against Welsh Fire hitting 57 off 35 balls at the top of the order"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England captaincy could be what Root needs - Vaughan",
+          "Fleming new England Test coach with Root captain",
+          "Brave move off foot of table with win over Phoenix",
+          "Test Match Special Podcast",
+          "Southern Brave defend 128 to seal first win of the season"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-brave-move-off-foot-of-table-with-win-over-phoenix",
+    "title": "Brave move off foot of table with win over Phoenix | Cricket News",
+    "description": "Wickets from three consecutive deliveries help Southern Brave close out a first win of the season in The Hundred, beating Birmingham Phoenix by 12 runs.",
+    "excerpt": "Wickets from three consecutive deliveries help Southern Brave close out a first win of the season in The Hundred, beating Birmingham Phoenix by 12 runs.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c8rnpz3xpy6o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Brave move off foot of table with win over Phoenix",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Brave move off foot of table with win over Phoenix. Wickets from three consecutive deliveries help Southern Brave close out a first win of the season in The Hundred, beating Birmingham Phoenix by 12 runs."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-brave-remain-unbeaten-with-victory-over-birmingham",
+    "title": "Brave remain unbeaten with victory over Birmingham Phoenix | Cricket News",
+    "description": "Southern Brave make it four wins from four in the women's Hundred as they beat Birmingham Phoenix by 24-runs at the Utilita Bowl.",
+    "excerpt": "Southern Brave make it four wins from four in the women's Hundred as they beat Birmingham Phoenix by 24-runs at the Utilita Bowl.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c4gd84pnz4wo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Brave remain unbeaten with victory over Birmingham Phoenix",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Brave remain unbeaten with victory over Birmingham Phoenix. Southern Brave make it four wins from four in the women's Hundred as they beat Birmingham Phoenix by 24-runs at the Utilita Bowl."
+      },
+      {
+        "type": "p",
+        "text": "Southern Brave make it four wins from four in the women's Hundred as they beat Birmingham Phoenix by 24-runs at the Utilita Bowl."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-brave-take-team-hat-trick-to-set-up-victory-over-b",
+    "title": "Brave take team hat-trick to set up victory over Birmingham Phoenix | Cricket News",
+    "description": "Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs out Saqib Mahmood as Southern Brave take a team hat-trick in the final over, setting up ",
+    "excerpt": "Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs out Saqib Mahmood as Southern Brave take a team hat-trick in the final over, setting up ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c151wjv54lvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Brave take team hat-trick to set up victory over Birmingham Phoenix",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Brave take team hat-trick to set up victory over Birmingham Phoenix. Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs out Saqib Mahmood as Southern Brave take a team hat-trick in the final over, setting up victory over Birmingham Phoenix at the U"
+      },
+      {
+        "type": "p",
+        "text": "Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs out Saqib Mahmood as Southern Brave take a team hat-trick in the final over, setting up victory over Birmingham Phoenix at the Utilita Bowl."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-england-captaincy-could-be-what-root-needs-vaughan",
+    "title": "England captaincy could be what Root needs - Vaughan | Cricket News",
+    "description": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a secon",
+    "excerpt": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a secon",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England captaincy could be what Root needs - Vaughan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England captaincy could be what Root needs - Vaughan. Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-fleming-new-england-test-coach-with-root-captain",
+    "title": "Fleming new England Test coach with Root captain | Cricket News",
+    "description": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+    "excerpt": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Fleming new England Test coach with Root captain",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Fleming new England Test coach with Root captain. Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-07-31-unbeaten-leaders-brave-beat-bottom-side-phoenix",
+    "title": "Unbeaten leaders Brave beat bottom side Phoenix | Cricket News",
+    "description": "Southern Brave continue their unbeaten run with an 24-run win over Birmingham Phoenix at the Utilita Bowl.",
+    "excerpt": "Southern Brave continue their unbeaten run with an 24-run win over Birmingham Phoenix at the Utilita Bowl.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c151w1wky89o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Unbeaten leaders Brave beat bottom side Phoenix",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Unbeaten leaders Brave beat bottom side Phoenix. Southern Brave continue their unbeaten run with an 24-run win over Birmingham Phoenix at the Utilita Bowl."
+      },
+      {
+        "type": "p",
+        "text": "Southern Brave continue their unbeaten run with an 24-run win over Birmingham Phoenix at the Utilita Bowl."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-lancs-vs-notts-2026-07-30",
+    "title": "Lancashire won by 31 runs | Group A Cricket News",
+    "description": "Lancashire vs Nottinghamshire result: Lancashire won by 31 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Lancashire won by 31 runs — LANCS: 220/10 (49.1 ov) | NOTTS: 189/10 (47.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lancashire vs Nottinghamshire result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lancashire vs Nottinghamshire cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Lancashire vs Nottinghamshire (Group A, ODI) — Lancashire won by 31 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Lancashire",
+            "220/10 (49.1 ov)"
+          ],
+          [
+            "Nottinghamshire",
+            "189/10 (47.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Lancashire won by 31 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Nottinghamshire chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-derby-vs-glam-2026-07-31",
+    "title": "Derbyshire vs Glamorgan Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Derbyshire vs Glamorgan preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 31 Jul, 2026, 3:30 pm.",
+    "excerpt": "Derbyshire vs Glamorgan — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 21°C / Low 10°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Derbyshire vs Glamorgan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Derbyshire vs Glamorgan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Derbyshire face Glamorgan in Group B (ODI) on Fri, 31 Jul, 2026, 3:30 pm at Repton School Ground Repton. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Derbyshire vs Glamorgan"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 31 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Repton School Ground Repton"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 31, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 21°C / Low 10°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ess-vs-ham-2026-07-31",
+    "title": "Essex vs Hampshire Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Essex vs Hampshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 31 Jul, 2026, 3:30 pm.",
+    "excerpt": "Essex vs Hampshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 24°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Hampshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Hampshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Essex face Hampshire in Group B (ODI) on Fri, 31 Jul, 2026, 3:30 pm at County Ground Chelmsford. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Essex vs Hampshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 31 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Chelmsford"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 31, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 24°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kent-vs-som-2026-07-31",
+    "title": "Kent vs Somerset Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Kent vs Somerset preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 31 Jul, 2026, 3:30 pm.",
+    "excerpt": "Kent vs Somerset — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 23°C / Low 15°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Kent vs Somerset",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Kent vs Somerset cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Kent face Somerset in Group A (ODI) on Fri, 31 Jul, 2026, 3:30 pm at St Lawrence Ground Canterbury. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Kent vs Somerset"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 31 Jul, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "St Lawrence Ground Canterbury"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 31, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 23°C / Low 15°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ned-vs-nam-2026-07-31",
+    "title": "Netherlands vs Namibia Preview — Pitch, Weather & Lineup | 121st Match",
+    "description": "Netherlands vs Namibia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 31 Jul, 2026, 2:30 pm.",
+    "excerpt": "Netherlands vs Namibia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 25°C / Low 19°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Netherlands vs Namibia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Netherlands vs Namibia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Netherlands face Namibia in 121st Match (ODI) on Fri, 31 Jul, 2026, 2:30 pm at Sportpark Maarschalkerweerd Utrecht. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Netherlands vs Namibia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 31 Jul, 2026, 2:30 pm"
+          ],
+          [
+            "Venue",
+            "Sportpark Maarschalkerweerd Utrecht"
+          ],
+          [
+            "Status",
+            "Match starts at Jul 31, 09:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 25°C / Low 19°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-07-30",
     "title": "Cricket Daily Digest — Thursday, 30 July 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
