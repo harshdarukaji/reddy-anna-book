@@ -3,6 +3,1080 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-04",
+    "title": "Cricket Daily Digest — Tuesday, 4 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 4 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-04 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 4 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 4 Aug, 2026, 10:00 am",
+            "Sri Lanka Women vs Pakistan Women",
+            "T20",
+            "Dambulla",
+            "Pakistan Women tour of Sri Lanka, 2026"
+          ],
+          [
+            "Tue, 4 Aug, 2026, 1:30 pm",
+            "New Delhi Tigers vs Outer Delhi Warriors",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Tue, 4 Aug, 2026, 7:00 pm",
+            "South Delhi Superstarz vs West Delhi Lions",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Tue, 4 Aug, 2026, 7:30 pm",
+            "Sunrisers Leeds Women vs London Spirit Women",
+            "HUN",
+            "Leeds",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Tue, 4 Aug, 2026, 7:30 pm",
+            "IDream Tiruppur Tamizhans vs Dindigul Dragons",
+            "T20",
+            "Dindigul",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Tue, 4 Aug, 2026, 11:00 pm",
+            "Sunrisers Leeds vs London Spirit",
+            "HUN",
+            "Leeds",
+            "The Hundred Men's Competition 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Scotland vs United Arab Emirates (122nd Match, ODI): Match abandoned due to rain without toss — SCO: 183/10 (48.5 ov) | UAE: 186/4 (40.6 ov)",
+          "Essex vs Worcestershire (Group B, ODI): Essex won by 107 runs — ESS: 376/5 (49.6 ov) | WORCS: 269/10 (41.3 ov)",
+          "Leicestershire vs Somerset (Group A, ODI): Leicestershire won by 164 runs — LEIC: 289/8 (49.6 ov) | SOM: 125/10 (29.6 ov)",
+          "Gloucestershire vs Warwickshire (Group A, ODI): Warwickshire won by 6 wkts — GLOUCS: 271/9 (49.6 ov) | WARKS: 277/4 (41.6 ov)",
+          "Hampshire vs Durham (Group B, ODI): Durham won by 9 wkts — HAM: 246/10 (49.6 ov) | DUR: 249/1 (38.3 ov)",
+          "Middlesex vs Yorkshire (Group B, ODI): Middlesex won by 35 runs — MDX: 246/10 (47.6 ov) | YORKS: 211/10 (47.3 ov)",
+          "Derbyshire vs Sussex (Group B, ODI): Derbyshire won by 188 runs — DERBY: 325/7 (49.6 ov) | SUS: 137/10 (31.4 ov)",
+          "Nottinghamshire vs Kent (Group A, ODI): Kent won by 5 wkts — NOTTS: 293/9 (49.6 ov) | KENT: 294/5 (49.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Superb Short half-century guides Fire past Brave — Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Shor",
+          "Welsh Fire make light work of low-scoring Southern Brave — Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Shor",
+          "Five-star Rashid leads MI London to victory over Super Giants — Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in ",
+          "Rockets see off late fightback to beat Sunrisers — Annabel Sutherland's unbeaten 59 goes in vain as Trent Rockets hold on to beat Sunrisers Leeds by five runs at Trent Bri",
+          "Rashid takes five wickets as MI beat Super Giants — Rashid Khan takes 5-17 as MI London defeat Manchester Super Giants by 45 runs in The Hundred, while Ben Duckett strikes ",
+          "Gay hits ton for Durham as Leics & Middlesex go top — Emilio Gay hits an unbeaten century for Durham in the One-Day Cup, while wins for Leicestershire and Middlesex take them"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "How Mumbai Indians takeover has affected MI London & Surrey",
+          "Fire inflict first defeat on leaders Brave",
+          "Ireland 'laser-focused' on World Cup qualification",
+          "West Indies v Pakistan - second Test scorecard",
+          "Fire earn dramatic win over Brave"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-fire-inflict-first-defeat-on-leaders-brave",
+    "title": "Fire inflict first defeat on leaders Brave | Cricket News",
+    "description": "Welsh Fire condemn Southern Brave to their first defeat of this season's Hundred as they post a dramatic four-wicket victory in Cardiff.",
+    "excerpt": "Welsh Fire condemn Southern Brave to their first defeat of this season's Hundred as they post a dramatic four-wicket victory in Cardiff.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c9q91g90gdno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Fire inflict first defeat on leaders Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Fire inflict first defeat on leaders Brave. Welsh Fire condemn Southern Brave to their first defeat of this season's Hundred as they post a dramatic four-wicket victory in Cardiff."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-five-star-rashid-leads-mi-london-to-victory-over-s",
+    "title": "Five-star Rashid leads MI London to victory over Super Giants | Cricket News",
+    "description": "Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in the Men's Hundred table.",
+    "excerpt": "Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in the Men's Hundred table.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/clyx62eezdno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Five-star Rashid leads MI London to victory over Super Giants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Five-star Rashid leads MI London to victory over Super Giants. Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in the Men's Hundred table."
+      },
+      {
+        "type": "p",
+        "text": "Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in the Men's Hundred table."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-how-mumbai-indians-takeover-has-affected-mi-london",
+    "title": "How Mumbai Indians takeover has affected MI London & Surrey | Cricket News",
+    "description": "BBC Sport takes a look at what has changed, what has stayed the same and what the future holds for MI London after investment from Indian Premier League side Mu",
+    "excerpt": "BBC Sport takes a look at what has changed, what has stayed the same and what the future holds for MI London after investment from Indian Premier League side Mu",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: How Mumbai Indians takeover has affected MI London & Surrey",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: How Mumbai Indians takeover has affected MI London & Surrey. BBC Sport takes a look at what has changed, what has stayed the same and what the future holds for MI London after investment from Indian Premier League side Mumbai Indians."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-ireland-laser-focused-on-world-cup-qualification",
+    "title": "Ireland 'laser-focused' on World Cup qualification | Cricket News",
+    "description": "Ireland's five-game ODI series against Afghanistan this week marks the start of their preparations for next year's World Cup qualifying tournament.",
+    "excerpt": "Ireland's five-game ODI series against Afghanistan this week marks the start of their preparations for next year's World Cup qualifying tournament.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2lq7jp4lz7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Ireland 'laser-focused' on World Cup qualification",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Ireland 'laser-focused' on World Cup qualification. Ireland's five-game ODI series against Afghanistan this week marks the start of their preparations for next year's World Cup qualifying tournament."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-superb-short-half-century-guides-fire-past-brave",
+    "title": "Superb Short half-century guides Fire past Brave | Cricket News",
+    "description": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "excerpt": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c39e7k9209ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Superb Short half-century guides Fire past Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Superb Short half-century guides Fire past Brave. Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "p",
+        "text": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-04-welsh-fire-make-light-work-of-low-scoring-southern",
+    "title": "Welsh Fire make light work of low-scoring Southern Brave | Cricket News",
+    "description": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "excerpt": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cjwx9ddx883o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Welsh Fire make light work of low-scoring Southern Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Welsh Fire make light work of low-scoring Southern Brave. Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "p",
+        "text": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-leic-vs-som-2026-08-02",
+    "title": "Leicestershire won by 164 runs | Group A Cricket News",
+    "description": "Leicestershire vs Somerset result: Leicestershire won by 164 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Leicestershire won by 164 runs — LEIC: 289/8 (49.6 ov) | SOM: 125/10 (29.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Leicestershire vs Somerset result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Leicestershire vs Somerset cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Leicestershire vs Somerset (Group A, ODI) — Leicestershire won by 164 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Leicestershire",
+            "289/8 (49.6 ov)"
+          ],
+          [
+            "Somerset",
+            "125/10 (29.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Leicestershire won by 164 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Somerset chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-sco-vs-uae-2026-08-03",
+    "title": "Match abandoned due to rain without toss | 122nd Match Cricket News",
+    "description": "Scotland vs United Arab Emirates result: Match abandoned due to rain without toss. Scores, player of the match, and pitch report.",
+    "excerpt": "Match abandoned due to rain without toss — SCO: 183/10 (48.5 ov) | UAE: 186/4 (40.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Scotland vs United Arab Emirates result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Scotland vs United Arab Emirates cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Scotland vs United Arab Emirates (122nd Match, ODI) — Match abandoned due to rain without toss. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Scotland",
+            "183/10 (48.5 ov)"
+          ],
+          [
+            "United Arab Emirates",
+            "186/4 (40.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Match abandoned due to rain without toss."
+      },
+      {
+        "type": "p",
+        "text": "Toss:  chose ."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ndt-vs-odw-2026-08-04",
+    "title": "New Delhi Tigers vs Outer Delhi Warriors Preview — Pitch, Weather & Lineup | 8th Match",
+    "description": "New Delhi Tigers vs Outer Delhi Warriors preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 4 Aug, 2026, 1:30 pm.",
+    "excerpt": "New Delhi Tigers vs Outer Delhi Warriors — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Variable conditions · High 30°C / Low 27°C · Rain: 8.9 mm · Wind: up to 7 km/h. …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New Delhi Tigers vs Outer Delhi Warriors",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New Delhi Tigers vs Outer Delhi Warriors cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: New Delhi Tigers face Outer Delhi Warriors in 8th Match (T20) on Tue, 4 Aug, 2026, 1:30 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "New Delhi Tigers vs Outer Delhi Warriors"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 4 Aug, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 04, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 30°C / Low 27°C · Rain: 8.9 mm · Wind: up to 7 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sds-vs-wdl-2026-08-04",
+    "title": "South Delhi Superstarz vs West Delhi Lions Preview — Pitch, Weather & Lineup | 9th Match",
+    "description": "South Delhi Superstarz vs West Delhi Lions preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 4 Aug, 2026, 7:00 pm.",
+    "excerpt": "South Delhi Superstarz vs West Delhi Lions — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Variable conditions · High 30°C / Low 27°C · Rain: 8.9 mm · Wind: up to 7 km/h. …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Delhi Superstarz vs West Delhi Lions",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Delhi Superstarz vs West Delhi Lions cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Delhi Superstarz face West Delhi Lions in 9th Match (T20) on Tue, 4 Aug, 2026, 7:00 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Delhi Superstarz vs West Delhi Lions"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 4 Aug, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 04, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 30°C / Low 27°C · Rain: 8.9 mm · Wind: up to 7 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-slw-vs-pakw-2026-08-04",
+    "title": "Sri Lanka Women vs Pakistan Women Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Sri Lanka Women vs Pakistan Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 4 Aug, 2026, 10:00 am.",
+    "excerpt": "Sri Lanka Women vs Pakistan Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 29°C / Low 24°C · Rain: 5.2 mm · Wind: up to 29 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka Women vs Pakistan Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka Women vs Pakistan Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sri Lanka Women face Pakistan Women in 3rd T20I (T20) on Tue, 4 Aug, 2026, 10:00 am at Rangiri Dambulla International Stadium Dambulla. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sri Lanka Women vs Pakistan Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Pakistan Women tour of Sri Lanka, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 4 Aug, 2026, 10:00 am"
+          ],
+          [
+            "Venue",
+            "Rangiri Dambulla International Stadium Dambulla"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 04, 04:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 29°C / Low 24°C · Rain: 5.2 mm · Wind: up to 29 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sulw-vs-ldnw-2026-08-04",
+    "title": "Sunrisers Leeds Women vs London Spirit Women Preview — Pitch, Weather & Lineup | 20th Match",
+    "description": "Sunrisers Leeds Women vs London Spirit Women preview with pitch report, weather forecast, probable lineups, and betting insights for HUN on Tue, 4 Aug, 2026, 7:30 pm.",
+    "excerpt": "Sunrisers Leeds Women vs London Spirit Women — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Light rain · High 26°C / Low 16°C · Rain: 4.6 mm · Wind: up to 26 km/h. Light ra…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sunrisers Leeds Women vs London Spirit Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-04",
+    "updatedAt": "2026-08-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sunrisers Leeds Women vs London Spirit Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sunrisers Leeds Women face London Spirit Women in 20th Match (HUN) on Tue, 4 Aug, 2026, 7:30 pm at Headingley Leeds. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sunrisers Leeds Women vs London Spirit Women"
+          ],
+          [
+            "Format",
+            "HUN"
+          ],
+          [
+            "Series",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 4 Aug, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "Headingley Leeds"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 04, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light rain · High 26°C / Low 16°C · Rain: 4.6 mm · Wind: up to 26 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-03",
     "title": "Cricket Daily Digest — Monday, 3 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 5+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
