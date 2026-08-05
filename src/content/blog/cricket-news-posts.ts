@@ -3,6 +3,1039 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-05",
+    "title": "Cricket Daily Digest — Wednesday, 5 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Wednesday, 5 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-05 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Wednesday, 5 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Wed, 5 Aug, 2026, 3:15 pm",
+            "Ireland vs Afghanistan",
+            "ODI",
+            "Bready, Northern Ireland",
+            "Afghanistan tour of Ireland, 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 3:30 pm",
+            "United Arab Emirates vs Canada",
+            "ODI",
+            "Dundee",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 3:30 pm",
+            "Hampshire vs Glamorgan",
+            "ODI",
+            "Southampton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 3:30 pm",
+            "Surrey vs Kent",
+            "ODI",
+            "London",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 1:30 pm",
+            "Purani Dilli 6 vs Central Delhi Kings",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 3:00 pm",
+            "Galle Gallants vs Jaffna Kings",
+            "T20",
+            "Colombo",
+            "Lanka Premier League 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 3:30 pm",
+            "Trichy Grand Cholas vs Madurai Panthers",
+            "T20",
+            "Dindigul",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 4:00 pm",
+            "Manchester Super Giants Women vs Welsh Fire Women",
+            "HUN",
+            "Manchester",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 7:00 pm",
+            "East Delhi Riders vs North Delhi Strikers",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 7:30 pm",
+            "Manchester Super Giants vs Welsh Fire",
+            "HUN",
+            "Manchester",
+            "The Hundred Men's Competition 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 7:30 pm",
+            "Colombo Kaps vs Kandy Royals",
+            "T20",
+            "Colombo",
+            "Lanka Premier League 2026"
+          ],
+          [
+            "Wed, 5 Aug, 2026, 7:30 pm",
+            "Chepauk Super Gillies vs Nellai Royal Kings",
+            "T20",
+            "Dindigul",
+            "Tamil Nadu Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Scotland vs United Arab Emirates (122nd Match, ODI): Match abandoned due to rain without toss — SCO: 183/10 (48.5 ov) | UAE: 186/4 (40.6 ov)",
+          "Derbyshire vs Sussex (Group B, ODI): Derbyshire won by 188 runs — DERBY: 325/7 (49.6 ov) | SUS: 137/10 (31.4 ov)",
+          "Nottinghamshire vs Kent (Group A, ODI): Kent won by 5 wkts — NOTTS: 293/9 (49.6 ov) | KENT: 294/5 (49.2 ov)",
+          "Northamptonshire vs Lancashire (Group A, ODI): Northamptonshire won by 67 runs — NHNTS: 347/6 (49.6 ov) | LANCS: 280/10 (45.2 ov)",
+          "Essex vs Worcestershire (Group B, ODI): Essex won by 107 runs — ESS: 376/5 (49.6 ov) | WORCS: 269/10 (41.3 ov)",
+          "Leicestershire vs Somerset (Group A, ODI): Leicestershire won by 164 runs — LEIC: 289/8 (49.6 ov) | SOM: 125/10 (29.6 ov)",
+          "Gloucestershire vs Warwickshire (Group A, ODI): Warwickshire won by 6 wkts — GLOUCS: 271/9 (49.6 ov) | WARKS: 277/4 (41.6 ov)",
+          "Hampshire vs Durham (Group B, ODI): Durham won by 9 wkts — HAM: 246/10 (49.6 ov) | DUR: 249/1 (38.3 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Brilliant Brook leads Sunrisers to record Hundred score — Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making",
+          "'Another one!' Every six from a record-breaking Sunrisers innings — Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spir",
+          "Superb Short half-century guides Fire past Brave — Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Shor",
+          "Welsh Fire make light work of low-scoring Southern Brave — Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Shor",
+          "Rashid takes five wickets as MI beat Super Giants — Rashid Khan takes 5-17 as MI London defeat Manchester Super Giants by 45 runs in The Hundred, while Ben Duckett strikes ",
+          "Five-star Rashid leads MI London to victory over Super Giants — Rashid Khan takes a five-wicket haul as MI London defeat the Manchester Super Giants by 45 runs to move up to second in "
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Drinking culture embedded in cricket - Stokes",
+          "Sutherland holds nerve as Sunrisers edge past Spirit",
+          "Runs and records galore as Sunrisers beat Spirit in men's Hundred",
+          "Who am I? Guess The Hundred cricket star No 15",
+          "West Indies v Pakistan - second Test scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-another-one-every-six-from-a-record-breaking-sunri",
+    "title": "'Another one!' Every six from a record-breaking Sunrisers innings | Cricket News",
+    "description": "Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spirit, with outstanding batting performance",
+    "excerpt": "Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spirit, with outstanding batting performance",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/ce97d7g01g1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Another one!' Every six from a record-breaking Sunrisers innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Another one!' Every six from a record-breaking Sunrisers innings. Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spirit, with outstanding batting performances from Mitch Marsh, Ryan Rickelton and H"
+      },
+      {
+        "type": "p",
+        "text": "Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spirit, with outstanding batting performances from Mitch Marsh, Ryan Rickelton and Harry Brook."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-brilliant-brook-leads-sunrisers-to-record-hundred-",
+    "title": "Brilliant Brook leads Sunrisers to record Hundred score | Cricket News",
+    "description": "Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit.",
+    "excerpt": "Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2lqpyv9g7qo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Brilliant Brook leads Sunrisers to record Hundred score",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Brilliant Brook leads Sunrisers to record Hundred score. Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit."
+      },
+      {
+        "type": "p",
+        "text": "Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-drinking-culture-embedded-in-cricket-stokes",
+    "title": "Drinking culture embedded in cricket - Stokes | Cricket News",
+    "description": "Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.",
+    "excerpt": "Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Drinking culture embedded in cricket - Stokes",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Drinking culture embedded in cricket - Stokes. Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-runs-and-records-galore-as-sunrisers-beat-spirit-i",
+    "title": "Runs and records galore as Sunrisers beat Spirit in men's Hundred | Cricket News",
+    "description": "Sunrisers Leeds post the biggest score in Hundred history, making 241, on a night when numerous records were broken as the home side beat London Spirit by 37 ru",
+    "excerpt": "Sunrisers Leeds post the biggest score in Hundred history, making 241, on a night when numerous records were broken as the home side beat London Spirit by 37 ru",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cy74ejvy705o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Runs and records galore as Sunrisers beat Spirit in men's Hundred",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Runs and records galore as Sunrisers beat Spirit in men's Hundred. Sunrisers Leeds post the biggest score in Hundred history, making 241, on a night when numerous records were broken as the home side beat London Spirit by 37 runs at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-superb-short-half-century-guides-fire-past-brave",
+    "title": "Superb Short half-century guides Fire past Brave | Cricket News",
+    "description": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "excerpt": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by si",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c39e7k9209ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Superb Short half-century guides Fire past Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Superb Short half-century guides Fire past Brave. Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "p",
+        "text": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-05-sutherland-holds-nerve-as-sunrisers-edge-past-spir",
+    "title": "Sutherland holds nerve as Sunrisers edge past Spirit | Cricket News",
+    "description": "Sunrisers Leeds beat London Spirit with two balls to spare to keep their slim qualification hopes alive in The Hundred.",
+    "excerpt": "Sunrisers Leeds beat London Spirit with two balls to spare to keep their slim qualification hopes alive in The Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwyep123xxvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sutherland holds nerve as Sunrisers edge past Spirit",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sutherland holds nerve as Sunrisers edge past Spirit. Sunrisers Leeds beat London Spirit with two balls to spare to keep their slim qualification hopes alive in The Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-notts-vs-kent-2026-08-02",
+    "title": "Kent won by 5 wkts | Group A Cricket News",
+    "description": "Nottinghamshire vs Kent result: Kent won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Kent won by 5 wkts — NOTTS: 293/9 (49.6 ov) | KENT: 294/5 (49.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nottinghamshire vs Kent result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nottinghamshire vs Kent cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Nottinghamshire vs Kent (Group A, ODI) — Kent won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Nottinghamshire",
+            "293/9 (49.6 ov)"
+          ],
+          [
+            "Kent",
+            "294/5 (49.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Kent won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Nottinghamshire chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ham-vs-glam-2026-08-05",
+    "title": "Hampshire vs Glamorgan Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Hampshire vs Glamorgan preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 5 Aug, 2026, 3:30 pm.",
+    "excerpt": "Hampshire vs Glamorgan — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 23°C / Low 17°C · Rain: 0 mm · Wind: up to 21 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hampshire vs Glamorgan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hampshire vs Glamorgan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Hampshire face Glamorgan in Group B (ODI) on Wed, 5 Aug, 2026, 3:30 pm at The Rose Bowl Southampton. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Hampshire vs Glamorgan"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 5 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "The Rose Bowl Southampton"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 05, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 23°C / Low 17°C · Rain: 0 mm · Wind: up to 21 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ire-vs-afg-2026-08-05",
+    "title": "Ireland vs Afghanistan Preview — Pitch, Weather & Lineup | 1st ODI",
+    "description": "Ireland vs Afghanistan preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 5 Aug, 2026, 3:15 pm.",
+    "excerpt": "Ireland vs Afghanistan — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain · High 14°C / Low 11°C · Rain: 15.2 mm · Wind: up to 26 km/h. Rain likely —…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland vs Afghanistan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland vs Afghanistan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Ireland face Afghanistan in 1st ODI (ODI) on Wed, 5 Aug, 2026, 3:15 pm at Bready Cricket Club Bready, Northern Ireland. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Ireland vs Afghanistan"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Afghanistan tour of Ireland, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 5 Aug, 2026, 3:15 pm"
+          ],
+          [
+            "Venue",
+            "Bready Cricket Club Bready, Northern Ireland"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 05, 09:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 14°C / Low 11°C · Rain: 15.2 mm · Wind: up to 26 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sur-vs-kent-2026-08-05",
+    "title": "Surrey vs Kent Preview — Pitch, Weather & Lineup | Group A",
+    "description": "Surrey vs Kent preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 5 Aug, 2026, 3:30 pm.",
+    "excerpt": "Surrey vs Kent — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Overcast · High 25°C / Low 19°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Surrey vs Kent",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Surrey vs Kent cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Surrey face Kent in Group A (ODI) on Wed, 5 Aug, 2026, 3:30 pm at Kennington Oval London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Surrey vs Kent"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 5 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Kennington Oval London"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 05, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 25°C / Low 19°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-uae-vs-can-2026-08-05",
+    "title": "United Arab Emirates vs Canada Preview — Pitch, Weather & Lineup | 123rd Match",
+    "description": "United Arab Emirates vs Canada preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 5 Aug, 2026, 3:30 pm.",
+    "excerpt": "United Arab Emirates vs Canada — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light rain · High 18°C / Low 14°C · Rain: 2.7 mm · Wind: up to 26 km/h. Light ra…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates vs Canada",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates vs Canada cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: United Arab Emirates face Canada in 123rd Match (ODI) on Wed, 5 Aug, 2026, 3:30 pm at Forthill Dundee. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "United Arab Emirates vs Canada"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 5 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Forthill Dundee"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 05, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light rain · High 18°C / Low 14°C · Rain: 2.7 mm · Wind: up to 26 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-04",
     "title": "Cricket Daily Digest — Tuesday, 4 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
