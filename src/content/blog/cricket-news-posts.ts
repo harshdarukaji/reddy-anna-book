@@ -3,6 +3,1170 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-06",
+    "title": "Cricket Daily Digest — Thursday, 6 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 6 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-06 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 6 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 6 Aug, 2026, 1:30 pm",
+            "South Delhi Superstarz vs Outer Delhi Warriors",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 7:00 pm",
+            "Brazil vs Peru",
+            "T20",
+            "Bogota",
+            "South American Men's T20I Championship"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 7:00 pm",
+            "New Delhi Tigers vs Purani Dilli 6",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 7:30 pm",
+            "SKM Salem Spartans vs Vida Kovai Kings",
+            "T20",
+            "Dindigul",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 7:30 pm",
+            "London Spirit Women vs MI London Women",
+            "HUN",
+            "London",
+            "The Hundred Women's Competition 2026"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 11:00 pm",
+            "London Spirit vs MI London",
+            "HUN",
+            "London",
+            "The Hundred Men's Competition 2026"
+          ],
+          [
+            "Thu, 6 Aug, 2026, 11:30 pm",
+            "Mexico vs Panama",
+            "T20",
+            "Bogota",
+            "South American Men's T20I Championship"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "United Arab Emirates vs Canada (123rd Match, ODI): Match abandoned due to rain (no toss) — UAE: 183/10 (48.5 ov) | CAN: 186/4 (40.6 ov)",
+          "Hampshire vs Glamorgan (Group B, ODI): Hampshire won by 90 runs — HAM: 263/10 (49.3 ov) | GLAM: 173/10 (40.4 ov)",
+          "Surrey vs Kent (Group A, ODI): Surrey won by 95 runs - 49 Overs game due to rain — SUR: 286/10 (48.3 ov) | KENT: 191/10 (41.5 ov)",
+          "Ireland vs Afghanistan (1st ODI, ODI): Match abandoned due to rain without toss — IRE: 166/8 (19.6 ov) | AFG: 162/7 (19.6 ov)",
+          "Scotland vs United Arab Emirates (122nd Match, ODI): Match abandoned due to rain without toss — SCO: 183/10 (48.5 ov) | UAE: 186/4 (40.6 ov)",
+          "West Indies vs Pakistan (2nd Test, TEST): Pakistan won by 8 wkts — WI: 344/10 (105.4 ov) & 117/10 (46.1 ov) | PAK: 387/10 (114.6 ov) & 77/2 (23.3 ov)",
+          "Essex vs Worcestershire (Group B, ODI): Essex won by 107 runs — ESS: 376/5 (49.6 ov) | WORCS: 269/10 (41.3 ov)",
+          "Leicestershire vs Somerset (Group A, ODI): Leicestershire won by 164 runs — LEIC: 289/8 (49.6 ov) | SOM: 125/10 (29.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "How Buttler became T20 cricket's run-scoring GOAT — BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+          "Buttler breaks T20 runs record in Super Giants win — Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets and Trent Rockets beat Birmingham Phoenix t",
+          "Buttler breaks all-time T20 run record in win over Fire — Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manches",
+          "'Another one!' Every six from a record-breaking Sunrisers innings — Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spir",
+          "Brilliant Brook leads Sunrisers to record Hundred score — Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out as Sunrisers Leeds set a new Hundred record, making",
+          "Welsh Fire make light work of low-scoring Southern Brave — Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Shor"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pakistan win first away Test in three years to draw Windies series",
+          "I'd like Hundred to be longer - Salt",
+          "Rockets on the brink of knockouts after Dunkley fifty",
+          "Rockets march on after easy win against Phoenix",
+          "The Hundred: Who needs what to progress from group stages?"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-buttler-breaks-all-time-t20-run-record-in-win-over",
+    "title": "Buttler breaks all-time T20 run record in win over Fire | Cricket News",
+    "description": "Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manchester Super Giants a nine-wicket win over ",
+    "excerpt": "Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manchester Super Giants a nine-wicket win over ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c8dnygzglnmo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Buttler breaks all-time T20 run record in win over Fire",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Buttler breaks all-time T20 run record in win over Fire. Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manchester Super Giants a nine-wicket win over Welsh Fire to move up to third in the Me"
+      },
+      {
+        "type": "p",
+        "text": "Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manchester Super Giants a nine-wicket win over Welsh Fire to move up to third in the Men's Hundred table."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-buttler-breaks-t20-runs-record-in-super-giants-win",
+    "title": "Buttler breaks T20 runs record in Super Giants win | Cricket News",
+    "description": "Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets and Trent Rockets beat Birmingham Phoenix to keep top spot.",
+    "excerpt": "Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets and Trent Rockets beat Birmingham Phoenix to keep top spot.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn4n1j7ejp1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Buttler breaks T20 runs record in Super Giants win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Buttler breaks T20 runs record in Super Giants win. Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets and Trent Rockets beat Birmingham Phoenix to keep top spot."
+      },
+      {
+        "type": "p",
+        "text": "Jos Buttler stars as Manchester Super Giants beat Welsh Fire by nine wickets and Trent Rockets beat Birmingham Phoenix to keep top spot."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-how-buttler-became-t20-cricket-s-run-scoring-goat",
+    "title": "How Buttler became T20 cricket's run-scoring GOAT | Cricket News",
+    "description": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+    "excerpt": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: How Buttler became T20 cricket's run-scoring GOAT",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: How Buttler became T20 cricket's run-scoring GOAT. BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket."
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-i-d-like-hundred-to-be-longer-salt",
+    "title": "I'd like Hundred to be longer - Salt | Cricket News",
+    "description": "Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.",
+    "excerpt": "Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c20eg91xvd4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: I'd like Hundred to be longer - Salt",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: I'd like Hundred to be longer - Salt. Welsh Fire captain Phil Salt says ideally he would like The Hundred to be a week longer after his side played three matches in five days."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-pakistan-win-first-away-test-in-three-years-to-dra",
+    "title": "Pakistan win first away Test in three years to draw Windies series | Cricket News",
+    "description": "Pakistan complete their first overseas Test win for three years with an eight-wicket victory over West Indies in Port of Spain.",
+    "excerpt": "Pakistan complete their first overseas Test win for three years with an eight-wicket victory over West Indies in Port of Spain.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ce3qznqkey5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Pakistan win first away Test in three years to draw Windies series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Pakistan win first away Test in three years to draw Windies series. Pakistan complete their first overseas Test win for three years with an eight-wicket victory over West Indies in Port of Spain."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-06-rockets-on-the-brink-of-knockouts-after-dunkley-fi",
+    "title": "Rockets on the brink of knockouts after Dunkley fifty | Cricket News",
+    "description": "Sophia Dunkley helps Trent Rockets beat Birmingham Phoenix after Orla Prendergast takes four wickets in Welsh Fire's victory over Manchester Super Giants.",
+    "excerpt": "Sophia Dunkley helps Trent Rockets beat Birmingham Phoenix after Orla Prendergast takes four wickets in Welsh Fire's victory over Manchester Super Giants.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cdx8enqr890o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Rockets on the brink of knockouts after Dunkley fifty",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Rockets on the brink of knockouts after Dunkley fifty. Sophia Dunkley helps Trent Rockets beat Birmingham Phoenix after Orla Prendergast takes four wickets in Welsh Fire's victory over Manchester Super Giants."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ham-vs-glam-2026-08-05",
+    "title": "Hampshire won by 90 runs | Group B Cricket News",
+    "description": "Hampshire vs Glamorgan result: Hampshire won by 90 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Hampshire won by 90 runs — HAM: 263/10 (49.3 ov) | GLAM: 173/10 (40.4 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hampshire vs Glamorgan result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hampshire vs Glamorgan cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Hampshire vs Glamorgan (Group B, ODI) — Hampshire won by 90 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Hampshire",
+            "263/10 (49.3 ov)"
+          ],
+          [
+            "Glamorgan",
+            "173/10 (40.4 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Hampshire won by 90 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Hampshire chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-sur-vs-kent-2026-08-05",
+    "title": "Surrey won by 95 runs - 49 Overs game due to rain | Group A Cricket News",
+    "description": "Surrey vs Kent result: Surrey won by 95 runs - 49 Overs game due to rain. Scores, player of the match, and pitch report.",
+    "excerpt": "Surrey won by 95 runs - 49 Overs game due to rain — SUR: 286/10 (48.3 ov) | KENT: 191/10 (41.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Surrey vs Kent result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Surrey vs Kent cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Surrey vs Kent (Group A, ODI) — Surrey won by 95 runs - 49 Overs game due to rain. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Surrey",
+            "286/10 (48.3 ov)"
+          ],
+          [
+            "Kent",
+            "191/10 (41.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Surrey won by 95 runs - 49 Overs game due to rain."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Kent chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-uae-vs-can-2026-08-05",
+    "title": "Match abandoned due to rain (no toss) | 123rd Match Cricket News",
+    "description": "United Arab Emirates vs Canada result: Match abandoned due to rain (no toss). Scores, player of the match, and pitch report.",
+    "excerpt": "Match abandoned due to rain (no toss) — UAE: 183/10 (48.5 ov) | CAN: 186/4 (40.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates vs Canada result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates vs Canada cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: United Arab Emirates vs Canada (123rd Match, ODI) — Match abandoned due to rain (no toss). Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "United Arab Emirates",
+            "183/10 (48.5 ov)"
+          ],
+          [
+            "Canada",
+            "186/4 (40.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Match abandoned due to rain (no toss)."
+      },
+      {
+        "type": "p",
+        "text": "Toss:  chose ."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-brazil-vs-per-2026-08-06",
+    "title": "Brazil vs Peru Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Brazil vs Peru preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 6 Aug, 2026, 7:00 pm.",
+    "excerpt": "Brazil vs Peru — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 21°C / Low 12°C · Rain: 0.4 mm · Wind: up to 10 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Brazil vs Peru",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Brazil vs Peru cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Brazil face Peru in 1st Match (T20) on Thu, 6 Aug, 2026, 7:00 pm at Los Pinos Polo Club 1, Cundinamarca Bogota. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Brazil vs Peru"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "South American Men's T20I Championship"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 6 Aug, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Los Pinos Polo Club 1, Cundinamarca Bogota"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 06, 14:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 21°C / Low 12°C · Rain: 0.4 mm · Wind: up to 10 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ndt-vs-pd-2026-08-06",
+    "title": "New Delhi Tigers vs Purani Dilli 6 Preview — Pitch, Weather & Lineup | 13th Match",
+    "description": "New Delhi Tigers vs Purani Dilli 6 preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 6 Aug, 2026, 7:00 pm.",
+    "excerpt": "New Delhi Tigers vs Purani Dilli 6 — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Variable conditions · High 30°C / Low 26°C · Rain: 12.9 mm · Wind: up to 7 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New Delhi Tigers vs Purani Dilli 6",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New Delhi Tigers vs Purani Dilli 6 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: New Delhi Tigers face Purani Dilli 6 in 13th Match (T20) on Thu, 6 Aug, 2026, 7:00 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "New Delhi Tigers vs Purani Dilli 6"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 6 Aug, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 06, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 30°C / Low 26°C · Rain: 12.9 mm · Wind: up to 7 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sal-vs-vkk-2026-08-06",
+    "title": "SKM Salem Spartans vs Vida Kovai Kings Preview — Pitch, Weather & Lineup | 4th Match",
+    "description": "SKM Salem Spartans vs Vida Kovai Kings preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 6 Aug, 2026, 7:30 pm.",
+    "excerpt": "SKM Salem Spartans vs Vida Kovai Kings — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 36°C / Low 27°C · Rain: 3.1 mm · Wind: up to 13 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "SKM Salem Spartans vs Vida Kovai Kings",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "SKM Salem Spartans vs Vida Kovai Kings cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: SKM Salem Spartans face Vida Kovai Kings in 4th Match (T20) on Thu, 6 Aug, 2026, 7:30 pm at NPR College Ground Dindigul. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "SKM Salem Spartans vs Vida Kovai Kings"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 6 Aug, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "NPR College Ground Dindigul"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 06, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 36°C / Low 27°C · Rain: 3.1 mm · Wind: up to 13 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sds-vs-odw-2026-08-06",
+    "title": "South Delhi Superstarz vs Outer Delhi Warriors Preview — Pitch, Weather & Lineup | 12th Match",
+    "description": "South Delhi Superstarz vs Outer Delhi Warriors preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Thu, 6 Aug, 2026, 1:30 pm.",
+    "excerpt": "South Delhi Superstarz vs Outer Delhi Warriors — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Variable conditions · High 30°C / Low 26°C · Rain: 12.9 mm · Wind: up to 7 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Delhi Superstarz vs Outer Delhi Warriors",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-06",
+    "updatedAt": "2026-08-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Delhi Superstarz vs Outer Delhi Warriors cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Delhi Superstarz face Outer Delhi Warriors in 12th Match (T20) on Thu, 6 Aug, 2026, 1:30 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Delhi Superstarz vs Outer Delhi Warriors"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 6 Aug, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 06, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 30°C / Low 26°C · Rain: 12.9 mm · Wind: up to 7 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-05",
     "title": "Cricket Daily Digest — Wednesday, 5 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
