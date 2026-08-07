@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-07",
+    "title": "Cricket Daily Digest — Friday, 7 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 20+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 7 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-07 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 7 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 7 Aug, 2026, 10:00 am",
+            "Sri Lanka XI vs India",
+            "TEST",
+            "Colombo",
+            "India tour of Sri Lanka 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:15 pm",
+            "Ireland vs Afghanistan",
+            "ODI",
+            "Bready, Northern Ireland",
+            "Afghanistan tour of Ireland, 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:30 pm",
+            "Scotland vs Canada",
+            "ODI",
+            "Dundee",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:30 pm",
+            "Glamorgan vs Essex",
+            "ODI",
+            "Cardiff",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:30 pm",
+            "Lancashire vs Gloucestershire",
+            "ODI",
+            "Manchester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:30 pm",
+            "Nottinghamshire vs Northamptonshire",
+            "ODI",
+            "Chesterfield",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 3:30 pm",
+            "Yorkshire vs Derbyshire",
+            "ODI",
+            "Scarborough",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 6:00 pm",
+            "Durham vs Middlesex",
+            "ODI",
+            "Chester-le-Street",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 6:30 pm",
+            "Leicestershire vs Warwickshire",
+            "ODI",
+            "Leicester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 6:30 pm",
+            "Somerset vs Surrey",
+            "ODI",
+            "Taunton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 6:30 pm",
+            "Sussex vs Worcestershire",
+            "ODI",
+            "Hove",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 7 Aug, 2026, 1:30 pm",
+            "East Delhi Riders vs West Delhi Lions",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "United Arab Emirates vs Canada (123rd Match, ODI): Match abandoned due to rain (no toss) — UAE: 183/10 (48.5 ov) | CAN: 186/4 (40.6 ov)",
+          "Surrey vs Kent (Group A, ODI): Surrey won by 95 runs - 49 Overs game due to rain — SUR: 286/10 (48.3 ov) | KENT: 191/10 (41.5 ov)",
+          "Hampshire vs Glamorgan (Group B, ODI): Hampshire won by 90 runs — HAM: 263/10 (49.3 ov) | GLAM: 173/10 (40.4 ov)",
+          "Ireland vs Afghanistan (1st ODI, ODI): Match abandoned due to rain without toss — IRE: 68/10 (15.2 ov) | AFG: 69/4 (10.4 ov)",
+          "Scotland vs United Arab Emirates (122nd Match, ODI): Match abandoned due to rain without toss — SCO: 183/10 (48.5 ov) | UAE: 186/4 (40.6 ov)",
+          "West Indies vs Pakistan (2nd Test, TEST): Pakistan won by 8 wkts — WI: 344/10 (105.4 ov) & 117/10 (46.1 ov) | PAK: 387/10 (114.6 ov) & 77/2 (23.3 ov)",
+          "Derbyshire vs Sussex (Group B, ODI): Derbyshire won by 188 runs — DERBY: 325/7 (49.6 ov) | SUS: 137/10 (31.4 ov)",
+          "Nottinghamshire vs Kent (Group A, ODI): Kent won by 5 wkts — NOTTS: 293/9 (49.6 ov) | KENT: 294/5 (49.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kerr brilliance keeps MI London's slim hopes alive — Melie Kerr's unbeaten 69 rescues MI London as they beat London Spirit for their first win of the 2026 campaign.",
+          "Spirit eliminated after losing fiery match against MI London — London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front o",
+          "How Buttler became T20 cricket's run-scoring GOAT — BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+          "TMS podcast: Is Buttler England's greatest white-ball player? — Jos Buttler tells Steven Finn how it feels to break the T20 run-scoring record.",
+          "Buttler breaks all-time T20 run record in win over Fire — Jos Buttler becomes the all-time leading run scorer in T20 cricket, hitting an explosive 51 off 20 balls to give Manches",
+          "'Another one!' Every six from a record-breaking Sunrisers innings — Watch as SunRisers Leeds hit a Hundred record of 21 sixes in their sensational innings at Headingley against London Spir"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Spirit eliminated after defeat by MI London",
+          "England recall Pope and Lawrence for Pakistan Tests",
+          "Brook's time will come as Test captain - McCullum",
+          "Hampshire and England bowler Turner retires aged 25",
+          "Kerr stars as MI London overcome early trouble to defeat London Spirit"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-brook-s-time-will-come-as-test-captain-mccullum",
+    "title": "Brook's time will come as Test captain - McCullum | Cricket News",
+    "description": "England white-ball coach Brendon McCullum backs Harry Brook as a future captain but says Joe Root will do an \"amazing job\" in his second stint.",
+    "excerpt": "England white-ball coach Brendon McCullum backs Harry Brook as a future captain but says Joe Root will do an \"amazing job\" in his second stint.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c39epglkg8mo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Brook's time will come as Test captain - McCullum",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Brook's time will come as Test captain - McCullum. England white-ball coach Brendon McCullum backs Harry Brook as a future captain but says Joe Root will do an \"amazing job\" in his second stint."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-england-recall-pope-and-lawrence-for-pakistan-test",
+    "title": "England recall Pope and Lawrence for Pakistan Tests | Cricket News",
+    "description": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.",
+    "excerpt": "Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crl7911zk40o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England recall Pope and Lawrence for Pakistan Tests",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England recall Pope and Lawrence for Pakistan Tests. Surrey duo Ollie Pope and Dan Lawrence are recalled to the England squad for the first two Tests against Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-how-buttler-became-t20-cricket-s-run-scoring-goat",
+    "title": "How Buttler became T20 cricket's run-scoring GOAT | Cricket News",
+    "description": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+    "excerpt": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c5ywjjnn0j5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: How Buttler became T20 cricket's run-scoring GOAT",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: How Buttler became T20 cricket's run-scoring GOAT. BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket."
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport explores how Jos Buttler became the highest run-getter in men's T20 cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-kerr-brilliance-keeps-mi-london-s-slim-hopes-alive",
+    "title": "Kerr brilliance keeps MI London's slim hopes alive | Cricket News",
+    "description": "Melie Kerr's unbeaten 69 rescues MI London as they beat London Spirit for their first win of the 2026 campaign.",
+    "excerpt": "Melie Kerr's unbeaten 69 rescues MI London as they beat London Spirit for their first win of the 2026 campaign.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c935n5w75eqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Kerr brilliance keeps MI London's slim hopes alive",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Kerr brilliance keeps MI London's slim hopes alive. Melie Kerr's unbeaten 69 rescues MI London as they beat London Spirit for their first win of the 2026 campaign."
+      },
+      {
+        "type": "p",
+        "text": "Melie Kerr's unbeaten 69 rescues MI London as they beat London Spirit for their first win of the 2026 campaign."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-spirit-eliminated-after-defeat-by-mi-london",
+    "title": "Spirit eliminated after defeat by MI London | Cricket News",
+    "description": "London Spirit are the first side to be knocked out of the men's Hundred after a six-wicket defeat by MI London at Lord's.",
+    "excerpt": "London Spirit are the first side to be knocked out of the men's Hundred after a six-wicket defeat by MI London at Lord's.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4gke18n8q7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Spirit eliminated after defeat by MI London",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Spirit eliminated after defeat by MI London. London Spirit are the first side to be knocked out of the men's Hundred after a six-wicket defeat by MI London at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-07-spirit-eliminated-after-losing-fiery-match-against",
+    "title": "Spirit eliminated after losing fiery match against MI London | Cricket News",
+    "description": "London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front of a record crowd at Lord's.",
+    "excerpt": "London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front of a record crowd at Lord's.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c3r0752wvdwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Spirit eliminated after losing fiery match against MI London",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Spirit eliminated after losing fiery match against MI London. London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front of a record crowd at Lord's."
+      },
+      {
+        "type": "p",
+        "text": "London Spirit become the first team to be eliminated from The Hundred after a four-wicket defeat by MI London in front of a record crowd at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-glam-vs-ess-2026-08-07",
+    "title": "Glamorgan vs Essex Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Glamorgan vs Essex preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 7 Aug, 2026, 3:30 pm.",
+    "excerpt": "Glamorgan vs Essex — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 22°C / Low 11°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Essex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Essex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Glamorgan face Essex in Group B (ODI) on Fri, 7 Aug, 2026, 3:30 pm at Sophia Gardens Cardiff. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Glamorgan vs Essex"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 7 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Sophia Gardens Cardiff"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 07, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 22°C / Low 11°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ire-vs-afg-2026-08-07",
+    "title": "Ireland vs Afghanistan Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "Ireland vs Afghanistan preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 7 Aug, 2026, 3:15 pm.",
+    "excerpt": "Ireland vs Afghanistan — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 19°C / Low 12°C · Rain: 0 mm · Wind: up to 25 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland vs Afghanistan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland vs Afghanistan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Ireland face Afghanistan in 2nd ODI (ODI) on Fri, 7 Aug, 2026, 3:15 pm at Bready Cricket Club Bready, Northern Ireland. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Ireland vs Afghanistan"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Afghanistan tour of Ireland, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 7 Aug, 2026, 3:15 pm"
+          ],
+          [
+            "Venue",
+            "Bready Cricket Club Bready, Northern Ireland"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 07, 09:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 19°C / Low 12°C · Rain: 0 mm · Wind: up to 25 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sco-vs-can-2026-08-07",
+    "title": "Scotland vs Canada Preview — Pitch, Weather & Lineup | 124th Match",
+    "description": "Scotland vs Canada preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 7 Aug, 2026, 3:30 pm.",
+    "excerpt": "Scotland vs Canada — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 18°C / Low 13°C · Rain: 0.2 mm · Wind: up to 31 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Scotland vs Canada",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Scotland vs Canada cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Scotland face Canada in 124th Match (ODI) on Fri, 7 Aug, 2026, 3:30 pm at Forthill Dundee. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Scotland vs Canada"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 7 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Forthill Dundee"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 07, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 18°C / Low 13°C · Rain: 0.2 mm · Wind: up to 31 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-slxi-vs-ind-2026-08-07",
+    "title": "Sri Lanka XI vs India Preview — Pitch, Weather & Lineup | 3-Day Warm-up Match",
+    "description": "Sri Lanka XI vs India preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Fri, 7 Aug, 2026, 10:00 am.",
+    "excerpt": "Sri Lanka XI vs India — pitch: Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests.… Weather: Heavy drizzle · High 29°C / Low 24°C · Rain: 5.7 mm · Wind: up to 21 km/h. Rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka XI vs India",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-07",
+    "updatedAt": "2026-08-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka XI vs India cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sri Lanka XI face India in 3-Day Warm-up Match (TEST) on Fri, 7 Aug, 2026, 10:00 am at Nondescripts Cricket Club Ground Colombo. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sri Lanka XI vs India"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "India tour of Sri Lanka 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 7 Aug, 2026, 10:00 am"
+          ],
+          [
+            "Venue",
+            "Nondescripts Cricket Club Ground Colombo"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 07, 04:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 240–270 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Heavy drizzle · High 29°C / Low 24°C · Rain: 5.7 mm · Wind: up to 21 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-06",
     "title": "Cricket Daily Digest — Thursday, 6 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
