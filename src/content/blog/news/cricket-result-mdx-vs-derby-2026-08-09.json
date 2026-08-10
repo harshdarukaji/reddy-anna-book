@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-mdx-vs-derby-2026-08-09",
+  "title": "Middlesex won by 87 runs | Group B Cricket News",
+  "description": "Middlesex vs Derbyshire result: Middlesex won by 87 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Middlesex won by 87 runs — MDX: 327/6 (49.6 ov) | DERBY: 240/10 (43.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Middlesex vs Derbyshire result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-10",
+  "updatedAt": "2026-08-10",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Middlesex vs Derbyshire cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Middlesex vs Derbyshire (Group B, ODI) — Middlesex won by 87 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Middlesex",
+          "327/6 (49.6 ov)"
+        ],
+        [
+          "Derbyshire",
+          "240/10 (43.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Middlesex won by 87 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Derbyshire chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

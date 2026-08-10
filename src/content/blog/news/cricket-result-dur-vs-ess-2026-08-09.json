@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-dur-vs-ess-2026-08-09",
+  "title": "Durham won by 20 runs  -  38 Overs game due to rain | Group B Cricket News",
+  "description": "Durham vs Essex result: Durham won by 20 runs  -  38 Overs game due to rain. Scores, player of the match, and pitch report.",
+  "excerpt": "Durham won by 20 runs  -  38 Overs game due to rain — DUR: 229/5 (37.6 ov) | ESS: 209/10 (37.1 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Durham vs Essex result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-10",
+  "updatedAt": "2026-08-10",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Durham vs Essex cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Durham vs Essex (Group B, ODI) — Durham won by 20 runs  -  38 Overs game due to rain. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Durham",
+          "229/5 (37.6 ov)"
+        ],
+        [
+          "Essex",
+          "209/10 (37.1 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Durham won by 20 runs  -  38 Overs game due to rain."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Essex chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
