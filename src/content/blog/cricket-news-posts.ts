@@ -3,6 +3,1048 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-11",
+    "title": "Cricket Daily Digest — Tuesday, 11 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 21+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 11 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-11 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 11 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 11 Aug, 2026, 11:30 am",
+            "Tanzania vs Hong Kong, China",
+            "ODI",
+            "Dar-es-Salaam",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 11:30 am",
+            "Italy vs Uganda",
+            "ODI",
+            "Dar es Salaam",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "United Arab Emirates vs Canada",
+            "ODI",
+            "Dundee",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Essex vs Yorkshire",
+            "ODI",
+            "Chelmsford",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Gloucestershire vs Northamptonshire",
+            "ODI",
+            "Cheltenham",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Hampshire vs Derbyshire",
+            "ODI",
+            "Southampton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Middlesex vs Sussex",
+            "ODI",
+            "Radlett",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Somerset vs Lancashire",
+            "ODI",
+            "Taunton",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Surrey vs Nottinghamshire",
+            "ODI",
+            "London",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Warwickshire vs Kent",
+            "ODI",
+            "Rugby, Warwickshire ",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 3:30 pm",
+            "Worcestershire vs Durham",
+            "ODI",
+            "Worcester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Tue, 11 Aug, 2026, 7:00 pm",
+            "Finland vs Germany",
+            "T20",
+            "Kerava",
+            "Finland tour of Germany, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ireland vs Afghanistan (3rd ODI, ODI): Afghanistan won by 3 wkts — IRE: 206/10 (46.3 ov) | AFG: 207/7 (44.5 ov)",
+          "United Arab Emirates vs Scotland (125th Match, ODI): Scotland won by 1 wkt - 40 Overs game due to rain — UAE: 231/8 (39.6 ov) | SCO: 235/9 (39.5 ov)",
+          "Middlesex vs Derbyshire (Group B, ODI): Middlesex won by 87 runs — MDX: 327/6 (49.6 ov) | DERBY: 240/10 (43.5 ov)",
+          "Nottinghamshire vs Gloucestershire (Group A, ODI): Gloucestershire won by 4 wkts — NOTTS: 279/10 (48.3 ov) | GLOUCS: 282/6 (49.1 ov)",
+          "Hampshire vs Sussex (Group B, ODI): Hampshire won by 51 runs — HAM: 383/9 (49.6 ov) | SUS: 332/10 (48.5 ov)",
+          "Durham vs Essex (Group B, ODI): Durham won by 20 runs  -  38 Overs game due to rain — DUR: 229/5 (37.6 ov) | ESS: 209/10 (37.1 ov)",
+          "Leicestershire vs Kent (Group A, ODI): Kent won by 6 wkts — LEIC: 261/7 (49.6 ov) | KENT: 262/4 (47.3 ov)",
+          "Lancashire vs Warwickshire (Group A, ODI): Warwickshire won by 2 wkts — LANCS: 311/5 (49.6 ov) | WARKS: 314/8 (48.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Brave's Stubbs stars to slow Rockets' march to final — Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' exc",
+          "Super Giants close in on knockout stages after beating Brave — Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their cha",
+          "'She's really going for it' - Ghosh hits quick fifty for Super Giants — All the best shots from Richa Ghosh's quickfire half century as she hits 54 from just 34 balls as Manchester Super Giant",
+          "Sciver-Brunt helps Rockets thrash MI London to reach knockouts — Nat Sciver-Brunt and Beth Mooney make unbeaten half-centuries as Trent Rockets beat already-eliminated MI London by nine",
+          "TMS podcast: Is Buttler England's greatest white-ball player? — Jos Buttler tells Steven Finn how it feels to break the T20 run-scoring record.",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Rockets face nervous wait after defeat by Brave",
+          "England opener Gay set to be fit for Pakistan Test",
+          "Sciver-Brunt cameo helps Rockets into Hundred final",
+          "Rahmanullah helps Afghanistan see off improved Ireland",
+          "Scotland & Dutch boards criticise ICC for World Cup changes"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-brave-s-stubbs-stars-to-slow-rockets-march-to-fina",
+    "title": "Brave's Stubbs stars to slow Rockets' march to final | Cricket News",
+    "description": "Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' excellent batting performances, with the la",
+    "excerpt": "Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' excellent batting performances, with the la",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cqx7l9nz1qzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Brave's Stubbs stars to slow Rockets' march to final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Brave's Stubbs stars to slow Rockets' march to final. Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' excellent batting performances, with the latter chalking up a half-century."
+      },
+      {
+        "type": "p",
+        "text": "Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' excellent batting performances, with the latter chalking up a half-century."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-england-opener-gay-set-to-be-fit-for-pakistan-test",
+    "title": "England opener Gay set to be fit for Pakistan Test | Cricket News",
+    "description": "Opener Emilio Gay is set to be fit for England’s first Test against Pakistan next week.",
+    "excerpt": "Opener Emilio Gay is set to be fit for England’s first Test against Pakistan next week.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cpd75xqj99go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England opener Gay set to be fit for Pakistan Test",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England opener Gay set to be fit for Pakistan Test. Opener Emilio Gay is set to be fit for England’s first Test against Pakistan next week."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-rockets-face-nervous-wait-after-defeat-by-brave",
+    "title": "Rockets face nervous wait after defeat by Brave | Cricket News",
+    "description": "Trent Rockets face a nervous wait to see if they will qualify automatically for the final of The Hundred after a six-wicket defeat by Southern Brave.",
+    "excerpt": "Trent Rockets face a nervous wait to see if they will qualify automatically for the final of The Hundred after a six-wicket defeat by Southern Brave.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx279rey9r1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Rockets face nervous wait after defeat by Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Rockets face nervous wait after defeat by Brave. Trent Rockets face a nervous wait to see if they will qualify automatically for the final of The Hundred after a six-wicket defeat by Southern Brave."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-sciver-brunt-cameo-helps-rockets-into-hundred-fina",
+    "title": "Sciver-Brunt cameo helps Rockets into Hundred final | Cricket News",
+    "description": "Nat Sciver-Brunt's breezy 32 helped Trent Rockets to a three-wicket win over Southern Brave which rubber stamps their place in the final of The Hundred.",
+    "excerpt": "Nat Sciver-Brunt's breezy 32 helped Trent Rockets to a three-wicket win over Southern Brave which rubber stamps their place in the final of The Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq569gg5j66o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sciver-Brunt cameo helps Rockets into Hundred final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sciver-Brunt cameo helps Rockets into Hundred final. Nat Sciver-Brunt's breezy 32 helped Trent Rockets to a three-wicket win over Southern Brave which rubber stamps their place in the final of The Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-she-s-really-going-for-it-ghosh-hits-quick-fifty-f",
+    "title": "'She's really going for it' - Ghosh hits quick fifty for Super Giants | Cricket News",
+    "description": "All the best shots from Richa Ghosh's quickfire half century as she hits 54 from just 34 balls as Manchester Super Giants set Southern Brave 140 to win in the w",
+    "excerpt": "All the best shots from Richa Ghosh's quickfire half century as she hits 54 from just 34 balls as Manchester Super Giants set Southern Brave 140 to win in the w",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cq89g22d947o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'She's really going for it' - Ghosh hits quick fifty for Super Giants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'She's really going for it' - Ghosh hits quick fifty for Super Giants. All the best shots from Richa Ghosh's quickfire half century as she hits 54 from just 34 balls as Manchester Super Giants set Southern Brave 140 to win in the women's Hundred."
+      },
+      {
+        "type": "p",
+        "text": "All the best shots from Richa Ghosh's quickfire half century as she hits 54 from just 34 balls as Manchester Super Giants set Southern Brave 140 to win in the women's Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-11-super-giants-close-in-on-knockout-stages-after-bea",
+    "title": "Super Giants close in on knockout stages after beating Brave | Cricket News",
+    "description": "Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their chances of reaching the knockout stages of ",
+    "excerpt": "Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their chances of reaching the knockout stages of ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Super Giants close in on knockout stages after beating Brave",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Super Giants close in on knockout stages after beating Brave. Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their chances of reaching the knockout stages of The Hundred women's competition."
+      },
+      {
+        "type": "p",
+        "text": "Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their chances of reaching the knockout stages of The Hundred women's competition."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ire-vs-afg-2026-08-10",
+    "title": "Afghanistan won by 3 wkts | 3rd ODI Cricket News",
+    "description": "Ireland vs Afghanistan result: Afghanistan won by 3 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Afghanistan won by 3 wkts — IRE: 206/10 (46.3 ov) | AFG: 207/7 (44.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland vs Afghanistan result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland vs Afghanistan cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Ireland vs Afghanistan (3rd ODI, ODI) — Afghanistan won by 3 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Ireland",
+            "206/10 (46.3 ov)"
+          ],
+          [
+            "Afghanistan",
+            "207/7 (44.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Afghanistan won by 3 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Afghanistan chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Rashid Khan delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ess-vs-yorks-2026-08-11",
+    "title": "Essex vs Yorkshire Preview — Pitch, Weather & Lineup | Group B",
+    "description": "Essex vs Yorkshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 11 Aug, 2026, 3:30 pm.",
+    "excerpt": "Essex vs Yorkshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 23°C / Low 15°C · Rain: 0 mm · Wind: up to 21 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Yorkshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Yorkshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Essex face Yorkshire in Group B (ODI) on Tue, 11 Aug, 2026, 3:30 pm at County Ground Chelmsford. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Essex vs Yorkshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 11 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Chelmsford"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 11, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 23°C / Low 15°C · Rain: 0 mm · Wind: up to 21 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ita-vs-uga-2026-08-11",
+    "title": "Italy vs Uganda Preview — Pitch, Weather & Lineup | 35th Match",
+    "description": "Italy vs Uganda preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 11 Aug, 2026, 11:30 am.",
+    "excerpt": "Italy vs Uganda — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 28°C / Low 19°C · Rain: 0.9 mm · Wind: up to 10 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Italy vs Uganda",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Italy vs Uganda cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Italy face Uganda in 35th Match (ODI) on Tue, 11 Aug, 2026, 11:30 am at University of Dar-es-Salaam 2 Dar es Salaam. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Italy vs Uganda"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 11 Aug, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "University of Dar-es-Salaam 2 Dar es Salaam"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 11, 06:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 28°C / Low 19°C · Rain: 0.9 mm · Wind: up to 10 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-tan-vs-hkc-2026-08-11",
+    "title": "Tanzania vs Hong Kong, China Preview — Pitch, Weather & Lineup | 34th Match",
+    "description": "Tanzania vs Hong Kong, China preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 11 Aug, 2026, 11:30 am.",
+    "excerpt": "Tanzania vs Hong Kong, China — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 28°C / Low 21°C · Rain: 0.9 mm · Wind: up to 13 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Tanzania vs Hong Kong, China",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Tanzania vs Hong Kong, China cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Tanzania face Hong Kong, China in 34th Match (ODI) on Tue, 11 Aug, 2026, 11:30 am at University of Dar-es-Salaam 1 Dar-es-Salaam. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Tanzania vs Hong Kong, China"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 11 Aug, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "University of Dar-es-Salaam 1 Dar-es-Salaam"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 11, 06:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 28°C / Low 21°C · Rain: 0.9 mm · Wind: up to 13 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-uae-vs-can-2026-08-11",
+    "title": "United Arab Emirates vs Canada Preview — Pitch, Weather & Lineup | 126th Match",
+    "description": "United Arab Emirates vs Canada preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 11 Aug, 2026, 3:30 pm.",
+    "excerpt": "United Arab Emirates vs Canada — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 18°C / Low 13°C · Rain: 0.1 mm · Wind: up to 16 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates vs Canada",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates vs Canada cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: United Arab Emirates face Canada in 126th Match (ODI) on Tue, 11 Aug, 2026, 3:30 pm at Forthill Dundee. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "United Arab Emirates vs Canada"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 11 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Forthill Dundee"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 11, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 18°C / Low 13°C · Rain: 0.1 mm · Wind: up to 16 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-10",
     "title": "Cricket Daily Digest — Monday, 10 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
