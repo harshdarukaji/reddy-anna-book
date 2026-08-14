@@ -3,6 +3,1048 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-14",
+    "title": "Cricket Daily Digest — Friday, 14 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 16+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 14 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-14 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 14 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 14 Aug, 2026, 11:30 am",
+            "Bahrain vs Hong Kong, China",
+            "ODI",
+            "Dar-es-Salaam",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 11:30 am",
+            "Italy vs Singapore",
+            "ODI",
+            "Dar es Salaam",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 3:30 pm",
+            "Lancashire vs Durham",
+            "ODI",
+            "Manchester",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 3:30 pm",
+            "Yorkshire vs Nottinghamshire",
+            "ODI",
+            "York",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 1:30 pm",
+            "Finland vs Spain",
+            "T20",
+            "Kerava",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 1:30 pm",
+            "Israel vs Portugal",
+            "T20",
+            "Vantaa",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 6:30 pm",
+            "Isle of Man vs Luxembourg",
+            "T20",
+            "Kerava",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 6:30 pm",
+            "Czech Republic vs Germany",
+            "T20",
+            "Vantaa",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Sat, 15 Aug, 2026, 5:00 am",
+            "Papua New Guinea Women vs Thailand Women",
+            "ODI",
+            "Port Moresby",
+            "Thailand Women tour of Papua New Guinea,"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 12:30 pm",
+            "Malawi vs Zambia",
+            "T20",
+            "Blantyre",
+            "Malawi Tri-Series 2026"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 3:30 pm",
+            "SKM Salem Spartans vs Dindigul Dragons",
+            "T20",
+            "Dindigul",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Fri, 14 Aug, 2026, 4:30 pm",
+            "Malawi vs Rwanda",
+            "T20",
+            "Blantyre",
+            "Malawi Tri-Series 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Scotland vs Canada (127th Match, ODI): Scotland won by 170 runs — SCO: 347/7 (49.6 ov) | CAN: 177/10 (34.6 ov)",
+          "Afghanistan vs Ireland (4th ODI, ODI): Afghanistan won by 42 runs — AFG: 343/9 (49.6 ov) | IRE: 301/10 (47.6 ov)",
+          "Hong Kong, China vs Uganda (37th Match, ODI): Hong Kong, China won by 51 runs — HKC: 170/10 (49.6 ov) | UGA: 119/10 (36.5 ov)",
+          "Singapore vs Bahrain (36th Match, ODI): Bahrain won by 7 wkts — SIN: 76/10 (21.3 ov) | BHR: 79/3 (14.5 ov)",
+          "United Arab Emirates vs Canada (126th Match, ODI): United Arab Emirates won by 97 runs — UAE: 282/6 (49.6 ov) | CAN: 185/10 (33.4 ov)",
+          "Northamptonshire vs Gloucestershire (Group A, ODI): Gloucestershire won by 3 wkts — NHNTS: 308/10 (46.4 ov) | GLOUCS: 309/7 (49.2 ov)",
+          "Lancashire vs Somerset (Group A, ODI): Lancashire won by 174 runs — LANCS: 443/6 (49.6 ov) | SOM: 269/10 (39.2 ov)",
+          "Worcestershire vs Durham (Group B, ODI): Worcestershire won by 77 runs — WORCS: 291/10 (49.1 ov) | DUR: 214/10 (38.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Perfect Perry stars as Phoenix beat MI London to avoid finishing bottom — Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI Lo",
+          "Fire finish on a high with win over Spirit — Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their ",
+          "Perry fifty takes Phoenix to victory over MI London — Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred.",
+          "Brave's Stubbs stars to slow Rockets' march to final — Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' exc",
+          "Rocky Flintoff hits first professional century for Lancs — Rocky Flintoff, the 18-year-old son of legendary former England all-rounder Andrew, hits his first professional century ",
+          "TMS podcast: Is Buttler England's greatest white-ball player? — Jos Buttler tells Steven Finn how it feels to break the T20 run-scoring record."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Only wins can stop England's curfew hokey-cokey",
+          "Bangladesh dominate Australia despite Smith reprieve",
+          "Berrington & Robertson star as Scotland crush Canada",
+          "Henriques chasing 'cricket nirvana' with Portugal",
+          "MI London hold on to beat Phoenix but fail to progress to eliminator"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-bangladesh-dominate-australia-despite-smith-reprie",
+    "title": "Bangladesh dominate Australia despite Smith reprieve | Cricket News",
+    "description": "Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test.",
+    "excerpt": "Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c86ndx87e8eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Bangladesh dominate Australia despite Smith reprieve",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Bangladesh dominate Australia despite Smith reprieve. Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-berrington-robertson-star-as-scotland-crush-canada",
+    "title": "Berrington & Robertson star as Scotland crush Canada | Cricket News",
+    "description": "Captain Richie Berrington and debutant Lyle Robertson star as Scotland enjoy a thumping 170-run World Cup League 2 victory over Canada at Forthill.",
+    "excerpt": "Captain Richie Berrington and debutant Lyle Robertson star as Scotland enjoy a thumping 170-run World Cup League 2 victory over Canada at Forthill.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ceqep841q9zo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Berrington & Robertson star as Scotland crush Canada",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Berrington & Robertson star as Scotland crush Canada. Captain Richie Berrington and debutant Lyle Robertson star as Scotland enjoy a thumping 170-run World Cup League 2 victory over Canada at Forthill."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-fire-finish-on-a-high-with-win-over-spirit",
+    "title": "Fire finish on a high with win over Spirit | Cricket News",
+    "description": "Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their final game of the Women's Hundred.",
+    "excerpt": "Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their final game of the Women's Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/crk5p2d8zvjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Fire finish on a high with win over Spirit",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Fire finish on a high with win over Spirit. Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their final game of the Women's Hundred."
+      },
+      {
+        "type": "p",
+        "text": "Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their final game of the Women's Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-only-wins-can-stop-england-s-curfew-hokey-cokey",
+    "title": "Only wins can stop England's curfew hokey-cokey | Cricket News",
+    "description": "England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Step",
+    "excerpt": "England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Step",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Only wins can stop England's curfew hokey-cokey",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Only wins can stop England's curfew hokey-cokey. England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-perfect-perry-stars-as-phoenix-beat-mi-london-to-a",
+    "title": "Perfect Perry stars as Phoenix beat MI London to avoid finishing bottom | Cricket News",
+    "description": "Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI London - a victory which sees Phoenix avoi",
+    "excerpt": "Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI London - a victory which sees Phoenix avoi",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1m12pxje3zo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Perfect Perry stars as Phoenix beat MI London to avoid finishing bottom",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Perfect Perry stars as Phoenix beat MI London to avoid finishing bottom. Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI London - a victory which sees Phoenix avoid finishing bottom of the table, at the "
+      },
+      {
+        "type": "p",
+        "text": "Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI London - a victory which sees Phoenix avoid finishing bottom of the table, at the expense of their opponents."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-14-perry-fifty-takes-phoenix-to-victory-over-mi-londo",
+    "title": "Perry fifty takes Phoenix to victory over MI London | Cricket News",
+    "description": "Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred.",
+    "excerpt": "Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqx7p9nej52o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Perry fifty takes Phoenix to victory over MI London",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Perry fifty takes Phoenix to victory over MI London. Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred."
+      },
+      {
+        "type": "p",
+        "text": "Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-sco-vs-can-2026-08-13",
+    "title": "Scotland won by 170 runs | 127th Match Cricket News",
+    "description": "Scotland vs Canada result: Scotland won by 170 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Scotland won by 170 runs — SCO: 347/7 (49.6 ov) | CAN: 177/10 (34.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Scotland vs Canada result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Scotland vs Canada cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Scotland vs Canada (127th Match, ODI) — Scotland won by 170 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Scotland",
+            "347/7 (49.6 ov)"
+          ],
+          [
+            "Canada",
+            "177/10 (34.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Scotland won by 170 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Scotland chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Lyle Robertson delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bhr-vs-hkc-2026-08-14",
+    "title": "Bahrain vs Hong Kong, China Preview — Pitch, Weather & Lineup | 38th Match",
+    "description": "Bahrain vs Hong Kong, China preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 14 Aug, 2026, 11:30 am.",
+    "excerpt": "Bahrain vs Hong Kong, China — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 31°C / Low 22°C · Rain: 1.7 mm · Wind: up to 21 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bahrain vs Hong Kong, China",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bahrain vs Hong Kong, China cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Bahrain face Hong Kong, China in 38th Match (ODI) on Fri, 14 Aug, 2026, 11:30 am at University of Dar-es-Salaam 1 Dar-es-Salaam. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Bahrain vs Hong Kong, China"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 14 Aug, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "University of Dar-es-Salaam 1 Dar-es-Salaam"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 14, 06:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 31°C / Low 22°C · Rain: 1.7 mm · Wind: up to 21 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ita-vs-sin-2026-08-14",
+    "title": "Italy vs Singapore Preview — Pitch, Weather & Lineup | 39th Match",
+    "description": "Italy vs Singapore preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 14 Aug, 2026, 11:30 am.",
+    "excerpt": "Italy vs Singapore — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 30°C / Low 21°C · Rain: 1.2 mm · Wind: up to 22 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Italy vs Singapore",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Italy vs Singapore cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Italy face Singapore in 39th Match (ODI) on Fri, 14 Aug, 2026, 11:30 am at University of Dar-es-Salaam 2 Dar es Salaam. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Italy vs Singapore"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League B, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 14 Aug, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "University of Dar-es-Salaam 2 Dar es Salaam"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 14, 06:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 30°C / Low 21°C · Rain: 1.2 mm · Wind: up to 22 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-lancs-vs-dur-2026-08-14",
+    "title": "Lancashire vs Durham Preview — Pitch, Weather & Lineup | Quarter Final 1",
+    "description": "Lancashire vs Durham preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 14 Aug, 2026, 3:30 pm.",
+    "excerpt": "Lancashire vs Durham — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Overcast · High 26°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lancashire vs Durham",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lancashire vs Durham cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Lancashire face Durham in Quarter Final 1 (ODI) on Fri, 14 Aug, 2026, 3:30 pm at Emirates Old Trafford Manchester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Lancashire vs Durham"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 14 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Emirates Old Trafford Manchester"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 14, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 18°C · Rain: 0 mm · Wind: up to 17 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-yorks-vs-notts-2026-08-14",
+    "title": "Yorkshire vs Nottinghamshire Preview — Pitch, Weather & Lineup | Quarter Final 2",
+    "description": "Yorkshire vs Nottinghamshire preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 14 Aug, 2026, 3:30 pm.",
+    "excerpt": "Yorkshire vs Nottinghamshire — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 29°C / Low 18°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Yorkshire vs Nottinghamshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Yorkshire vs Nottinghamshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Yorkshire face Nottinghamshire in Quarter Final 2 (ODI) on Fri, 14 Aug, 2026, 3:30 pm at Clifton Park Ground York. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Yorkshire vs Nottinghamshire"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Domestic One-Day Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 14 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Clifton Park Ground York"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 14, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 29°C / Low 18°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-13",
     "title": "Cricket Daily Digest — Thursday, 13 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

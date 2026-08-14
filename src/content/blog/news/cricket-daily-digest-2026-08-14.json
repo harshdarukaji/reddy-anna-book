@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-08-14",
+  "title": "Cricket Daily Digest — Friday, 14 August 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 16+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 14 August 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-14",
+  "updatedAt": "2026-08-14",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-08-14 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 14 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Fri, 14 Aug, 2026, 11:30 am",
+          "Bahrain vs Hong Kong, China",
+          "ODI",
+          "Dar-es-Salaam",
+          "ICC CWC Challenge League B, 2024-26"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 11:30 am",
+          "Italy vs Singapore",
+          "ODI",
+          "Dar es Salaam",
+          "ICC CWC Challenge League B, 2024-26"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 3:30 pm",
+          "Lancashire vs Durham",
+          "ODI",
+          "Manchester",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 3:30 pm",
+          "Yorkshire vs Nottinghamshire",
+          "ODI",
+          "York",
+          "England Domestic One-Day Cup 2026"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 1:30 pm",
+          "Finland vs Spain",
+          "T20",
+          "Kerava",
+          "ICC Men's T20 World Cup Sub Regional Eur"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 1:30 pm",
+          "Israel vs Portugal",
+          "T20",
+          "Vantaa",
+          "ICC Men's T20 World Cup Sub Regional Eur"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 6:30 pm",
+          "Isle of Man vs Luxembourg",
+          "T20",
+          "Kerava",
+          "ICC Men's T20 World Cup Sub Regional Eur"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 6:30 pm",
+          "Czech Republic vs Germany",
+          "T20",
+          "Vantaa",
+          "ICC Men's T20 World Cup Sub Regional Eur"
+        ],
+        [
+          "Sat, 15 Aug, 2026, 5:00 am",
+          "Papua New Guinea Women vs Thailand Women",
+          "ODI",
+          "Port Moresby",
+          "Thailand Women tour of Papua New Guinea,"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 12:30 pm",
+          "Malawi vs Zambia",
+          "T20",
+          "Blantyre",
+          "Malawi Tri-Series 2026"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 3:30 pm",
+          "SKM Salem Spartans vs Dindigul Dragons",
+          "T20",
+          "Dindigul",
+          "Tamil Nadu Premier League 2026"
+        ],
+        [
+          "Fri, 14 Aug, 2026, 4:30 pm",
+          "Malawi vs Rwanda",
+          "T20",
+          "Blantyre",
+          "Malawi Tri-Series 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Scotland vs Canada (127th Match, ODI): Scotland won by 170 runs — SCO: 347/7 (49.6 ov) | CAN: 177/10 (34.6 ov)",
+        "Afghanistan vs Ireland (4th ODI, ODI): Afghanistan won by 42 runs — AFG: 343/9 (49.6 ov) | IRE: 301/10 (47.6 ov)",
+        "Hong Kong, China vs Uganda (37th Match, ODI): Hong Kong, China won by 51 runs — HKC: 170/10 (49.6 ov) | UGA: 119/10 (36.5 ov)",
+        "Singapore vs Bahrain (36th Match, ODI): Bahrain won by 7 wkts — SIN: 76/10 (21.3 ov) | BHR: 79/3 (14.5 ov)",
+        "United Arab Emirates vs Canada (126th Match, ODI): United Arab Emirates won by 97 runs — UAE: 282/6 (49.6 ov) | CAN: 185/10 (33.4 ov)",
+        "Northamptonshire vs Gloucestershire (Group A, ODI): Gloucestershire won by 3 wkts — NHNTS: 308/10 (46.4 ov) | GLOUCS: 309/7 (49.2 ov)",
+        "Lancashire vs Somerset (Group A, ODI): Lancashire won by 174 runs — LANCS: 443/6 (49.6 ov) | SOM: 269/10 (39.2 ov)",
+        "Worcestershire vs Durham (Group B, ODI): Worcestershire won by 77 runs — WORCS: 291/10 (49.1 ov) | DUR: 214/10 (38.5 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Perfect Perry stars as Phoenix beat MI London to avoid finishing bottom — Ellyse Perry hits an unbeaten 62 off 39 balls to guide Birmingham Phoenix to a comfortable five-wicket win against MI Lo",
+        "Fire finish on a high with win over Spirit — Georgia Wareham hits her first half-century of the campaign to give Welsh Fire a 15-run win over London Spirit in their ",
+        "Perry fifty takes Phoenix to victory over MI London — Ellyse Perry hits a superb 62 not out to lead Birmingham Phoenix to a five-wicket victory over MI London in The Hundred.",
+        "Brave's Stubbs stars to slow Rockets' march to final — Southern Brave complete an upset to beat Trent Rockets by six wickets courtesy of Marcus Stoinis and Tristan Stubbs' exc",
+        "Rocky Flintoff hits first professional century for Lancs — Rocky Flintoff, the 18-year-old son of legendary former England all-rounder Andrew, hits his first professional century ",
+        "TMS podcast: Is Buttler England's greatest white-ball player? — Jos Buttler tells Steven Finn how it feels to break the T20 run-scoring record."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Only wins can stop England's curfew hokey-cokey",
+        "Bangladesh dominate Australia despite Smith reprieve",
+        "Berrington & Robertson star as Scotland crush Canada",
+        "Henriques chasing 'cricket nirvana' with Portugal",
+        "MI London hold on to beat Phoenix but fail to progress to eliminator"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
