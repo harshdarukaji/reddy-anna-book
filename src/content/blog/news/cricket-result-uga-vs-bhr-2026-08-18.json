@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-uga-vs-bhr-2026-08-18",
+  "title": "Bahrain won by 4 wkts | 45th Match Cricket News",
+  "description": "Uganda vs Bahrain result: Bahrain won by 4 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Bahrain won by 4 wkts — UGA: 204/10 (48.1 ov) | BHR: 209/6 (49.4 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Uganda vs Bahrain result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Uganda vs Bahrain cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Uganda vs Bahrain (45th Match, ODI) — Bahrain won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Uganda",
+          "204/10 (48.1 ov)"
+        ],
+        [
+          "Bahrain",
+          "209/6 (49.4 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Bahrain won by 4 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Bahrain chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Fiaz Ahmed delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
