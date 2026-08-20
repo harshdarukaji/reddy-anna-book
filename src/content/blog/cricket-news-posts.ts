@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-20",
+    "title": "Cricket Daily Digest — Thursday, 20 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 18+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 20 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-20 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 20 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Surrey vs Nottinghamshire",
+            "TEST",
+            "London",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Warwickshire vs Sussex",
+            "TEST",
+            "Birmingham",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Leicestershire vs Glamorgan",
+            "TEST",
+            "Leicester",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Somerset vs Essex",
+            "TEST",
+            "Taunton",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Hampshire vs Yorkshire",
+            "TEST",
+            "Southampton",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Middlesex vs Kent",
+            "TEST",
+            "Northwood",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Derbyshire vs Durham",
+            "TEST",
+            "Derby",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Lancashire vs Northamptonshire",
+            "TEST",
+            "Manchester",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 3:30 pm",
+            "Gloucestershire vs Worcestershire",
+            "TEST",
+            "Cheltenham",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 1:30 pm",
+            "Bulgaria vs Luxembourg",
+            "T20",
+            "Kerava",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 1:30 pm",
+            "Czech Republic vs Portugal",
+            "T20",
+            "Vantaa",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ],
+          [
+            "Thu, 20 Aug, 2026, 6:30 pm",
+            "Finland vs Isle of Man",
+            "T20",
+            "Kerava",
+            "ICC Men's T20 World Cup Sub Regional Eur"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Uganda vs Bahrain (45th Match, ODI): Bahrain won by 4 wkts — UGA: 204/10 (48.1 ov) | BHR: 209/6 (49.4 ov)",
+          "Tanzania vs Italy (44th Match, ODI): Italy won by 8 wkts — TAN: 142/10 (37.3 ov) | ITA: 143/2 (25.5 ov)",
+          "Singapore vs Tanzania (43rd Match, ODI): Tanzania won by 9 wkts — SIN: 103/10 (29.5 ov) | TAN: 106/1 (16.6 ov)",
+          "Hong Kong, China vs Italy (42nd Match, ODI): Italy won by 6 wkts — HKC: 174/10 (49.1 ov) | ITA: 175/4 (45.6 ov)",
+          "Leicestershire vs Nottinghamshire (Semi Final 1, ODI): Leicestershire won by 23 runs — LEIC: 303/7 (49.6 ov) | NOTTS: 280/10 (48.6 ov)",
+          "Durham vs Middlesex (Semi Final 2, ODI): Middlesex won by 2 wkts — DUR: 254/7 (49.6 ov) | MDX: 255/8 (48.4 ov)",
+          "Ireland vs Afghanistan (5th ODI, ODI): Afghanistan won by 6 wkts — IRE: 298/7 (49.6 ov) | AFG: 302/4 (48.5 ov)",
+          "Bahrain vs Tanzania (41st Match, ODI): Tanzania won by 5 wkts  -  42 over game due to rain — BHR: 116/10 (32.2 ov) | TAN: 120/5 (27.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Tongue & Robinson cut Headingley ball in half — England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wick",
+          "Robinson and Tongue guide England to strong start against Pakistan — Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against P",
+          "England's two-man show - Tongue and Robinson take five wickets each — Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out ",
+          "Tongue takes back-to-back wickets but misses out on hat-trick — Josh Tongue removes Salman Ali Agha and Ali Usman in back-to-back balls but falls just short of the hat-trick as Khurram",
+          "Bryce and Elwiss star as The Blaze hammer Durham — The Blaze post a record score in beating Durham in the One-Day Cup to stay top as Hampshire, Warwickshire and Somerset a",
+          "Sunrisers comfortably beat Brave to reach women's Hundred final — Sunrisers Leeds hold their nerve to beat Southern Brave in the women's eliminator, securing a five-wicket win at The Ova"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "How Root brought welcome calm on return as England captain",
+          "Robinson & Tongue give Root an ideal start to England's new era",
+          "Send your cricket data questions to BBC Sport & CricViz",
+          "Five each for Tongue & Robinson on day one",
+          "England to face Pakistan and Sri Lanka in tri-series"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-england-s-two-man-show-tongue-and-robinson-take-fi",
+    "title": "England's two-man show - Tongue and Robinson take five wickets each | Cricket News",
+    "description": "Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out for 171 on day one of the first Test at ",
+    "excerpt": "Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out for 171 on day one of the first Test at ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c8dnz7vq842o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England's two-man show - Tongue and Robinson take five wickets each",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England's two-man show - Tongue and Robinson take five wickets each. Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out for 171 on day one of the first Test at Headingley."
+      },
+      {
+        "type": "p",
+        "text": "Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out for 171 on day one of the first Test at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-how-root-brought-welcome-calm-on-return-as-england",
+    "title": "How Root brought welcome calm on return as England captain | Cricket News",
+    "description": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper.",
+    "excerpt": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: How Root brought welcome calm on return as England captain",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: How Root brought welcome calm on return as England captain. Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-robinson-and-tongue-guide-england-to-strong-start-",
+    "title": "Robinson and Tongue guide England to strong start against Pakistan | Cricket News",
+    "description": "Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against Pakistan at Headingley, as the home side ",
+    "excerpt": "Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against Pakistan at Headingley, as the home side ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Robinson and Tongue guide England to strong start against Pakistan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Robinson and Tongue guide England to strong start against Pakistan. Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against Pakistan at Headingley, as the home side closed on 112-2 at stumps on day one, ju"
+      },
+      {
+        "type": "p",
+        "text": "Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against Pakistan at Headingley, as the home side closed on 112-2 at stumps on day one, just 59 runs behind the tourists' first-innings total of 171."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-robinson-tongue-give-root-an-ideal-start-to-englan",
+    "title": "Robinson & Tongue give Root an ideal start to England's new era | Cricket News",
+    "description": "Ollie Robinson and Josh Tongue each take five wickets to give Joe Root the ideal start to his second spell as England captain as Pakistan are skittled for 171 o",
+    "excerpt": "Ollie Robinson and Josh Tongue each take five wickets to give Joe Root the ideal start to his second spell as England captain as Pakistan are skittled for 171 o",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c62vyw663gvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Robinson & Tongue give Root an ideal start to England's new era",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Robinson & Tongue give Root an ideal start to England's new era. Ollie Robinson and Josh Tongue each take five wickets to give Joe Root the ideal start to his second spell as England captain as Pakistan are skittled for 171 on the opening day of the series at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-send-your-cricket-data-questions-to-bbc-sport-cric",
+    "title": "Send your cricket data questions to BBC Sport & CricViz | Cricket News",
+    "description": "Send your cricket data questions to BBC Sport and we will get CricViz to answer a selection of them.",
+    "excerpt": "Send your cricket data questions to BBC Sport and we will get CricViz to answer a selection of them.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cz6459x3zw0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Send your cricket data questions to BBC Sport & CricViz",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Send your cricket data questions to BBC Sport & CricViz. Send your cricket data questions to BBC Sport and we will get CricViz to answer a selection of them."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-20-tongue-robinson-cut-headingley-ball-in-half",
+    "title": "Tongue & Robinson cut Headingley ball in half | Cricket News",
+    "description": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half",
+    "excerpt": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Tongue & Robinson cut Headingley ball in half",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Tongue & Robinson cut Headingley ball in half. England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half."
+      },
+      {
+        "type": "p",
+        "text": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-leic-vs-glam-2026-08-20",
+    "title": "Leicestershire vs Glamorgan Preview — Pitch, Weather & Lineup | 43rd Match",
+    "description": "Leicestershire vs Glamorgan preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 20 Aug, 2026, 3:30 pm.",
+    "excerpt": "Leicestershire vs Glamorgan — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Rain · High 18°C / Low 14°C · Rain: 5 mm · Wind: up to 17 km/h. Rain likely — DL…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Leicestershire vs Glamorgan",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Leicestershire vs Glamorgan cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Leicestershire face Glamorgan in 43rd Match (TEST) on Thu, 20 Aug, 2026, 3:30 pm at Grace Road Leicester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Leicestershire vs Glamorgan"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 20 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Grace Road Leicester"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 20, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 18°C / Low 14°C · Rain: 5 mm · Wind: up to 17 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-som-vs-ess-2026-08-20",
+    "title": "Somerset vs Essex Preview — Pitch, Weather & Lineup | 44th Match",
+    "description": "Somerset vs Essex preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 20 Aug, 2026, 3:30 pm.",
+    "excerpt": "Somerset vs Essex — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Heavy drizzle · High 21°C / Low 15°C · Rain: 2.8 mm · Wind: up to 24 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Somerset vs Essex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Somerset vs Essex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Somerset face Essex in 44th Match (TEST) on Thu, 20 Aug, 2026, 3:30 pm at The Cooper Associates County Ground Taunton. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Somerset vs Essex"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 20 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "The Cooper Associates County Ground Taunton"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 20, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Heavy drizzle · High 21°C / Low 15°C · Rain: 2.8 mm · Wind: up to 24 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sur-vs-notts-2026-08-20",
+    "title": "Surrey vs Nottinghamshire Preview — Pitch, Weather & Lineup | 41st Match",
+    "description": "Surrey vs Nottinghamshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 20 Aug, 2026, 3:30 pm.",
+    "excerpt": "Surrey vs Nottinghamshire — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Light drizzle · High 22°C / Low 17°C · Rain: 0.8 mm · Wind: up to 19 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Surrey vs Nottinghamshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Surrey vs Nottinghamshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Surrey face Nottinghamshire in 41st Match (TEST) on Thu, 20 Aug, 2026, 3:30 pm at Kennington Oval London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Surrey vs Nottinghamshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 20 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Kennington Oval London"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 20, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 22°C / Low 17°C · Rain: 0.8 mm · Wind: up to 19 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-warks-vs-sus-2026-08-20",
+    "title": "Warwickshire vs Sussex Preview — Pitch, Weather & Lineup | 42nd Match",
+    "description": "Warwickshire vs Sussex preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 20 Aug, 2026, 3:30 pm.",
+    "excerpt": "Warwickshire vs Sussex — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Light rain · High 19°C / Low 14°C · Rain: 3.2 mm · Wind: up to 16 km/h. Light ra…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Warwickshire vs Sussex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Warwickshire vs Sussex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Warwickshire face Sussex in 42nd Match (TEST) on Thu, 20 Aug, 2026, 3:30 pm at Edgbaston Birmingham. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Warwickshire vs Sussex"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 20 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "Edgbaston Birmingham"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 20, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light rain · High 19°C / Low 14°C · Rain: 3.2 mm · Wind: up to 16 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-19",
     "title": "Cricket Daily Digest — Wednesday, 19 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 6+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
