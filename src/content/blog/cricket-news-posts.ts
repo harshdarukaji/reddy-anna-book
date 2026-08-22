@@ -3,6 +3,900 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-22",
+    "title": "Cricket Daily Digest — Saturday, 22 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 22 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-22 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 22 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 22 Aug, 2026, 2:00 pm",
+            "Luxembourg Women vs Belgium Women",
+            "T20",
+            "Walferdange",
+            "Belgium Women tour of Luxembourg, 2026"
+          ],
+          [
+            "Sat, 22 Aug, 2026, 7:00 pm",
+            "Luxembourg Women vs Belgium Women",
+            "T20",
+            "Walferdange",
+            "Belgium Women tour of Luxembourg, 2026"
+          ],
+          [
+            "Sat, 22 Aug, 2026, 3:00 pm",
+            "China Women vs Indonesia Women",
+            "T20",
+            "Hangzhou",
+            "China Women T20I Tri-Series, 2026"
+          ],
+          [
+            "Sat, 22 Aug, 2026, 3:30 pm",
+            "IDream Tiruppur Tamizhans vs SKM Salem Spartans",
+            "T20",
+            "Chennai",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Sat, 22 Aug, 2026, 7:00 pm",
+            "Central Delhi Kings vs West Delhi Lions",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Sat, 22 Aug, 2026, 7:30 pm",
+            "Nellai Royal Kings vs Madurai Panthers",
+            "T20",
+            "Chennai",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Sun, 23 Aug, 2026, 4:30 am",
+            "Antigua and Barbuda Falcons vs Trinbago Knight Riders",
+            "T20",
+            "North Sound, Antigua",
+            "Caribbean Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pakistan vs England (1st Test, TEST): England won by an innings and 103 runs — PAK: 171/10 (48.1 ov) & 135/10 (37.3 ov) | ENG: 409/10 (89.5 ov)",
+          "Uganda vs Bahrain (45th Match, ODI): Bahrain won by 4 wkts — UGA: 204/10 (48.1 ov) | BHR: 209/6 (49.4 ov)",
+          "Tanzania vs Italy (44th Match, ODI): Italy won by 8 wkts — TAN: 142/10 (37.3 ov) | ITA: 143/2 (25.5 ov)",
+          "Hong Kong, China vs Italy (42nd Match, ODI): Italy won by 6 wkts — HKC: 174/10 (49.1 ov) | ITA: 175/4 (45.6 ov)",
+          "Singapore vs Tanzania (43rd Match, ODI): Tanzania won by 9 wkts — SIN: 103/10 (29.5 ov) | TAN: 106/1 (16.6 ov)",
+          "Leicestershire vs Nottinghamshire (Semi Final 1, ODI): Leicestershire won by 23 runs — LEIC: 303/7 (49.6 ov) | NOTTS: 280/10 (48.6 ov)",
+          "Durham vs Middlesex (Semi Final 2, ODI): Middlesex won by 2 wkts — DUR: 254/7 (49.6 ov) | MDX: 255/8 (48.4 ov)",
+          "Ireland vs Afghanistan (5th ODI, ODI): Afghanistan won by 6 wkts — IRE: 298/7 (49.6 ov) | AFG: 302/4 (48.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs",
+          "Hill stars for Yorks on day two against Hants — Adam Lyth's half-century backed up George Hill's five-wicket haul as Yorkshire and Hampshire trade blows in their County",
+          "Milnes helps Kent take control against Middlesex — Matt Milnes claims his third five-wicket haul of the season as Kent seize control against Middlesex on day two at Northw",
+          "'Brilliant' Cox gets maiden Test half-century — Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley.",
+          "Robinson and Tongue guide England to strong start against Pakistan — Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against P"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "It would be 'nice to have choice' over Ashes venues - Root",
+          "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
+          "Root enjoys winning return as captain as England humble poor Pakistan",
+          "Stokes shines as Durham get on top at Derby",
+          "'Plug him in as attack leader' - England-Pakistan player ratings"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-first-major-milestone-for-pakistan-usman-takes-fiv",
+    "title": "'First major milestone for Pakistan' - Usman takes five wickets | Cricket News",
+    "description": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "excerpt": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c3ekg858gn5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'First major milestone for Pakistan' - Usman takes five wickets",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'First major milestone for Pakistan' - Usman takes five wickets. Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "p",
+        "text": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-hill-stars-for-yorks-on-day-two-against-hants",
+    "title": "Hill stars for Yorks on day two against Hants | Cricket News",
+    "description": "Adam Lyth's half-century backed up George Hill's five-wicket haul as Yorkshire and Hampshire trade blows in their County Championship clash at Utilita Bowl.",
+    "excerpt": "Adam Lyth's half-century backed up George Hill's five-wicket haul as Yorkshire and Hampshire trade blows in their County Championship clash at Utilita Bowl.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cdx81yrx147o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Hill stars for Yorks on day two against Hants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Hill stars for Yorks on day two against Hants. Adam Lyth's half-century backed up George Hill's five-wicket haul as Yorkshire and Hampshire trade blows in their County Championship clash at Utilita Bowl."
+      },
+      {
+        "type": "p",
+        "text": "Adam Lyth's half-century backed up George Hill's five-wicket haul as Yorkshire and Hampshire trade blows in their County Championship clash at Utilita Bowl."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-hometown-boy-delivering-once-again-best-of-brook-s",
+    "title": "'Hometown boy delivering once again' - best of Brook's 91 | Cricket News",
+    "description": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "excerpt": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/crk5gd3xeleo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Hometown boy delivering once again' - best of Brook's 91",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Hometown boy delivering once again' - best of Brook's 91. Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-i-fear-for-them-vaughan-raja-lament-desperate-time",
+    "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan | Cricket News",
+    "description": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
+    "excerpt": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan. Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-it-would-be-nice-to-have-choice-over-ashes-venues-",
+    "title": "It would be 'nice to have choice' over Ashes venues - Root | Cricket News",
+    "description": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
+    "excerpt": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: It would be 'nice to have choice' over Ashes venues - Root",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: It would be 'nice to have choice' over Ashes venues - Root. Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-22-root-enjoys-winning-return-as-captain-as-england-h",
+    "title": "Root enjoys winning return as captain as England humble poor Pakistan | Cricket News",
+    "description": "In his first match since returning as England captain, Joe Root guides his England side to a huge win as they bowl Pakistan out for 135 on day three of the open",
+    "excerpt": "In his first match since returning as England captain, Joe Root guides his England side to a huge win as they bowl Pakistan out for 135 on day three of the open",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1m1v2894ngo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Root enjoys winning return as captain as England humble poor Pakistan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Root enjoys winning return as captain as England humble poor Pakistan. In his first match since returning as England captain, Joe Root guides his England side to a huge win as they bowl Pakistan out for 135 on day three of the opening Test, securing victory by an innings and 103 runs at Headingley to take 1-0 lead in the three-match series."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-pak-vs-eng-2026-08-19",
+    "title": "England won by an innings and 103 runs | 1st Test Cricket News",
+    "description": "Pakistan vs England result: England won by an innings and 103 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "England won by an innings and 103 runs — PAK: 171/10 (48.1 ov) & 135/10 (37.3 ov) | ENG: 409/10 (89.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan vs England result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan vs England cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Pakistan vs England (1st Test, TEST) — England won by an innings and 103 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Pakistan",
+            "171/10 (48.1 ov) & 135/10 (37.3 ov)"
+          ],
+          [
+            "England",
+            "409/10 (89.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: England won by an innings and 103 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: England chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Ollie Robinson delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-chnw-vs-idnw-2026-08-22",
+    "title": "China Women vs Indonesia Women Preview — Pitch, Weather & Lineup | 5th T20I",
+    "description": "China Women vs Indonesia Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 22 Aug, 2026, 3:00 pm.",
+    "excerpt": "China Women vs Indonesia Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Variable conditions · High 31°C / Low 26°C · Rain: 8.3 mm · Wind: up to 13 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "China Women vs Indonesia Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "China Women vs Indonesia Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: China Women face Indonesia Women in 5th T20I (T20) on Sat, 22 Aug, 2026, 3:00 pm at Zhejiang University of Technology Cricket Field Hangzhou. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "China Women vs Indonesia Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "China Women T20I Tri-Series, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 22 Aug, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Zhejiang University of Technology Cricket Field Hangzhou"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 22, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 31°C / Low 26°C · Rain: 8.3 mm · Wind: up to 13 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-itt-vs-sal-2026-08-22",
+    "title": "IDream Tiruppur Tamizhans vs SKM Salem Spartans Preview — Pitch, Weather & Lineup | 27th Match",
+    "description": "IDream Tiruppur Tamizhans vs SKM Salem Spartans preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 22 Aug, 2026, 3:30 pm.",
+    "excerpt": "IDream Tiruppur Tamizhans vs SKM Salem Spartans — pitch: Traditional spin-friendly track; low-scoring Tests, balanced in limited overs.… Weather: Variable conditions · High 37°C / Low 26°C · Rain: 13.1 mm · Wind: up to 20 km/h…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "IDream Tiruppur Tamizhans vs SKM Salem Spartans",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "IDream Tiruppur Tamizhans vs SKM Salem Spartans cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: IDream Tiruppur Tamizhans face SKM Salem Spartans in 27th Match (T20) on Sat, 22 Aug, 2026, 3:30 pm at MA Chidambaram Stadium Chennai. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "IDream Tiruppur Tamizhans vs SKM Salem Spartans"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 22 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "MA Chidambaram Stadium Chennai"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 22, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Traditional spin-friendly track; low-scoring Tests, balanced in limited overs."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–175 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 37°C / Low 26°C · Rain: 13.1 mm · Wind: up to 20 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-luxw-vs-belw-2026-08-22",
+    "title": "Luxembourg Women vs Belgium Women Preview — Pitch, Weather & Lineup | 1st T20I",
+    "description": "Luxembourg Women vs Belgium Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 22 Aug, 2026, 2:00 pm.",
+    "excerpt": "Luxembourg Women vs Belgium Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 20°C / Low 12°C · Rain: 0.6 mm · Wind: up to 9 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Luxembourg Women vs Belgium Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Luxembourg Women vs Belgium Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Luxembourg Women face Belgium Women in 1st T20I (T20) on Sat, 22 Aug, 2026, 2:00 pm at Pierre Werner Cricket Ground Walferdange. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Luxembourg Women vs Belgium Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Belgium Women tour of Luxembourg, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 22 Aug, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "Pierre Werner Cricket Ground Walferdange"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 22, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 20°C / Low 12°C · Rain: 0.6 mm · Wind: up to 9 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-21",
     "title": "Cricket Daily Digest — Friday, 21 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 11+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

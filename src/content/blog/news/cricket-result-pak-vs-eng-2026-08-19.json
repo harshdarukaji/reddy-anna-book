@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-pak-vs-eng-2026-08-19",
+  "title": "England won by an innings and 103 runs | 1st Test Cricket News",
+  "description": "Pakistan vs England result: England won by an innings and 103 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "England won by an innings and 103 runs — PAK: 171/10 (48.1 ov) & 135/10 (37.3 ov) | ENG: 409/10 (89.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Pakistan vs England result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-22",
+  "updatedAt": "2026-08-22",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Pakistan vs England cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Pakistan vs England (1st Test, TEST) — England won by an innings and 103 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Pakistan",
+          "171/10 (48.1 ov) & 135/10 (37.3 ov)"
+        ],
+        [
+          "England",
+          "409/10 (89.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: England won by an innings and 103 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: England chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Ollie Robinson delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
