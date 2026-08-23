@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-notts-vs-sur-2026-08-20",
+  "title": "Nottinghamshire won by 145 runs | 41st Match Cricket News",
+  "description": "Nottinghamshire vs Surrey result: Nottinghamshire won by 145 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Nottinghamshire vs Surrey result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-23",
+  "updatedAt": "2026-08-23",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Nottinghamshire vs Surrey cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Nottinghamshire vs Surrey (41st Match, TEST) — Nottinghamshire won by 145 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Nottinghamshire",
+          "184/10 (68.2 ov) & 306/10 (90.3 ov)"
+        ],
+        [
+          "Surrey",
+          "162/10 (66.3 ov) & 183/10 (55.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Nottinghamshire won by 145 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Surrey chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
