@@ -3,6 +3,1038 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-24",
+    "title": "Cricket Daily Digest — Monday, 24 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 3+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 24 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-24 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 24 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 24 Aug, 2026, 3:00 pm",
+            "China Women vs Indonesia Women",
+            "T20",
+            "Hangzhou",
+            "China Women T20I Tri-Series, 2026"
+          ],
+          [
+            "Mon, 24 Aug, 2026, 7:00 pm",
+            "South Delhi Superstarz vs New Delhi Tigers",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Mon, 24 Aug, 2026, 7:30 pm",
+            "Vida Kovai Kings vs IDream Tiruppur Tamizhans",
+            "T20",
+            "Chennai",
+            "Tamil Nadu Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Leicestershire vs Glamorgan (43rd Match, TEST): Leicestershire won by 42 runs — LEIC: 151/10 (62.5 ov) & 257/10 (74.2 ov) | GLAM: 152/10 (53.1 ov) & 214/10 (85.6 ov)",
+          "Yorkshire vs Hampshire (45th Match, TEST): Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+          "Nottinghamshire vs Surrey (41st Match, TEST): Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)",
+          "Sussex vs Warwickshire (42nd Match, TEST): Warwickshire won by 1 wkt — SUS: 156/10 (47.4 ov) & 207/10 (61.5 ov) | WARKS: 161/10 (47.3 ov) & 206/9 (53.1 ov)",
+          "Somerset vs Essex (44th Match, TEST): Somerset won by 8 wkts — SOM: 469/10 (127.5 ov) & 103/2 (19.2 ov) | ESS: 158/10 (42.4 ov) & 412/10 (161.1 ov)",
+          "Kent vs Middlesex (33rd Match, TEST): Kent won by 46 runs — KENT: 350/10 (91.3 ov) & 254/10 (68.4 ov) | MDX: 249/10 (55.4 ov) & 309/10 (73.4 ov)",
+          "Gloucestershire vs Worcestershire (36th Match, TEST): Worcestershire won by 8 wkts — GLOUCS: 150/10 (59.5 ov) & 395/7 (113.6 ov) | WORCS: 267/10 (89.2 ov) & 281/2 (55.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bess pulls Yorkshire clear of Hants in relegation scrap — Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County",
+          "Leach five-for sets up Somerset win over Essex — Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second",
+          "Kent boost promotion bid by beating Middlesex — Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School de",
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs",
+          "'Brilliant' Cox gets maiden Test half-century — Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "What will it take to stop the England hangovers?",
+          "ECB investigates Carse 'nightclub incident'",
+          "'Shambolic' - Stokes and Root question Ashes venues",
+          "Starc takes 10 wickets as Australia thrash Bangladesh",
+          "Sri Lanka v India - second Test scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-bess-pulls-yorkshire-clear-of-hants-in-relegation-",
+    "title": "Bess pulls Yorkshire clear of Hants in relegation scrap | Cricket News",
+    "description": "Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County Championship relegation battle with Ham",
+    "excerpt": "Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County Championship relegation battle with Ham",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2k259wpxeo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Bess pulls Yorkshire clear of Hants in relegation scrap",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Bess pulls Yorkshire clear of Hants in relegation scrap. Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County Championship relegation battle with Hampshire."
+      },
+      {
+        "type": "p",
+        "text": "Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County Championship relegation battle with Hampshire."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-ecb-investigates-carse-nightclub-incident",
+    "title": "ECB investigates Carse 'nightclub incident' | Cricket News",
+    "description": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
+    "excerpt": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: ECB investigates Carse 'nightclub incident'",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: ECB investigates Carse 'nightclub incident'. The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-kent-boost-promotion-bid-by-beating-middlesex",
+    "title": "Kent boost promotion bid by beating Middlesex | Cricket News",
+    "description": "Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School despite an unbeaten 65 by Joe Cracknell.",
+    "excerpt": "Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School despite an unbeaten 65 by Joe Cracknell.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ce8k8gydnjlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Kent boost promotion bid by beating Middlesex",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Kent boost promotion bid by beating Middlesex. Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School despite an unbeaten 65 by Joe Cracknell."
+      },
+      {
+        "type": "p",
+        "text": "Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School despite an unbeaten 65 by Joe Cracknell."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-leach-five-for-sets-up-somerset-win-over-essex",
+    "title": "Leach five-for sets up Somerset win over Essex | Cricket News",
+    "description": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "excerpt": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c86n6jl78lqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Leach five-for sets up Somerset win over Essex",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Leach five-for sets up Somerset win over Essex. Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "p",
+        "text": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-shambolic-stokes-and-root-question-ashes-venues",
+    "title": "'Shambolic' - Stokes and Root question Ashes venues | Cricket News",
+    "description": "Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\".",
+    "excerpt": "Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\".",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'Shambolic' - Stokes and Root question Ashes venues",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'Shambolic' - Stokes and Root question Ashes venues. Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\"."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-24-what-will-it-take-to-stop-the-england-hangovers",
+    "title": "What will it take to stop the England hangovers? | Cricket News",
+    "description": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+    "excerpt": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: What will it take to stop the England hangovers?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: What will it take to stop the England hangovers?. Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ban-vs-aus-2026-08-22",
+    "title": "Australia won by an innings and 51 runs | 2nd Test Cricket News",
+    "description": "Bangladesh vs Australia result: Australia won by an innings and 51 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh vs Australia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh vs Australia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh vs Australia (2nd Test, TEST) — Australia won by an innings and 51 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh",
+            "64/10 (33.6 ov) & 95/10 (38.3 ov)"
+          ],
+          [
+            "Australia",
+            "210/10 (52.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Australia won by an innings and 51 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Australia chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Mitchell Starc delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-leic-vs-glam-2026-08-20",
+    "title": "Leicestershire won by 42 runs | 43rd Match Cricket News",
+    "description": "Leicestershire vs Glamorgan result: Leicestershire won by 42 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Leicestershire won by 42 runs — LEIC: 151/10 (62.5 ov) & 257/10 (74.2 ov) | GLAM: 152/10 (53.1 ov) & 214/10 (85.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Leicestershire vs Glamorgan result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Leicestershire vs Glamorgan cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Leicestershire vs Glamorgan (43rd Match, TEST) — Leicestershire won by 42 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Leicestershire",
+            "151/10 (62.5 ov) & 257/10 (74.2 ov)"
+          ],
+          [
+            "Glamorgan",
+            "152/10 (53.1 ov) & 214/10 (85.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Leicestershire won by 42 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Glamorgan chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-yorks-vs-ham-2026-08-20",
+    "title": "Yorkshire won by 39 runs | 45th Match Cricket News",
+    "description": "Yorkshire vs Hampshire result: Yorkshire won by 39 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Yorkshire vs Hampshire result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Yorkshire vs Hampshire cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Yorkshire vs Hampshire (45th Match, TEST) — Yorkshire won by 39 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Yorkshire",
+            "173/10 (61.2 ov) & 301/10 (98.1 ov)"
+          ],
+          [
+            "Hampshire",
+            "197/10 (87.6 ov) & 238/10 (98.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Yorkshire won by 39 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Yorkshire chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-chnw-vs-idnw-2026-08-24",
+    "title": "China Women vs Indonesia Women Preview — Pitch, Weather & Lineup | Final",
+    "description": "China Women vs Indonesia Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 24 Aug, 2026, 3:00 pm.",
+    "excerpt": "China Women vs Indonesia Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 34°C / Low 26°C · Rain: 0.8 mm · Wind: up to 21 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "China Women vs Indonesia Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "China Women vs Indonesia Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: China Women face Indonesia Women in Final (T20) on Mon, 24 Aug, 2026, 3:00 pm at Zhejiang University of Technology Cricket Field Hangzhou. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "China Women vs Indonesia Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "China Women T20I Tri-Series, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 24 Aug, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Zhejiang University of Technology Cricket Field Hangzhou"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 24, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 34°C / Low 26°C · Rain: 0.8 mm · Wind: up to 21 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sds-vs-ndt-2026-08-24",
+    "title": "South Delhi Superstarz vs New Delhi Tigers Preview — Pitch, Weather & Lineup | 39th Match",
+    "description": "South Delhi Superstarz vs New Delhi Tigers preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 24 Aug, 2026, 7:00 pm.",
+    "excerpt": "South Delhi Superstarz vs New Delhi Tigers — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Drizzle · High 34°C / Low 26°C · Rain: 2 mm · Wind: up to 8 km/h. Light rain pos…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Delhi Superstarz vs New Delhi Tigers",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Delhi Superstarz vs New Delhi Tigers cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Delhi Superstarz face New Delhi Tigers in 39th Match (T20) on Mon, 24 Aug, 2026, 7:00 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Delhi Superstarz vs New Delhi Tigers"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 24 Aug, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 24, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 34°C / Low 26°C · Rain: 2 mm · Wind: up to 8 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-vkk-vs-itt-2026-08-24",
+    "title": "Vida Kovai Kings vs IDream Tiruppur Tamizhans Preview — Pitch, Weather & Lineup | Eliminator",
+    "description": "Vida Kovai Kings vs IDream Tiruppur Tamizhans preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 24 Aug, 2026, 7:30 pm.",
+    "excerpt": "Vida Kovai Kings vs IDream Tiruppur Tamizhans — pitch: Traditional spin-friendly track; low-scoring Tests, balanced in limited overs.… Weather: Thunderstorm · High 33°C / Low 26°C · Rain: 11.4 mm · Wind: up to 14 km/h. Rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Vida Kovai Kings vs IDream Tiruppur Tamizhans",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Vida Kovai Kings vs IDream Tiruppur Tamizhans cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Vida Kovai Kings face IDream Tiruppur Tamizhans in Eliminator (T20) on Mon, 24 Aug, 2026, 7:30 pm at MA Chidambaram Stadium Chennai. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Vida Kovai Kings vs IDream Tiruppur Tamizhans"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 24 Aug, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "MA Chidambaram Stadium Chennai"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 24, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Traditional spin-friendly track; low-scoring Tests, balanced in limited overs."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–175 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 33°C / Low 26°C · Rain: 11.4 mm · Wind: up to 14 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-23",
     "title": "Cricket Daily Digest — Sunday, 23 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
