@@ -3,6 +3,660 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-25",
+    "title": "Cricket Daily Digest — Tuesday, 25 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 2+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 25 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-25 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 25 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 25 Aug, 2026, 7:00 pm",
+            "Purani Dilli 6 vs East Delhi Riders",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 4:30 am",
+            "Antigua and Barbuda Falcons vs Barbados Tridents",
+            "T20",
+            "North Sound, Antigua",
+            "CPL 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Nottinghamshire vs Surrey (41st Match, TEST): Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)",
+          "Sussex vs Warwickshire (42nd Match, TEST): Warwickshire won by 1 wkt — SUS: 156/10 (47.4 ov) & 207/10 (61.5 ov) | WARKS: 161/10 (47.3 ov) & 206/9 (53.1 ov)",
+          "Yorkshire vs Hampshire (45th Match, TEST): Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+          "Leicestershire vs Glamorgan (43rd Match, TEST): Leicestershire won by 42 runs — LEIC: 151/10 (62.5 ov) & 257/10 (74.2 ov) | GLAM: 152/10 (53.1 ov) & 214/10 (85.6 ov)",
+          "Somerset vs Essex (44th Match, TEST): Somerset won by 8 wkts — SOM: 469/10 (127.5 ov) & 103/2 (19.2 ov) | ESS: 158/10 (42.4 ov) & 412/10 (161.1 ov)",
+          "Kent vs Middlesex (33rd Match, TEST): Kent won by 46 runs — KENT: 350/10 (91.3 ov) & 254/10 (68.4 ov) | MDX: 249/10 (55.4 ov) & 309/10 (73.4 ov)",
+          "Gloucestershire vs Worcestershire (36th Match, TEST): Worcestershire won by 8 wkts — GLOUCS: 150/10 (59.5 ov) & 395/7 (113.6 ov) | WORCS: 267/10 (89.2 ov) & 281/2 (55.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leach five-for sets up Somerset win over Essex — Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second",
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs",
+          "Bess pulls Yorkshire clear of Hants in relegation scrap — Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County",
+          "Kent boost promotion bid by beating Middlesex — Kent achieve their fifth Championship win of the season as they beat Middlesex by 46 runs at Merchant Taylors' School de",
+          "'Brilliant' Cox gets maiden Test half-century — Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Punishment that sends shiver down whole England team needed - Vaughan",
+          "England drop Carse after nightclub incident",
+          "What will it take to stop the England hangovers?",
+          "Can you name world's top 20 men's Test bowlers?",
+          "Test Match Special Podcast"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-england-drop-carse-after-nightclub-incident",
+    "title": "England drop Carse after nightclub incident | Cricket News",
+    "description": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him bei",
+    "excerpt": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him bei",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England drop Carse after nightclub incident",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England drop Carse after nightclub incident. Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan amid an ongoing investigation into an incident that led to him being briefly arrested."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-first-major-milestone-for-pakistan-usman-takes-fiv",
+    "title": "'First major milestone for Pakistan' - Usman takes five wickets | Cricket News",
+    "description": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "excerpt": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c3ekg858gn5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'First major milestone for Pakistan' - Usman takes five wickets",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'First major milestone for Pakistan' - Usman takes five wickets. Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "p",
+        "text": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-hometown-boy-delivering-once-again-best-of-brook-s",
+    "title": "'Hometown boy delivering once again' - best of Brook's 91 | Cricket News",
+    "description": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "excerpt": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/crk5gd3xeleo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Hometown boy delivering once again' - best of Brook's 91",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Hometown boy delivering once again' - best of Brook's 91. Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-leach-five-for-sets-up-somerset-win-over-essex",
+    "title": "Leach five-for sets up Somerset win over Essex | Cricket News",
+    "description": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "excerpt": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c86n6jl78lqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Leach five-for sets up Somerset win over Essex",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Leach five-for sets up Somerset win over Essex. Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "p",
+        "text": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-punishment-that-sends-shiver-down-whole-england-te",
+    "title": "Punishment that sends shiver down whole England team needed - Vaughan | Cricket News",
+    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, acc",
+    "excerpt": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, acc",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Punishment that sends shiver down whole England team needed - Vaughan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Punishment that sends shiver down whole England team needed - Vaughan. A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-25-what-will-it-take-to-stop-the-england-hangovers",
+    "title": "What will it take to stop the England hangovers? | Cricket News",
+    "description": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+    "excerpt": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: What will it take to stop the England hangovers?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: What will it take to stop the England hangovers?. Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-abf-vs-bbt-2026-08-25",
+    "title": "Antigua and Barbuda Falcons vs Barbados Tridents Preview — Pitch, Weather & Lineup | 16th Match",
+    "description": "Antigua and Barbuda Falcons vs Barbados Tridents preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 26 Aug, 2026, 4:30 am.",
+    "excerpt": "Antigua and Barbuda Falcons vs Barbados Tridents — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 32°C / Low 27°C · Rain: 0.7 mm · Wind: up to 25 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Antigua and Barbuda Falcons vs Barbados Tridents",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Antigua and Barbuda Falcons vs Barbados Tridents cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Antigua and Barbuda Falcons face Barbados Tridents in 16th Match (T20) on Wed, 26 Aug, 2026, 4:30 am at Sir Vivian Richards Stadium North Sound, Antigua. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Antigua and Barbuda Falcons vs Barbados Tridents"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CPL 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 26 Aug, 2026, 4:30 am"
+          ],
+          [
+            "Venue",
+            "Sir Vivian Richards Stadium North Sound, Antigua"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 26, 23:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 32°C / Low 27°C · Rain: 0.7 mm · Wind: up to 25 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-pd-vs-edr-2026-08-25",
+    "title": "Purani Dilli 6 vs East Delhi Riders Preview — Pitch, Weather & Lineup | 40th Match",
+    "description": "Purani Dilli 6 vs East Delhi Riders preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 25 Aug, 2026, 7:00 pm.",
+    "excerpt": "Purani Dilli 6 vs East Delhi Riders — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Variable conditions · High 32°C / Low 27°C · Rain: 3.9 mm · Wind: up to 5 km/h. …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Purani Dilli 6 vs East Delhi Riders",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-25",
+    "updatedAt": "2026-08-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Purani Dilli 6 vs East Delhi Riders cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Purani Dilli 6 face East Delhi Riders in 40th Match (T20) on Tue, 25 Aug, 2026, 7:00 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Purani Dilli 6 vs East Delhi Riders"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 25 Aug, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 25, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 32°C / Low 27°C · Rain: 3.9 mm · Wind: up to 5 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-24",
     "title": "Cricket Daily Digest — Monday, 24 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 3+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
