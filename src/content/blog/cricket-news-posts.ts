@@ -3,6 +3,1103 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-26",
+    "title": "Cricket Daily Digest — Wednesday, 26 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Wednesday, 26 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-26 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Wednesday, 26 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Wed, 26 Aug, 2026, 11:00 am",
+            "Turkey Women vs Austria Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 3:00 pm",
+            "Romania Women vs Isle of Man Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 6:30 pm",
+            "Austria Women vs Guernsey Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 1:30 pm",
+            "Central Delhi Kings vs South Delhi Superstarz",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 6:45 pm",
+            "Rotterdam Dockers vs Amsterdam Flames",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 7:00 pm",
+            "Purani Dilli 6 vs Outer Delhi Warriors",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Wed, 26 Aug, 2026, 7:30 pm",
+            "Trichy Grand Cholas vs Vida Kovai Kings",
+            "T20",
+            "Chennai",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Thu, 27 Aug, 2026, 4:30 am",
+            "Trinbago Knight Riders vs Saint Lucia Kings",
+            "T20",
+            "Tarouba, Trinidad",
+            "Caribbean Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh A vs South Africa A (1st Unofficial Test, TEST): South Africa A won by an innings and 413 runs — BANA: 122/10 (44.3 ov) & 112/10 (32.2 ov) | RSAA: 647/6 (130.4 ov)",
+          "East Zone vs North East Zone (1st Quarter final, TEST): East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Sussex vs Warwickshire (42nd Match, TEST): Warwickshire won by 1 wkt — SUS: 156/10 (47.4 ov) & 207/10 (61.5 ov) | WARKS: 161/10 (47.3 ov) & 206/9 (53.1 ov)",
+          "Nottinghamshire vs Surrey (41st Match, TEST): Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)",
+          "Yorkshire vs Hampshire (45th Match, TEST): Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+          "Leicestershire vs Glamorgan (43rd Match, TEST): Leicestershire won by 42 runs — LEIC: 151/10 (62.5 ov) & 257/10 (74.2 ov) | GLAM: 152/10 (53.1 ov) & 214/10 (85.6 ov)",
+          "Somerset vs Essex (44th Match, TEST): Somerset won by 8 wkts — SOM: 469/10 (127.5 ov) & 103/2 (19.2 ov) | ESS: 158/10 (42.4 ov) & 412/10 (161.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leach five-for sets up Somerset win over Essex — Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second",
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs",
+          "Bess pulls Yorkshire clear of Hants in relegation scrap — Dom Bess delivers a first five-wicket haul of the season to hand Yorkshire a crucial victory in their nail-biting County",
+          "'Brilliant' Cox gets maiden Test half-century — Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley.",
+          "Robinson and Tongue guide England to strong start against Pakistan — Ollie Robinson and Josh Tongue both took five-wicket hauls to put England in early control of the opening Test against P"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Root 'hacked off' and 'disappointed' at Carse incident",
+          "Are left-handers better and when will Root catch Tendulkar? Your questions answered",
+          "Punishment that sends shiver down whole England team needed - Vaughan",
+          "England drop Carse after nightclub incident",
+          "Northants all-rounder Broad signs contract extension"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-are-left-handers-better-and-when-will-root-catch-t",
+    "title": "Are left-handers better and when will Root catch Tendulkar? Your questions answered | Cricket News",
+    "description": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
+    "excerpt": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwyz3qp1deno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Are left-handers better and when will Root catch Tendulkar? Your questions answered",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Are left-handers better and when will Root catch Tendulkar? Your questions answered. Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-first-major-milestone-for-pakistan-usman-takes-fiv",
+    "title": "'First major milestone for Pakistan' - Usman takes five wickets | Cricket News",
+    "description": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "excerpt": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at He",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c3ekg858gn5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'First major milestone for Pakistan' - Usman takes five wickets",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'First major milestone for Pakistan' - Usman takes five wickets. Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "p",
+        "text": "Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive balls on day two of the first Test at Headingley."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-hometown-boy-delivering-once-again-best-of-brook-s",
+    "title": "'Hometown boy delivering once again' - best of Brook's 91 | Cricket News",
+    "description": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "excerpt": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/crk5gd3xeleo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Hometown boy delivering once again' - best of Brook's 91",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Hometown boy delivering once again' - best of Brook's 91. Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the first Test against Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-leach-five-for-sets-up-somerset-win-over-essex",
+    "title": "Leach five-for sets up Somerset win over Essex | Cricket News",
+    "description": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "excerpt": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c86n6jl78lqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Leach five-for sets up Somerset win over Essex",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Leach five-for sets up Somerset win over Essex. Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "p",
+        "text": "Spinner Jack leach takes 5-81 - and nine wickets in the match - as Somerset beat Essex by eight wickets to regain second place in Championship Division One."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-punishment-that-sends-shiver-down-whole-england-te",
+    "title": "Punishment that sends shiver down whole England team needed - Vaughan | Cricket News",
+    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, acc",
+    "excerpt": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, acc",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Punishment that sends shiver down whole England team needed - Vaughan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Punishment that sends shiver down whole England team needed - Vaughan. A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-26-root-hacked-off-and-disappointed-at-carse-incident",
+    "title": "Root 'hacked off' and 'disappointed' at Carse incident | Cricket News",
+    "description": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
+    "excerpt": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Root 'hacked off' and 'disappointed' at Carse incident",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Root 'hacked off' and 'disappointed' at Carse incident. England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-bana-vs-rsaa-2026-08-23",
+    "title": "South Africa A won by an innings and 413 runs | 1st Unofficial Test Cricket News",
+    "description": "Bangladesh A vs South Africa A result: South Africa A won by an innings and 413 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "South Africa A won by an innings and 413 runs — BANA: 122/10 (44.3 ov) & 112/10 (32.2 ov) | RSAA: 647/6 (130.4 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh A vs South Africa A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh A vs South Africa A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh A vs South Africa A (1st Unofficial Test, TEST) — South Africa A won by an innings and 413 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh A",
+            "122/10 (44.3 ov) & 112/10 (32.2 ov)"
+          ],
+          [
+            "South Africa A",
+            "647/6 (130.4 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: South Africa A won by an innings and 413 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: South Africa A chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ezone-vs-nezone-2026-08-23",
+    "title": "East Zone won by an innings and 210 runs | 1st Quarter final Cricket News",
+    "description": "East Zone vs North East Zone result: East Zone won by an innings and 210 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "East Zone vs North East Zone result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "East Zone vs North East Zone cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: East Zone vs North East Zone (1st Quarter final, TEST) — East Zone won by an innings and 210 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "East Zone",
+            "467/10 (112.5 ov)"
+          ],
+          [
+            "North East Zone",
+            "111/10 (42.5 ov) & 146/10 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: East Zone won by an innings and 210 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: North East Zone chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Shahbaz Ahmed delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "High-scoring belter with good carry; dew makes chasing easier."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-autw-vs-ggyw-2026-08-26",
+    "title": "Austria Women vs Guernsey Women Preview — Pitch, Weather & Lineup | 3rd Match",
+    "description": "Austria Women vs Guernsey Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 26 Aug, 2026, 6:30 pm.",
+    "excerpt": "Austria Women vs Guernsey Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Austria Women vs Guernsey Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Austria Women vs Guernsey Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Austria Women face Guernsey Women in 3rd Match (T20) on Wed, 26 Aug, 2026, 6:30 pm at Moara Vlasiei Cricket Ground, Bucharest Ilfov County. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Austria Women vs Guernsey Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 26 Aug, 2026, 6:30 pm"
+          ],
+          [
+            "Venue",
+            "Moara Vlasiei Cricket Ground, Bucharest Ilfov County"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 26, 12:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-cdk-vs-sds-2026-08-26",
+    "title": "Central Delhi Kings vs South Delhi Superstarz Preview — Pitch, Weather & Lineup | Qualifier 1 (1v2)",
+    "description": "Central Delhi Kings vs South Delhi Superstarz preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 26 Aug, 2026, 1:30 pm.",
+    "excerpt": "Central Delhi Kings vs South Delhi Superstarz — pitch: Slow outfield, variable bounce; spin effective in second half.… Weather: Light drizzle · High 34°C / Low 27°C · Rain: 0.5 mm · Wind: up to 8 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Central Delhi Kings vs South Delhi Superstarz",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Central Delhi Kings vs South Delhi Superstarz cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Central Delhi Kings face South Delhi Superstarz in Qualifier 1 (1v2) (T20) on Wed, 26 Aug, 2026, 1:30 pm at Arun Jaitley Stadium Delhi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Central Delhi Kings vs South Delhi Superstarz"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 26 Aug, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Arun Jaitley Stadium Delhi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 26, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Slow outfield, variable bounce; spin effective in second half."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 155–170 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 34°C / Low 27°C · Rain: 0.5 mm · Wind: up to 8 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-romw-vs-iomw-2026-08-26",
+    "title": "Romania Women vs Isle of Man Women Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Romania Women vs Isle of Man Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 26 Aug, 2026, 3:00 pm.",
+    "excerpt": "Romania Women vs Isle of Man Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Romania Women vs Isle of Man Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Romania Women vs Isle of Man Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Romania Women face Isle of Man Women in 2nd Match (T20) on Wed, 26 Aug, 2026, 3:00 pm at Moara Vlasiei Cricket Ground, Bucharest Ilfov County. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Romania Women vs Isle of Man Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 26 Aug, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Moara Vlasiei Cricket Ground, Bucharest Ilfov County"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 26, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-trkw-vs-autw-2026-08-26",
+    "title": "Turkey Women vs Austria Women Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Turkey Women vs Austria Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Wed, 26 Aug, 2026, 11:00 am.",
+    "excerpt": "Turkey Women vs Austria Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Turkey Women vs Austria Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Turkey Women vs Austria Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Turkey Women face Austria Women in 1st Match (T20) on Wed, 26 Aug, 2026, 11:00 am at Moara Vlasiei Cricket Ground, Bucharest Ilfov County. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Turkey Women vs Austria Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 26 Aug, 2026, 11:00 am"
+          ],
+          [
+            "Venue",
+            "Moara Vlasiei Cricket Ground, Bucharest Ilfov County"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 26, 05:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 29°C / Low 20°C · Rain: 1.6 mm · Wind: up to 18 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-25",
     "title": "Cricket Daily Digest — Tuesday, 25 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 2+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

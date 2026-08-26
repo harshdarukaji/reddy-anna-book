@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-ezone-vs-nezone-2026-08-23",
+  "title": "East Zone won by an innings and 210 runs | 1st Quarter final Cricket News",
+  "description": "East Zone vs North East Zone result: East Zone won by an innings and 210 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "East Zone vs North East Zone result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-26",
+  "updatedAt": "2026-08-26",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "East Zone vs North East Zone cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: East Zone vs North East Zone (1st Quarter final, TEST) — East Zone won by an innings and 210 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "East Zone",
+          "467/10 (112.5 ov)"
+        ],
+        [
+          "North East Zone",
+          "111/10 (42.5 ov) & 146/10 (49.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: East Zone won by an innings and 210 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: North East Zone chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Shahbaz Ahmed delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "High-scoring belter with good carry; dew makes chasing easier."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
