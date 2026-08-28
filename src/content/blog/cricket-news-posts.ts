@@ -3,6 +3,1048 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-28",
+    "title": "Cricket Daily Digest — Friday, 28 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 28 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-28 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 28 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 28 Aug, 2026, 8:00 pm",
+            "Thailand Women vs Hong Kong, China Women",
+            "T20",
+            "Dubai",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 6:30 pm",
+            "Austria Women vs Czech Republic Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 8:00 pm",
+            "Denmark Women vs Sweden Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 11:00 am",
+            "Norway Women vs Greece Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 1:30 pm",
+            "Germany Women vs Denmark Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 3:00 pm",
+            "Guernsey Women vs Czech Republic Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 5:30 pm",
+            "Namibia vs South Africa",
+            "T20",
+            " Windhoek",
+            "Namibia T20I Tri-Series 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 6:45 pm",
+            "Amsterdam Flames vs Edinburgh Castle Rockers",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 7:00 pm",
+            "Central Delhi Kings vs Purani Dilli 6",
+            "T20",
+            "Delhi",
+            "Delhi Premier League 2026"
+          ],
+          [
+            "Fri, 28 Aug, 2026, 7:30 pm",
+            "Madurai Panthers vs Vida Kovai Kings",
+            "T20",
+            "Chennai",
+            "Tamil Nadu Premier League 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 5:30 am",
+            "Trinbago Knight Riders vs Barbados Tridents",
+            "T20",
+            "Port of Spain, Trinidad",
+            "Caribbean Premier League 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 3:00 pm",
+            "Glasgow Cosmics vs Dublin Guardians",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh A vs South Africa A (1st Unofficial Test, TEST): South Africa A won by an innings and 413 runs — BANA: 122/10 (44.3 ov) & 112/10 (32.2 ov) | RSAA: 647/6 (130.4 ov)",
+          "India vs Sri Lanka (2nd Test, TEST): Match drawn — IND: 503/9 (137.6 ov) | SL: 290/10 (89.4 ov) & 429/9 (153.6 ov)",
+          "East Zone vs North East Zone (1st Quarter final, TEST): East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+          "North Zone vs West Zone (2nd Quarter final, TEST): North Zone won by 52 runs — NZONE: 251/10 (66.5 ov) & 222/10 (50.6 ov) | WZONE: 187/10 (65.4 ov) & 234/10 (57.3 ov)",
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Yorkshire vs Hampshire (45th Match, TEST): Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+          "Somerset vs Essex (44th Match, TEST): Somerset won by 8 wkts — SOM: 469/10 (127.5 ov) & 103/2 (19.2 ov) | ESS: 158/10 (42.4 ov) & 412/10 (161.1 ov)",
+          "Nottinghamshire vs Surrey (41st Match, TEST): Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Crocombe takes hat-trick for Sussex against Somerset — Henry Crocombe takes a hat-trick for Sussex as Somerset's hopes of a first ever County Championship title take a hit at ",
+          "Crawley helps Kent take charge against Northants — Zak Crawley posts his highest Championship score of the season as Kent make a blistering start against Northants.",
+          "Aldridge & Carse put Durham in control against Glos — Kasey Aldridge's five-wicket haul and two wickets for Brydon Carse put County Championship Division Two leaders Durham i",
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs",
+          "'Brilliant' Cox gets maiden Test half-century — Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hundred schedule impact worth the price - ECB chair",
+          "Smith and Cox lead England fightback after tricky first day at Lord's",
+          "'What a catch!' - Cox dismissed by stunning take at slip",
+          "Durham will pick bowler Carse until told otherwise",
+          "Scotland v Netherlands - first women's ODI scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-aldridge-carse-put-durham-in-control-against-glos",
+    "title": "Aldridge & Carse put Durham in control against Glos | Cricket News",
+    "description": "Kasey Aldridge's five-wicket haul and two wickets for Brydon Carse put County Championship Division Two leaders Durham in control against Gloucestershire.",
+    "excerpt": "Kasey Aldridge's five-wicket haul and two wickets for Brydon Carse put County Championship Division Two leaders Durham in control against Gloucestershire.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq89818ynyyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Aldridge & Carse put Durham in control against Glos",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Aldridge & Carse put Durham in control against Glos. Kasey Aldridge's five-wicket haul and two wickets for Brydon Carse put County Championship Division Two leaders Durham in control against Gloucestershire."
+      },
+      {
+        "type": "p",
+        "text": "Kasey Aldridge's five-wicket haul and two wickets for Brydon Carse put County Championship Division Two leaders Durham in control against Gloucestershire."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-crawley-helps-kent-take-charge-against-northants",
+    "title": "Crawley helps Kent take charge against Northants | Cricket News",
+    "description": "Zak Crawley posts his highest Championship score of the season as Kent make a blistering start against Northants.",
+    "excerpt": "Zak Crawley posts his highest Championship score of the season as Kent make a blistering start against Northants.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq89818g1kdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Crawley helps Kent take charge against Northants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Crawley helps Kent take charge against Northants. Zak Crawley posts his highest Championship score of the season as Kent make a blistering start against Northants."
+      },
+      {
+        "type": "p",
+        "text": "Zak Crawley posts his highest Championship score of the season as Kent make a blistering start against Northants."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-crocombe-takes-hat-trick-for-sussex-against-somers",
+    "title": "Crocombe takes hat-trick for Sussex against Somerset | Cricket News",
+    "description": "Henry Crocombe takes a hat-trick for Sussex as Somerset's hopes of a first ever County Championship title take a hit at Hove.",
+    "excerpt": "Henry Crocombe takes a hat-trick for Sussex as Somerset's hopes of a first ever County Championship title take a hit at Hove.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckg6g0kk14jo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Crocombe takes hat-trick for Sussex against Somerset",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Crocombe takes hat-trick for Sussex against Somerset. Henry Crocombe takes a hat-trick for Sussex as Somerset's hopes of a first ever County Championship title take a hit at Hove."
+      },
+      {
+        "type": "p",
+        "text": "Henry Crocombe takes a hat-trick for Sussex as Somerset's hopes of a first ever County Championship title take a hit at Hove."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-hundred-schedule-impact-worth-the-price-ecb-chair",
+    "title": "Hundred schedule impact worth the price - ECB chair | Cricket News",
+    "description": "Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson.",
+    "excerpt": "Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4gmx41ylm0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Hundred schedule impact worth the price - ECB chair",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Hundred schedule impact worth the price - ECB chair. Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-smith-and-cox-lead-england-fightback-after-tricky-",
+    "title": "Smith and Cox lead England fightback after tricky first day at Lord's | Cricket News",
+    "description": "Jamie Smith hits 61 and Jordan Cox adds 55 to help England fight back on day one of the second Test against Pakistan, as the hosts recover from 77-4 to close on",
+    "excerpt": "Jamie Smith hits 61 and Jordan Cox adds 55 to help England fight back on day one of the second Test against Pakistan, as the hosts recover from 77-4 to close on",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cwyzvy3lw05o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Smith and Cox lead England fightback after tricky first day at Lord's",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Smith and Cox lead England fightback after tricky first day at Lord's. Jamie Smith hits 61 and Jordan Cox adds 55 to help England fight back on day one of the second Test against Pakistan, as the hosts recover from 77-4 to close on 248-9 at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-28-what-a-catch-cox-dismissed-by-stunning-take-at-sli",
+    "title": "'What a catch!' - Cox dismissed by stunning take at slip | Cricket News",
+    "description": "England's Jordan Cox is dismissed on 55 after an unbelievable, diving catch by substitute Salman Ali Agha to leave the hosts 187-6 on the opening day of the sec",
+    "excerpt": "England's Jordan Cox is dismissed on 55 after an unbelievable, diving catch by substitute Salman Ali Agha to leave the hosts 187-6 on the opening day of the sec",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cqlwrrqnr51o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'What a catch!' - Cox dismissed by stunning take at slip",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'What a catch!' - Cox dismissed by stunning take at slip. England's Jordan Cox is dismissed on 55 after an unbelievable, diving catch by substitute Salman Ali Agha to leave the hosts 187-6 on the opening day of the second Test at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ind-vs-sl-2026-08-23",
+    "title": "Match drawn | 2nd Test Cricket News",
+    "description": "India vs Sri Lanka result: Match drawn. Scores, player of the match, and pitch report.",
+    "excerpt": "Match drawn — IND: 503/9 (137.6 ov) | SL: 290/10 (89.4 ov) & 429/9 (153.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India vs Sri Lanka result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India vs Sri Lanka cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: India vs Sri Lanka (2nd Test, TEST) — Match drawn. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "India",
+            "503/9 (137.6 ov)"
+          ],
+          [
+            "Sri Lanka",
+            "290/10 (89.4 ov) & 429/9 (153.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Match drawn."
+      },
+      {
+        "type": "p",
+        "text": "Toss: India chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Sonal Dinusha delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-autw-vs-czew-2026-08-28",
+    "title": "Austria Women vs Czech Republic Women Preview — Pitch, Weather & Lineup | 9th Match, Group A",
+    "description": "Austria Women vs Czech Republic Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 28 Aug, 2026, 6:30 pm.",
+    "excerpt": "Austria Women vs Czech Republic Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Austria Women vs Czech Republic Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Austria Women vs Czech Republic Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Austria Women face Czech Republic Women in 9th Match, Group A (T20) on Fri, 28 Aug, 2026, 6:30 pm at Moara Vlasiei Cricket Ground, Bucharest Ilfov County. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Austria Women vs Czech Republic Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 28 Aug, 2026, 6:30 pm"
+          ],
+          [
+            "Venue",
+            "Moara Vlasiei Cricket Ground, Bucharest Ilfov County"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 28, 13:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 26°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-denw-vs-swew-2026-08-28",
+    "title": "Denmark Women vs Sweden Women Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Denmark Women vs Sweden Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 28 Aug, 2026, 8:00 pm.",
+    "excerpt": "Denmark Women vs Sweden Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 26°C / Low 17°C · Rain: 1.2 mm · Wind: up to 21 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Denmark Women vs Sweden Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Denmark Women vs Sweden Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Denmark Women face Sweden Women in 2nd Match (T20) on Fri, 28 Aug, 2026, 8:00 pm at GelsenTrabPark Gelsenkirchen. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Denmark Women vs Sweden Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 28 Aug, 2026, 8:00 pm"
+          ],
+          [
+            "Venue",
+            "GelsenTrabPark Gelsenkirchen"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 28, 14:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 26°C / Low 17°C · Rain: 1.2 mm · Wind: up to 21 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-noyw-vs-grcw-2026-08-29",
+    "title": "Norway Women vs Greece Women Preview — Pitch, Weather & Lineup | 10th Match, Group B",
+    "description": "Norway Women vs Greece Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 29 Aug, 2026, 11:00 am.",
+    "excerpt": "Norway Women vs Greece Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 27°C / Low 12°C · Rain: 0 mm · Wind: up to 6 km/h. Cloud cover e…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Norway Women vs Greece Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Norway Women vs Greece Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Norway Women face Greece Women in 10th Match, Group B (T20) on Sat, 29 Aug, 2026, 11:00 am at Moara Vlasiei Cricket Ground, Bucharest Ilfov County. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Norway Women vs Greece Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 29 Aug, 2026, 11:00 am"
+          ],
+          [
+            "Venue",
+            "Moara Vlasiei Cricket Ground, Bucharest Ilfov County"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 29, 05:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 27°C / Low 12°C · Rain: 0 mm · Wind: up to 6 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-thaiw-vs-hkc w-2026-08-28",
+    "title": "Thailand Women vs Hong Kong, China Women Preview — Pitch, Weather & Lineup | Match 1, Group A",
+    "description": "Thailand Women vs Hong Kong, China Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 28 Aug, 2026, 8:00 pm.",
+    "excerpt": "Thailand Women vs Hong Kong, China Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 44°C / Low 30°C · Rain: 0 mm · Wind: up to 25 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Thailand Women vs Hong Kong, China Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Thailand Women vs Hong Kong, China Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Thailand Women face Hong Kong, China Women in Match 1, Group A (T20) on Fri, 28 Aug, 2026, 8:00 pm at Dubai International Cricket Stadium Dubai. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Thailand Women vs Hong Kong, China Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 28 Aug, 2026, 8:00 pm"
+          ],
+          [
+            "Venue",
+            "Dubai International Cricket Stadium Dubai"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 28, 14:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 44°C / Low 30°C · Rain: 0 mm · Wind: up to 25 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-27",
     "title": "Cricket Daily Digest — Thursday, 27 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 19+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-ind-vs-sl-2026-08-23",
+  "title": "Match drawn | 2nd Test Cricket News",
+  "description": "India vs Sri Lanka result: Match drawn. Scores, player of the match, and pitch report.",
+  "excerpt": "Match drawn — IND: 503/9 (137.6 ov) | SL: 290/10 (89.4 ov) & 429/9 (153.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "India vs Sri Lanka result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-28",
+  "updatedAt": "2026-08-28",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "India vs Sri Lanka cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: India vs Sri Lanka (2nd Test, TEST) — Match drawn. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "India",
+          "503/9 (137.6 ov)"
+        ],
+        [
+          "Sri Lanka",
+          "290/10 (89.4 ov) & 429/9 (153.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Match drawn."
+    },
+    {
+      "type": "p",
+      "text": "Toss: India chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Sonal Dinusha delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Spin-friendly Sri Lankan tracks; deteriorate quickly on day 4–5 in Tests."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
