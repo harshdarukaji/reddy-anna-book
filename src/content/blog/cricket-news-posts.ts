@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-29",
+    "title": "Cricket Daily Digest — Saturday, 29 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 15+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 29 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-29 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 29 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sun, 30 Aug, 2026, 7:00 am",
+            "Oman vs Singapore",
+            "ODI",
+            "Kuala Lumpur",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 7:00 am",
+            "Hong Kong, China vs Saudi Arabia",
+            "ODI",
+            "Bangi",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 9:30 am",
+            "Central Zone vs East Zone",
+            "TEST",
+            "Bengaluru",
+            "Duleep Trophy 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 9:30 am",
+            "South Zone vs North Zone",
+            "TEST",
+            "Bengaluru",
+            "Duleep Trophy 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 8:00 pm",
+            "Sri Lanka Women vs United Arab Emirates Women",
+            "T20",
+            "Dubai",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 1:30 pm",
+            "Germany Women vs Denmark Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 3:00 pm",
+            "Guernsey Women vs Czech Republic Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 6:30 pm",
+            "Isle of Man Women vs Norway Women",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 6:30 pm",
+            "Germany Women vs Sweden Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 11:30 am",
+            "TBC vs TBC",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 12:30 pm",
+            "Denmark Women vs Sweden Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sat, 29 Aug, 2026, 3:00 pm",
+            "Glasgow Cosmics vs Dublin Guardians",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh A vs South Africa A (1st Unofficial Test, TEST): South Africa A won by an innings and 413 runs — BANA: 122/10 (44.3 ov) & 112/10 (32.2 ov) | RSAA: 647/6 (130.4 ov)",
+          "India vs Sri Lanka (2nd Test, TEST): Match drawn — IND: 503/9 (137.6 ov) | SL: 290/10 (89.4 ov) & 429/9 (153.6 ov)",
+          "North Zone vs West Zone (2nd Quarter final, TEST): North Zone won by 52 runs — NZONE: 251/10 (66.5 ov) & 222/10 (50.6 ov) | WZONE: 187/10 (65.4 ov) & 234/10 (57.3 ov)",
+          "East Zone vs North East Zone (1st Quarter final, TEST): East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Leicestershire vs Glamorgan (43rd Match, TEST): Leicestershire won by 42 runs — LEIC: 151/10 (62.5 ov) & 257/10 (74.2 ov) | GLAM: 152/10 (53.1 ov) & 214/10 (85.6 ov)",
+          "Somerset vs Essex (44th Match, TEST): Somerset won by 8 wkts — SOM: 469/10 (127.5 ov) & 103/2 (19.2 ov) | ESS: 158/10 (42.4 ov) & 412/10 (161.1 ov)",
+          "Sussex vs Warwickshire (42nd Match, TEST): Warwickshire won by 1 wkt — SUS: 156/10 (47.4 ov) & 207/10 (61.5 ov) | WARKS: 161/10 (47.3 ov) & 206/9 (53.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Notts' Clarke first to 1,000 Championship runs with ton against Bears — Nottinghamshire's Joe Clarke hits his third ton of the season against Warwickshire to become the first player past 1,000",
+          "Lammonby helps Somerset build lead against Sussex — Opener Tom Lammonby returns to form to revive Somerset's County Championship title challenge with his highest score of t",
+          "Leaders Durham build big lead over Gloucs — David Bedingham's century helps Division Two leaders Durham maintain control against Gloucestershire.",
+          "Northants reply well after Kent post 345 — Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-",
+          "'First major milestone for Pakistan' - Usman takes five wickets — Watch Pakistan's Ali Usman claim a five-wicket haul, including dismissing Gus Atkinson and Ollie Robinson in successive ",
+          "'Hometown boy delivering once again' - best of Brook's 91 — Watch the best shots from Harry Brook's 91 as his wait for a Test century at Headingley continues on day two of the firs"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "How England are building an attack to trouble Australia",
+          "Sarfaraz denies knowing about Pakistan threat to end tour",
+          "England enjoy dominant day at Lord's to close in on series win",
+          "Seam quartet puts England on verge of series win",
+          "'Pakistan cleaned up!' - England take five wickets for 19 runs"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-england-enjoy-dominant-day-at-lord-s-to-close-in-o",
+    "title": "England enjoy dominant day at Lord's to close in on series win | Cricket News",
+    "description": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving",
+    "excerpt": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England enjoy dominant day at Lord's to close in on series win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England enjoy dominant day at Lord's to close in on series win. England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-how-england-are-building-an-attack-to-trouble-aust",
+    "title": "How England are building an attack to trouble Australia | Cricket News",
+    "description": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
+    "excerpt": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: How England are building an attack to trouble Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: How England are building an attack to trouble Australia. Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-lammonby-helps-somerset-build-lead-against-sussex",
+    "title": "Lammonby helps Somerset build lead against Sussex | Cricket News",
+    "description": "Opener Tom Lammonby returns to form to revive Somerset's County Championship title challenge with his highest score of the season on an absorbing second day aga",
+    "excerpt": "Opener Tom Lammonby returns to form to revive Somerset's County Championship title challenge with his highest score of the season on an absorbing second day aga",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c7v43147lj1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Lammonby helps Somerset build lead against Sussex",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Lammonby helps Somerset build lead against Sussex. Opener Tom Lammonby returns to form to revive Somerset's County Championship title challenge with his highest score of the season on an absorbing second day against Sussex at Hove."
+      },
+      {
+        "type": "p",
+        "text": "Opener Tom Lammonby returns to form to revive Somerset's County Championship title challenge with his highest score of the season on an absorbing second day against Sussex at Hove."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-leaders-durham-build-big-lead-over-gloucs",
+    "title": "Leaders Durham build big lead over Gloucs | Cricket News",
+    "description": "David Bedingham's century helps Division Two leaders Durham maintain control against Gloucestershire.",
+    "excerpt": "David Bedingham's century helps Division Two leaders Durham maintain control against Gloucestershire.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c0qxd1lvzk9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Leaders Durham build big lead over Gloucs",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Leaders Durham build big lead over Gloucs. David Bedingham's century helps Division Two leaders Durham maintain control against Gloucestershire."
+      },
+      {
+        "type": "p",
+        "text": "David Bedingham's century helps Division Two leaders Durham maintain control against Gloucestershire."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-notts-clarke-first-to-1-000-championship-runs-with",
+    "title": "Notts' Clarke first to 1,000 Championship runs with ton against Bears | Cricket News",
+    "description": "Nottinghamshire's Joe Clarke hits his third ton of the season against Warwickshire to become the first player past 1,000 County Championship runs in 2026.",
+    "excerpt": "Nottinghamshire's Joe Clarke hits his third ton of the season against Warwickshire to become the first player past 1,000 County Championship runs in 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1dlpqvq9l4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Notts' Clarke first to 1,000 Championship runs with ton against Bears",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Notts' Clarke first to 1,000 Championship runs with ton against Bears. Nottinghamshire's Joe Clarke hits his third ton of the season against Warwickshire to become the first player past 1,000 County Championship runs in 2026."
+      },
+      {
+        "type": "p",
+        "text": "Nottinghamshire's Joe Clarke hits his third ton of the season against Warwickshire to become the first player past 1,000 County Championship runs in 2026."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-29-sarfaraz-denies-knowing-about-pakistan-threat-to-e",
+    "title": "Sarfaraz denies knowing about Pakistan threat to end tour | Cricket News",
+    "description": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview",
+    "excerpt": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Sarfaraz denies knowing about Pakistan threat to end tour",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Sarfaraz denies knowing about Pakistan threat to end tour. Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-czone-vs-ezone-2026-08-30",
+    "title": "Central Zone vs East Zone Preview — Pitch, Weather & Lineup | 1st Semi-Final",
+    "description": "Central Zone vs East Zone preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Sun, 30 Aug, 2026, 9:30 am.",
+    "excerpt": "Central Zone vs East Zone — pitch: High-scoring belter with good carry; dew makes chasing easier.… Weather: Drizzle · High 28°C / Low 19°C · Rain: 1.6 mm · Wind: up to 21 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Central Zone vs East Zone",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Central Zone vs East Zone cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Central Zone face East Zone in 1st Semi-Final (TEST) on Sun, 30 Aug, 2026, 9:30 am at BCCI Centre of Excellence Ground 1 Bengaluru. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Central Zone vs East Zone"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Duleep Trophy 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "BCCI Centre of Excellence Ground 1 Bengaluru"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "High-scoring belter with good carry; dew makes chasing easier."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 180–200 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 28°C / Low 19°C · Rain: 1.6 mm · Wind: up to 21 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-hkc-vs-sau-2026-08-30",
+    "title": "Hong Kong, China vs Saudi Arabia Preview — Pitch, Weather & Lineup | 2nd Match, Group A",
+    "description": "Hong Kong, China vs Saudi Arabia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 30 Aug, 2026, 7:00 am.",
+    "excerpt": "Hong Kong, China vs Saudi Arabia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 33°C / Low 24°C · Rain: 2.5 mm · Wind: up to 10 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hong Kong, China vs Saudi Arabia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hong Kong, China vs Saudi Arabia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Hong Kong, China face Saudi Arabia in 2nd Match, Group A (ODI) on Sun, 30 Aug, 2026, 7:00 am at YSD-UKM Cricket Oval Bangi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Hong Kong, China vs Saudi Arabia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "YSD-UKM Cricket Oval Bangi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 33°C / Low 24°C · Rain: 2.5 mm · Wind: up to 10 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-oman-vs-sin-2026-08-30",
+    "title": "Oman vs Singapore Preview — Pitch, Weather & Lineup | 1st Match, Group B",
+    "description": "Oman vs Singapore preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 30 Aug, 2026, 7:00 am.",
+    "excerpt": "Oman vs Singapore — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 32°C / Low 24°C · Rain: 0.7 mm · Wind: up to 10 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Oman vs Singapore",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Oman vs Singapore cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Oman face Singapore in 1st Match, Group B (ODI) on Sun, 30 Aug, 2026, 7:00 am at Bayuemas Oval Kuala Lumpur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Oman vs Singapore"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "Bayuemas Oval Kuala Lumpur"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 32°C / Low 24°C · Rain: 0.7 mm · Wind: up to 10 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-szone-vs-nzone-2026-08-30",
+    "title": "South Zone vs North Zone Preview — Pitch, Weather & Lineup | 2nd Semi-Final",
+    "description": "South Zone vs North Zone preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Sun, 30 Aug, 2026, 9:30 am.",
+    "excerpt": "South Zone vs North Zone — pitch: High-scoring belter with good carry; dew makes chasing easier.… Weather: Drizzle · High 29°C / Low 20°C · Rain: 2 mm · Wind: up to 29 km/h. Light rain po…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Zone vs North Zone",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Zone vs North Zone cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Zone face North Zone in 2nd Semi-Final (TEST) on Sun, 30 Aug, 2026, 9:30 am at BCCI Centre of Excellence Ground 2 Bengaluru. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Zone vs North Zone"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Duleep Trophy 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "BCCI Centre of Excellence Ground 2 Bengaluru"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "High-scoring belter with good carry; dew makes chasing easier."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 180–200 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 29°C / Low 20°C · Rain: 2 mm · Wind: up to 29 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-28",
     "title": "Cricket Daily Digest — Friday, 28 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
