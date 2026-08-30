@@ -3,6 +3,955 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-08-30",
+    "title": "Cricket Daily Digest — Sunday, 30 August 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 14+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 30 August 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-08-30 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Sunday, 30 August 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sun, 30 Aug, 2026, 1:30 pm",
+            "South Africa A vs Bangladesh A",
+            "TEST",
+            "Potchefstroom",
+            "Bangladesh A tour of South Africa, 2026"
+          ],
+          [
+            "Mon, 31 Aug, 2026, 7:00 am",
+            "Qatar vs United Arab Emirates",
+            "ODI",
+            "Kuala Lumpur",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Mon, 31 Aug, 2026, 7:00 am",
+            "Bahrain vs Nepal",
+            "ODI",
+            "Bangi",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 3:30 pm",
+            "Scotland Women vs Netherlands Women",
+            "ODI",
+            "Stirling",
+            "Netherlands Women tour of Scotland 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 8:00 pm",
+            "India Women vs Thailand Women",
+            "T20",
+            "Dubai",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 11:30 am",
+            "TBC vs TBC",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 12:30 pm",
+            "Denmark Women vs Sweden Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 3:30 pm",
+            "TBC vs TBC",
+            "T20",
+            "Ilfov County",
+            "Women's Continental Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 5:30 pm",
+            "Germany Women vs Denmark Women",
+            "T20",
+            "Gelsenkirchen",
+            "Nordic Women's T20I Cup 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 3:00 pm",
+            "Amsterdam Flames vs Belfast Wolves",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 6:45 pm",
+            "Edinburgh Castle Rockers vs Dublin Guardians",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Sun, 30 Aug, 2026, 8:00 pm",
+            "Amritsar Soormas vs Mohali Kings",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh A vs South Africa A (1st Unofficial Test, TEST): South Africa A won by an innings and 413 runs — BANA: 122/10 (44.3 ov) & 112/10 (32.2 ov) | RSAA: 647/6 (130.4 ov)",
+          "India vs Sri Lanka (2nd Test, TEST): Match drawn — IND: 503/9 (137.6 ov) | SL: 290/10 (89.4 ov) & 429/9 (153.6 ov)",
+          "North Zone vs West Zone (2nd Quarter final, TEST): North Zone won by 52 runs — NZONE: 251/10 (66.5 ov) & 222/10 (50.6 ov) | WZONE: 187/10 (65.4 ov) & 234/10 (57.3 ov)",
+          "East Zone vs North East Zone (1st Quarter final, TEST): East Zone won by an innings and 210 runs — EZONE: 467/10 (112.5 ov) | NEZONE: 111/10 (42.5 ov) & 146/10 (49.6 ov)",
+          "Bangladesh vs Australia (2nd Test, TEST): Australia won by an innings and 51 runs — BAN: 64/10 (33.6 ov) & 95/10 (38.3 ov) | AUS: 210/10 (52.3 ov)",
+          "Sussex vs Warwickshire (42nd Match, TEST): Warwickshire won by 1 wkt — SUS: 156/10 (47.4 ov) & 207/10 (61.5 ov) | WARKS: 161/10 (47.3 ov) & 206/9 (53.1 ov)",
+          "Yorkshire vs Hampshire (45th Match, TEST): Yorkshire won by 39 runs — YORKS: 173/10 (61.2 ov) & 301/10 (98.1 ov) | HAM: 197/10 (87.6 ov) & 238/10 (98.2 ov)",
+          "Nottinghamshire vs Surrey (41st Match, TEST): Nottinghamshire won by 145 runs — NOTTS: 184/10 (68.2 ov) & 306/10 (90.3 ov) | SUR: 162/10 (66.3 ov) & 183/10 (55.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Lawrence helps England build big lead on rain-affected day at Lord's — Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second ",
+          "'A gritty innings' - Lawrence digs in to help England build big lead — Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as Engl",
+          "Northants reply well after Kent post 345 — Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-",
+          "Abbas masterclass as Smith stars on day one — Reaction from Jamie Smith as he hits a half-century on day one at Lord's.",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Vaughan backs Lawrence for extended run in England team",
+          "Decision to curtail play at Lord's 'a joke' - Hussain",
+          "Lawrence impresses as weather delays England",
+          "'That's a stinker' - Gay trapped lbw by 'unplayable' Abbas delivery",
+          "Durham need four runs to beat Gloucs on final day"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-a-gritty-innings-lawrence-digs-in-to-help-england-",
+    "title": "'A gritty innings' - Lawrence digs in to help England build big lead | Cricket News",
+    "description": "Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the ",
+    "excerpt": "Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cx2zy71qvnjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'A gritty innings' - Lawrence digs in to help England build big lead",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'A gritty innings' - Lawrence digs in to help England build big lead. Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the second Test against Pakistan, giving the"
+      },
+      {
+        "type": "p",
+        "text": "Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the second Test against Pakistan, giving them a lead of 357."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-decision-to-curtail-play-at-lord-s-a-joke-hussain",
+    "title": "Decision to curtail play at Lord's 'a joke' - Hussain | Cricket News",
+    "description": "The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain a",
+    "excerpt": "The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain a",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1l6njn2vm8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Decision to curtail play at Lord's 'a joke' - Hussain",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Decision to curtail play at Lord's 'a joke' - Hussain. The decision to abandon play an hour early after a rain-hit third day of England’s second Test against Pakistan is criticised by former captain Nasser Hussain and fans."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-lawrence-helps-england-build-big-lead-on-rain-affe",
+    "title": "Lawrence helps England build big lead on rain-affected day at Lord's | Cricket News",
+    "description": "Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading b",
+    "excerpt": "Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading b",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Lawrence helps England build big lead on rain-affected day at Lord's",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Lawrence helps England build big lead on rain-affected day at Lord's. Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading by 357 and seemingly closing in on a seri"
+      },
+      {
+        "type": "p",
+        "text": "Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading by 357 and seemingly closing in on a series victory, with a match to spare."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-lawrence-impresses-as-weather-delays-england",
+    "title": "Lawrence impresses as weather delays England | Cricket News",
+    "description": "Dan Lawrence impresses in devilishly difficult batting conditions to advance England’s push for a series win over Pakistan on a weather-hit third day of the sec",
+    "excerpt": "Dan Lawrence impresses in devilishly difficult batting conditions to advance England’s push for a series win over Pakistan on a weather-hit third day of the sec",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Lawrence impresses as weather delays England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Lawrence impresses as weather delays England. Dan Lawrence impresses in devilishly difficult batting conditions to advance England’s push for a series win over Pakistan on a weather-hit third day of the second Test."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-northants-reply-well-after-kent-post-345",
+    "title": "Northants reply well after Kent post 345 | Cricket News",
+    "description": "Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-0 in reply.",
+    "excerpt": "Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-0 in reply.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwyz1g542wko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Northants reply well after Kent post 345",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Northants reply well after Kent post 345. Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-0 in reply."
+      },
+      {
+        "type": "p",
+        "text": "Zak Crawley falls short of a century but Daniel Bell-Drummond helps Kent post 345 against Northants, who end day two 74-0 in reply."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-08-30-vaughan-backs-lawrence-for-extended-run-in-england",
+    "title": "Vaughan backs Lawrence for extended run in England team | Cricket News",
+    "description": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+    "excerpt": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Vaughan backs Lawrence for extended run in England team",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Vaughan backs Lawrence for extended run in England team. Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bhr-vs-nep-2026-08-31",
+    "title": "Bahrain vs Nepal Preview — Pitch, Weather & Lineup | 4th Match, Group A",
+    "description": "Bahrain vs Nepal preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Mon, 31 Aug, 2026, 7:00 am.",
+    "excerpt": "Bahrain vs Nepal — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 33°C / Low 24°C · Rain: 2.3 mm · Wind: up to 12 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bahrain vs Nepal",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bahrain vs Nepal cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Bahrain face Nepal in 4th Match, Group A (ODI) on Mon, 31 Aug, 2026, 7:00 am at YSD-UKM Cricket Oval Bangi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Bahrain vs Nepal"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 31 Aug, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "YSD-UKM Cricket Oval Bangi"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 31, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 33°C / Low 24°C · Rain: 2.3 mm · Wind: up to 12 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-qat-vs-uae-2026-08-31",
+    "title": "Qatar vs United Arab Emirates Preview — Pitch, Weather & Lineup | 3rd Match, Group B",
+    "description": "Qatar vs United Arab Emirates preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Mon, 31 Aug, 2026, 7:00 am.",
+    "excerpt": "Qatar vs United Arab Emirates — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 32°C / Low 24°C · Rain: 0.9 mm · Wind: up to 14 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Qatar vs United Arab Emirates",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Qatar vs United Arab Emirates cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Qatar face United Arab Emirates in 3rd Match, Group B (ODI) on Mon, 31 Aug, 2026, 7:00 am at Bayuemas Oval Kuala Lumpur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Qatar vs United Arab Emirates"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 31 Aug, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "Bayuemas Oval Kuala Lumpur"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 31, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 32°C / Low 24°C · Rain: 0.9 mm · Wind: up to 14 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rsaa-vs-bana-2026-08-30",
+    "title": "South Africa A vs Bangladesh A Preview — Pitch, Weather & Lineup | 2nd Unofficial Test",
+    "description": "South Africa A vs Bangladesh A preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Sun, 30 Aug, 2026, 1:30 pm.",
+    "excerpt": "South Africa A vs Bangladesh A — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 24°C / Low 7°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover e…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa A vs Bangladesh A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa A vs Bangladesh A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Africa A face Bangladesh A in 2nd Unofficial Test (TEST) on Sun, 30 Aug, 2026, 1:30 pm at Senwes Park Potchefstroom. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Africa A vs Bangladesh A"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Bangladesh A tour of South Africa, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Senwes Park Potchefstroom"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 24°C / Low 7°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-scow-vs-nedw-2026-08-30",
+    "title": "Scotland Women vs Netherlands Women Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "Scotland Women vs Netherlands Women preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 30 Aug, 2026, 3:30 pm.",
+    "excerpt": "Scotland Women vs Netherlands Women — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain · High 16°C / Low 14°C · Rain: 15.3 mm · Wind: up to 17 km/h. Rain likely —…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Scotland Women vs Netherlands Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-08-30",
+    "updatedAt": "2026-08-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Scotland Women vs Netherlands Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Scotland Women face Netherlands Women in 2nd ODI (ODI) on Sun, 30 Aug, 2026, 3:30 pm at New Williamfield No1 Oval Stirling. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Scotland Women vs Netherlands Women"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Netherlands Women tour of Scotland 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 30 Aug, 2026, 3:30 pm"
+          ],
+          [
+            "Venue",
+            "New Williamfield No1 Oval Stirling"
+          ],
+          [
+            "Status",
+            "Match starts at Aug 30, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 16°C / Low 14°C · Rain: 15.3 mm · Wind: up to 17 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-08-29",
     "title": "Cricket Daily Digest — Saturday, 29 August 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 15+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
