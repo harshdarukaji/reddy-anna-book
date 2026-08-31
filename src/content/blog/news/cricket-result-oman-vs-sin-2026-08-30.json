@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-oman-vs-sin-2026-08-30",
+  "title": "Oman won by 131 runs | 1st Match, Group B Cricket News",
+  "description": "Oman vs Singapore result: Oman won by 131 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Oman won by 131 runs — OMAN: 316/9 (49.6 ov) | SIN: 185/10 (42.3 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Oman vs Singapore result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-08-31",
+  "updatedAt": "2026-08-31",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Oman vs Singapore cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Oman vs Singapore (1st Match, Group B, ODI) — Oman won by 131 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Oman",
+          "316/9 (49.6 ov)"
+        ],
+        [
+          "Singapore",
+          "185/10 (42.3 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Oman won by 131 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Singapore chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Vinayak Shukla delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
