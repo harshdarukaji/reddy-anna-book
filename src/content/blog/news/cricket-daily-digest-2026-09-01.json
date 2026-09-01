@@ -1,0 +1,184 @@
+{
+  "slug": "cricket-daily-digest-2026-09-01",
+  "title": "Cricket Daily Digest — Tuesday, 1 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 1 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-01",
+  "updatedAt": "2026-09-01",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-01 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Tuesday, 1 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Wed, 2 Sept, 2026, 7:00 am",
+          "Bahrain vs Hong Kong, China",
+          "ODI",
+          "Kuala Lumpur",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Wed, 2 Sept, 2026, 7:00 am",
+          "Oman vs Qatar",
+          "ODI",
+          "Bangi",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 3:30 pm",
+          "Scotland Women vs Netherlands Women",
+          "ODI",
+          "Stirling",
+          "Netherlands Women tour of Scotland 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 5:30 pm",
+          "England Women vs Ireland Women",
+          "ODI",
+          "Leicester",
+          "Ireland Women tour of England 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 8:00 pm",
+          "Pakistan Women vs Thailand Women",
+          "T20",
+          "Dubai",
+          "Women's Asia Cup 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 1:00 pm",
+          "Bathinda Royals vs Ludhiana Lions",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 5:30 pm",
+          "South Africa vs Zimbabwe",
+          "T20",
+          " Windhoek",
+          "Namibia T20I Tri-Series 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 6:45 pm",
+          "Glasgow Cosmic vs Rotterdam Dockers",
+          "T20",
+          "Voorburg",
+          "European T20 Premier League 2026"
+        ],
+        [
+          "Tue, 1 Sept, 2026, 7:00 pm",
+          "Jalandhar Warriors vs Amritsar Soormas",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ],
+        [
+          "Wed, 2 Sept, 2026, 4:30 am",
+          "St Kitts and Nevis Patriots vs Barbados Tridents",
+          "T20",
+          "Basseterre, St Kitts",
+          "Caribbean Premier League 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bahrain vs Nepal (4th Match, Group A, ODI): Nepal won by 7 wkts — BHR: 87/10 (36.2 ov) | NEP: 88/3 (20.6 ov)",
+        "United Arab Emirates vs Qatar (3rd Match, Group B, ODI): United Arab Emirates won by 92 runs — UAE: 263/9 (49.6 ov) | QAT: 171/10 (37.3 ov)",
+        "Hong Kong, China vs Saudi Arabia (2nd Match, Group A, ODI): Hong Kong, China won by 16 runs — HKC: 273/10 (48.5 ov) | SAU: 257/10 (49.2 ov)",
+        "Oman vs Singapore (1st Match, Group B, ODI): Oman won by 131 runs — OMAN: 316/9 (49.6 ov) | SIN: 185/10 (42.3 ov)",
+        "England vs Pakistan (2nd Test, TEST): England won by 194 runs — ENG: 290/10 (66.4 ov) & 208/10 (54.2 ov) | PAK: 110/10 (37.2 ov) & 194/10 (50.5 ov)",
+        "Nottinghamshire vs Warwickshire (46th Match, TEST): Match drawn — NOTTS: 325/8 (88.1 ov) | WARKS: 185/10 (54.1 ov)",
+        "Somerset vs Sussex (50th Match, TEST): Match drawn — SOM: 202/10 (57.6 ov) & 350/9 (97.2 ov) | SUS: 250/10 (69.4 ov) & 62/1 (13.6 ov)",
+        "Hampshire vs Glamorgan (49th Match, TEST): Match drawn — HAM: 162/10 (40.2 ov) & 300/8 (69.3 ov) | GLAM: 161/10 (59.6 ov) & 21/3 (13.5 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "'It's an unknown' - Capsey takes England gloves for first time — Alice Capsey will keep wicket for England this week despite having only done it once in her career, but remains confiden",
+        "'Would you believe it?' - Shakeel falls just short of century — Pakistan's Saud Shakeel hits a brilliant 97 against England, but falls just short of his century as he's caught by Harry",
+        "Abbas on Lord's honours board with five-wicket haul — Pakistan bowler Muhammad Abbas puts himself on the Lord's honours board after finishing with figures of 5-57 as he helps",
+        "Lawrence helps England build big lead on rain-affected day at Lord's — Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second ",
+        "'A gritty innings' - Lawrence digs in to help England build big lead — Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as Engl",
+        "Superb Foakes century helps Surrey draw with Essex — Ben Foakes scores a superb century on the final day as Surrey produce an excellent second-innings batting effort to draw"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Pakistan drop seven players and release head coach",
+        "England attack's 2005 comparisons fair - Trescothick",
+        "Robinson's rhythmical action reminiscent of McGrath - Agnew",
+        "Scotland beat Dutch by nine wickets to level series",
+        "England 'just humans' as Ireland target ODI upset"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
