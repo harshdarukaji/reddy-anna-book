@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-mly-vs-sau-2026-09-01",
+  "title": "Malaysia won by 93 runs | 5th Match, Group A Cricket News",
+  "description": "Malaysia vs Saudi Arabia result: Malaysia won by 93 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Malaysia won by 93 runs — MLY: 270/8 (49.6 ov) | SAU: 177/10 (33.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Malaysia vs Saudi Arabia result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-02",
+  "updatedAt": "2026-09-02",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Malaysia vs Saudi Arabia cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Malaysia vs Saudi Arabia (5th Match, Group A, ODI) — Malaysia won by 93 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Malaysia",
+          "270/8 (49.6 ov)"
+        ],
+        [
+          "Saudi Arabia",
+          "177/10 (33.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Malaysia won by 93 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Malaysia chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Virandeep Singh delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
