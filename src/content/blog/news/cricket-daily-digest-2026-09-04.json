@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-09-04",
+  "title": "Cricket Daily Digest — Friday, 4 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 4 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-04",
+  "updatedAt": "2026-09-04",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-04 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 4 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sat, 5 Sept, 2026, 7:00 am",
+          "Kuwait vs Oman",
+          "ODI",
+          "Kuala Lumpur",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Sat, 5 Sept, 2026, 7:00 am",
+          "Malaysia vs Hong Kong, China",
+          "ODI",
+          "Bangi",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 8:00 pm",
+          "United Arab Emirates Women vs Indonesia Women",
+          "T20",
+          "Dubai",
+          "Women's Asia Cup 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 1:00 pm",
+          "Belgium Women vs Portugal Women",
+          "T20",
+          "Prague",
+          " Czech Republic Women's T20I Tri-Series "
+        ],
+        [
+          "Fri, 4 Sept, 2026, 1:30 pm",
+          "Serbia Women vs Croatia Women",
+          "T20",
+          "Belgrade",
+          "Serbia Women's T20I Tri-Series 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 5:00 pm",
+          "Czech Republic Women vs Portugal Women",
+          "T20",
+          "Prague",
+          " Czech Republic Women's T20I Tri-Series "
+        ],
+        [
+          "Fri, 4 Sept, 2026, 5:30 pm",
+          "Bulgaria Women vs Croatia Women",
+          "T20",
+          "Belgrade",
+          "Serbia Women's T20I Tri-Series 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 8:00 pm",
+          "Czech Republic Women vs Belgium Women",
+          "T20",
+          "Prague",
+          " Czech Republic Women's T20I Tri-Series "
+        ],
+        [
+          "Fri, 4 Sept, 2026, 1:00 pm",
+          "Bathinda Royals vs Amritsar Soormas",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 5:30 pm",
+          "Namibia vs South Africa",
+          "T20",
+          " Windhoek",
+          "Namibia T20I Tri-Series 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 6:45 pm",
+          "Glasgow Cosmic vs Belfast Wolves",
+          "T20",
+          "Voorburg",
+          "European T20 Premier League 2026"
+        ],
+        [
+          "Fri, 4 Sept, 2026, 7:00 pm",
+          "Ludhiana Lions vs Jalandhar Warriors",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Malaysia vs Nepal (10th Match, Group A, ODI): Nepal won by 6 wkts — MLY: 103/10 (32.3 ov) | NEP: 106/4 (21.4 ov)",
+        "United Arab Emirates vs Kuwait (9th Match, Group B, ODI): United Arab Emirates won by 66 runs (DLS Method) — UAE: 286/8 (49.6 ov) | KUW: 110/9 (24.6 ov)",
+        "Qatar vs Oman (8th Match, Group B, ODI): Oman won by 5 wkts — QAT: 272/9 (49.6 ov) | OMAN: 276/5 (40.3 ov)",
+        "Bahrain vs Hong Kong, China (7th Match, Group A, ODI): Bahrain won by 32 runs — BHR: 210/8 (49.6 ov) | HKC: 178/10 (49.4 ov)",
+        "Malaysia vs Saudi Arabia (5th Match, Group A, ODI): Malaysia won by 93 runs — MLY: 270/8 (49.6 ov) | SAU: 177/10 (33.6 ov)",
+        "Kuwait vs Singapore (6th Match, Group B, ODI): Kuwait won by 153 runs — KUW: 249/4 (43.4 ov) | SIN: 96/10 (27.3 ov)",
+        "United Arab Emirates vs Qatar (3rd Match, Group B, ODI): United Arab Emirates won by 92 runs — UAE: 263/9 (49.6 ov) | QAT: 171/10 (37.3 ov)",
+        "Bahrain vs Nepal (4th Match, Group A, ODI): Nepal won by 7 wkts — BHR: 87/10 (36.2 ov) | NEP: 88/3 (20.6 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sussex's Crocombe takes second hat-trick in eight days — Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for s",
+        "Wong stars as England thump Ireland to win series — Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-matc",
+        "Yates hits ton as Bears dominate against Hants — Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston.",
+        "Adams century put Hants in One-Day Cup knockouts — Hampshire qualify for the One-Day Cup knockout stages, while Somerset, Warwickshire and Lancashire stay in contention af",
+        "Somerset cement advantage against Glamorgan — Tom Lammonby fell five short of a century as Somerset cement their advantage on the second day of their County Champions",
+        "Wong takes first ODI five-wicket haul for England — An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during "
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ashes tickets pricing people out of game - Vaughan",
+        "Women's ODI Cricket",
+        "Fisher stars as 23 wickets fall between Surrey & Yorks",
+        "Test Match Special Podcast",
+        "Haynes' 159 helps Notts pile up the runs against Leics"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

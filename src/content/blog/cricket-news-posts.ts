@@ -3,6 +3,1140 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-04",
+    "title": "Cricket Daily Digest — Friday, 4 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 4 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-04 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 4 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 5 Sept, 2026, 7:00 am",
+            "Kuwait vs Oman",
+            "ODI",
+            "Kuala Lumpur",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Sat, 5 Sept, 2026, 7:00 am",
+            "Malaysia vs Hong Kong, China",
+            "ODI",
+            "Bangi",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 8:00 pm",
+            "United Arab Emirates Women vs Indonesia Women",
+            "T20",
+            "Dubai",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 1:00 pm",
+            "Belgium Women vs Portugal Women",
+            "T20",
+            "Prague",
+            " Czech Republic Women's T20I Tri-Series "
+          ],
+          [
+            "Fri, 4 Sept, 2026, 1:30 pm",
+            "Serbia Women vs Croatia Women",
+            "T20",
+            "Belgrade",
+            "Serbia Women's T20I Tri-Series 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 5:00 pm",
+            "Czech Republic Women vs Portugal Women",
+            "T20",
+            "Prague",
+            " Czech Republic Women's T20I Tri-Series "
+          ],
+          [
+            "Fri, 4 Sept, 2026, 5:30 pm",
+            "Bulgaria Women vs Croatia Women",
+            "T20",
+            "Belgrade",
+            "Serbia Women's T20I Tri-Series 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 8:00 pm",
+            "Czech Republic Women vs Belgium Women",
+            "T20",
+            "Prague",
+            " Czech Republic Women's T20I Tri-Series "
+          ],
+          [
+            "Fri, 4 Sept, 2026, 1:00 pm",
+            "Bathinda Royals vs Amritsar Soormas",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 5:30 pm",
+            "Namibia vs South Africa",
+            "T20",
+            " Windhoek",
+            "Namibia T20I Tri-Series 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 6:45 pm",
+            "Glasgow Cosmic vs Belfast Wolves",
+            "T20",
+            "Voorburg",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Fri, 4 Sept, 2026, 7:00 pm",
+            "Ludhiana Lions vs Jalandhar Warriors",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Malaysia vs Nepal (10th Match, Group A, ODI): Nepal won by 6 wkts — MLY: 103/10 (32.3 ov) | NEP: 106/4 (21.4 ov)",
+          "United Arab Emirates vs Kuwait (9th Match, Group B, ODI): United Arab Emirates won by 66 runs (DLS Method) — UAE: 286/8 (49.6 ov) | KUW: 110/9 (24.6 ov)",
+          "Qatar vs Oman (8th Match, Group B, ODI): Oman won by 5 wkts — QAT: 272/9 (49.6 ov) | OMAN: 276/5 (40.3 ov)",
+          "Bahrain vs Hong Kong, China (7th Match, Group A, ODI): Bahrain won by 32 runs — BHR: 210/8 (49.6 ov) | HKC: 178/10 (49.4 ov)",
+          "Malaysia vs Saudi Arabia (5th Match, Group A, ODI): Malaysia won by 93 runs — MLY: 270/8 (49.6 ov) | SAU: 177/10 (33.6 ov)",
+          "Kuwait vs Singapore (6th Match, Group B, ODI): Kuwait won by 153 runs — KUW: 249/4 (43.4 ov) | SIN: 96/10 (27.3 ov)",
+          "United Arab Emirates vs Qatar (3rd Match, Group B, ODI): United Arab Emirates won by 92 runs — UAE: 263/9 (49.6 ov) | QAT: 171/10 (37.3 ov)",
+          "Bahrain vs Nepal (4th Match, Group A, ODI): Nepal won by 7 wkts — BHR: 87/10 (36.2 ov) | NEP: 88/3 (20.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sussex's Crocombe takes second hat-trick in eight days — Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for s",
+          "Wong stars as England thump Ireland to win series — Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-matc",
+          "Yates hits ton as Bears dominate against Hants — Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston.",
+          "Adams century put Hants in One-Day Cup knockouts — Hampshire qualify for the One-Day Cup knockout stages, while Somerset, Warwickshire and Lancashire stay in contention af",
+          "Somerset cement advantage against Glamorgan — Tom Lammonby fell five short of a century as Somerset cement their advantage on the second day of their County Champions",
+          "Wong takes first ODI five-wicket haul for England — An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during "
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ashes tickets pricing people out of game - Vaughan",
+          "Women's ODI Cricket",
+          "Fisher stars as 23 wickets fall between Surrey & Yorks",
+          "Test Match Special Podcast",
+          "Haynes' 159 helps Notts pile up the runs against Leics"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-ashes-tickets-pricing-people-out-of-game-vaughan",
+    "title": "Ashes tickets pricing people out of game - Vaughan | Cricket News",
+    "description": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
+    "excerpt": "Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\"",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Ashes tickets pricing people out of game - Vaughan",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Ashes tickets pricing people out of game - Vaughan. Former England captain Michael Vaughan says ticket price rises for next year's men's Ashes are \"pricing a lot of people out of the game.\""
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-fisher-stars-as-23-wickets-fall-between-surrey-yor",
+    "title": "Fisher stars as 23 wickets fall between Surrey & Yorks | Cricket News",
+    "description": "An incredible 23 wickets fall on day two between Surrey and Yorkshire at The Oval, with Surrey chasing 185 to win.",
+    "excerpt": "An incredible 23 wickets fall on day two between Surrey and Yorkshire at The Oval, with Surrey chasing 185 to win.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c4g587w782go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Fisher stars as 23 wickets fall between Surrey & Yorks",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Fisher stars as 23 wickets fall between Surrey & Yorks. An incredible 23 wickets fall on day two between Surrey and Yorkshire at The Oval, with Surrey chasing 185 to win."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-sussex-s-crocombe-takes-second-hat-trick-in-eight-",
+    "title": "Sussex's Crocombe takes second hat-trick in eight days | Cricket News",
+    "description": "Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for six runs.",
+    "excerpt": "Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for six runs.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1kx4n0z3dlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sussex's Crocombe takes second hat-trick in eight days",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sussex's Crocombe takes second hat-trick in eight days. Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for six runs."
+      },
+      {
+        "type": "p",
+        "text": "Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for six runs."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-women-s-odi-cricket",
+    "title": "Women's ODI Cricket | Cricket News",
+    "description": "England v Ireland, Second ODI. The two sides clash again in a day-night battle at Derby",
+    "excerpt": "England v Ireland, Second ODI. The two sides clash again in a day-night battle at Derby",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/iplayer/episode/m00315qw?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Women's ODI Cricket",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Women's ODI Cricket. England v Ireland, Second ODI. The two sides clash again in a day-night battle at Derby"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-wong-stars-as-england-thump-ireland-to-win-series",
+    "title": "Wong stars as England thump Ireland to win series | Cricket News",
+    "description": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare.",
+    "excerpt": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Wong stars as England thump Ireland to win series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Wong stars as England thump Ireland to win series. Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare."
+      },
+      {
+        "type": "p",
+        "text": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-04-yates-hits-ton-as-bears-dominate-against-hants",
+    "title": "Yates hits ton as Bears dominate against Hants | Cricket News",
+    "description": "Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston.",
+    "excerpt": "Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c39mjnyx8z0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Yates hits ton as Bears dominate against Hants",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Yates hits ton as Bears dominate against Hants. Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston."
+      },
+      {
+        "type": "p",
+        "text": "Rob Yates' century helps Warwickshire to 398 all out before the Bears reduce Hampshire to 74-6 on day two at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-mly-vs-nep-2026-09-03",
+    "title": "Nepal won by 6 wkts | 10th Match, Group A Cricket News",
+    "description": "Malaysia vs Nepal result: Nepal won by 6 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Nepal won by 6 wkts — MLY: 103/10 (32.3 ov) | NEP: 106/4 (21.4 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Malaysia vs Nepal result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Malaysia vs Nepal cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Malaysia vs Nepal (10th Match, Group A, ODI) — Nepal won by 6 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Malaysia",
+            "103/10 (32.3 ov)"
+          ],
+          [
+            "Nepal",
+            "106/4 (21.4 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Nepal won by 6 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Malaysia chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Karan KC delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-uae-vs-kuw-2026-09-03",
+    "title": "United Arab Emirates won by 66 runs (DLS Method) | 9th Match, Group B Cricket News",
+    "description": "United Arab Emirates vs Kuwait result: United Arab Emirates won by 66 runs (DLS Method). Scores, player of the match, and pitch report.",
+    "excerpt": "United Arab Emirates won by 66 runs (DLS Method) — UAE: 286/8 (49.6 ov) | KUW: 110/9 (24.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates vs Kuwait result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates vs Kuwait cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: United Arab Emirates vs Kuwait (9th Match, Group B, ODI) — United Arab Emirates won by 66 runs (DLS Method). Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "United Arab Emirates",
+            "286/8 (49.6 ov)"
+          ],
+          [
+            "Kuwait",
+            "110/9 (24.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: United Arab Emirates won by 66 runs (DLS Method)."
+      },
+      {
+        "type": "p",
+        "text": "Toss: United Arab Emirates chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Muhammad Shahdad delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-belw-vs-portw-2026-09-04",
+    "title": "Belgium Women vs Portugal Women Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Belgium Women vs Portugal Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 4 Sept, 2026, 1:00 pm.",
+    "excerpt": "Belgium Women vs Portugal Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 28°C / Low 18°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Belgium Women vs Portugal Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Belgium Women vs Portugal Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Belgium Women face Portugal Women in 1st Match (T20) on Fri, 4 Sept, 2026, 1:00 pm at Scott Page Field, Vinor Prague. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Belgium Women vs Portugal Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            " Czech Republic Women's T20I Tri-Series 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 4 Sept, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Scott Page Field, Vinor Prague"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 04, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 28°C / Low 18°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kuw-vs-oman-2026-09-05",
+    "title": "Kuwait vs Oman Preview — Pitch, Weather & Lineup | 13th Match, Group B",
+    "description": "Kuwait vs Oman preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 5 Sept, 2026, 7:00 am.",
+    "excerpt": "Kuwait vs Oman — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 32°C / Low 25°C · Rain: 0.7 mm · Wind: up to 15 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Kuwait vs Oman",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Kuwait vs Oman cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Kuwait face Oman in 13th Match, Group B (ODI) on Sat, 5 Sept, 2026, 7:00 am at Bayuemas Oval Kuala Lumpur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Kuwait vs Oman"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 5 Sept, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "Bayuemas Oval Kuala Lumpur"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 05, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 32°C / Low 25°C · Rain: 0.7 mm · Wind: up to 15 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-mly-vs-hkc-2026-09-05",
+    "title": "Malaysia vs Hong Kong, China Preview — Pitch, Weather & Lineup | 14th Match, Group A",
+    "description": "Malaysia vs Hong Kong, China preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 5 Sept, 2026, 7:00 am.",
+    "excerpt": "Malaysia vs Hong Kong, China — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 34°C / Low 25°C · Rain: 0.9 mm · Wind: up to 15 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Malaysia vs Hong Kong, China",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Malaysia vs Hong Kong, China cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Malaysia face Hong Kong, China in 14th Match, Group A (ODI) on Sat, 5 Sept, 2026, 7:00 am at YSD-UKM Cricket Oval Bangi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Malaysia vs Hong Kong, China"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's Premier Cup, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 5 Sept, 2026, 7:00 am"
+          ],
+          [
+            "Venue",
+            "YSD-UKM Cricket Oval Bangi"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 05, 01:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 34°C / Low 25°C · Rain: 0.9 mm · Wind: up to 15 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-uaew-vs-idnw-2026-09-04",
+    "title": "United Arab Emirates Women vs Indonesia Women Preview — Pitch, Weather & Lineup | Match 8, Group B",
+    "description": "United Arab Emirates Women vs Indonesia Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 4 Sept, 2026, 8:00 pm.",
+    "excerpt": "United Arab Emirates Women vs Indonesia Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 41°C / Low 31°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates Women vs Indonesia Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates Women vs Indonesia Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: United Arab Emirates Women face Indonesia Women in Match 8, Group B (T20) on Fri, 4 Sept, 2026, 8:00 pm at Dubai International Cricket Stadium Dubai. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "United Arab Emirates Women vs Indonesia Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 4 Sept, 2026, 8:00 pm"
+          ],
+          [
+            "Venue",
+            "Dubai International Cricket Stadium Dubai"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 04, 14:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 41°C / Low 31°C · Rain: 0 mm · Wind: up to 22 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-03",
     "title": "Cricket Daily Digest — Thursday, 3 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
