@@ -3,6 +3,1140 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-08",
+    "title": "Cricket Daily Digest — Tuesday, 8 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 15+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 8 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-08 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 8 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Yorkshire vs Essex",
+            "TEST",
+            "Leeds",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Nottinghamshire vs Hampshire",
+            "TEST",
+            "Nottingham",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Glamorgan vs Warwickshire",
+            "TEST",
+            "Cardiff",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Sussex vs Surrey",
+            "TEST",
+            "Hove",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Leicestershire vs Somerset",
+            "TEST",
+            "Leicester",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Derbyshire vs Kent",
+            "TEST",
+            "Derby",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Worcestershire vs Northamptonshire",
+            "TEST",
+            "Worcester",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Durham vs Middlesex",
+            "TEST",
+            "Chester-le-Street",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 3:00 pm",
+            "Lancashire vs Gloucestershire",
+            "TEST",
+            "Manchester",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 8:00 pm",
+            "Bangladesh Women vs United Arab Emirates Women",
+            "T20",
+            "Dubai",
+            "Women's Asia Cup 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 1:00 pm",
+            "Amritsar Soormas vs Mohali Kings",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ],
+          [
+            "Tue, 8 Sept, 2026, 1:00 pm",
+            "Kenya vs Sierra Leone",
+            "T20",
+            "Kigali City",
+            "Africa Continental Cup 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Malaysia vs Bahrain (17th Match, Group A, ODI): Malaysia won by 126 runs — MLY: 254/8 (49.6 ov) | BHR: 128/10 (37.5 ov)",
+          "Kuwait vs Qatar (18th Match, Group B, ODI): Qatar won by 4 wkts — KUW: 233/10 (49.5 ov) | QAT: 235/6 (35.5 ov)",
+          "Bangladesh A vs South Africa A (1st Unofficial ODI, ODI): No result due to rain — BANA: 47/1 (10.6 ov)",
+          "Singapore vs United Arab Emirates (16th Match, Group B, ODI): United Arab Emirates won by 7 wkts — SIN: 172/10 (47.4 ov) | UAE: 174/3 (24.3 ov)",
+          "Saudi Arabia vs Nepal (15th Match, Group A, ODI): Nepal won by 5 wkts — SAU: 190/10 (49.2 ov) | NEP: 193/5 (40.6 ov)",
+          "Hong Kong, China vs Malaysia (14th Match, Group A, ODI): Match tied (Hong Kong, China won the Super Over) — HKC: 209/10 (46.3 ov) | MLY: 209/9 (49.6 ov)",
+          "Oman vs Kuwait (13th Match, Group B, ODI): Kuwait won by 4 wkts — OMAN: 252/7 (49.6 ov) | KUW: 256/6 (49.4 ov)",
+          "Singapore vs Qatar (11th Match, Group B, ODI): Qatar won by 8 wkts — SIN: 150/10 (38.2 ov) | QAT: 153/2 (28.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Dunkley century helps England sweep Ireland 3-0 — Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
+          "Dunkley century helps England seal ODI series sweep over Ireland — Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day I",
+          "Wong takes first ODI five-wicket haul for England — An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during ",
+          "Sai Kishore bowls Gloucs to victory over Derbys — India spinner Sai Kishore takes 5-20 as Gloucestershire bowl Derbyshire out for 105 to record a big win.",
+          "Bouchier stars as England thrash Ireland in record-breaking win — Maia Bouchier hits 104 to help England produce a record run chase, as they successfully chase down 282 against Ireland a",
+          "'Magnificent innings' - Bouchier finds her form in England victory — Maia Bouchier hits 104 off 95 balls, in an innings that included 11 boundaries, to guide England to a record-breaking vi"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pietersen joins England's white-ball coaching team",
+          "Pakistan investigate 'discipline and conduct'",
+          "Labuschagne in Australia squad to face South Africa",
+          "Test Match Special Podcast",
+          "Sowter to depart Durham for Surrey white-ball deal"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-dunkley-century-helps-england-seal-odi-series-swee",
+    "title": "Dunkley century helps England seal ODI series sweep over Ireland | Cricket News",
+    "description": "Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day Ireland all-rounder Arlene Kelly retired ",
+    "excerpt": "Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day Ireland all-rounder Arlene Kelly retired ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cvgyp363rp9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Dunkley century helps England seal ODI series sweep over Ireland",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Dunkley century helps England seal ODI series sweep over Ireland. Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day Ireland all-rounder Arlene Kelly retired from international cricket."
+      },
+      {
+        "type": "p",
+        "text": "Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day Ireland all-rounder Arlene Kelly retired from international cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-dunkley-century-helps-england-sweep-ireland-3-0",
+    "title": "Dunkley century helps England sweep Ireland 3-0 | Cricket News",
+    "description": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
+    "excerpt": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Dunkley century helps England sweep Ireland 3-0",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Dunkley century helps England sweep Ireland 3-0. Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester."
+      },
+      {
+        "type": "p",
+        "text": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-labuschagne-in-australia-squad-to-face-south-afric",
+    "title": "Labuschagne in Australia squad to face South Africa | Cricket News",
+    "description": "Out-of-form Marnus Labuschagne is named in the Australia squad for next month's three-Test tour of South Africa.",
+    "excerpt": "Out-of-form Marnus Labuschagne is named in the Australia squad for next month's three-Test tour of South Africa.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn9wyy8l802o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Labuschagne in Australia squad to face South Africa",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Labuschagne in Australia squad to face South Africa. Out-of-form Marnus Labuschagne is named in the Australia squad for next month's three-Test tour of South Africa."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-pakistan-investigate-discipline-and-conduct",
+    "title": "Pakistan investigate 'discipline and conduct' | Cricket News",
+    "description": "Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England.",
+    "excerpt": "Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Pakistan investigate 'discipline and conduct'",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Pakistan investigate 'discipline and conduct'. Pakistan begin an inquiry into “discipline and conduct” in the latest twist on a turbulent tour of England."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-pietersen-joins-england-s-white-ball-coaching-team",
+    "title": "Pietersen joins England's white-ball coaching team | Cricket News",
+    "description": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
+    "excerpt": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Pietersen joins England's white-ball coaching team",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Pietersen joins England's white-ball coaching team. England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-08-wong-takes-first-odi-five-wicket-haul-for-england",
+    "title": "Wong takes first ODI five-wicket haul for England | Cricket News",
+    "description": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derb",
+    "excerpt": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derb",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c86xj331nexo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Wong takes first ODI five-wicket haul for England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Wong takes first ODI five-wicket haul for England. An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derby."
+      },
+      {
+        "type": "p",
+        "text": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derby."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-kuw-vs-qat-2026-09-07",
+    "title": "Qatar won by 4 wkts | 18th Match, Group B Cricket News",
+    "description": "Kuwait vs Qatar result: Qatar won by 4 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Qatar won by 4 wkts — KUW: 233/10 (49.5 ov) | QAT: 235/6 (35.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Kuwait vs Qatar result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Kuwait vs Qatar cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Kuwait vs Qatar (18th Match, Group B, ODI) — Qatar won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Kuwait",
+            "233/10 (49.5 ov)"
+          ],
+          [
+            "Qatar",
+            "235/6 (35.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Qatar won by 4 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Qatar chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Mohammed Aslam delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-mly-vs-bhr-2026-09-07",
+    "title": "Malaysia won by 126 runs | 17th Match, Group A Cricket News",
+    "description": "Malaysia vs Bahrain result: Malaysia won by 126 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Malaysia won by 126 runs — MLY: 254/8 (49.6 ov) | BHR: 128/10 (37.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Malaysia vs Bahrain result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Malaysia vs Bahrain cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Malaysia vs Bahrain (17th Match, Group A, ODI) — Malaysia won by 126 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Malaysia",
+            "254/8 (49.6 ov)"
+          ],
+          [
+            "Bahrain",
+            "128/10 (37.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Malaysia won by 126 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Malaysia chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Virandeep Singh delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-glam-vs-warks-2026-09-08",
+    "title": "Glamorgan vs Warwickshire Preview — Pitch, Weather & Lineup | 58th Match",
+    "description": "Glamorgan vs Warwickshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 8 Sept, 2026, 3:00 pm.",
+    "excerpt": "Glamorgan vs Warwickshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Light rain · High 18°C / Low 15°C · Rain: 8.2 mm · Wind: up to 22 km/h. Rain lik…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Glamorgan vs Warwickshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Glamorgan vs Warwickshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Glamorgan face Warwickshire in 58th Match (TEST) on Tue, 8 Sept, 2026, 3:00 pm at Sophia Gardens Cardiff. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Glamorgan vs Warwickshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 8 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Sophia Gardens Cardiff"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 08, 10:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light rain · High 18°C / Low 15°C · Rain: 8.2 mm · Wind: up to 22 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-notts-vs-ham-2026-09-08",
+    "title": "Nottinghamshire vs Hampshire Preview — Pitch, Weather & Lineup | 56th Match",
+    "description": "Nottinghamshire vs Hampshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 8 Sept, 2026, 3:00 pm.",
+    "excerpt": "Nottinghamshire vs Hampshire — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Drizzle · High 18°C / Low 13°C · Rain: 2.7 mm · Wind: up to 25 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nottinghamshire vs Hampshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nottinghamshire vs Hampshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Nottinghamshire face Hampshire in 56th Match (TEST) on Tue, 8 Sept, 2026, 3:00 pm at Trent Bridge Nottingham. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Nottinghamshire vs Hampshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 8 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Trent Bridge Nottingham"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 08, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 18°C / Low 13°C · Rain: 2.7 mm · Wind: up to 25 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sus-vs-sur-2026-09-08",
+    "title": "Sussex vs Surrey Preview — Pitch, Weather & Lineup | 59th Match",
+    "description": "Sussex vs Surrey preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 8 Sept, 2026, 3:00 pm.",
+    "excerpt": "Sussex vs Surrey — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Rain · High 19°C / Low 15°C · Rain: 20.4 mm · Wind: up to 22 km/h. Rain likely —…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sussex vs Surrey",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sussex vs Surrey cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sussex face Surrey in 59th Match (TEST) on Tue, 8 Sept, 2026, 3:00 pm at County Ground Hove. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sussex vs Surrey"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 8 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "County Ground Hove"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 08, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 19°C / Low 15°C · Rain: 20.4 mm · Wind: up to 22 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-yorks-vs-ess-2026-09-08",
+    "title": "Yorkshire vs Essex Preview — Pitch, Weather & Lineup | 57th Match",
+    "description": "Yorkshire vs Essex preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 8 Sept, 2026, 3:00 pm.",
+    "excerpt": "Yorkshire vs Essex — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Drizzle · High 16°C / Low 13°C · Rain: 1.5 mm · Wind: up to 26 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Yorkshire vs Essex",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Yorkshire vs Essex cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Yorkshire face Essex in 57th Match (TEST) on Tue, 8 Sept, 2026, 3:00 pm at Headingley Leeds. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Yorkshire vs Essex"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 8 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Headingley Leeds"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 08, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 16°C / Low 13°C · Rain: 1.5 mm · Wind: up to 26 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-07",
     "title": "Cricket Daily Digest — Monday, 7 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 5+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
