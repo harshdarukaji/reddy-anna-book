@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-09-10",
+  "title": "Cricket Daily Digest — Thursday, 10 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 10 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-10",
+  "updatedAt": "2026-09-10",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-10 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Thursday, 10 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Western Province vs Warriors",
+          "TEST",
+          "Cape Town",
+          "CSA Four-Day Series Division One 2026-27"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Knights vs North West - Eastvaal Renault Dragons",
+          "TEST",
+          "Bloemfontein",
+          "CSA Four-Day Series Division One 2026-27"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Lions vs Boland",
+          "TEST",
+          "Johannesburg",
+          "CSA Four-Day Series Division One 2026-27"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Titans vs Dolphins",
+          "TEST",
+          "Centurion",
+          "CSA Four-Day Series Division One 2026-27"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Eastern Storm vs South Western Districts",
+          "TEST",
+          "Benoni",
+          "CSA Three-Day Series Division Two 2026-2"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Limpopo vs Border",
+          "TEST",
+          "Polokwane",
+          "CSA Three-Day Series Division Two 2026-2"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:30 pm",
+          "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers",
+          "TEST",
+          "Mpumalanga",
+          "CSA Three-Day Series Division Two 2026-2"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 8:00 pm",
+          "India Women vs Bangladesh Women",
+          "T20",
+          "Dubai",
+          "Women's Asia Cup 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 6:30 am",
+          "Japan Women vs Malaysia Women",
+          "T20",
+          "Sano, Kanto",
+          "Malaysia Women tour of Japan 2026"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 7:30 pm",
+          "Trinbago Knight Riders Women vs Jamaica Empress Women",
+          "T20",
+          "Bridgetown, Barbados",
+          "Womens Caribbean Premier League 2026"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:00 pm",
+          "Uganda vs Botswana",
+          "T20",
+          "Kigali City",
+          "Africa Continental Cup 2026"
+        ],
+        [
+          "Thu, 10 Sept, 2026, 1:00 pm",
+          "Amritsar Soormas vs Jalandhar Warriors",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "South Africa A vs Bangladesh A (2nd Unofficial ODI, ODI): Match abandoned due to wet outfield — RSAA: 47/1 (10.6 ov)",
+        "South Africa vs Namibia (1st ODI, ODI): South Africa won by 99 runs (DLS Method) — RSA: 348/6 (49.6 ov) | NAM: 162/8 (30.6 ov)",
+        "Glamorgan vs Warwickshire (58th Match, TEST): Warwickshire won by an innings and 257 runs — GLAM: 69/10 (26.3 ov) & 65/10 (26.1 ov) | WARKS: 391/10 (97.5 ov)",
+        "Hong Kong, China vs Nepal (19th Match, Group A, ODI): Hong Kong, China won by 15 runs — HKC: 261/7 (49.6 ov) | NEP: 246/10 (49.1 ov)",
+        "United Arab Emirates vs Oman (20th Match, Group B, ODI): United Arab Emirates won by 49 runs — UAE: 192/10 (48.1 ov) | OMAN: 143/10 (34.5 ov)",
+        "Malaysia vs Bahrain (17th Match, Group A, ODI): Malaysia won by 126 runs — MLY: 254/8 (49.6 ov) | BHR: 128/10 (37.5 ov)",
+        "Kuwait vs Qatar (18th Match, Group B, ODI): Qatar won by 4 wkts — KUW: 233/10 (49.5 ov) | QAT: 235/6 (35.5 ov)",
+        "Bangladesh A vs South Africa A (1st Unofficial ODI, ODI): No result due to rain — BANA: 47/1 (10.6 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hermann equals ODI debut score record in SA win — Jordan Hermann strikes 150 to equal the record for the highest score in a one-day international debut as South Africa be",
+        "'Embarrassing' Pakistan break record in innings to forget — The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pak",
+        "Lehmann's unbeaten ton for Hants frustrates Notts — Jake Lehmann's unbeaten 115 was the standout performance on day two of the County Championship Division One match betwee",
+        "Dunkley century helps England seal ODI series sweep over Ireland — Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day I",
+        "Tear helps Sussex edge absorbing day against Surrey — Charlie Tear makes his highest first-class score and Oli Carter and John Simpson score fifties as Sussex edge an absorbi",
+        "Wong takes first ODI five-wicket haul for England — An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during "
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Gay should open for England in South Africa - Cook",
+        "England demolish Pakistan to take charge of Test",
+        "England humble hapless Pakistan on opening day of final Test",
+        "Pakistan in 'disarray' as England take seven wickets in first session",
+        "Spinners put Yorkshire in control against Essex"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
