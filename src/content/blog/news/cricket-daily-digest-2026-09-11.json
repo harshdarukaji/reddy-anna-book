@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-09-11",
+  "title": "Cricket Daily Digest — Friday, 11 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 11 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-11 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 11 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Fri, 11 Sept, 2026, 1:00 pm",
+          "Namibia vs South Africa",
+          "ODI",
+          " Windhoek",
+          "South Africa tour of Namibia, 2026"
+        ],
+        [
+          "Sat, 12 Sept, 2026, 7:00 am",
+          "Hong Kong, China vs Oman",
+          "ODI",
+          "Bangi",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Sat, 12 Sept, 2026, 7:00 am",
+          "Nepal vs United Arab Emirates",
+          "ODI",
+          "Kuala Lumpur",
+          "ACC Men's Premier Cup, 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 5:00 pm",
+          "Zimbabwe Women vs South Africa Women",
+          "T20",
+          "Bulawayo",
+          "South Africa Women tour of Zimbabwe, 202"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 8:00 pm",
+          "Sri Lanka Women vs Pakistan Women",
+          "T20",
+          "Dubai",
+          "Women's Asia Cup 2026"
+        ],
+        [
+          "Sat, 12 Sept, 2026, 6:30 am",
+          "Japan Women vs Malaysia Women",
+          "T20",
+          "Sano, Kanto",
+          "Malaysia Women tour of Japan 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 1:00 pm",
+          "Uganda vs Rwanda",
+          "T20",
+          "Kigali City",
+          "Africa Continental Cup 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 5:00 pm",
+          "Kenya vs Botswana",
+          "T20",
+          "Kigali City",
+          "Africa Continental Cup 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 6:45 pm",
+          "Dublin Guardians vs Edinburgh Castle Rockers",
+          "T20",
+          "Dublin",
+          "European T20 Premier League 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 7:00 pm",
+          "Amritsar Soormas vs Ludhiana Lions",
+          "T20",
+          "Mohali",
+          "Sher-E-Punjab T20 League, 2026"
+        ],
+        [
+          "Fri, 11 Sept, 2026, 11:00 pm",
+          "England Lions vs Sri Lanka",
+          "T20",
+          "Chelmsford",
+          "England Lions v Sri Lanka T20 Series, 20"
+        ],
+        [
+          "Sat, 12 Sept, 2026, 4:30 am",
+          "Guyana Amazon Warriors vs Trinbago Knight Riders",
+          "T20",
+          "Guyana",
+          "Caribbean Premier League 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hong Kong, China vs United Arab Emirates (2nd Semi-Final, ODI): United Arab Emirates won by 7 wkts — HKC: 70/10 (30.1 ov) | UAE: 71/3 (11.1 ov)",
+        "Nepal vs Oman (1st Semi-Final, ODI): Nepal won by 87 runs — NEP: 147/10 (45.4 ov) | OMAN: 60/10 (28.1 ov)",
+        "South Africa A vs Bangladesh A (2nd Unofficial ODI, ODI): Match abandoned due to wet outfield — RSAA: 47/1 (10.6 ov)",
+        "South Africa vs Namibia (1st ODI, ODI): South Africa won by 99 runs (DLS Method) — RSA: 348/6 (49.6 ov) | NAM: 162/8 (30.6 ov)",
+        "Yorkshire vs Essex (57th Match, TEST): Yorkshire won by an innings and 106 runs — YORKS: 390/10 (117.6 ov) | ESS: 171/10 (69.4 ov) & 113/10 (39.6 ov)",
+        "Glamorgan vs Warwickshire (58th Match, TEST): Warwickshire won by an innings and 257 runs — GLAM: 69/10 (26.3 ov) & 65/10 (26.1 ov) | WARKS: 391/10 (97.5 ov)",
+        "Somerset vs Leicestershire (60th Match, TEST): Somerset won by 377 runs — SOM: 363/10 (75.4 ov) & 316/5 (68.4 ov) | LEIC: 157/10 (51.1 ov) & 145/10 (45.1 ov)",
+        "Worcestershire vs Northamptonshire (46th Match, TEST): Northamptonshire won by 6 wkts — WORCS: 200/10 (67.1 ov) & 182/10 (73.5 ov) | NHNTS: 289/10 (85.3 ov) & 96/4 (25.4 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Maiden Flintoff fifty keeps Lancs in hunt with Glos — Rocky Flintoff is unbeaten on 57, his first Championship half-century, as Lancashire end on 120-6 in pursuit of 248 to b",
+        "Stumped — The India opener has set a new record for runs in women’s international cricket.",
+        "Hermann equals ODI debut score record in SA win — Jordan Hermann strikes 150 to equal the record for the highest score in a one-day international debut as South Africa be",
+        "Smith racks up England's fourth half-century of the innings — Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, he",
+        "Lawrence races to 50 in a strong morning session — England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Paki",
+        "'Embarrassing' Pakistan break record in innings to forget — The only thing gloomier than the leaden skies at lunch on day of the third Test at Edgbaston will be the mood in the Pak"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "England's push for two-day win halted by weather",
+        "Somerset skittle Leics to maintain title hopes",
+        "Bowlers shine as Notts close in on win over Hants",
+        "Test Match Special Podcast",
+        "England march to early win over Pakistan held up by rain"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

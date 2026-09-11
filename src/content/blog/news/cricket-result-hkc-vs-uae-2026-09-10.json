@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-hkc-vs-uae-2026-09-10",
+  "title": "United Arab Emirates won by 7 wkts | 2nd Semi-Final Cricket News",
+  "description": "Hong Kong, China vs United Arab Emirates result: United Arab Emirates won by 7 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "United Arab Emirates won by 7 wkts — HKC: 70/10 (30.1 ov) | UAE: 71/3 (11.1 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Hong Kong, China vs United Arab Emirates result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-11",
+  "updatedAt": "2026-09-11",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Hong Kong, China vs United Arab Emirates cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Hong Kong, China vs United Arab Emirates (2nd Semi-Final, ODI) — United Arab Emirates won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Hong Kong, China",
+          "70/10 (30.1 ov)"
+        ],
+        [
+          "United Arab Emirates",
+          "71/3 (11.1 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: United Arab Emirates won by 7 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: United Arab Emirates chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Haider Ali delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
