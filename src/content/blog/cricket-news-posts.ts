@@ -3,6 +3,1048 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-12",
+    "title": "Cricket Daily Digest — Saturday, 12 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 12 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-12 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 12 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 12 Sept, 2026, 1:30 pm",
+            "South Africa A vs Bangladesh A",
+            "ODI",
+            "Potchefstroom",
+            "Bangladesh A tour of South Africa, 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 6:00 pm",
+            "India A Women vs Australia A Women",
+            "T20",
+            "New Chandigarh",
+            "Australia A Women tour of India 2026"
+          ],
+          [
+            "Sun, 13 Sept, 2026, 6:30 am",
+            "Japan Women vs Malaysia Women",
+            "T20",
+            "Sano, Kanto",
+            "Malaysia Women tour of Japan 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 7:30 pm",
+            "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
+            "T20",
+            "Bridgetown, Barbados",
+            "Womens Caribbean Premier League 2026"
+          ],
+          [
+            "Sun, 13 Sept, 2026, 12:30 am",
+            "Barbados Tridents Women vs Jamaica Empress Women",
+            "T20",
+            "Bridgetown, Barbados",
+            "Womens Caribbean Premier League 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 1:00 pm",
+            "Mohali Kings vs Amritsar Soormas",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 1:00 pm",
+            "Uganda vs Kenya",
+            "T20",
+            "Kigali City",
+            "Africa Continental Cup 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 3:00 pm",
+            "Belfast Wolves vs Rotterdam Dockers",
+            "T20",
+            "Dublin",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 5:30 pm",
+            "Botswana vs Sierra Leone",
+            "T20",
+            "Kigali City",
+            "Africa Continental Cup 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 6:45 pm",
+            "Dublin Guardians vs Glasgow Cosmic",
+            "T20",
+            "Dublin",
+            "European T20 Premier League 2026"
+          ],
+          [
+            "Sat, 12 Sept, 2026, 7:00 pm",
+            "Ludhiana Lions vs Jalandhar Warriors",
+            "T20",
+            "Mohali",
+            "Sher-E-Punjab T20 League, 2026"
+          ],
+          [
+            "Sun, 13 Sept, 2026, 5:30 am",
+            "Barbados Tridents vs Jamaica Kingsmen",
+            "T20",
+            "Bridgetown, Barbados",
+            "Caribbean Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "South Africa vs Namibia (2nd ODI, ODI): South Africa won by 157 runs — RSA: 335/9 (49.6 ov) | NAM: 178/10 (41.5 ov)",
+          "Nepal vs Oman (1st Semi-Final, ODI): Nepal won by 87 runs — NEP: 147/10 (45.4 ov) | OMAN: 60/10 (28.1 ov)",
+          "Hong Kong, China vs United Arab Emirates (2nd Semi-Final, ODI): United Arab Emirates won by 7 wkts — HKC: 70/10 (30.1 ov) | UAE: 71/3 (11.1 ov)",
+          "South Africa A vs Bangladesh A (2nd Unofficial ODI, ODI): Match abandoned due to wet outfield — RSAA: 47/1 (10.6 ov)",
+          "South Africa vs Namibia (1st ODI, ODI): South Africa won by 99 runs (DLS Method) — RSA: 348/6 (49.6 ov) | NAM: 162/8 (30.6 ov)",
+          "Nottinghamshire vs Hampshire (56th Match, TEST): Nottinghamshire won by 54 runs — NOTTS: 377/10 (89.4 ov) & 104/10 (31.5 ov) | HAM: 304/10 (116.4 ov) & 123/10 (49.2 ov)",
+          "Yorkshire vs Essex (57th Match, TEST): Yorkshire won by an innings and 106 runs — YORKS: 390/10 (117.6 ov) | ESS: 171/10 (69.4 ov) & 113/10 (39.6 ov)",
+          "Glamorgan vs Warwickshire (58th Match, TEST): Warwickshire won by an innings and 257 runs — GLAM: 69/10 (26.3 ov) & 65/10 (26.1 ov) | WARKS: 391/10 (97.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Esterhuizen hits ton as SA thump Namibia - second ODI scorecard — Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek.",
+          "Calm, classy but no century - brilliant Masood frustrates England — Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Tes",
+          "Smith racks up England's fourth half-century of the innings — Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, he",
+          "Lawrence races to 50 in a strong morning session — England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Paki",
+          "Dunkley century helps England seal ODI series sweep over Ireland — Sophia Dunkley's century helped England beat Ireland by 114 runs in Worcester to win their ODI series 3-0 - on the day I",
+          "Wong takes first ODI five-wicket haul for England — An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during "
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Razaullah introduces himself as Pakistan thrive in chaos",
+          "'Out of control' - Cook questions England tactics",
+          "England need 130 after thrilling Razaullah hitting",
+          "Durham beat Middlesex to seal Championship promotion",
+          "Razaullah steals the show as Pakistan fight back to frustrate England"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-calm-classy-but-no-century-brilliant-masood-frustr",
+    "title": "Calm, classy but no century - brilliant Masood frustrates England | Cricket News",
+    "description": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "excerpt": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Calm, classy but no century - brilliant Masood frustrates England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Calm, classy but no century - brilliant Masood frustrates England. Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at "
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-england-need-130-after-thrilling-razaullah-hitting",
+    "title": "England need 130 after thrilling Razaullah hitting | Cricket News",
+    "description": "England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston.",
+    "excerpt": "England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq5xjpqd5lno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England need 130 after thrilling Razaullah hitting",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England need 130 after thrilling Razaullah hitting. England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-esterhuizen-hits-ton-as-sa-thump-namibia-second-od",
+    "title": "Esterhuizen hits ton as SA thump Namibia - second ODI scorecard | Cricket News",
+    "description": "Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek.",
+    "excerpt": "Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-243996?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Esterhuizen hits ton as SA thump Namibia - second ODI scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Esterhuizen hits ton as SA thump Namibia - second ODI scorecard. Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek."
+      },
+      {
+        "type": "p",
+        "text": "Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-out-of-control-cook-questions-england-tactics",
+    "title": "'Out of control' - Cook questions England tactics | Cricket News",
+    "description": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to fo",
+    "excerpt": "England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to fo",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1kxw9dn29ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'Out of control' - Cook questions England tactics",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'Out of control' - Cook questions England tactics. England had “no plan” and were “out of control” in the face of Razaullah’s stunning hitting on the third day of the final Test against Pakistan, according to former captain Alastair Cook."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-razaullah-introduces-himself-as-pakistan-thrive-in",
+    "title": "Razaullah introduces himself as Pakistan thrive in chaos | Cricket News",
+    "description": "Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Ed",
+    "excerpt": "Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Ed",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Razaullah introduces himself as Pakistan thrive in chaos",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Razaullah introduces himself as Pakistan thrive in chaos. Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth day."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-12-smith-racks-up-england-s-fourth-half-century-of-th",
+    "title": "Smith racks up England's fourth half-century of the innings | Cricket News",
+    "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "excerpt": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Smith racks up England's fourth half-century of the innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Smith racks up England's fourth half-century of the innings. Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "p",
+        "text": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-rsa-vs-nam-2026-09-11",
+    "title": "South Africa won by 157 runs | 2nd ODI Cricket News",
+    "description": "South Africa vs Namibia result: South Africa won by 157 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "South Africa won by 157 runs — RSA: 335/9 (49.6 ov) | NAM: 178/10 (41.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa vs Namibia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa vs Namibia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: South Africa vs Namibia (2nd ODI, ODI) — South Africa won by 157 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "South Africa",
+            "335/9 (49.6 ov)"
+          ],
+          [
+            "Namibia",
+            "178/10 (41.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: South Africa won by 157 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Namibia chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Connor Esterhuizen delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indwa-vs-auswa-2026-09-12",
+    "title": "India A Women vs Australia A Women Preview — Pitch, Weather & Lineup | 1st unofficial T20",
+    "description": "India A Women vs Australia A Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 12 Sept, 2026, 6:00 pm.",
+    "excerpt": "India A Women vs Australia A Women — pitch: Newer surface with even bounce; still finding its character for long formats.… Weather: Variable conditions · High 31°C / Low 25°C · Rain: 5.4 mm · Wind: up to 12 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India A Women vs Australia A Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India A Women vs Australia A Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India A Women face Australia A Women in 1st unofficial T20 (T20) on Sat, 12 Sept, 2026, 6:00 pm at Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur New Chandigarh. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India A Women vs Australia A Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Australia A Women tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 12 Sept, 2026, 6:00 pm"
+          ],
+          [
+            "Venue",
+            "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur New Chandigarh"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 12, 12:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Newer surface with even bounce; still finding its character for long formats."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 31°C / Low 25°C · Rain: 5.4 mm · Wind: up to 12 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-jpnw-vs-mlyw-2026-09-13",
+    "title": "Japan Women vs Malaysia Women Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Japan Women vs Malaysia Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 13 Sept, 2026, 6:30 am.",
+    "excerpt": "Japan Women vs Malaysia Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 28°C / Low 21°C · Rain: 0 mm · Wind: up to 5 km/h. Cloud cover e…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Japan Women vs Malaysia Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Japan Women vs Malaysia Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Japan Women face Malaysia Women in 3rd T20I (T20) on Sun, 13 Sept, 2026, 6:30 am at Sano International Cricket Ground Sano, Kanto. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Japan Women vs Malaysia Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Malaysia Women tour of Japan 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 13 Sept, 2026, 6:30 am"
+          ],
+          [
+            "Venue",
+            "Sano International Cricket Ground Sano, Kanto"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 13, 01:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 28°C / Low 21°C · Rain: 0 mm · Wind: up to 5 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rsaa-vs-bana-2026-09-12",
+    "title": "South Africa A vs Bangladesh A Preview — Pitch, Weather & Lineup | 3rd Unofficial ODI",
+    "description": "South Africa A vs Bangladesh A preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 12 Sept, 2026, 1:30 pm.",
+    "excerpt": "South Africa A vs Bangladesh A — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 26°C / Low 10°C · Rain: 0 mm · Wind: up to 15 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa A vs Bangladesh A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa A vs Bangladesh A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Africa A face Bangladesh A in 3rd Unofficial ODI (ODI) on Sat, 12 Sept, 2026, 1:30 pm at Senwes Park Potchefstroom. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Africa A vs Bangladesh A"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Bangladesh A tour of South Africa, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 12 Sept, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Senwes Park Potchefstroom"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 12, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 26°C / Low 10°C · Rain: 0 mm · Wind: up to 15 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-tkrw-vs-gaww-2026-09-12",
+    "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Preview — Pitch, Weather & Lineup | 4th Match",
+    "description": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 12 Sept, 2026, 7:30 pm.",
+    "excerpt": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 30°C / Low 27°C · Rain: 4.9 mm · Wind: up to 26 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-12",
+    "updatedAt": "2026-09-12",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Trinbago Knight Riders Women face Guyana Amazon Warriors Women in 4th Match (T20) on Sat, 12 Sept, 2026, 7:30 pm at Kensington Oval Bridgetown, Barbados. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Womens Caribbean Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 12 Sept, 2026, 7:30 pm"
+          ],
+          [
+            "Venue",
+            "Kensington Oval Bridgetown, Barbados"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 12, 14:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 30°C / Low 27°C · Rain: 4.9 mm · Wind: up to 26 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-11",
     "title": "Cricket Daily Digest — Friday, 11 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
