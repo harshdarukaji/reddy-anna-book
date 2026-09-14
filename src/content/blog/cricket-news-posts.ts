@@ -3,6 +3,740 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-14",
+    "title": "Cricket Daily Digest — Monday, 14 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 0+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 14 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-14 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 14 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date",
+          "Match",
+          "Format",
+          "Venue"
+        ],
+        "rows": [
+          [
+            "TUE, SEP 15 2026",
+            "Zimbabwe vs Australia",
+            "ODI",
+            "Harare"
+          ],
+          [
+            "TUE, SEP 15 2026",
+            "Sierra Leone vs Uganda",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "TUE, SEP 15 2026",
+            "Rwanda vs Kenya",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "TUE, SEP 15 2026",
+            "Afghanistan vs India",
+            "T20",
+            "Delhi"
+          ],
+          [
+            "TUE, SEP 15 2026",
+            "England vs Sri Lanka",
+            "T20",
+            "Southampton"
+          ],
+          [
+            "WED, SEP 16 2026",
+            "Malaysia vs United Arab Emirates",
+            "T20",
+            "Kuala Lumpur"
+          ],
+          [
+            "WED, SEP 16 2026",
+            "Botswana vs Uganda",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "WED, SEP 16 2026",
+            "Sierra Leone vs Rwanda",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "THU, SEP 17 2026",
+            "Malaysia vs United Arab Emirates",
+            "T20",
+            "Kuala Lumpur"
+          ],
+          [
+            "THU, SEP 17 2026",
+            "Rwanda vs Uganda",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "THU, SEP 17 2026",
+            "Botswana vs Kenya",
+            "T20",
+            "Kigali City"
+          ],
+          [
+            "THU, SEP 17 2026",
+            "Afghanistan vs India",
+            "T20",
+            "Delhi"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "South Western Districts vs Eastern Storm (1st Match, ODI): Eastern Storm won by 5 wkts — SWD: 285/8 (49.6 ov) | ESTORM: 286/5 (46.3 ov)",
+          "Limpopo vs Border (2nd Match, ODI): Limpopo won by 26 runs — LIMPO: 218/8 (49.6 ov) | BOR: 192/10 (44.3 ov)",
+          "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos (3rd Match, ODI): Mpumalanga Rhinos won by 5 wkts — KZNIN: 276/8 (49.6 ov) | MPR: 280/5 (47.3 ov)",
+          "Namibia vs South Africa (3rd ODI, ODI): South Africa won by 9 wkts — NAM: 156/10 (36.2 ov) | RSA: 157/1 (21.3 ov)",
+          "South Africa A vs Bangladesh A (3rd Unofficial ODI, ODI): Bangladesh A won by 5 wkts — RSAA: 182/10 (39.6 ov) | BANA: 185/5 (32.6 ov)",
+          "Oman vs Hong Kong, China (3rd Place Play-off, ODI): Hong Kong, China won by 9 wkts — OMAN: 144/10 (40.1 ov) | HKC: 146/1 (19.5 ov)",
+          "Nepal vs United Arab Emirates (Final, ODI): Nepal won by 44 runs — NEP: 313/9 (49.6 ov) | UAE: 269/10 (49.1 ov)",
+          "South Africa vs Namibia (2nd ODI, ODI): South Africa won by 157 runs — RSA: 335/9 (49.6 ov) | NAM: 178/10 (41.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Calm, classy but no century - brilliant Masood frustrates England — Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Tes",
+          "Smith racks up England's fourth half-century of the innings — Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, he",
+          "Lawrence races to 50 in a strong morning session — England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Paki",
+          "Stumped — The India opener has set a new record for runs in women’s international cricket.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England Test opener may not have to be specialist - Trescothick",
+          "England chasing the rainbow with more questions than answers",
+          "England in better place than start of summer - Root",
+          "England Lions beat Sri Lanka via DLS after rain - second T20 scorecard",
+          "India thrash Afghanistan by seven wickets in first T20 - scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-calm-classy-but-no-century-brilliant-masood-frustr",
+    "title": "Calm, classy but no century - brilliant Masood frustrates England | Cricket News",
+    "description": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "excerpt": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Calm, classy but no century - brilliant Masood frustrates England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Calm, classy but no century - brilliant Masood frustrates England. Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at "
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-england-chasing-the-rainbow-with-more-questions-th",
+    "title": "England chasing the rainbow with more questions than answers | Cricket News",
+    "description": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what",
+    "excerpt": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cj64nxkx22jo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England chasing the rainbow with more questions than answers",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England chasing the rainbow with more questions than answers. Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-england-in-better-place-than-start-of-summer-root",
+    "title": "England in better place than start of summer - Root | Cricket News",
+    "description": "Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos.",
+    "excerpt": "Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c0klpz5k383o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England in better place than start of summer - Root",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England in better place than start of summer - Root. Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-england-test-opener-may-not-have-to-be-specialist-",
+    "title": "England Test opener may not have to be specialist - Trescothick | Cricket News",
+    "description": "England’s Test opener does not necessarily have to be a specialist at the top of the order, according to Marcus Trescothick.",
+    "excerpt": "England’s Test opener does not necessarily have to be a specialist at the top of the order, according to Marcus Trescothick.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c0j3d0gz6d1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England Test opener may not have to be specialist - Trescothick",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England Test opener may not have to be specialist - Trescothick. England’s Test opener does not necessarily have to be a specialist at the top of the order, according to Marcus Trescothick."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-lawrence-races-to-50-in-a-strong-morning-session",
+    "title": "Lawrence races to 50 in a strong morning session | Cricket News",
+    "description": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his firs",
+    "excerpt": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his firs",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dl27v22o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Lawrence races to 50 in a strong morning session",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Lawrence races to 50 in a strong morning session. England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his first Test hundred."
+      },
+      {
+        "type": "p",
+        "text": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his first Test hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-14-smith-racks-up-england-s-fourth-half-century-of-th",
+    "title": "Smith racks up England's fourth half-century of the innings | Cricket News",
+    "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "excerpt": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Smith racks up England's fourth half-century of the innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Smith racks up England's fourth half-century of the innings. Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "p",
+        "text": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-kznin-vs-mpr-2026-09-13",
+    "title": "Mpumalanga Rhinos won by 5 wkts | 3rd Match Cricket News",
+    "description": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos result: Mpumalanga Rhinos won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Mpumalanga Rhinos won by 5 wkts — KZNIN: 276/8 (49.6 ov) | MPR: 280/5 (47.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos (3rd Match, ODI) — Mpumalanga Rhinos won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "KwaZulu-Natal Inland Tuskers",
+            "276/8 (49.6 ov)"
+          ],
+          [
+            "Mpumalanga Rhinos",
+            "280/5 (47.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Mpumalanga Rhinos won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: KwaZulu-Natal Inland Tuskers chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-limpo-vs-bor-2026-09-13",
+    "title": "Limpopo won by 26 runs | 2nd Match Cricket News",
+    "description": "Limpopo vs Border result: Limpopo won by 26 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Limpopo won by 26 runs — LIMPO: 218/8 (49.6 ov) | BOR: 192/10 (44.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Limpopo vs Border result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Limpopo vs Border cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Limpopo vs Border (2nd Match, ODI) — Limpopo won by 26 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Limpopo",
+            "218/8 (49.6 ov)"
+          ],
+          [
+            "Border",
+            "192/10 (44.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Limpopo won by 26 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Border chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-swd-vs-estorm-2026-09-13",
+    "title": "Eastern Storm won by 5 wkts | 1st Match Cricket News",
+    "description": "South Western Districts vs Eastern Storm result: Eastern Storm won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Eastern Storm won by 5 wkts — SWD: 285/8 (49.6 ov) | ESTORM: 286/5 (46.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Western Districts vs Eastern Storm result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-14",
+    "updatedAt": "2026-09-14",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Western Districts vs Eastern Storm cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: South Western Districts vs Eastern Storm (1st Match, ODI) — Eastern Storm won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "South Western Districts",
+            "285/8 (49.6 ov)"
+          ],
+          [
+            "Eastern Storm",
+            "286/5 (46.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Eastern Storm won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Eastern Storm chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-13",
     "title": "Cricket Daily Digest — Sunday, 13 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
