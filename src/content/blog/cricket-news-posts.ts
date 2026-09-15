@@ -3,6 +3,956 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-15",
+    "title": "Cricket Daily Digest — Tuesday, 15 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 19+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 15 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-15 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 15 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 15 Sept, 2026, 1:00 pm",
+            "Zimbabwe vs Australia",
+            "ODI",
+            "Harare",
+            "Australia tour of Zimbabwe 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Essex vs Warwickshire",
+            "TEST",
+            "Chelmsford",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Leicestershire vs Hampshire",
+            "TEST",
+            "Leicester",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Yorkshire vs Somerset",
+            "TEST",
+            "Leeds",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Surrey vs Glamorgan",
+            "TEST",
+            "London",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Sussex vs Nottinghamshire",
+            "TEST",
+            "Hove",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Durham vs Worcestershire",
+            "TEST",
+            "Chester-le-Street",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Northamptonshire vs Derbyshire",
+            "TEST",
+            "Northampton",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Gloucestershire vs Middlesex",
+            "TEST",
+            "Bristol",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 3:00 pm",
+            "Kent vs Lancashire",
+            "TEST",
+            "Canterbury",
+            "County Championship Division Two 2026"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 5:00 pm",
+            "Zimbabwe Women vs South Africa Women",
+            "T20",
+            "Bulawayo",
+            "South Africa Women tour of Zimbabwe, 202"
+          ],
+          [
+            "Tue, 15 Sept, 2026, 6:00 pm",
+            "India A Women vs Australia A Women",
+            "T20",
+            "New Chandigarh",
+            "Australia A Women tour of India 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Limpopo vs Border (2nd Match, ODI): Limpopo won by 26 runs — LIMPO: 218/8 (49.6 ov) | BOR: 192/10 (44.3 ov)",
+          "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos (3rd Match, ODI): Mpumalanga Rhinos won by 5 wkts — KZNIN: 276/8 (49.6 ov) | MPR: 280/5 (47.3 ov)",
+          "South Western Districts vs Eastern Storm (1st Match, ODI): Eastern Storm won by 5 wkts — SWD: 285/8 (49.6 ov) | ESTORM: 286/5 (46.3 ov)",
+          "Namibia vs South Africa (3rd ODI, ODI): South Africa won by 9 wkts — NAM: 156/10 (36.2 ov) | RSA: 157/1 (21.3 ov)",
+          "South Africa A vs Bangladesh A (3rd Unofficial ODI, ODI): Bangladesh A won by 5 wkts — RSAA: 182/10 (39.6 ov) | BANA: 185/5 (32.6 ov)",
+          "Oman vs Hong Kong, China (3rd Place Play-off, ODI): Hong Kong, China won by 9 wkts — OMAN: 144/10 (40.1 ov) | HKC: 146/1 (19.5 ov)",
+          "Nepal vs United Arab Emirates (Final, ODI): Nepal won by 44 runs — NEP: 313/9 (49.6 ov) | UAE: 269/10 (49.1 ov)",
+          "South Africa vs Namibia (2nd ODI, ODI): South Africa won by 157 runs — RSA: 335/9 (49.6 ov) | NAM: 178/10 (41.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Calm, classy but no century - brilliant Masood frustrates England — Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Tes",
+          "Smith racks up England's fourth half-century of the innings — Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, he",
+          "Lawrence races to 50 in a strong morning session — England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Paki",
+          "Stumped — The India opener has set a new record for runs in women’s international cricket.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "McCullum wants Pietersen to challenge methods",
+          "Somerset and Notts chase history, Bears also in hunt",
+          "Title-chasing Notts sign India seamer Kumar",
+          "McCullum - I want to be challenged by Pietersen",
+          "England Test opener may not have to be specialist - Trescothick"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-calm-classy-but-no-century-brilliant-masood-frustr",
+    "title": "Calm, classy but no century - brilliant Masood frustrates England | Cricket News",
+    "description": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "excerpt": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century aft",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Calm, classy but no century - brilliant Masood frustrates England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Calm, classy but no century - brilliant Masood frustrates England. Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at "
+      },
+      {
+        "type": "p",
+        "text": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-lawrence-races-to-50-in-a-strong-morning-session",
+    "title": "Lawrence races to 50 in a strong morning session | Cricket News",
+    "description": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his firs",
+    "excerpt": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his firs",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dl27v22o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Lawrence races to 50 in a strong morning session",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Lawrence races to 50 in a strong morning session. England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his first Test hundred."
+      },
+      {
+        "type": "p",
+        "text": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his first Test hundred."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-mccullum-wants-pietersen-to-challenge-methods",
+    "title": "McCullum wants Pietersen to challenge methods | Cricket News",
+    "description": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India.",
+    "excerpt": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crpd066l0yl9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: McCullum wants Pietersen to challenge methods",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: McCullum wants Pietersen to challenge methods. Former batter Kevin Pietersen accused England players of not trying on last year's tour of India."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-smith-racks-up-england-s-fourth-half-century-of-th",
+    "title": "Smith racks up England's fourth half-century of the innings | Cricket News",
+    "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "excerpt": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day tw",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Smith racks up England's fourth half-century of the innings",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Smith racks up England's fourth half-century of the innings. Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "p",
+        "text": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-somerset-and-notts-chase-history-bears-also-in-hun",
+    "title": "Somerset and Notts chase history, Bears also in hunt | Cricket News",
+    "description": "Somerset, Nottinghamshire and Warwickshire are separated by just five points with two matches of the 2026 County Championship to go.",
+    "excerpt": "Somerset, Nottinghamshire and Warwickshire are separated by just five points with two matches of the 2026 County Championship to go.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx2zg044pelo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Somerset and Notts chase history, Bears also in hunt",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Somerset and Notts chase history, Bears also in hunt. Somerset, Nottinghamshire and Warwickshire are separated by just five points with two matches of the 2026 County Championship to go."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-15-title-chasing-notts-sign-india-seamer-kumar",
+    "title": "Title-chasing Notts sign India seamer Kumar | Cricket News",
+    "description": "India seam bowler Mukesh Kumar joins Nottinghamshire's attempt to keep hold of the County Championship title.",
+    "excerpt": "India seam bowler Mukesh Kumar joins Nottinghamshire's attempt to keep hold of the County Championship title.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6wyzvx31983o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Title-chasing Notts sign India seamer Kumar",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Title-chasing Notts sign India seamer Kumar. India seam bowler Mukesh Kumar joins Nottinghamshire's attempt to keep hold of the County Championship title."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ess-vs-warks-2026-09-15",
+    "title": "Essex vs Warwickshire Preview — Pitch, Weather & Lineup | 61st Match",
+    "description": "Essex vs Warwickshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 15 Sept, 2026, 3:00 pm.",
+    "excerpt": "Essex vs Warwickshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 22°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Warwickshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Warwickshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Essex face Warwickshire in 61st Match (TEST) on Tue, 15 Sept, 2026, 3:00 pm at The Ambassador Cruise Line Ground Chelmsford. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Essex vs Warwickshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 15 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "The Ambassador Cruise Line Ground Chelmsford"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 15, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 22°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-leic-vs-ham-2026-09-15",
+    "title": "Leicestershire vs Hampshire Preview — Pitch, Weather & Lineup | 62nd Match",
+    "description": "Leicestershire vs Hampshire preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 15 Sept, 2026, 3:00 pm.",
+    "excerpt": "Leicestershire vs Hampshire — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 20°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Leicestershire vs Hampshire",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Leicestershire vs Hampshire cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Leicestershire face Hampshire in 62nd Match (TEST) on Tue, 15 Sept, 2026, 3:00 pm at Grace Road Leicester. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Leicestershire vs Hampshire"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 15 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Grace Road Leicester"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 15, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 20°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-yorks-vs-som-2026-09-15",
+    "title": "Yorkshire vs Somerset Preview — Pitch, Weather & Lineup | 63rd Match",
+    "description": "Yorkshire vs Somerset preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 15 Sept, 2026, 3:00 pm.",
+    "excerpt": "Yorkshire vs Somerset — pitch: Classic English seaming conditions when clouds cover; batting paradise in sunshine.… Weather: Drizzle · High 19°C / Low 14°C · Rain: 1.5 mm · Wind: up to 25 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Yorkshire vs Somerset",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Yorkshire vs Somerset cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Yorkshire face Somerset in 63rd Match (TEST) on Tue, 15 Sept, 2026, 3:00 pm at Headingley Leeds. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Yorkshire vs Somerset"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "County Championship Division One 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 15 Sept, 2026, 3:00 pm"
+          ],
+          [
+            "Venue",
+            "Headingley Leeds"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 15, 09:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 19°C / Low 14°C · Rain: 1.5 mm · Wind: up to 25 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zim-vs-aus-2026-09-15",
+    "title": "Zimbabwe vs Australia Preview — Pitch, Weather & Lineup | 1st ODI",
+    "description": "Zimbabwe vs Australia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 15 Sept, 2026, 1:00 pm.",
+    "excerpt": "Zimbabwe vs Australia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 26°C / Low 14°C · Rain: 0 mm · Wind: up to 19 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe vs Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-15",
+    "updatedAt": "2026-09-15",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe vs Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe face Australia in 1st ODI (ODI) on Tue, 15 Sept, 2026, 1:00 pm at Harare Sports Club Harare. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe vs Australia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia tour of Zimbabwe 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 15 Sept, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Harare Sports Club Harare"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 15, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 26°C / Low 14°C · Rain: 0 mm · Wind: up to 19 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-14",
     "title": "Cricket Daily Digest — Monday, 14 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 0+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
