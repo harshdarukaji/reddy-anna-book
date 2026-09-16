@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-aus-vs-zim-2026-09-15",
+  "title": "Australia won by 59 runs | 1st ODI Cricket News",
+  "description": "Australia vs Zimbabwe result: Australia won by 59 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Australia won by 59 runs — AUS: 294/8 (49.6 ov) | ZIM: 235/10 (45.1 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Australia vs Zimbabwe result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-16",
+  "updatedAt": "2026-09-16",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Australia vs Zimbabwe cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Australia vs Zimbabwe (1st ODI, ODI) — Australia won by 59 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Australia",
+          "294/8 (49.6 ov)"
+        ],
+        [
+          "Zimbabwe",
+          "235/10 (45.1 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Australia won by 59 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Australia chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Matt Renshaw delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
