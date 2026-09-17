@@ -3,6 +3,1039 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-17",
+    "title": "Cricket Daily Digest — Thursday, 17 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 21+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 17 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-17 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 17 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Knights vs Lions",
+            "TEST",
+            "Bloemfontein",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Warriors vs Titans",
+            "TEST",
+            "Gqeberha",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Boland vs North West - Eastvaal Renault Dragons",
+            "TEST",
+            "Paarl",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Western Province vs Dolphins",
+            "TEST",
+            "Cape Town",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Northern Cape vs Limpopo",
+            "TEST",
+            "Kimberley",
+            "CSA Three-Day Series Division Two 2026-2"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Eastern Storm vs Border",
+            "TEST",
+            "Benoni",
+            "CSA Three-Day Series Division Two 2026-2"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 1:30 pm",
+            "Mpumalanga Rhinos vs South Western Districts",
+            "TEST",
+            "Mpumalanga",
+            "CSA Three-Day Series Division Two 2026-2"
+          ],
+          [
+            "Fri, 18 Sept, 2026, 9:00 am",
+            "India U19 vs Australia U19",
+            "ODI",
+            "Rajkot",
+            "Australia U19 tour of India 2026"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 5:00 pm",
+            "Zimbabwe Women vs South Africa Women",
+            "T20",
+            "Bulawayo",
+            "South Africa Women tour of Zimbabwe, 202"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 6:00 pm",
+            "India A Women vs Australia A Women",
+            "T20",
+            "New Chandigarh",
+            "Australia A Women tour of India 2026"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 11:00 pm",
+            "England vs Sri Lanka",
+            "T20",
+            "Cardiff",
+            "Sri Lanka tour of England, 2026"
+          ],
+          [
+            "Thu, 17 Sept, 2026, 10:30 am",
+            "Pakistan Women vs Thailand Women",
+            "T20",
+            "Nisshin",
+            "Women's Asian Games 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Essex vs Warwickshire (61st Match, TEST): Warwickshire won by 8 wkts — ESS: 134/10 (43.6 ov) & 189/10 (59.5 ov) | WARKS: 191/10 (61.1 ov) & 138/2 (25.3 ov)",
+          "Australia vs Zimbabwe (1st ODI, ODI): Australia won by 59 runs — AUS: 294/8 (49.6 ov) | ZIM: 235/10 (45.1 ov)",
+          "South Western Districts vs Eastern Storm (1st Match, ODI): Eastern Storm won by 5 wkts — SWD: 285/8 (49.6 ov) | ESTORM: 286/5 (46.3 ov)",
+          "Limpopo vs Border (2nd Match, ODI): Limpopo won by 26 runs — LIMPO: 218/8 (49.6 ov) | BOR: 192/10 (44.3 ov)",
+          "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos (3rd Match, ODI): Mpumalanga Rhinos won by 5 wkts — KZNIN: 276/8 (49.6 ov) | MPR: 280/5 (47.3 ov)",
+          "Namibia vs South Africa (3rd ODI, ODI): South Africa won by 9 wkts — NAM: 156/10 (36.2 ov) | RSA: 157/1 (21.3 ov)",
+          "South Africa A vs Bangladesh A (3rd Unofficial ODI, ODI): Bangladesh A won by 5 wkts — RSAA: 182/10 (39.6 ov) | BANA: 185/5 (32.6 ov)",
+          "Oman vs Hong Kong, China (3rd Place Play-off, ODI): Hong Kong, China won by 9 wkts — OMAN: 144/10 (40.1 ov) | HKC: 146/1 (19.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Brook likened to Pietersen in SL win - how do they compare? — Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in ",
+          "Hants thrash Surrey to reach Women's One-Day Cup final — Maia Bouchier continues her superb form with the bat as her unbeaten 117 helps Hampshire beat Surrey to reach the One-Da",
+          "'What an innings' - Brook hits century against Sri Lanka — Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundr",
+          "Gubbins ton helps Hampshire build lead over Leics — Nick Gubbins' century for Hampshire lays the foundations of a potentially match-winning lead against Leicestershire at G",
+          "Ahmed leads Gloucs recovery against Middlesex — Daz Ahmed's unbeaten 90 helps Gloucestershire recover from 128-7 to stay in the game against Middlesex.",
+          "Renshaw ton leads Australia to victory over Zimbabwe - first ODI scorecard — Latest scorecard from the first one-day international between Zimbabwe and Australia in Harare."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leicestershire on brink of relegation after points deduction",
+          "Bears beat Essex to go top of Division One",
+          "Clark hits 89 to put Sussex on top against Notts",
+          "Cliff takes 8-76 before Yorkshire frustrate Somerset",
+          "View from the Boundary - Count Binface aka Jon Harvey"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-bears-beat-essex-to-go-top-of-division-one",
+    "title": "Bears beat Essex to go top of Division One | Cricket News",
+    "description": "Warwickshire wrap up a two-day win over Essex to go top of the County Championship table and boost their title hopes.",
+    "excerpt": "Warwickshire wrap up a two-day win over Essex to go top of the County Championship table and boost their title hopes.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c61580qd549qo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Bears beat Essex to go top of Division One",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Bears beat Essex to go top of Division One. Warwickshire wrap up a two-day win over Essex to go top of the County Championship table and boost their title hopes."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-brook-likened-to-pietersen-in-sl-win-how-do-they-c",
+    "title": "Brook likened to Pietersen in SL win - how do they compare? | Cricket News",
+    "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+    "excerpt": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Brook likened to Pietersen in SL win - how do they compare?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Brook likened to Pietersen in SL win - how do they compare?. Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton."
+      },
+      {
+        "type": "p",
+        "text": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-clark-hits-89-to-put-sussex-on-top-against-notts",
+    "title": "Clark hits 89 to put Sussex on top against Notts | Cricket News",
+    "description": "Sussex put themselves in the driving seat on day two against defending champions and title-chasing Nottinghamshire.",
+    "excerpt": "Sussex put themselves in the driving seat on day two against defending champions and title-chasing Nottinghamshire.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckq63vqd6z87o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Clark hits 89 to put Sussex on top against Notts",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Clark hits 89 to put Sussex on top against Notts. Sussex put themselves in the driving seat on day two against defending champions and title-chasing Nottinghamshire."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-hants-thrash-surrey-to-reach-women-s-one-day-cup-f",
+    "title": "Hants thrash Surrey to reach Women's One-Day Cup final | Cricket News",
+    "description": "Maia Bouchier continues her superb form with the bat as her unbeaten 117 helps Hampshire beat Surrey to reach the One-Day Cup final.",
+    "excerpt": "Maia Bouchier continues her superb form with the bat as her unbeaten 117 helps Hampshire beat Surrey to reach the One-Day Cup final.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c64gv3jlxjnlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Hants thrash Surrey to reach Women's One-Day Cup final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Hants thrash Surrey to reach Women's One-Day Cup final. Maia Bouchier continues her superb form with the bat as her unbeaten 117 helps Hampshire beat Surrey to reach the One-Day Cup final."
+      },
+      {
+        "type": "p",
+        "text": "Maia Bouchier continues her superb form with the bat as her unbeaten 117 helps Hampshire beat Surrey to reach the One-Day Cup final."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-leicestershire-on-brink-of-relegation-after-points",
+    "title": "Leicestershire on brink of relegation after points deduction | Cricket News",
+    "description": "Leicestershire are on the brink of relegation from County Championship Division One after being deducted 27 points for breaching pitch regulations.",
+    "excerpt": "Leicestershire are on the brink of relegation from County Championship Division One after being deducted 27 points for breaching pitch regulations.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crkgwyp2287lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Leicestershire on brink of relegation after points deduction",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Leicestershire on brink of relegation after points deduction. Leicestershire are on the brink of relegation from County Championship Division One after being deducted 27 points for breaching pitch regulations."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-17-what-an-innings-brook-hits-century-against-sri-lan",
+    "title": "'What an innings' - Brook hits century against Sri Lanka | Cricket News",
+    "description": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I.",
+    "excerpt": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cm20lg9vdgqqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'What an innings' - Brook hits century against Sri Lanka",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'What an innings' - Brook hits century against Sri Lanka. Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ess-vs-warks-2026-09-15",
+    "title": "Warwickshire won by 8 wkts | 61st Match Cricket News",
+    "description": "Essex vs Warwickshire result: Warwickshire won by 8 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Warwickshire won by 8 wkts — ESS: 134/10 (43.6 ov) & 189/10 (59.5 ov) | WARKS: 191/10 (61.1 ov) & 138/2 (25.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Essex vs Warwickshire result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Essex vs Warwickshire cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Essex vs Warwickshire (61st Match, TEST) — Warwickshire won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Essex",
+            "134/10 (43.6 ov) & 189/10 (59.5 ov)"
+          ],
+          [
+            "Warwickshire",
+            "191/10 (61.1 ov) & 138/2 (25.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Warwickshire won by 8 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Essex chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bol-vs-nwest-2026-09-17",
+    "title": "Boland vs North West - Eastvaal Renault Dragons Preview — Pitch, Weather & Lineup | 5th Match",
+    "description": "Boland vs North West - Eastvaal Renault Dragons preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 17 Sept, 2026, 1:30 pm.",
+    "excerpt": "Boland vs North West - Eastvaal Renault Dragons — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Partly cloudy · High 18°C / Low 10°C · Rain: 0 mm · Wind: up to 18 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Boland vs North West - Eastvaal Renault Dragons",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Boland vs North West - Eastvaal Renault Dragons cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Boland face North West - Eastvaal Renault Dragons in 5th Match (TEST) on Thu, 17 Sept, 2026, 1:30 pm at Boland Park Paarl. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Boland vs North West - Eastvaal Renault Dragons"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 17 Sept, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Boland Park Paarl"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 17, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 18°C / Low 10°C · Rain: 0 mm · Wind: up to 18 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kng-vs-lions-2026-09-17",
+    "title": "Knights vs Lions Preview — Pitch, Weather & Lineup | 7th Match",
+    "description": "Knights vs Lions preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 17 Sept, 2026, 1:30 pm.",
+    "excerpt": "Knights vs Lions — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Clear sky · High 33°C / Low 24°C · Rain: 0 mm · Wind: up to 28 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Knights vs Lions",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Knights vs Lions cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Knights face Lions in 7th Match (TEST) on Thu, 17 Sept, 2026, 1:30 pm at Grey College Bloemfontein Bloemfontein. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Knights vs Lions"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 17 Sept, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Grey College Bloemfontein Bloemfontein"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 17, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 33°C / Low 24°C · Rain: 0 mm · Wind: up to 28 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-war-vs-tit-2026-09-17",
+    "title": "Warriors vs Titans Preview — Pitch, Weather & Lineup | 8th Match",
+    "description": "Warriors vs Titans preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 17 Sept, 2026, 1:30 pm.",
+    "excerpt": "Warriors vs Titans — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Rain showers · High 15°C / Low 12°C · Rain: 7.8 mm · Wind: up to 19 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Warriors vs Titans",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Warriors vs Titans cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Warriors face Titans in 8th Match (TEST) on Thu, 17 Sept, 2026, 1:30 pm at University of Port Elizabeth No 1 Oval, Port Elizabeth Gqeberha. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Warriors vs Titans"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 17 Sept, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "University of Port Elizabeth No 1 Oval, Port Elizabeth Gqeberha"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 17, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 15°C / Low 12°C · Rain: 7.8 mm · Wind: up to 19 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wpr-vs-dol-2026-09-17",
+    "title": "Western Province vs Dolphins Preview — Pitch, Weather & Lineup | 6th Match",
+    "description": "Western Province vs Dolphins preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 17 Sept, 2026, 1:30 pm.",
+    "excerpt": "Western Province vs Dolphins — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Mainly clear · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 30 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Western Province vs Dolphins",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-17",
+    "updatedAt": "2026-09-17",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Western Province vs Dolphins cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Western Province face Dolphins in 6th Match (TEST) on Thu, 17 Sept, 2026, 1:30 pm at Newlands Cape Town. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Western Province vs Dolphins"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 17 Sept, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Newlands Cape Town"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 17, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 16°C / Low 12°C · Rain: 0 mm · Wind: up to 30 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-16",
     "title": "Cricket Daily Digest — Wednesday, 16 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
