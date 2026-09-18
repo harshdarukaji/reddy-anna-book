@@ -3,6 +3,1011 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-18",
+    "title": "Cricket Daily Digest — Friday, 18 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 18 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-18 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 18 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 18 Sept, 2026, 11:30 am",
+            "Western Australia vs South Australia",
+            "ODI",
+            "Perth",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Fri, 18 Sept, 2026, 1:00 pm",
+            "Zimbabwe vs Australia",
+            "ODI",
+            "Harare",
+            "Australia tour of Zimbabwe 2026"
+          ],
+          [
+            "Sat, 19 Sept, 2026, 9:30 am",
+            "Queensland vs Victoria",
+            "ODI",
+            "Brisbane",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Sat, 19 Sept, 2026, 6:30 am",
+            "Japan vs Hong Kong, China",
+            "T20",
+            "Sano, Kanto",
+            "Hong Kong, China tour of Japan 2026"
+          ],
+          [
+            "Fri, 18 Sept, 2026, 10:30 am",
+            "Japan Women vs India Women",
+            "T20",
+            "Nisshin",
+            "Women's Asian Games 2026"
+          ],
+          [
+            "Fri, 18 Sept, 2026, 1:00 pm",
+            "Kenya vs Uganda",
+            "T20",
+            "Kigali City",
+            "Africa Continental Cup 2026"
+          ],
+          [
+            "Fri, 18 Sept, 2026, 5:30 pm",
+            "Sierra Leone vs Botswana",
+            "T20",
+            "Kigali City",
+            "Africa Continental Cup 2026"
+          ],
+          [
+            "Sat, 19 Sept, 2026, 4:30 am",
+            "Jamaica Kingsmen vs Guyana Amazon Warriors",
+            "T20",
+            "Bridgetown, Barbados",
+            "Caribbean Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Essex vs Warwickshire (61st Match, TEST): Warwickshire won by 8 wkts — ESS: 134/10 (43.6 ov) & 189/10 (59.5 ov) | WARKS: 191/10 (61.1 ov) & 138/2 (25.3 ov)",
+          "Lancashire vs Kent (52nd Match, TEST): Kent won by 7 wkts — LANCS: 161/10 (58.5 ov) & 192/10 (58.3 ov) | KENT: 214/10 (51.3 ov) & 142/3 (34.3 ov)",
+          "Australia vs Zimbabwe (1st ODI, ODI): Australia won by 59 runs — AUS: 294/8 (49.6 ov) | ZIM: 235/10 (45.1 ov)",
+          "Limpopo vs Border (2nd Match, ODI): Limpopo won by 26 runs — LIMPO: 218/8 (49.6 ov) | BOR: 192/10 (44.3 ov)",
+          "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos (3rd Match, ODI): Mpumalanga Rhinos won by 5 wkts — KZNIN: 276/8 (49.6 ov) | MPR: 280/5 (47.3 ov)",
+          "South Western Districts vs Eastern Storm (1st Match, ODI): Eastern Storm won by 5 wkts — SWD: 285/8 (49.6 ov) | ESTORM: 286/5 (46.3 ov)",
+          "Namibia vs South Africa (3rd ODI, ODI): South Africa won by 9 wkts — NAM: 156/10 (36.2 ov) | RSA: 157/1 (21.3 ov)",
+          "South Africa A vs Bangladesh A (3rd Unofficial ODI, ODI): Bangladesh A won by 5 wkts — RSAA: 182/10 (39.6 ov) | BANA: 185/5 (32.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Stokes takes six but Pears hit back against Durham — Ben Stokes record his best bowling figures in nine years before Worcestershire take six wickets to leave Durham reeling.",
+          "Abhishek hits fastest century in full-member T20s — Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's",
+          "'What an innings' - Brook hits century against Sri Lanka — Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundr",
+          "Northants require record run chase to beat Derbys — Nick Potts' maiden half-century rescues Derbyshire as they threaten to derail Northamptonshire's promotion challenge in ",
+          "Calm, classy but no century - brilliant Masood frustrates England — Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Tes",
+          "Smith racks up England's fourth half-century of the innings — Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, he"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England crush Sri Lanka to seal T20 series win",
+          "England beat Sri Lanka by six wickets to take T20 series win",
+          "Somerset struggle in chase of 287 to beat Yorkshire",
+          "Notts' title hopes dented by dominant Sussex",
+          "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-abhishek-hits-fastest-century-in-full-member-t20s",
+    "title": "Abhishek hits fastest century in full-member T20s | Cricket News",
+    "description": "Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan.",
+    "excerpt": "Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqvgyk6x2d48o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Abhishek hits fastest century in full-member T20s",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Abhishek hits fastest century in full-member T20s. Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan."
+      },
+      {
+        "type": "p",
+        "text": "Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-england-beat-sri-lanka-by-six-wickets-to-take-t20-",
+    "title": "England beat Sri Lanka by six wickets to take T20 series win | Cricket News",
+    "description": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
+    "excerpt": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England beat Sri Lanka by six wickets to take T20 series win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England beat Sri Lanka by six wickets to take T20 series win. England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-england-crush-sri-lanka-to-seal-t20-series-win",
+    "title": "England crush Sri Lanka to seal T20 series win | Cricket News",
+    "description": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+    "excerpt": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England crush Sri Lanka to seal T20 series win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England crush Sri Lanka to seal T20 series win. England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-somerset-struggle-in-chase-of-287-to-beat-yorkshir",
+    "title": "Somerset struggle in chase of 287 to beat Yorkshire | Cricket News",
+    "description": "Title-chasing Somerset face an uphill battle to beat Yorkshire after closing day three on 73-3, facing a target of 287.",
+    "excerpt": "Title-chasing Somerset face an uphill battle to beat Yorkshire after closing day three on 73-3, facing a target of 287.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq5y4d476e5po?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Somerset struggle in chase of 287 to beat Yorkshire",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Somerset struggle in chase of 287 to beat Yorkshire. Title-chasing Somerset face an uphill battle to beat Yorkshire after closing day three on 73-3, facing a target of 287."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-stokes-takes-six-but-pears-hit-back-against-durham",
+    "title": "Stokes takes six but Pears hit back against Durham | Cricket News",
+    "description": "Ben Stokes record his best bowling figures in nine years before Worcestershire take six wickets to leave Durham reeling.",
+    "excerpt": "Ben Stokes record his best bowling figures in nine years before Worcestershire take six wickets to leave Durham reeling.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw783e3xp0pro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Stokes takes six but Pears hit back against Durham",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Stokes takes six but Pears hit back against Durham. Ben Stokes record his best bowling figures in nine years before Worcestershire take six wickets to leave Durham reeling."
+      },
+      {
+        "type": "p",
+        "text": "Ben Stokes record his best bowling figures in nine years before Worcestershire take six wickets to leave Durham reeling."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-18-what-an-innings-brook-hits-century-against-sri-lan",
+    "title": "'What an innings' - Brook hits century against Sri Lanka | Cricket News",
+    "description": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I.",
+    "excerpt": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cm20lg9vdgqqo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'What an innings' - Brook hits century against Sri Lanka",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'What an innings' - Brook hits century against Sri Lanka. Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I."
+      },
+      {
+        "type": "p",
+        "text": "Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundred by an Englishman in a T20I."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-lancs-vs-kent-2026-09-15",
+    "title": "Kent won by 7 wkts | 52nd Match Cricket News",
+    "description": "Lancashire vs Kent result: Kent won by 7 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Kent won by 7 wkts — LANCS: 161/10 (58.5 ov) & 192/10 (58.3 ov) | KENT: 214/10 (51.3 ov) & 142/3 (34.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lancashire vs Kent result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lancashire vs Kent cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Lancashire vs Kent (52nd Match, TEST) — Kent won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Lancashire",
+            "161/10 (58.5 ov) & 192/10 (58.3 ov)"
+          ],
+          [
+            "Kent",
+            "214/10 (51.3 ov) & 142/3 (34.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Kent won by 7 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Kent chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-jpn-vs-hkc-2026-09-19",
+    "title": "Japan vs Hong Kong, China Preview — Pitch, Weather & Lineup | 1st T20I",
+    "description": "Japan vs Hong Kong, China preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 19 Sept, 2026, 6:30 am.",
+    "excerpt": "Japan vs Hong Kong, China — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 24°C / Low 21°C · Rain: 1.8 mm · Wind: up to 7 km/h. Light rain p…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Japan vs Hong Kong, China",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Japan vs Hong Kong, China cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Japan face Hong Kong, China in 1st T20I (T20) on Sat, 19 Sept, 2026, 6:30 am at Sano International Cricket Ground Sano, Kanto. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Japan vs Hong Kong, China"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Hong Kong, China tour of Japan 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 19 Sept, 2026, 6:30 am"
+          ],
+          [
+            "Venue",
+            "Sano International Cricket Ground Sano, Kanto"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 19, 01:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 24°C / Low 21°C · Rain: 1.8 mm · Wind: up to 7 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ql-vs-vic-2026-09-19",
+    "title": "Queensland vs Victoria Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Queensland vs Victoria preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 19 Sept, 2026, 9:30 am.",
+    "excerpt": "Queensland vs Victoria — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Overcast · High 29°C / Low 11°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Queensland vs Victoria",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Queensland vs Victoria cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Queensland face Victoria in 2nd Match (ODI) on Sat, 19 Sept, 2026, 9:30 am at Allan Border Field Brisbane. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Queensland vs Victoria"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 19 Sept, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Allan Border Field Brisbane"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 19, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 29°C / Low 11°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wa-vs-saus-2026-09-18",
+    "title": "Western Australia vs South Australia Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Western Australia vs South Australia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 18 Sept, 2026, 11:30 am.",
+    "excerpt": "Western Australia vs South Australia — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Rain showers · High 26°C / Low 14°C · Rain: 7 mm · Wind: up to 18 km/h. Rain lik…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Western Australia vs South Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Western Australia vs South Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Western Australia face South Australia in 1st Match (ODI) on Fri, 18 Sept, 2026, 11:30 am at W.A.C.A. Ground Perth. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Western Australia vs South Australia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 18 Sept, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "W.A.C.A. Ground Perth"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 18, 06:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 26°C / Low 14°C · Rain: 7 mm · Wind: up to 18 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zim-vs-aus-2026-09-18",
+    "title": "Zimbabwe vs Australia Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "Zimbabwe vs Australia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Fri, 18 Sept, 2026, 1:00 pm.",
+    "excerpt": "Zimbabwe vs Australia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Mainly clear · High 27°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe vs Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe vs Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe face Australia in 2nd ODI (ODI) on Fri, 18 Sept, 2026, 1:00 pm at Harare Sports Club Harare. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe vs Australia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia tour of Zimbabwe 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 18 Sept, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Harare Sports Club Harare"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 18, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 27°C / Low 15°C · Rain: 0 mm · Wind: up to 20 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-17",
     "title": "Cricket Daily Digest — Thursday, 17 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 21+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
