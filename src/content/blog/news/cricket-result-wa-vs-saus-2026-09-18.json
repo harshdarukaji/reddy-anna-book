@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-wa-vs-saus-2026-09-18",
+  "title": "No result due to rain | 1st Match Cricket News",
+  "description": "Western Australia vs South Australia result: No result due to rain. Scores, player of the match, and pitch report.",
+  "excerpt": "No result due to rain — WA: 238/9 (49.6 ov) | SAUS: 58/0 (7.4 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Western Australia vs South Australia result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-19",
+  "updatedAt": "2026-09-19",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Western Australia vs South Australia cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Western Australia vs South Australia (1st Match, ODI) — No result due to rain. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Western Australia",
+          "238/9 (49.6 ov)"
+        ],
+        [
+          "South Australia",
+          "58/0 (7.4 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: No result due to rain."
+    },
+    {
+      "type": "p",
+      "text": "Toss: South Australia chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
