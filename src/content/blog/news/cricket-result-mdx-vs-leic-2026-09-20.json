@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-mdx-vs-leic-2026-09-20",
+  "title": "Middlesex won by 31 runs | Final Cricket News",
+  "description": "Middlesex vs Leicestershire result: Middlesex won by 31 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Middlesex won by 31 runs — MDX: 231/10 (49.5 ov) | LEIC: 200/10 (44.2 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Middlesex vs Leicestershire result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-21",
+  "updatedAt": "2026-09-21",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Middlesex vs Leicestershire cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Middlesex vs Leicestershire (Final, ODI) — Middlesex won by 31 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Middlesex",
+          "231/10 (49.5 ov)"
+        ],
+        [
+          "Leicestershire",
+          "200/10 (44.2 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Middlesex won by 31 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Leicestershire chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Ryan Higgins delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Classic English seaming conditions when clouds cover; batting paradise in sunshine."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
