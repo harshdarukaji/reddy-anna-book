@@ -1,0 +1,168 @@
+{
+  "slug": "cricket-daily-digest-2026-09-22",
+  "title": "Cricket Daily Digest — Tuesday, 22 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 22 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-22",
+  "updatedAt": "2026-09-22",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-22 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Tuesday, 22 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Tue, 22 Sept, 2026, 5:00 pm",
+          "England vs Sri Lanka",
+          "ODI",
+          "Chester-le-Street",
+          "Sri Lanka tour of England, 2026"
+        ],
+        [
+          "Wed, 23 Sept, 2026, 6:00 am",
+          "South Australia vs Tasmania",
+          "ODI",
+          "Adelaide, South Australia",
+          "Australia Domestic One-Day Cup 2026-27"
+        ],
+        [
+          "Wed, 23 Sept, 2026, 9:00 am",
+          "India U19 vs Australia U19",
+          "ODI",
+          "Rajkot",
+          "Australia U19 tour of India 2026"
+        ],
+        [
+          "Wed, 23 Sept, 2026, 9:00 am",
+          "India A Women vs Australia A Women",
+          "ODI",
+          "Mohali",
+          "Australia A Women tour of India 2026"
+        ],
+        [
+          "Tue, 22 Sept, 2026, 10:30 am",
+          "India Women vs Sri Lanka Women",
+          "T20",
+          "Nisshin",
+          "Women's Asian Games 2026"
+        ],
+        [
+          "Tue, 22 Sept, 2026, 2:30 pm",
+          "Ghana vs Sierra Leone",
+          "T20",
+          "Lagos",
+          "Quadrangular T20I Series in Nigeria, 202"
+        ],
+        [
+          "Tue, 22 Sept, 2026, 4:30 pm",
+          "Northern Cape vs Limpopo",
+          "T20",
+          "Kimberley",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Wed, 23 Sept, 2026, 12:00 am",
+          "Bermuda vs Bahamas",
+          "T20",
+          "George Town",
+          "North American Cup, 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "India U19 vs Australia U19 (2nd unofficial ODI, ODI): India U19 won by 103 runs — INDU19: 341/7 (49.6 ov) | AUSU19: 238/10 (41.1 ov)",
+        "Middlesex vs Leicestershire (Final, ODI): Middlesex won by 31 runs — MDX: 231/10 (49.5 ov) | LEIC: 200/10 (44.2 ov)",
+        "Northern Cape vs Limpopo (5th Match, ODI): Match abandoned without a ball bowled (No toss) — NCAPE: 277/9 (49.6 ov) | LIMPO: 280/3 (47.5 ov)",
+        "Border vs Eastern Storm (6th Match, ODI): Eastern Storm won by 7 wkts — BOR: 277/9 (49.6 ov) | ESTORM: 280/3 (47.5 ov)",
+        "Zimbabwe vs Australia (3rd ODI, ODI): Australia won by 1 wkt — ZIM: 271/8 (49.6 ov) | AUS: 272/9 (49.5 ov)",
+        "South Western Districts vs Mpumalanga Rhinos (4th Match, ODI): South Western Districts won by 157 runs — SWD: 359/7 (50 ov) | MPR: 202/10 (34.1 ov)",
+        "Western Australia vs Tasmania (3rd Match, ODI): Tasmania won by 9 wkts — WA: 115/10 (30.2 ov) | TAS: 117/1 (16.2 ov)",
+        "Queensland vs Victoria (2nd Match, ODI): Victoria won by 3 wkts — QL: 335/7 (49.6 ov) | VIC: 339/7 (49.5 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "'What an innings' - Brook hits century against Sri Lanka — Watch the best of Harry Brook's sensational century against Sri Lanka from just 42 balls, the joint-second fastest hundr",
+        "Inglis century helps Australia complete Zimbabwe ODI clean sweep - scorecard — Latest scorecard from the third and final one-day international between Zimbabwe and Australia in Harare.",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+        "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Carse needs time away, says 'good mate' Brook",
+        "Lancashire director of cricket Chilton to leave",
+        "Sri Lanka v India - Asian Games women's final",
+        "Test Match Special Podcast",
+        "Relegated Hampshire need a 'reset' - Domingo"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
