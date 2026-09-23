@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-ql-vs-nsw-2026-09-22",
+  "title": "New South Wales won by 4 wkts | 4th Match Cricket News",
+  "description": "Queensland vs New South Wales result: New South Wales won by 4 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "New South Wales won by 4 wkts — QL: 358/10 (49.5 ov) | NSW: 359/6 (48.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Queensland vs New South Wales result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-23",
+  "updatedAt": "2026-09-23",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Queensland vs New South Wales cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Queensland vs New South Wales (4th Match, ODI) — New South Wales won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Queensland",
+          "358/10 (49.5 ov)"
+        ],
+        [
+          "New South Wales",
+          "359/6 (48.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: New South Wales won by 4 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: New South Wales chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "William Salzmann delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
