@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-rsa-vs-aus-2026-09-24",
+  "title": "South Africa won by 67 runs | 1st ODI Cricket News",
+  "description": "South Africa vs Australia result: South Africa won by 67 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "South Africa won by 67 runs — RSA: 297/8 (49.6 ov) | AUS: 230/10 (41.2 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "South Africa vs Australia result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-25",
+  "updatedAt": "2026-09-25",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "South Africa vs Australia cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: South Africa vs Australia (1st ODI, ODI) — South Africa won by 67 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "South Africa",
+          "297/8 (49.6 ov)"
+        ],
+        [
+          "Australia",
+          "230/10 (41.2 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: South Africa won by 67 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Australia chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Matthew Breetzke delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Bouncy South African surfaces; seam movement early, flatten for batters later."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "cricket-daily-digest-2026-09-25",
+  "title": "Cricket Daily Digest — Friday, 25 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 25 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-25",
+  "updatedAt": "2026-09-25",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-25 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 25 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Fri, 25 Sept, 2026, 2:00 pm",
+          "India A Women vs Australia A Women",
+          "ODI",
+          "Mohali",
+          "Australia A Women tour of India 2026"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 5:30 pm",
+          "Costa Rica Women vs Chile Women",
+          "T20",
+          "Pocos de Caldas",
+          "South American Women's Championship T20I"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 10:30 am",
+          "Afghanistan vs Nepal",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 2:30 pm",
+          "Ghana vs Sierra Leone",
+          "T20",
+          "Lagos",
+          "Quadrangular T20I Series in Nigeria, 202"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 5:30 pm",
+          "Warriors vs North West - Eastvaal Renault Dragons",
+          "T20",
+          "Centurion",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 8:30 pm",
+          "Bahamas vs Bermuda",
+          "T20",
+          "George Town",
+          "North American Cup, 2026"
+        ],
+        [
+          "Fri, 25 Sept, 2026, 9:30 pm",
+          "Titans vs Western Province",
+          "T20",
+          "Centurion",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Sat, 26 Sept, 2026, 5:30 am",
+          "Japan vs Nepal",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ],
+        [
+          "Sat, 26 Sept, 2026, 10:30 am",
+          "Malaysia vs Oman",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sri Lanka vs England (2nd ODI, ODI): Sri Lanka won by 16 runs — SL: 321/6 (49.6 ov) | ENG: 305/9 (49.6 ov)",
+        "South Africa vs Australia (1st ODI, ODI): South Africa won by 67 runs — RSA: 297/8 (49.6 ov) | AUS: 230/10 (41.2 ov)",
+        "Australia U19 vs India U19 (3rd unofficial ODI, ODI): India U19 won by 6 wkts — AUSU19: 254/10 (49.3 ov) | INDU19: 255/4 (41.2 ov)",
+        "South Australia vs Tasmania (5th Match, ODI): South Australia won by 7 runs — SAUS: 383/7 (49.6 ov) | TAS: 376/8 (49.6 ov)",
+        "England vs Sri Lanka (1st ODI, ODI): England won by 89 runs — ENG: 265/10 (48.1 ov) | SL: 176/10 (36.6 ov)",
+        "Queensland vs New South Wales (4th Match, ODI): New South Wales won by 4 wkts — QL: 358/10 (49.5 ov) | NSW: 359/6 (48.6 ov)",
+        "India U19 vs Australia U19 (2nd unofficial ODI, ODI): India U19 won by 103 runs — INDU19: 341/7 (49.6 ov) | AUSU19: 238/10 (41.1 ov)",
+        "Middlesex vs Leicestershire (Final, ODI): Middlesex won by 31 runs — MDX: 231/10 (49.5 ov) | LEIC: 200/10 (44.2 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "'The lads wanted me to stick one up him' - Wood relives fastest spells — As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test ca",
+        "Somerset title hopes fade as Lawrence stars for Surrey — Dan Lawrence hits his sixth County Championship century of the season as Surrey dominate the opening day of the final Di",
+        "Leaning leads Sussex recovery against Hampshire — Jack Leaning's aggressive half-century helps Sussex post 244 before they reduce Hampshire to 55-4 on day one of their Di",
+        "What's gone wrong at Lancashire? — Lancashire are set to end 2026 in the bottom two of Division Two, their lowest-ever finish in the County Championship.",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+        "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Buttler injury halts England as Sri Lanka level series",
+        "Mendis stars as Sri Lanka beat England to set up series decider",
+        "'He's changing the narrative' - Marvellous Mendis stars for Sri Lanka",
+        "ODI Cricket",
+        "Foxes relegated by Bears, subject to points appeal"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
