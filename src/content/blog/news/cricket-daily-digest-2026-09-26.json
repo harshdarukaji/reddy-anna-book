@@ -1,0 +1,149 @@
+{
+  "slug": "cricket-daily-digest-2026-09-26",
+  "title": "Cricket Daily Digest — Saturday, 26 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 5+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 26 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-26",
+  "updatedAt": "2026-09-26",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-26 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Saturday, 26 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sun, 27 Sept, 2026, 9:30 am",
+          "India U19 vs Australia U19",
+          "TEST",
+          "Rajkot",
+          "Australia U19 tour of India 2026"
+        ],
+        [
+          "Sat, 26 Sept, 2026, 10:30 am",
+          "Malaysia vs Oman",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ],
+        [
+          "Sat, 26 Sept, 2026, 4:30 pm",
+          "Northern Cape vs Border",
+          "T20",
+          "Kimberley",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Sat, 26 Sept, 2026, 6:30 pm",
+          "Nigeria vs Ghana",
+          "T20",
+          "Lagos",
+          "Quadrangular T20I Series in Nigeria, 202"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 1:00 am",
+          "Bahamas vs Bermuda",
+          "T20",
+          "George Town",
+          "North American Cup, 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "New South Wales vs Victoria (6th Match, ODI): New South Wales won by 47 runs (DLS Method) — NSW: 257/10 (48.5 ov) | VIC: 212/10 (44.5 ov)",
+        "Sri Lanka vs England (2nd ODI, ODI): Sri Lanka won by 16 runs — SL: 321/6 (49.6 ov) | ENG: 305/9 (49.6 ov)",
+        "South Africa vs Australia (1st ODI, ODI): South Africa won by 67 runs — RSA: 297/8 (49.6 ov) | AUS: 230/10 (41.2 ov)",
+        "Australia U19 vs India U19 (3rd unofficial ODI, ODI): India U19 won by 6 wkts — AUSU19: 254/10 (49.3 ov) | INDU19: 255/4 (41.2 ov)",
+        "South Australia vs Tasmania (5th Match, ODI): South Australia won by 7 runs — SAUS: 383/7 (49.6 ov) | TAS: 376/8 (49.6 ov)",
+        "England vs Sri Lanka (1st ODI, ODI): England won by 89 runs — ENG: 265/10 (48.1 ov) | SL: 176/10 (36.6 ov)",
+        "India A vs Australia A (1st unofficial Test, TEST): India A won by 162 runs — INDA: 334/10 (117.3 ov) & 199/10 (57.4 ov) | AUSA: 171/10 (55.3 ov) & 200/10 (55.1 ov)",
+        "Queensland vs New South Wales (4th Match, ODI): New South Wales won by 4 wkts — QL: 358/10 (49.5 ov) | NSW: 359/6 (48.6 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hain ton edges Bears nearer to Championship title — Centurion Sam Hain shares a 165-run stand with skipper Ed Barnard against Leicestershire to edge Warwickshire close to a",
+        "Somerset title hopes all but over despite Lammonby ton — Somerset's Tom Lammonby hits an unbeaten 103 as they reach 222-3, exactly 200 runs behind Surrey at the halfway point of",
+        "'The lads wanted me to stick one up him' - Wood relives fastest spells — As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test ca",
+        "Waite helps Pears build big lead over Derbyshire — Matthew Waite hits an unbeaten 73 as Worcestershire recover from 104-8 to close on 203-9 against Derbyshire to lead by 3",
+        "What's gone wrong at Lancashire? — Lancashire are set to end 2026 in the bottom two of Division Two, their lowest-ever finish in the County Championship.",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+        "Notts title reign over despite lead against Yorkshire",
+        "Lancs' Noman takes six wickets but Durham on top",
+        "Mendis stars as Sri Lanka beat England to set up series decider",
+        "'He's changing the narrative' - Mendis' inspires Sri Lanka to victory"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
