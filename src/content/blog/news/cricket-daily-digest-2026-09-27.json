@@ -1,0 +1,191 @@
+{
+  "slug": "cricket-daily-digest-2026-09-27",
+  "title": "Cricket Daily Digest — Sunday, 27 September 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 11+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 27 September 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-09-27",
+  "updatedAt": "2026-09-27",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-09-27 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Sunday, 27 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sun, 27 Sept, 2026, 1:30 pm",
+          "South Africa vs Australia",
+          "ODI",
+          "Johannesburg",
+          "Australia tour of South Africa, 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 2:00 pm",
+          "India vs West Indies",
+          "ODI",
+          "Thiruvananthapuram",
+          "West Indies tour of India, 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 3:00 pm",
+          "England vs Sri Lanka",
+          "ODI",
+          "London",
+          "Sri Lanka tour of England, 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 1:00 pm",
+          "Zimbabwe Women vs West Indies Women",
+          "ODI",
+          "Harare",
+          "West Indies Women tour of Zimbabwe, 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 4:30 pm",
+          "Dolphins vs Lions",
+          "T20",
+          "Durban",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 4:30 pm",
+          "Mpumalanga Rhinos vs Titans",
+          "T20",
+          "Mpumalanga",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 6:30 pm",
+          "Nigeria vs Sierra Leone",
+          "T20",
+          "Lagos",
+          "Quadrangular T20I Series in Nigeria, 202"
+        ],
+        [
+          "Sun, 27 Sept, 2026, 9:30 pm",
+          "Western Province vs Knights",
+          "T20",
+          "Cape Town",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Mon, 28 Sept, 2026, 12:00 am",
+          "TBC vs TBC",
+          "T20",
+          "George Town",
+          "North American Cup, 2026"
+        ],
+        [
+          "Mon, 28 Sept, 2026, 5:30 am",
+          "Pakistan vs Hong Kong, China",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ],
+        [
+          "Mon, 28 Sept, 2026, 10:00 am",
+          "India vs Afghanistan",
+          "T20",
+          "Nisshin",
+          "Asian Games 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "New South Wales vs Victoria (6th Match, ODI): New South Wales won by 47 runs (DLS Method) — NSW: 257/10 (48.5 ov) | VIC: 212/10 (44.5 ov)",
+        "Sri Lanka vs England (2nd ODI, ODI): Sri Lanka won by 16 runs — SL: 321/6 (49.6 ov) | ENG: 305/9 (49.6 ov)",
+        "Leicestershire vs Warwickshire (66th Match, TEST): Warwickshire won by an innings and 79 runs — LEIC: 125/10 (46.6 ov) & 168/10 (56.1 ov) | WARKS: 372/10 (113.3 ov)",
+        "Nottinghamshire vs Yorkshire (67th Match, TEST): Yorkshire won by 1 wkt — NOTTS: 251/10 (99.4 ov) & 85/10 (38.5 ov) | YORKS: 179/10 (53.1 ov) & 159/9 (52.5 ov)",
+        "Sussex vs Hampshire (68th Match, TEST): Sussex won by 197 runs — SUS: 244/10 (71.5 ov) & 319/9 (77.6 ov) | HAM: 128/10 (58.6 ov) & 238/10 (54.4 ov)",
+        "Gloucestershire vs Kent (53rd Match, TEST): Kent won by 8 wkts — GLOUCS: 229/10 (69.5 ov) & 241/10 (75.1 ov) | KENT: 353/10 (92.4 ov) & 120/2 (26.3 ov)",
+        "Northamptonshire vs Middlesex (54th Match, TEST): Middlesex won by 7 wkts — NHNTS: 103/10 (36.6 ov) & 285/10 (105.3 ov) | MDX: 255/10 (54.5 ov) & 134/3 (41.3 ov)",
+        "Worcestershire vs Derbyshire (55th Match, TEST): Worcestershire won by 175 runs — WORCS: 214/10 (56.6 ov) & 206/10 (67.2 ov) | DERBY: 88/10 (33.6 ov) & 157/10 (42.6 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kent promoted as Middlesex beat Northants — Max Holden and Ben Geddes share a century partnership as Middlesex win to end Northamptonshire's faint chance of promoti",
+        "Bohannon ton as Lancs enjoy rare good day with bat — Josh Bohannon makes his first century of the season as Lancashire's batters enjoy their best day of the County Champions",
+        "'The lads wanted me to stick one up him' - Wood relives fastest spells — As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test ca",
+        "What's gone wrong at Lancashire? — Lancashire are set to end 2026 in the bottom two of Division Two, their lowest-ever finish in the County Championship.",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+        "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Warwickshire beat Leicestershire to seal ninth Championship title",
+        "Kent celebrate promotion by beating Gloucestershire",
+        "Bairstow six seals one-wicket win for Yorkshire",
+        "Abell & Lammonby punish depleted Surrey",
+        "Sussex end season with win at relegated Hampshire"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
