@@ -3,6 +3,1183 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-28",
+    "title": "Cricket Daily Digest — Monday, 28 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 5+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 28 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-28 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 28 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 29 Sept, 2026, 9:30 am",
+            "India A vs Australia A",
+            "TEST",
+            "Puducherry",
+            "Australia A tour of India 2026"
+          ],
+          [
+            "Tue, 29 Sept, 2026, 9:30 am",
+            "India A Women vs Australia A Women",
+            "TEST",
+            "Dharamsala",
+            "Australia A Women tour of India 2026"
+          ],
+          [
+            "Mon, 28 Sept, 2026, 4:30 pm",
+            "Border vs North West - Eastvaal Renault Dragons",
+            "T20",
+            "East London",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Tue, 29 Sept, 2026, 5:30 am",
+            "Sri Lanka vs Nepal",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ],
+          [
+            "Tue, 29 Sept, 2026, 10:00 am",
+            "Bangladesh vs Malaysia",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England vs Sri Lanka (3rd ODI, ODI): England won by 223 runs — ENG: 355/7 (49.6 ov) | SL: 132/10 (29.1 ov)",
+          "West Indies vs India (1st ODI, ODI): India won by 8 wkts — WI: 295/7 (49.6 ov) | IND: 300/2 (41.4 ov)",
+          "South Africa vs Australia (2nd ODI, ODI): South Africa won by 32 runs — RSA: 365/9 (49.6 ov) | AUS: 333/10 (49.5 ov)",
+          "New South Wales vs Victoria (6th Match, ODI): New South Wales won by 47 runs (DLS Method) — NSW: 257/10 (48.5 ov) | VIC: 212/10 (44.5 ov)",
+          "Sri Lanka vs England (2nd ODI, ODI): Sri Lanka won by 16 runs — SL: 321/6 (49.6 ov) | ENG: 305/9 (49.6 ov)",
+          "Leicestershire vs Warwickshire (66th Match, TEST): Warwickshire won by an innings and 79 runs — LEIC: 125/10 (46.6 ov) & 168/10 (56.1 ov) | WARKS: 372/10 (113.3 ov)",
+          "Nottinghamshire vs Yorkshire (67th Match, TEST): Yorkshire won by 1 wkt — NOTTS: 251/10 (99.4 ov) & 85/10 (38.5 ov) | YORKS: 179/10 (53.1 ov) & 159/9 (52.5 ov)",
+          "Sussex vs Hampshire (68th Match, TEST): Sussex won by 197 runs — SUS: 244/10 (71.5 ov) & 319/9 (77.6 ov) | HAM: 128/10 (58.6 ov) & 238/10 (54.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England win series as Banton delivers on potential — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up th",
+          "Banton stars as England win Sri Lanka ODI series — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their",
+          "'Brilliant' Banton scores maiden ODI century for England — Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series a",
+          "Durham draw with Lancashire to end season unbeaten — Durham end their title-winning campaign in County Championship Division Two unbeaten, finishing the season with a draw a",
+          "Kent promoted as Middlesex beat Northants — Max Holden and Ben Geddes share a century partnership as Middlesex win to end Northamptonshire's faint chance of promoti",
+          "'The lads wanted me to stick one up him' - Wood relives fastest spells — As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England are learning - these are the World Cup issues they need to solve",
+          "ODI Cricket",
+          "Superb South Africa seal series win over Australia",
+          "Kohli & Gill centuries help India past Windies - first ODI scorecard",
+          "Abell scores 307 in Somerset's draw with Surrey"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-banton-stars-as-england-win-sri-lanka-odi-series",
+    "title": "Banton stars as England win Sri Lanka ODI series | Cricket News",
+    "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri ",
+    "excerpt": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Banton stars as England win Sri Lanka ODI series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Banton stars as England win Sri Lanka ODI series. Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-brilliant-banton-scores-maiden-odi-century-for-eng",
+    "title": "'Brilliant' Banton scores maiden ODI century for England | Cricket News",
+    "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+    "excerpt": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Brilliant' Banton scores maiden ODI century for England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Brilliant' Banton scores maiden ODI century for England. Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-england-are-learning-these-are-the-world-cup-issue",
+    "title": "England are learning - these are the World Cup issues they need to solve | Cricket News",
+    "description": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+    "excerpt": "Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c862ey99gr9wo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England are learning - these are the World Cup issues they need to solve",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England are learning - these are the World Cup issues they need to solve. Who are England's openers? Which spinner supports Adil Rashid? Which seamers get nod when Sam Curran returns?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-england-win-series-as-banton-delivers-on-potential",
+    "title": "England win series as Banton delivers on potential | Cricket News",
+    "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over S",
+    "excerpt": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over S",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England win series as Banton delivers on potential",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England win series as Banton delivers on potential. Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-odi-cricket",
+    "title": "ODI Cricket | Cricket News",
+    "description": "The series ends at The Oval. How are England looking with the World Cup on its way?",
+    "excerpt": "The series ends at The Oval. How are England looking with the World Cup on its way?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/iplayer/episode/m00328q7?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: ODI Cricket",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: ODI Cricket. The series ends at The Oval. How are England looking with the World Cup on its way?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-28-superb-south-africa-seal-series-win-over-australia",
+    "title": "Superb South Africa seal series win over Australia | Cricket News",
+    "description": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
+    "excerpt": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Superb South Africa seal series win over Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Superb South Africa seal series win over Australia. David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-eng-vs-sl-2026-09-27",
+    "title": "England won by 223 runs | 3rd ODI Cricket News",
+    "description": "England vs Sri Lanka result: England won by 223 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "England won by 223 runs — ENG: 355/7 (49.6 ov) | SL: 132/10 (29.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs Sri Lanka result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs Sri Lanka cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: England vs Sri Lanka (3rd ODI, ODI) — England won by 223 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "England",
+            "355/7 (49.6 ov)"
+          ],
+          [
+            "Sri Lanka",
+            "132/10 (29.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: England won by 223 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: England chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-rsa-vs-aus-2026-09-27",
+    "title": "South Africa won by 32 runs | 2nd ODI Cricket News",
+    "description": "South Africa vs Australia result: South Africa won by 32 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "South Africa won by 32 runs — RSA: 365/9 (49.6 ov) | AUS: 333/10 (49.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa vs Australia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa vs Australia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: South Africa vs Australia (2nd ODI, ODI) — South Africa won by 32 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "South Africa",
+            "365/9 (49.6 ov)"
+          ],
+          [
+            "Australia",
+            "333/10 (49.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: South Africa won by 32 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Australia chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "David Miller delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Bouncy South African surfaces; seam movement early, flatten for batters later."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-wi-vs-ind-2026-09-27",
+    "title": "India won by 8 wkts | 1st ODI Cricket News",
+    "description": "West Indies vs India result: India won by 8 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "India won by 8 wkts — WI: 295/7 (49.6 ov) | IND: 300/2 (41.4 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies vs India result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies vs India cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: West Indies vs India (1st ODI, ODI) — India won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "West Indies",
+            "295/7 (49.6 ov)"
+          ],
+          [
+            "India",
+            "300/2 (41.4 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: India won by 8 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: India chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Kuldeep Yadav delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bor-vs-nwest-2026-09-28",
+    "title": "Border vs North West - Eastvaal Renault Dragons Preview — Pitch, Weather & Lineup | Pool A",
+    "description": "Border vs North West - Eastvaal Renault Dragons preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 28 Sept, 2026, 4:30 pm.",
+    "excerpt": "Border vs North West - Eastvaal Renault Dragons — pitch: Seam-friendly English conditions; overcast skies assist swing bowlers.… Weather: Light drizzle · High 18°C / Low 14°C · Rain: 2.2 mm · Wind: up to 25 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Border vs North West - Eastvaal Renault Dragons",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Border vs North West - Eastvaal Renault Dragons cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Border face North West - Eastvaal Renault Dragons in Pool A (T20) on Mon, 28 Sept, 2026, 4:30 pm at Buffalo Park East London. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Border vs North West - Eastvaal Renault Dragons"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 28 Sept, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "Buffalo Park East London"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 28, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Seam-friendly English conditions; overcast skies assist swing bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–300 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 18°C / Low 14°C · Rain: 2.2 mm · Wind: up to 25 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-inda-vs-ausa-2026-09-29",
+    "title": "India A vs Australia A Preview — Pitch, Weather & Lineup | 2nd unofficial Test",
+    "description": "India A vs Australia A preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 29 Sept, 2026, 9:30 am.",
+    "excerpt": "India A vs Australia A — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Drizzle · High 35°C / Low 25°C · Rain: 1.4 mm · Wind: up to 12 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India A vs Australia A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India A vs Australia A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India A face Australia A in 2nd unofficial Test (TEST) on Tue, 29 Sept, 2026, 9:30 am at Cricket Association Puducherry Siechem Ground Puducherry. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India A vs Australia A"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Australia A tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 29 Sept, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Cricket Association Puducherry Siechem Ground Puducherry"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 29, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 35°C / Low 25°C · Rain: 1.4 mm · Wind: up to 12 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indwa-vs-auswa-2026-09-29",
+    "title": "India A Women vs Australia A Women Preview — Pitch, Weather & Lineup | Only unofficial Test",
+    "description": "India A Women vs Australia A Women preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Tue, 29 Sept, 2026, 9:30 am.",
+    "excerpt": "India A Women vs Australia A Women — pitch: Pace and bounce on offer; seamers enjoy early overs.… Weather: Light drizzle · High 25°C / Low 16°C · Rain: 0.4 mm · Wind: up to 8 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India A Women vs Australia A Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India A Women vs Australia A Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India A Women face Australia A Women in Only unofficial Test (TEST) on Tue, 29 Sept, 2026, 9:30 am at Himachal Pradesh Cricket Association Stadium Dharamsala. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India A Women vs Australia A Women"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Australia A Women tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 29 Sept, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Himachal Pradesh Cricket Association Stadium Dharamsala"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 29, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce on offer; seamers enjoy early overs."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 165–180 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 25°C / Low 16°C · Rain: 0.4 mm · Wind: up to 8 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sl-vs-nep-2026-09-29",
+    "title": "Sri Lanka vs Nepal Preview — Pitch, Weather & Lineup | 3rd Quarter-Final",
+    "description": "Sri Lanka vs Nepal preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 29 Sept, 2026, 5:30 am.",
+    "excerpt": "Sri Lanka vs Nepal — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain · High 22°C / Low 19°C · Rain: 33.8 mm · Wind: up to 7 km/h. Rain likely — …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka vs Nepal",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka vs Nepal cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Sri Lanka face Nepal in 3rd Quarter-Final (T20) on Tue, 29 Sept, 2026, 5:30 am at Korogi Sports Park Nisshin. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Sri Lanka vs Nepal"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Asian Games 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 29 Sept, 2026, 5:30 am"
+          ],
+          [
+            "Venue",
+            "Korogi Sports Park Nisshin"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 29, 00:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain · High 22°C / Low 19°C · Rain: 33.8 mm · Wind: up to 7 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-27",
     "title": "Cricket Daily Digest — Sunday, 27 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 11+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
