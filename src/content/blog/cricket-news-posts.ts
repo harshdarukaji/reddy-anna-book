@@ -3,6 +3,928 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-09-30",
+    "title": "Cricket Daily Digest — Wednesday, 30 September 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Wednesday, 30 September 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-09-30 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Wednesday, 30 September 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Wed, 30 Sept, 2026, 2:00 pm",
+            "India vs West Indies",
+            "ODI",
+            "Guwahati",
+            "West Indies tour of India, 2026"
+          ],
+          [
+            "Wed, 30 Sept, 2026, 5:00 pm",
+            "South Africa vs Australia",
+            "ODI",
+            "Potchefstroom",
+            "Australia tour of South Africa, 2026"
+          ],
+          [
+            "Thu, 1 Oct, 2026, 9:30 am",
+            "Jammu and Kashmir vs Rest of India",
+            "TEST",
+            "Srinagar",
+            "Irani Cup 2026"
+          ],
+          [
+            "Wed, 30 Sept, 2026, 1:00 pm",
+            "Zimbabwe Women vs West Indies Women",
+            "ODI",
+            "Harare",
+            "West Indies Women tour of Zimbabwe, 2026"
+          ],
+          [
+            "Wed, 30 Sept, 2026, 9:30 pm",
+            "Dolphins vs Northern Cape",
+            "T20",
+            "Durban",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Wed, 30 Sept, 2026, 9:30 pm",
+            "Eastern Storm vs Mpumalanga Rhinos",
+            "T20",
+            "Benoni",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Thu, 1 Oct, 2026, 5:30 am",
+            "Pakistan vs Bangladesh",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ],
+          [
+            "Thu, 1 Oct, 2026, 10:00 am",
+            "India vs Sri Lanka",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England vs Sri Lanka (3rd ODI, ODI): England won by 223 runs — ENG: 355/7 (49.6 ov) | SL: 132/10 (29.1 ov)",
+          "West Indies vs India (1st ODI, ODI): India won by 8 wkts — WI: 295/7 (49.6 ov) | IND: 300/2 (41.4 ov)",
+          "South Africa vs Australia (2nd ODI, ODI): South Africa won by 32 runs — RSA: 365/9 (49.6 ov) | AUS: 333/10 (49.5 ov)",
+          "Australia U19 vs India U19 (1st unofficial Test, TEST): India U19 won by an innings and 48 runs — AUSU19: 217/10 (86.5 ov) & 229/10 (59.4 ov) | INDU19: 494/10 (102.3 ov)",
+          "New South Wales vs Victoria (6th Match, ODI): New South Wales won by 47 runs (DLS Method) — NSW: 257/10 (48.5 ov) | VIC: 212/10 (44.5 ov)",
+          "Sri Lanka vs England (2nd ODI, ODI): Sri Lanka won by 16 runs — SL: 321/6 (49.6 ov) | ENG: 305/9 (49.6 ov)",
+          "Nottinghamshire vs Yorkshire (67th Match, TEST): Yorkshire won by 1 wkt — NOTTS: 251/10 (99.4 ov) & 85/10 (38.5 ov) | YORKS: 179/10 (53.1 ov) & 159/9 (52.5 ov)",
+          "Surrey vs Somerset (70th Match, TEST): Match drawn — SUR: 422/10 (121.3 ov) & 127/5 (53.6 ov) | SOM: 731/10 (171.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Banton stars as England win Sri Lanka ODI series — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their",
+          "England win series as Banton delivers on potential — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up th",
+          "'Brilliant' Banton scores maiden ODI century for England — Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series a",
+          "Durham draw with Lancashire to end season unbeaten — Durham end their title-winning campaign in County Championship Division Two unbeaten, finishing the season with a draw a",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Rank the biggest scandals in Test cricket history",
+          "Buttler out of tri-series while England prepare central contracts",
+          "Barney's Bears - the Warwickshire captain who commands respect",
+          "Nottinghamshire sign Sussex wicketkeeper Simpson",
+          "Leics get partial points reprieve but stay in limbo"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-banton-stars-as-england-win-sri-lanka-odi-series",
+    "title": "Banton stars as England win Sri Lanka ODI series | Cricket News",
+    "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri ",
+    "excerpt": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Banton stars as England win Sri Lanka ODI series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Banton stars as England win Sri Lanka ODI series. Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-barney-s-bears-the-warwickshire-captain-who-comman",
+    "title": "Barney's Bears - the Warwickshire captain who commands respect | Cricket News",
+    "description": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
+    "excerpt": "How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crx2zv3pg0wdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Barney's Bears - the Warwickshire captain who commands respect",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Barney's Bears - the Warwickshire captain who commands respect. How Shropshire lad Ed Barnard skippered Warwickshire to a title triumph in his first season as a county captain."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-brilliant-banton-scores-maiden-odi-century-for-eng",
+    "title": "'Brilliant' Banton scores maiden ODI century for England | Cricket News",
+    "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+    "excerpt": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'Brilliant' Banton scores maiden ODI century for England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'Brilliant' Banton scores maiden ODI century for England. Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-buttler-out-of-tri-series-while-england-prepare-ce",
+    "title": "Buttler out of tri-series while England prepare central contracts | Cricket News",
+    "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
+    "excerpt": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Buttler out of tri-series while England prepare central contracts",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Buttler out of tri-series while England prepare central contracts. Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-england-win-series-as-banton-delivers-on-potential",
+    "title": "England win series as Banton delivers on potential | Cricket News",
+    "description": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over S",
+    "excerpt": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over S",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England win series as Banton delivers on potential",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England win series as Banton delivers on potential. Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "p",
+        "text": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-09-30-rank-the-biggest-scandals-in-test-cricket-history",
+    "title": "Rank the biggest scandals in Test cricket history | Cricket News",
+    "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
+    "excerpt": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Rank the biggest scandals in Test cricket history",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Rank the biggest scandals in Test cricket history. As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ind-vs-wi-2026-09-30",
+    "title": "India vs West Indies Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "India vs West Indies preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 30 Sept, 2026, 2:00 pm.",
+    "excerpt": "India vs West Indies — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 33°C / Low 24°C · Rain: 4.9 mm · Wind: up to 10 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India vs West Indies",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India vs West Indies cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India face West Indies in 2nd ODI (ODI) on Wed, 30 Sept, 2026, 2:00 pm at Barsapara Cricket Stadium Guwahati. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India vs West Indies"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "West Indies tour of India, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 30 Sept, 2026, 2:00 pm"
+          ],
+          [
+            "Venue",
+            "Barsapara Cricket Stadium Guwahati"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 30, 08:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 33°C / Low 24°C · Rain: 4.9 mm · Wind: up to 10 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-jk-vs-roi-2026-10-01",
+    "title": "Jammu and Kashmir vs Rest of India Preview — Pitch, Weather & Lineup | Irani Cup",
+    "description": "Jammu and Kashmir vs Rest of India preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 1 Oct, 2026, 9:30 am.",
+    "excerpt": "Jammu and Kashmir vs Rest of India — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Partly cloudy · High 27°C / Low 11°C · Rain: 0 mm · Wind: up to 8 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Jammu and Kashmir vs Rest of India",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Jammu and Kashmir vs Rest of India cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Jammu and Kashmir face Rest of India in Irani Cup (TEST) on Thu, 1 Oct, 2026, 9:30 am at Sher-i-Kashmir Stadium Srinagar. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Jammu and Kashmir vs Rest of India"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Irani Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 1 Oct, 2026, 9:30 am"
+          ],
+          [
+            "Venue",
+            "Sher-i-Kashmir Stadium Srinagar"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 01, 04:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 27°C / Low 11°C · Rain: 0 mm · Wind: up to 8 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-rsa-vs-aus-2026-09-30",
+    "title": "South Africa vs Australia Preview — Pitch, Weather & Lineup | 3rd ODI",
+    "description": "South Africa vs Australia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 30 Sept, 2026, 5:00 pm.",
+    "excerpt": "South Africa vs Australia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 18°C / Low 11°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa vs Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa vs Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Africa face Australia in 3rd ODI (ODI) on Wed, 30 Sept, 2026, 5:00 pm at Senwes Park Potchefstroom. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Africa vs Australia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia tour of South Africa, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 30 Sept, 2026, 5:00 pm"
+          ],
+          [
+            "Venue",
+            "Senwes Park Potchefstroom"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 30, 11:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 18°C / Low 11°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zimw-vs-wiw-2026-09-30",
+    "title": "Zimbabwe Women vs West Indies Women Preview — Pitch, Weather & Lineup | 3rd ODI",
+    "description": "Zimbabwe Women vs West Indies Women preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Wed, 30 Sept, 2026, 1:00 pm.",
+    "excerpt": "Zimbabwe Women vs West Indies Women — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Drizzle · High 24°C / Low 14°C · Rain: 2 mm · Wind: up to 17 km/h. Light rain po…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe Women vs West Indies Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe Women vs West Indies Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe Women face West Indies Women in 3rd ODI (ODI) on Wed, 30 Sept, 2026, 1:00 pm at Harare Sports Club Harare. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe Women vs West Indies Women"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "West Indies Women tour of Zimbabwe, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 30 Sept, 2026, 1:00 pm"
+          ],
+          [
+            "Venue",
+            "Harare Sports Club Harare"
+          ],
+          [
+            "Status",
+            "Match starts at Sep 30, 07:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 24°C / Low 14°C · Rain: 2 mm · Wind: up to 17 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-09-29",
     "title": "Cricket Daily Digest — Tuesday, 29 September 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 3+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
