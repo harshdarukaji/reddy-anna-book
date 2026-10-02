@@ -3,6 +3,921 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-02",
+    "title": "Cricket Daily Digest — Friday, 2 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 2 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-02 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 2 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 3 Oct, 2026, 6:30 am",
+            "South Korea vs Indonesia",
+            "T20",
+            "Incheon",
+            "Indonesia tour of South Korea, 2026"
+          ],
+          [
+            "Sat, 3 Oct, 2026, 7:30 am",
+            "Malaysia Women vs Samoa Women",
+            "T20",
+            "Kuala Lumpur",
+            "Malaysia Women's T20I Tri-Series 2026"
+          ],
+          [
+            "Fri, 2 Oct, 2026, 4:30 pm",
+            "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers",
+            "T20",
+            "Mpumalanga",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Fri, 2 Oct, 2026, 9:30 pm",
+            "Knights vs Titans",
+            "T20",
+            "Bloemfontein",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Fri, 2 Oct, 2026, 9:30 pm",
+            "Lions vs North West - Eastvaal Renault Dragons",
+            "T20",
+            "Johannesburg",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sat, 3 Oct, 2026, 5:30 am",
+            "Bangladesh vs Sri Lanka",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ],
+          [
+            "Sat, 3 Oct, 2026, 10:00 am",
+            "Pakistan vs India",
+            "T20",
+            "Nisshin",
+            "Asian Games 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Australia vs South Africa (3rd ODI, ODI): Australia won by 45 runs (DLS Method due to rain) — AUS: 322/9 (49.6 ov) | RSA: 145/4 (27.6 ov)",
+          "West Indies vs India (2nd ODI, ODI): India won by 8 wkts — WI: 405/7 (49.6 ov) | IND: 406/2 (43.3 ov)",
+          "England vs Sri Lanka (3rd ODI, ODI): England won by 223 runs — ENG: 355/7 (49.6 ov) | SL: 132/10 (29.1 ov)",
+          "West Indies vs India (1st ODI, ODI): India won by 8 wkts — WI: 295/7 (49.6 ov) | IND: 300/2 (41.4 ov)",
+          "South Africa vs Australia (2nd ODI, ODI): South Africa won by 32 runs — RSA: 365/9 (49.6 ov) | AUS: 333/10 (49.5 ov)",
+          "Australia U19 vs India U19 (1st unofficial Test, TEST): India U19 won by an innings and 48 runs — AUSU19: 217/10 (86.5 ov) & 229/10 (59.4 ov) | INDU19: 494/10 (102.3 ov)",
+          "New South Wales vs Victoria (6th Match, ODI): New South Wales won by 47 runs (DLS Method) — NSW: 257/10 (48.5 ov) | VIC: 212/10 (44.5 ov)",
+          "Sussex vs Hampshire (68th Match, TEST): Sussex won by 197 runs — SUS: 244/10 (71.5 ov) & 319/9 (77.6 ov) | HAM: 128/10 (58.6 ov) & 238/10 (54.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England avoid Australia & India in World Cup draw — England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ",
+          "England call up Crane and rest Archer for Pakistan series — Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for th",
+          "Gill hits 223 not out as India chase down Windies' record total — Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Gu",
+          "Banton stars as England win Sri Lanka ODI series — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their",
+          "'Brilliant' Banton scores maiden ODI century for England — Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series a",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Australia call up Maddinson after cancer recovery",
+          "Winning young player award awesome - Baker",
+          "Overton hopes to make England selectors' job hard",
+          "Somerset pair Overton & Luff take top PCA awards",
+          "Stumped"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-australia-call-up-maddinson-after-cancer-recovery",
+    "title": "Australia call up Maddinson after cancer recovery | Cricket News",
+    "description": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
+    "excerpt": "Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckge4e5443w7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Australia call up Maddinson after cancer recovery",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Australia call up Maddinson after cancer recovery. Australia recall Nic Maddinson for the first Test against South Africa after the New South Wales batter recovered from testicular cancer."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-england-avoid-australia-india-in-world-cup-draw",
+    "title": "England avoid Australia & India in World Cup draw | Cricket News",
+    "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+    "excerpt": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England avoid Australia & India in World Cup draw",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England avoid Australia & India in World Cup draw. England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup."
+      },
+      {
+        "type": "p",
+        "text": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-england-call-up-crane-and-rest-archer-for-pakistan",
+    "title": "England call up Crane and rest Archer for Pakistan series | Cricket News",
+    "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pa",
+    "excerpt": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pa",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England call up Crane and rest Archer for Pakistan series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England call up Crane and rest Archer for Pakistan series. Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan."
+      },
+      {
+        "type": "p",
+        "text": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-gill-hits-223-not-out-as-india-chase-down-windies-",
+    "title": "Gill hits 223 not out as India chase down Windies' record total | Cricket News",
+    "description": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
+    "excerpt": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Gill hits 223 not out as India chase down Windies' record total",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Gill hits 223 not out as India chase down Windies' record total. Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati."
+      },
+      {
+        "type": "p",
+        "text": "Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Guwahati."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-overton-hopes-to-make-england-selectors-job-hard",
+    "title": "Overton hopes to make England selectors' job hard | Cricket News",
+    "description": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
+    "excerpt": "Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm74k4134kydo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Overton hopes to make England selectors' job hard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Overton hopes to make England selectors' job hard. Somerset all-rounder Craig Overton says he wants to make England selectors' jobs \"as hard as possible\" by continuing to play well."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-02-winning-young-player-award-awesome-baker",
+    "title": "Winning young player award awesome - Baker | Cricket News",
+    "description": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
+    "excerpt": "England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\".",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c82070z6l49wo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Winning young player award awesome - Baker",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Winning young player award awesome - Baker. England and Hampshire fast bowler Sonny Baker says winning the young player of the year award at the PCA awards is a \"massive honour\"."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kng-vs-tit-2026-10-02",
+    "title": "Knights vs Titans Preview — Pitch, Weather & Lineup | Pool B",
+    "description": "Knights vs Titans preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 2 Oct, 2026, 9:30 pm.",
+    "excerpt": "Knights vs Titans — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 21°C / Low 8°C · Rain: 0 mm · Wind: up to 10 km/h. Dry conditio…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Knights vs Titans",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Knights vs Titans cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Knights face Titans in Pool B (T20) on Fri, 2 Oct, 2026, 9:30 pm at Mangaung Oval Bloemfontein. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Knights vs Titans"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 2 Oct, 2026, 9:30 pm"
+          ],
+          [
+            "Venue",
+            "Mangaung Oval Bloemfontein"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 02, 16:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 21°C / Low 8°C · Rain: 0 mm · Wind: up to 10 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-mlyw-vs-wsmw-2026-10-03",
+    "title": "Malaysia Women vs Samoa Women Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Malaysia Women vs Samoa Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 3 Oct, 2026, 7:30 am.",
+    "excerpt": "Malaysia Women vs Samoa Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 31°C / Low 24°C · Rain: 8.1 mm · Wind: up to 12 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Malaysia Women vs Samoa Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Malaysia Women vs Samoa Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Malaysia Women face Samoa Women in 1st Match (T20) on Sat, 3 Oct, 2026, 7:30 am at Selangor Turf Club Kuala Lumpur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Malaysia Women vs Samoa Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Malaysia Women's T20I Tri-Series 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 3 Oct, 2026, 7:30 am"
+          ],
+          [
+            "Venue",
+            "Selangor Turf Club Kuala Lumpur"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 03, 02:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 31°C / Low 24°C · Rain: 8.1 mm · Wind: up to 12 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-mpr-vs-kznin-2026-10-02",
+    "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers Preview — Pitch, Weather & Lineup | Pool B",
+    "description": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 2 Oct, 2026, 4:30 pm.",
+    "excerpt": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Mainly clear · High 20°C / Low 8°C · Rain: 0 mm · Wind: up to 13 km/h. Dry condi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Mpumalanga Rhinos face KwaZulu-Natal Inland Tuskers in Pool B (T20) on Fri, 2 Oct, 2026, 4:30 pm at Uplands College, White River Mpumalanga. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 2 Oct, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "Uplands College, White River Mpumalanga"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 02, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 20°C / Low 8°C · Rain: 0 mm · Wind: up to 13 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-skr-vs-idn-2026-10-03",
+    "title": "South Korea vs Indonesia Preview — Pitch, Weather & Lineup | 1st T20I",
+    "description": "South Korea vs Indonesia preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 3 Oct, 2026, 6:30 am.",
+    "excerpt": "South Korea vs Indonesia — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 21°C / Low 10°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Korea vs Indonesia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-02",
+    "updatedAt": "2026-10-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Korea vs Indonesia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Korea face Indonesia in 1st T20I (T20) on Sat, 3 Oct, 2026, 6:30 am at Yeonhui Cricket Ground  Incheon. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Korea vs Indonesia"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Indonesia tour of South Korea, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 3 Oct, 2026, 6:30 am"
+          ],
+          [
+            "Venue",
+            "Yeonhui Cricket Ground  Incheon"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 03, 01:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 21°C / Low 10°C · Rain: 0 mm · Wind: up to 11 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-01",
     "title": "Cricket Daily Digest — Thursday, 1 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 1+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
