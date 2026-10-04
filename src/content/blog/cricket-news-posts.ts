@@ -3,6 +3,1127 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-04",
+    "title": "Cricket Daily Digest — Sunday, 4 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 4 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-04 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Sunday, 4 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 5 Oct, 2026, 9:00 am",
+            "India U19 vs Australia U19",
+            "TEST",
+            "Ahmedabad",
+            "Australia U19 tour of India 2026"
+          ],
+          [
+            "Mon, 5 Oct, 2026, 6:30 am",
+            "South Korea vs Indonesia",
+            "T20",
+            "Incheon",
+            "Indonesia tour of South Korea, 2026"
+          ],
+          [
+            "Mon, 5 Oct, 2026, 6:45 am",
+            "Bhutan vs Myanmar",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Mon, 5 Oct, 2026, 6:45 am",
+            "Bahrain vs Thailand",
+            "T20",
+            "Bangi",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Mon, 5 Oct, 2026, 10:30 am",
+            "South Korea vs Indonesia",
+            "T20",
+            "Incheon",
+            "Indonesia tour of South Korea, 2026"
+          ],
+          [
+            "Mon, 5 Oct, 2026, 11:30 am",
+            "Kuwait vs Qatar",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 4:30 pm",
+            "KwaZulu-Natal Inland Tuskers vs Boland",
+            "T20",
+            "Pietermaritzburg",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 4:30 pm",
+            "Limpopo vs Dolphins",
+            "T20",
+            "Polokwane",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 5:00 pm",
+            "South Africa Champions vs West Indies Champions",
+            "T20",
+            "Sharjah",
+            "World Championship of Legends 2026"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 9:00 pm",
+            "India Champions vs England Champions",
+            "T20",
+            "Sharjah",
+            "World Championship of Legends 2026"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 9:30 pm",
+            "Western Province vs South Africa Emerging Players",
+            "T20",
+            "Cape Town",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sun, 4 Oct, 2026, 9:30 pm",
+            "Warriors vs Lions",
+            "T20",
+            "Gqeberha",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Namibia vs United Arab Emirates (128th Match, ODI): No result due to rain — NAM: 9/0 (1.6 ov)",
+          "India vs West Indies (3rd ODI, ODI): West Indies won by 5 wkts — IND: 351/7 (49.6 ov) | WI: 352/5 (48.2 ov)",
+          "Australia vs South Africa (3rd ODI, ODI): Australia won by 45 runs (DLS Method due to rain) — AUS: 322/9 (49.6 ov) | RSA: 145/4 (27.6 ov)",
+          "West Indies vs India (2nd ODI, ODI): India won by 8 wkts — WI: 405/7 (49.6 ov) | IND: 406/2 (43.3 ov)",
+          "Australia A vs India A (2nd unofficial Test, TEST): Match drawn — AUSA: 358/10 (116.3 ov) & 173/4 (48.6 ov) | INDA: 167/10 (67.6 ov) & 310/9 (102.6 ov)",
+          "England vs Sri Lanka (3rd ODI, ODI): England won by 223 runs — ENG: 355/7 (49.6 ov) | SL: 132/10 (29.1 ov)",
+          "West Indies vs India (1st ODI, ODI): India won by 8 wkts — WI: 295/7 (49.6 ov) | IND: 300/2 (41.4 ov)",
+          "South Africa vs Australia (2nd ODI, ODI): South Africa won by 32 runs — RSA: 365/9 (49.6 ov) | AUS: 333/10 (49.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pretorius breaks Gayle's T20 record score — Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a dom",
+          "England call up Crane and rest Archer for Pakistan series — Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for th",
+          "England avoid Australia & India in World Cup draw — England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ",
+          "Banton stars as England win Sri Lanka ODI series — Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their",
+          "'Brilliant' Banton scores maiden ODI century for England — Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series a",
+          "Gill hits 223 not out as India chase down Windies' record total — Shubman Gill hits a career-best 223 not out as India sensationally chase down West Indies' 405-7 in the second ODI in Gu"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "India beat Pakistan to take Asian Games gold",
+          "Hope hits stunning 162 as West Indies beat India - third ODI scorecard",
+          "Carse charged but remains available for England",
+          "Bowler Miles retires to protect 'mental well-being'",
+          "Harmison signs first professional Durham deal"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-carse-charged-but-remains-available-for-england",
+    "title": "Carse charged but remains available for England | Cricket News",
+    "description": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
+    "excerpt": "Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw80zel9nvg1o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Carse charged but remains available for England",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Carse charged but remains available for England. Brydon Carse is charged by the Cricket Regulator over an incident outside a Derby nightclub but remains available for selection by England."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-england-avoid-australia-india-in-world-cup-draw",
+    "title": "England avoid Australia & India in World Cup draw | Cricket News",
+    "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+    "excerpt": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England avoid Australia & India in World Cup draw",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England avoid Australia & India in World Cup draw. England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup."
+      },
+      {
+        "type": "p",
+        "text": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-england-call-up-crane-and-rest-archer-for-pakistan",
+    "title": "England call up Crane and rest Archer for Pakistan series | Cricket News",
+    "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pa",
+    "excerpt": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pa",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England call up Crane and rest Archer for Pakistan series",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England call up Crane and rest Archer for Pakistan series. Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan."
+      },
+      {
+        "type": "p",
+        "text": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-hope-hits-stunning-162-as-west-indies-beat-india-t",
+    "title": "Hope hits stunning 162 as West Indies beat India - third ODI scorecard | Cricket News",
+    "description": "Latest scorecard from the third one-day international between India and West Indies in New Chandigarh.",
+    "excerpt": "Latest scorecard from the third one-day international between India and West Indies in New Chandigarh.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237256?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Hope hits stunning 162 as West Indies beat India - third ODI scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Hope hits stunning 162 as West Indies beat India - third ODI scorecard. Latest scorecard from the third one-day international between India and West Indies in New Chandigarh."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-india-beat-pakistan-to-take-asian-games-gold",
+    "title": "India beat Pakistan to take Asian Games gold | Cricket News",
+    "description": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
+    "excerpt": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: India beat Pakistan to take Asian Games gold",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: India beat Pakistan to take Asian Games gold. Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-04-pretorius-breaks-gayle-s-t20-record-score",
+    "title": "Pretorius breaks Gayle's T20 record score | Cricket News",
+    "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+    "excerpt": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Pretorius breaks Gayle's T20 record score",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Pretorius breaks Gayle's T20 record score. Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa."
+      },
+      {
+        "type": "p",
+        "text": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ind-vs-wi-2026-10-03",
+    "title": "West Indies won by 5 wkts | 3rd ODI Cricket News",
+    "description": "India vs West Indies result: West Indies won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "West Indies won by 5 wkts — IND: 351/7 (49.6 ov) | WI: 352/5 (48.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India vs West Indies result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India vs West Indies cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: India vs West Indies (3rd ODI, ODI) — West Indies won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "India",
+            "351/7 (49.6 ov)"
+          ],
+          [
+            "West Indies",
+            "352/5 (48.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: West Indies won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: India chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Shai Hope delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Newer surface with even bounce; still finding its character for long formats."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nam-vs-uae-2026-10-03",
+    "title": "No result due to rain | 128th Match Cricket News",
+    "description": "Namibia vs United Arab Emirates result: No result due to rain. Scores, player of the match, and pitch report.",
+    "excerpt": "No result due to rain — NAM: 9/0 (1.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Namibia vs United Arab Emirates result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Namibia vs United Arab Emirates cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Namibia vs United Arab Emirates (128th Match, ODI) — No result due to rain. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Namibia",
+            "9/0 (1.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: No result due to rain."
+      },
+      {
+        "type": "p",
+        "text": "Toss: United Arab Emirates chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bhr-vs-thai-2026-10-05",
+    "title": "Bahrain vs Thailand Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Bahrain vs Thailand preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 5 Oct, 2026, 6:45 am.",
+    "excerpt": "Bahrain vs Thailand — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 31°C / Low 24°C · Rain: 5.5 mm · Wind: up to 12 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bahrain vs Thailand",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bahrain vs Thailand cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Bahrain face Thailand in 2nd Match (T20) on Mon, 5 Oct, 2026, 6:45 am at YSD-UKM Cricket Oval Bangi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Bahrain vs Thailand"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 5 Oct, 2026, 6:45 am"
+          ],
+          [
+            "Venue",
+            "YSD-UKM Cricket Oval Bangi"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 05, 01:15 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 31°C / Low 24°C · Rain: 5.5 mm · Wind: up to 12 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-btn-vs-mmr-2026-10-05",
+    "title": "Bhutan vs Myanmar Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Bhutan vs Myanmar preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 5 Oct, 2026, 6:45 am.",
+    "excerpt": "Bhutan vs Myanmar — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 31°C / Low 23°C · Rain: 19.6 mm · Wind: up to 11 km/h. Rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bhutan vs Myanmar",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bhutan vs Myanmar cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Bhutan face Myanmar in 1st Match (T20) on Mon, 5 Oct, 2026, 6:45 am at Bayuemas Oval Kuala Lumpur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Bhutan vs Myanmar"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 5 Oct, 2026, 6:45 am"
+          ],
+          [
+            "Venue",
+            "Bayuemas Oval Kuala Lumpur"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 05, 01:15 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 31°C / Low 23°C · Rain: 19.6 mm · Wind: up to 11 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indu19-vs-ausu19-2026-10-05",
+    "title": "India U19 vs Australia U19 Preview — Pitch, Weather & Lineup | 2nd unofficial Test",
+    "description": "India U19 vs Australia U19 preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Mon, 5 Oct, 2026, 9:00 am.",
+    "excerpt": "India U19 vs Australia U19 — pitch: Hard, even surface — good for batters and fast bowlers; long boundaries.… Weather: Clear sky · High 35°C / Low 24°C · Rain: 0 mm · Wind: up to 9 km/h. Dry conditio…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India U19 vs Australia U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India U19 vs Australia U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India U19 face Australia U19 in 2nd unofficial Test (TEST) on Mon, 5 Oct, 2026, 9:00 am at Narendra Modi Stadium B Ground Ahmedabad. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India U19 vs Australia U19"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Australia U19 tour of India 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 5 Oct, 2026, 9:00 am"
+          ],
+          [
+            "Venue",
+            "Narendra Modi Stadium B Ground Ahmedabad"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 05, 03:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Hard, even surface — good for batters and fast bowlers; long boundaries."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 165–180 (T20)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 35°C / Low 24°C · Rain: 0 mm · Wind: up to 9 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-skr-vs-idn-2026-10-05",
+    "title": "South Korea vs Indonesia Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "South Korea vs Indonesia preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 5 Oct, 2026, 6:30 am.",
+    "excerpt": "South Korea vs Indonesia — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Partly cloudy · High 19°C / Low 15°C · Rain: 0 mm · Wind: up to 25 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Korea vs Indonesia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Korea vs Indonesia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Korea face Indonesia in 3rd T20I (T20) on Mon, 5 Oct, 2026, 6:30 am at Yeonhui Cricket Ground  Incheon. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Korea vs Indonesia"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Indonesia tour of South Korea, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 5 Oct, 2026, 6:30 am"
+          ],
+          [
+            "Venue",
+            "Yeonhui Cricket Ground  Incheon"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 05, 01:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 19°C / Low 15°C · Rain: 0 mm · Wind: up to 25 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-03",
     "title": "Cricket Daily Digest — Saturday, 3 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 7+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
