@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-ausu19-vs-indu19-2026-10-05",
+  "title": "India U19 won by 10 wkts | 2nd unofficial Test Cricket News",
+  "description": "Australia U19 vs India U19 result: India U19 won by 10 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "India U19 won by 10 wkts — AUSU19: 174/10 (72.6 ov) & 151/10 (43.5 ov) | INDU19: 315/10 (78.4 ov) & 11/0 (0.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Australia U19 vs India U19 result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-07",
+  "updatedAt": "2026-10-07",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Australia U19 vs India U19 cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Australia U19 vs India U19 (2nd unofficial Test, TEST) — India U19 won by 10 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Australia U19",
+          "174/10 (72.6 ov) & 151/10 (43.5 ov)"
+        ],
+        [
+          "India U19",
+          "315/10 (78.4 ov) & 11/0 (0.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: India U19 won by 10 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: India U19 chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Hard, even surface — good for batters and fast bowlers; long boundaries."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
