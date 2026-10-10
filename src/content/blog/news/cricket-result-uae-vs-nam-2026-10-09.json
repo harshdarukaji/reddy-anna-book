@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-uae-vs-nam-2026-10-09",
+  "title": "Namibia won by 8 wkts | 132nd Match Cricket News",
+  "description": "United Arab Emirates vs Namibia result: Namibia won by 8 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Namibia won by 8 wkts — UAE: 134/10 (37.3 ov) | NAM: 135/2 (25.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "United Arab Emirates vs Namibia result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-10",
+  "updatedAt": "2026-10-10",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "United Arab Emirates vs Namibia cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: United Arab Emirates vs Namibia (132nd Match, ODI) — Namibia won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "United Arab Emirates",
+          "134/10 (37.3 ov)"
+        ],
+        [
+          "Namibia",
+          "135/2 (25.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Namibia won by 8 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Namibia chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "JJ Smit delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
