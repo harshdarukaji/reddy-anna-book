@@ -3,6 +3,1130 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-13",
+    "title": "Cricket Daily Digest — Tuesday, 13 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 19+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 13 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-13 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 13 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 13 Oct, 2026, 11:30 am",
+            "Nepal vs Oman",
+            "ODI",
+            "Al Amerat",
+            "ICC CWC League Two 2023-27"
+          ],
+          [
+            "Tue, 13 Oct, 2026, 11:30 am",
+            "Queensland vs Western Australia",
+            "ODI",
+            "Perth",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Tue, 13 Oct, 2026, 8:30 pm",
+            "United States of America vs Namibia",
+            "ODI",
+            "Dallas",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Tue, 13 Oct, 2026, 6:30 pm",
+            "Pakistan vs Sri Lanka",
+            "T20",
+            "Rawalpindi",
+            "Sri Lanka tour of Pakistan, 2026"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 6:45 am",
+            "Myanmar vs Mongolia",
+            "T20",
+            "Bangi",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 6:45 am",
+            "Bahrain vs Qatar",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 6:45 am",
+            "Malaysia vs China",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 9:20 am",
+            "Australia Women vs Bangladesh Women",
+            "ODI",
+            "Brisbane",
+            "Bangladesh Women tour of Australia, 2026"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 11:30 am",
+            "Bhutan vs Thailand",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 11:30 am",
+            "Hong Kong, China vs Singapore",
+            "T20",
+            "Kuala Lumpur",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Wed, 14 Oct, 2026, 11:30 am",
+            "Maldives vs Saudi Arabia",
+            "T20",
+            "Bangi",
+            "ICC Men's T20 World Cup Asia Sub Regiona"
+          ],
+          [
+            "Tue, 13 Oct, 2026, 1:30 pm",
+            "Sydney Thunder Women vs Brisbane Heat Women",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Tasmania vs New South Wales (8th Match, ODI): Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs  — TAS: 203/10 (29.1 ov) | NSW: 158/10 (25.6 ov)",
+          "South Australia vs Victoria (7th Match, ODI): South Australia won by 70 runs — SAUS: 311/10 (49.3 ov) | VIC: 241/10 (43.5 ov)",
+          "United Arab Emirates vs United States of America (134th Match, ODI): United States of America won by 5 wkts — UAE: 213/10 (46.3 ov) | USA: 214/5 (38.4 ov)",
+          "Nepal vs Canada (133rd Match, ODI): Nepal won by 24 runs — NEP: 235/10 (49.6 ov) | CAN: 211/10 (48.4 ov)",
+          "Tripura vs Hyderabad (Elite Group B, TEST): Hyderabad won by an innings and 40 runs — TRI: 134/10 (43.6 ov) & 120/10 (41.2 ov) | HYD: 294/10 (103.2 ov)",
+          "Arunachal Pradesh vs Nagaland (Plate, TEST): Arunachal Pradesh are deemed to have forfeited — ARNP: 174/10 (72.6 ov) & 151/10 (43.5 ov) | NGL: 315/10 (78.4 ov) & 11/0 (0.5 ov)",
+          "India A vs Australia A (3rd unofficial ODI, ODI): India A won by 49 runs — INDA: 275/10 (47.3 ov) | AUSA: 226/10 (46.2 ov)",
+          "United Arab Emirates vs Namibia (132nd Match, ODI): Namibia won by 8 wkts — UAE: 134/10 (37.3 ov) | NAM: 135/2 (25.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Mahmud takes Test hat-trick - can you name the others in past 40 years? — Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past ",
+          "Windies complete second-highest T20I chase to stun India — Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
+          "'What this team has been crying out for' - Renshaw 190 lifts Australia — After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push hi",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Renshaw delivers again as Australia close on win",
+          "Afghanistan v Bangladesh - one-off Test scorecard",
+          "Pope pulls out of controversial Afghanistan T20 league",
+          "Key suggests Carse can return as England reveal contract list",
+          "South Africa hopes dented by late Australia wickets - scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-afghanistan-v-bangladesh-one-off-test-scorecard",
+    "title": "Afghanistan v Bangladesh - one-off Test scorecard | Cricket News",
+    "description": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+    "excerpt": "Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244562?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Afghanistan v Bangladesh - one-off Test scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Afghanistan v Bangladesh - one-off Test scorecard. Latest scorecard from the one-off Test between Afghanistan and Bangladesh in Abu Dhabi."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-mahmud-takes-test-hat-trick-can-you-name-the-other",
+    "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years? | Cricket News",
+    "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
+    "excerpt": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Mahmud takes Test hat-trick - can you name the others in past 40 years?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Mahmud takes Test hat-trick - can you name the others in past 40 years?. Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?"
+      },
+      {
+        "type": "p",
+        "text": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-pope-pulls-out-of-controversial-afghanistan-t20-le",
+    "title": "Pope pulls out of controversial Afghanistan T20 league | Cricket News",
+    "description": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
+    "excerpt": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Pope pulls out of controversial Afghanistan T20 league",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Pope pulls out of controversial Afghanistan T20 league. England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-renshaw-delivers-again-as-australia-close-on-win",
+    "title": "Renshaw delivers again as Australia close on win | Cricket News",
+    "description": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
+    "excerpt": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Renshaw delivers again as Australia close on win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Renshaw delivers again as Australia close on win. Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-what-this-team-has-been-crying-out-for-renshaw-190",
+    "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia | Cricket News",
+    "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+    "excerpt": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'What this team has been crying out for' - Renshaw 190 lifts Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'What this team has been crying out for' - Renshaw 190 lifts Australia. After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place."
+      },
+      {
+        "type": "p",
+        "text": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-13-windies-complete-second-highest-t20i-chase-to-stun",
+    "title": "Windies complete second-highest T20I chase to stun India | Cricket News",
+    "description": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
+    "excerpt": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237258?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Windies complete second-highest T20I chase to stun India",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Windies complete second-highest T20I chase to stun India. Scorecard from the second Twenty20 international between India and West Indies in Ranchi."
+      },
+      {
+        "type": "p",
+        "text": "Scorecard from the second Twenty20 international between India and West Indies in Ranchi."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-saus-vs-vic-2026-10-12",
+    "title": "South Australia won by 70 runs | 7th Match Cricket News",
+    "description": "South Australia vs Victoria result: South Australia won by 70 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "South Australia won by 70 runs — SAUS: 311/10 (49.3 ov) | VIC: 241/10 (43.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Australia vs Victoria result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Australia vs Victoria cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: South Australia vs Victoria (7th Match, ODI) — South Australia won by 70 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "South Australia",
+            "311/10 (49.3 ov)"
+          ],
+          [
+            "Victoria",
+            "241/10 (43.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: South Australia won by 70 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Victoria chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Matthew Gilkes delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-tas-vs-nsw-2026-10-12",
+    "title": "Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs  | 8th Match Cricket News",
+    "description": "Tasmania vs New South Wales result: Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs . Scores, player of the match, and pitch report.",
+    "excerpt": "Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs  — TAS: 203/10 (29.1 ov) | NSW: 158/10 (25.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Tasmania vs New South Wales result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Tasmania vs New South Wales cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Tasmania vs New South Wales (8th Match, ODI) — Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs . Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Tasmania",
+            "203/10 (29.1 ov)"
+          ],
+          [
+            "New South Wales",
+            "158/10 (25.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs ."
+      },
+      {
+        "type": "p",
+        "text": "Toss: New South Wales chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nep-vs-oman-2026-10-13",
+    "title": "Nepal vs Oman Preview — Pitch, Weather & Lineup | 135th Match",
+    "description": "Nepal vs Oman preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 13 Oct, 2026, 11:30 am.",
+    "excerpt": "Nepal vs Oman — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Mainly clear · High 35°C / Low 27°C · Rain: 0 mm · Wind: up to 16 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nepal vs Oman",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nepal vs Oman cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Nepal face Oman in 135th Match (ODI) on Tue, 13 Oct, 2026, 11:30 am at Al Amerat Cricket Ground (Ministry Turf 1) Al Amerat. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Nepal vs Oman"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 13 Oct, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "Al Amerat Cricket Ground (Ministry Turf 1) Al Amerat"
+          ],
+          [
+            "Status",
+            "Nepal opt to bat"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 35°C / Low 27°C · Rain: 0 mm · Wind: up to 16 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-pak-vs-sl-2026-10-13",
+    "title": "Pakistan vs Sri Lanka Preview — Pitch, Weather & Lineup | 3rd T20I",
+    "description": "Pakistan vs Sri Lanka preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 13 Oct, 2026, 6:30 pm.",
+    "excerpt": "Pakistan vs Sri Lanka — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 24°C / Low 19°C · Rain: 4.1 mm · Wind: up to 15 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan vs Sri Lanka",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan vs Sri Lanka cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Pakistan face Sri Lanka in 3rd T20I (T20) on Tue, 13 Oct, 2026, 6:30 pm at Rawalpindi Cricket Stadium Rawalpindi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Pakistan vs Sri Lanka"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Sri Lanka tour of Pakistan, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 13 Oct, 2026, 6:30 pm"
+          ],
+          [
+            "Venue",
+            "Rawalpindi Cricket Stadium Rawalpindi"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 13, 13:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 24°C / Low 19°C · Rain: 4.1 mm · Wind: up to 15 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ql-vs-wa-2026-10-13",
+    "title": "Queensland vs Western Australia Preview — Pitch, Weather & Lineup | 9th Match",
+    "description": "Queensland vs Western Australia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 13 Oct, 2026, 11:30 am.",
+    "excerpt": "Queensland vs Western Australia — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Partly cloudy · High 27°C / Low 12°C · Rain: 0 mm · Wind: up to 20 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Queensland vs Western Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Queensland vs Western Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Queensland face Western Australia in 9th Match (ODI) on Tue, 13 Oct, 2026, 11:30 am at W.A.C.A. Ground Perth. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Queensland vs Western Australia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Australia Domestic One-Day Cup 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 13 Oct, 2026, 11:30 am"
+          ],
+          [
+            "Venue",
+            "W.A.C.A. Ground Perth"
+          ],
+          [
+            "Status",
+            "Western Australia opt to bowl"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 27°C / Low 12°C · Rain: 0 mm · Wind: up to 20 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-usa-vs-nam-2026-10-13",
+    "title": "United States of America vs Namibia Preview — Pitch, Weather & Lineup | 136th Match",
+    "description": "United States of America vs Namibia preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 13 Oct, 2026, 8:30 pm.",
+    "excerpt": "United States of America vs Namibia — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 33°C / Low 25°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United States of America vs Namibia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United States of America vs Namibia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: United States of America face Namibia in 136th Match (ODI) on Tue, 13 Oct, 2026, 8:30 pm at Grand Prairie Stadium Dallas. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "United States of America vs Namibia"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC Cricket World Cup League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 13 Oct, 2026, 8:30 pm"
+          ],
+          [
+            "Venue",
+            "Grand Prairie Stadium Dallas"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 13, 15:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 33°C / Low 25°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-12",
     "title": "Cricket Daily Digest — Monday, 12 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
