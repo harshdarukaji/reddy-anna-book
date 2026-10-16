@@ -3,6 +3,1025 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-16",
+    "title": "Cricket Daily Digest — Friday, 16 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 16 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-16 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 16 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Fri, 16 Oct, 2026, 7:00 pm",
+            "India Women vs Zimbabwe Women",
+            "T20",
+            "Raipur",
+            "Zimbabwe Women tour of India, 2026"
+          ],
+          [
+            "Fri, 16 Oct, 2026, 4:30 pm",
+            "South Western Districts vs Warriors",
+            "T20",
+            "Oudtshoorn",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Fri, 16 Oct, 2026, 4:30 pm",
+            "Limpopo vs Border",
+            "T20",
+            "Polokwane",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Fri, 16 Oct, 2026, 5:00 pm",
+            "South Africa Champions vs England Champions",
+            "T20",
+            "Sharjah",
+            "World Championship of Legends 2026"
+          ],
+          [
+            "Fri, 16 Oct, 2026, 9:00 pm",
+            "Australia Champions vs West Indies Champions",
+            "T20",
+            "Sharjah",
+            "World Championship of Legends 2026"
+          ],
+          [
+            "Sat, 17 Oct, 2026, 4:30 am",
+            "Hobart Hurricanes Women vs Perth Scorchers Women",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge 2026"
+          ],
+          [
+            "Sat, 17 Oct, 2026, 4:30 am",
+            "Sydney Thunder Women vs Melbourne Renegades Women",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge 2026"
+          ],
+          [
+            "Sat, 17 Oct, 2026, 9:00 am",
+            "ACT Women vs Melbourne Stars Women",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge 2026"
+          ],
+          [
+            "Sat, 17 Oct, 2026, 9:00 am",
+            "Sydney Sixers Women vs Adelaide Strikers Women",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Canada vs Oman (137th Match, ODI): Canada won by 58 runs — CAN: 256/10 (49.6 ov) | OMAN: 198/10 (46.3 ov)",
+          "United States of America vs Namibia (136th Match, ODI): Namibia won by 6 wkts — USA: 277/7 (49.6 ov) | NAM: 278/4 (48.3 ov)",
+          "Nepal vs Oman (135th Match, ODI): Nepal won by 113 runs — NEP: 263/8 (49.6 ov) | OMAN: 150/10 (39.6 ov)",
+          "Queensland vs Western Australia (9th Match, ODI): Queensland won by 15 runs — QL: 261/10 (45.2 ov) | WA: 246/10 (43.6 ov)",
+          "Tasmania vs New South Wales (8th Match, ODI): Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs  — TAS: 203/10 (29.1 ov) | NSW: 158/10 (25.6 ov)",
+          "South Australia vs Victoria (7th Match, ODI): South Australia won by 70 runs — SAUS: 311/10 (49.3 ov) | VIC: 241/10 (43.5 ov)",
+          "United Arab Emirates vs United States of America (134th Match, ODI): United States of America won by 5 wkts — UAE: 213/10 (46.3 ov) | USA: 214/5 (38.4 ov)",
+          "Nepal vs Canada (133rd Match, ODI): Nepal won by 24 runs — NEP: 235/10 (49.6 ov) | CAN: 211/10 (48.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Mahmud takes Test hat-trick - can you name the others in past 40 years? — Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past ",
+          "'What this team has been crying out for' - Renshaw 190 lifts Australia — After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push hi",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+          "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "SA chief pledges review over 'disappointing' Test crowds",
+          "England include red-ball game in India tour as Ashes prep",
+          "Crawley signs Kent extension after losing England deal",
+          "Veteran Derbyshire captain Madsen signs new deal",
+          "Rusty or something more? South Africa's concern after Australia loss"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-crawley-signs-kent-extension-after-losing-england-",
+    "title": "Crawley signs Kent extension after losing England deal | Cricket News",
+    "description": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
+    "excerpt": "Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw4g1k471gd7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Crawley signs Kent extension after losing England deal",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Crawley signs Kent extension after losing England deal. Zak Crawley signs a one-year contract extension with Kent after his England central contract was not renewed on Monday."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-england-include-red-ball-game-in-india-tour-as-ash",
+    "title": "England include red-ball game in India tour as Ashes prep | Cricket News",
+    "description": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
+    "excerpt": "England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/crlykvelleego?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England include red-ball game in India tour as Ashes prep",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England include red-ball game in India tour as Ashes prep. England A squads travel to India in November to play three T20s, three 50-over fixtures and a four-day game."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-mahmud-takes-test-hat-trick-can-you-name-the-other",
+    "title": "Mahmud takes Test hat-trick - can you name the others in past 40 years? | Cricket News",
+    "description": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
+    "excerpt": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw98z44glde4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Mahmud takes Test hat-trick - can you name the others in past 40 years?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Mahmud takes Test hat-trick - can you name the others in past 40 years?. Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?"
+      },
+      {
+        "type": "p",
+        "text": "Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past 40 years?"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-sa-chief-pledges-review-over-disappointing-test-cr",
+    "title": "SA chief pledges review over 'disappointing' Test crowds | Cricket News",
+    "description": "A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durban.",
+    "excerpt": "A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durban.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: SA chief pledges review over 'disappointing' Test crowds",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: SA chief pledges review over 'disappointing' Test crowds. A senior South African cricket official pledges to order a review into the low crowd which attended the first Test against Australia in Durban."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-what-this-team-has-been-crying-out-for-renshaw-190",
+    "title": "'What this team has been crying out for' - Renshaw 190 lifts Australia | Cricket News",
+    "description": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+    "excerpt": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: 'What this team has been crying out for' - Renshaw 190 lifts Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: 'What this team has been crying out for' - Renshaw 190 lifts Australia. After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place."
+      },
+      {
+        "type": "p",
+        "text": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-16-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-can-vs-oman-2026-10-15",
+    "title": "Canada won by 58 runs | 137th Match Cricket News",
+    "description": "Canada vs Oman result: Canada won by 58 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Canada won by 58 runs — CAN: 256/10 (49.6 ov) | OMAN: 198/10 (46.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Canada vs Oman result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Canada vs Oman cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Canada vs Oman (137th Match, ODI) — Canada won by 58 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Canada",
+            "256/10 (49.6 ov)"
+          ],
+          [
+            "Oman",
+            "198/10 (46.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Canada won by 58 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Canada chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Sheel Patel delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-indw-vs-zimw-2026-10-16",
+    "title": "India Women vs Zimbabwe Women Preview — Pitch, Weather & Lineup | 1st T20I",
+    "description": "India Women vs Zimbabwe Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 16 Oct, 2026, 7:00 pm.",
+    "excerpt": "India Women vs Zimbabwe Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 30°C / Low 23°C · Rain: 0.1 mm · Wind: up to 11 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "India Women vs Zimbabwe Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "India Women vs Zimbabwe Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: India Women face Zimbabwe Women in 1st T20I (T20) on Fri, 16 Oct, 2026, 7:00 pm at Shaheed Veer Narayan Singh International Stadium Raipur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "India Women vs Zimbabwe Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Zimbabwe Women tour of India, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 16 Oct, 2026, 7:00 pm"
+          ],
+          [
+            "Venue",
+            "Shaheed Veer Narayan Singh International Stadium Raipur"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 16, 13:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 30°C / Low 23°C · Rain: 0.1 mm · Wind: up to 11 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-limpo-vs-bor-2026-10-16",
+    "title": "Limpopo vs Border Preview — Pitch, Weather & Lineup | Pool A",
+    "description": "Limpopo vs Border preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 16 Oct, 2026, 4:30 pm.",
+    "excerpt": "Limpopo vs Border — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 30°C / Low 18°C · Rain: 0 mm · Wind: up to 16 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Limpopo vs Border",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Limpopo vs Border cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Limpopo face Border in Pool A (T20) on Fri, 16 Oct, 2026, 4:30 pm at Polokwane Cricket Club Polokwane. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Limpopo vs Border"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 16 Oct, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "Polokwane Cricket Club Polokwane"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 16, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 30°C / Low 18°C · Rain: 0 mm · Wind: up to 16 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-sach-vs-engch-2026-10-16",
+    "title": "South Africa Champions vs England Champions Preview — Pitch, Weather & Lineup | Semi Final 1",
+    "description": "South Africa Champions vs England Champions preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 16 Oct, 2026, 5:00 pm.",
+    "excerpt": "South Africa Champions vs England Champions — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Foggy · High 37°C / Low 27°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover exp…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Africa Champions vs England Champions",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Africa Champions vs England Champions cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Africa Champions face England Champions in Semi Final 1 (T20) on Fri, 16 Oct, 2026, 5:00 pm at Sharjah Cricket Stadium Sharjah. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Africa Champions vs England Champions"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "World Championship of Legends 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 16 Oct, 2026, 5:00 pm"
+          ],
+          [
+            "Venue",
+            "Sharjah Cricket Stadium Sharjah"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 16, 11:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Foggy · High 37°C / Low 27°C · Rain: 0 mm · Wind: up to 14 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-swd-vs-war-2026-10-16",
+    "title": "South Western Districts vs Warriors Preview — Pitch, Weather & Lineup | Pool A",
+    "description": "South Western Districts vs Warriors preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 16 Oct, 2026, 4:30 pm.",
+    "excerpt": "South Western Districts vs Warriors — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 27°C / Low 25°C · Rain: 4.1 mm · Wind: up to 36 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "South Western Districts vs Warriors",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "South Western Districts vs Warriors cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: South Western Districts face Warriors in Pool A (T20) on Fri, 16 Oct, 2026, 4:30 pm at Recreation Ground Oudtshoorn. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "South Western Districts vs Warriors"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 16 Oct, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "Recreation Ground Oudtshoorn"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 16, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 27°C / Low 25°C · Rain: 4.1 mm · Wind: up to 36 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-15",
     "title": "Cricket Daily Digest — Thursday, 15 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 2+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

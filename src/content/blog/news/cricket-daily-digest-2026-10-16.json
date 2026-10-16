@@ -1,0 +1,175 @@
+{
+  "slug": "cricket-daily-digest-2026-10-16",
+  "title": "Cricket Daily Digest — Friday, 16 October 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 16 October 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-16",
+  "updatedAt": "2026-10-16",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-10-16 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 16 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Fri, 16 Oct, 2026, 7:00 pm",
+          "India Women vs Zimbabwe Women",
+          "T20",
+          "Raipur",
+          "Zimbabwe Women tour of India, 2026"
+        ],
+        [
+          "Fri, 16 Oct, 2026, 4:30 pm",
+          "South Western Districts vs Warriors",
+          "T20",
+          "Oudtshoorn",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Fri, 16 Oct, 2026, 4:30 pm",
+          "Limpopo vs Border",
+          "T20",
+          "Polokwane",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Fri, 16 Oct, 2026, 5:00 pm",
+          "South Africa Champions vs England Champions",
+          "T20",
+          "Sharjah",
+          "World Championship of Legends 2026"
+        ],
+        [
+          "Fri, 16 Oct, 2026, 9:00 pm",
+          "Australia Champions vs West Indies Champions",
+          "T20",
+          "Sharjah",
+          "World Championship of Legends 2026"
+        ],
+        [
+          "Sat, 17 Oct, 2026, 4:30 am",
+          "Hobart Hurricanes Women vs Perth Scorchers Women",
+          "T20",
+          "Sydney",
+          "T20 Spring Challenge 2026"
+        ],
+        [
+          "Sat, 17 Oct, 2026, 4:30 am",
+          "Sydney Thunder Women vs Melbourne Renegades Women",
+          "T20",
+          "Sydney",
+          "T20 Spring Challenge 2026"
+        ],
+        [
+          "Sat, 17 Oct, 2026, 9:00 am",
+          "ACT Women vs Melbourne Stars Women",
+          "T20",
+          "Sydney",
+          "T20 Spring Challenge 2026"
+        ],
+        [
+          "Sat, 17 Oct, 2026, 9:00 am",
+          "Sydney Sixers Women vs Adelaide Strikers Women",
+          "T20",
+          "Sydney",
+          "T20 Spring Challenge 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Canada vs Oman (137th Match, ODI): Canada won by 58 runs — CAN: 256/10 (49.6 ov) | OMAN: 198/10 (46.3 ov)",
+        "United States of America vs Namibia (136th Match, ODI): Namibia won by 6 wkts — USA: 277/7 (49.6 ov) | NAM: 278/4 (48.3 ov)",
+        "Nepal vs Oman (135th Match, ODI): Nepal won by 113 runs — NEP: 263/8 (49.6 ov) | OMAN: 150/10 (39.6 ov)",
+        "Queensland vs Western Australia (9th Match, ODI): Queensland won by 15 runs — QL: 261/10 (45.2 ov) | WA: 246/10 (43.6 ov)",
+        "Tasmania vs New South Wales (8th Match, ODI): Tasmania won by 57 runs (DLS method)  -  30 overs game due to rain, NSW target 216 runs  — TAS: 203/10 (29.1 ov) | NSW: 158/10 (25.6 ov)",
+        "South Australia vs Victoria (7th Match, ODI): South Australia won by 70 runs — SAUS: 311/10 (49.3 ov) | VIC: 241/10 (43.5 ov)",
+        "United Arab Emirates vs United States of America (134th Match, ODI): United States of America won by 5 wkts — UAE: 213/10 (46.3 ov) | USA: 214/5 (38.4 ov)",
+        "Nepal vs Canada (133rd Match, ODI): Nepal won by 24 runs — NEP: 235/10 (49.6 ov) | CAN: 211/10 (48.4 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Mahmud takes Test hat-trick - can you name the others in past 40 years? — Bangladesh seamer Hasan Mahmud takes a hat-trick - but can you name all the others to do so in a men's Test in the past ",
+        "'What this team has been crying out for' - Renshaw 190 lifts Australia — After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push hi",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca",
+        "How do you read a cricket scorecard? — Our Ask Me Anything team break down what everything means on a cricket scorecard."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "SA chief pledges review over 'disappointing' Test crowds",
+        "England include red-ball game in India tour as Ashes prep",
+        "Crawley signs Kent extension after losing England deal",
+        "Veteran Derbyshire captain Madsen signs new deal",
+        "Rusty or something more? South Africa's concern after Australia loss"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
