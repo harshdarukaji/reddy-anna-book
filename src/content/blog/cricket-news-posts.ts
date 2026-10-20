@@ -3,6 +3,993 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-20",
+    "title": "Cricket Daily Digest — Tuesday, 20 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 8+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 20 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-20 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 20 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Tue, 20 Oct, 2026, 1:30 pm",
+            "Pakistan vs England",
+            "ODI",
+            "Rawalpindi",
+            "Pakistan ODI Tri-Series, 2026"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 1:45 pm",
+            "Australia Women vs New Zealand Women",
+            "T20",
+            "Sydney",
+            "New Zealand Women tour of Australia, 202"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 2:30 pm",
+            "Uganda vs Zambia",
+            "T20",
+            "Abuja",
+            "ICC Men's T20 World Cup Africa Sub Regio"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 6:30 pm",
+            "Lesotho vs Mozambique",
+            "T20",
+            "Abuja",
+            "ICC Men's T20 World Cup Africa Sub Regio"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 6:30 pm",
+            "Nigeria vs Gambia",
+            "T20",
+            "Abuja",
+            "ICC Men's T20 World Cup Africa Sub Regio"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 7:00 pm",
+            "India Women vs Zimbabwe Women",
+            "T20",
+            "Raipur",
+            "Zimbabwe Women tour of India, 2026"
+          ],
+          [
+            "Tue, 20 Oct, 2026, 9:30 pm",
+            "Dolphins vs Warriors",
+            "T20",
+            "Durban",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Wed, 21 Oct, 2026, 8:30 am",
+            "Perth Scorchers Women vs TBC",
+            "T20",
+            "Sydney",
+            "T20 Spring Challenge"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Afghanistan vs Zimbabwe (2nd Match, ODI): Afghanistan won by 158 runs — AFG: 294/10 (49.6 ov) | ZIM: 136/10 (38.4 ov)",
+          "Nepal vs Oman (139th Match, ODI): Nepal won by 10 runs — NEP: 280/10 (49.6 ov) | OMAN: 270/7 (49.6 ov)",
+          "Pakistan vs Sri Lanka (1st Match, ODI): Pakistan won by 37 runs — PAK: 305/10 (49.5 ov) | SL: 268/10 (48.1 ov)",
+          "Chandigarh vs Haryana (Elite Group D, TEST): Haryana won by an innings and 24 runs — CDG: 103/10 (41.3 ov) & 118/10 (46.6 ov) | HAR: 245/10 (77.1 ov)",
+          "Zimbabwe vs Bangladesh (1st Match, ODI): Zimbabwe won by 99 runs — ZIM: 271/8 (49.6 ov) | BAN: 172/10 (33.4 ov)",
+          "Canada vs Nepal (138th Match, ODI): Canada won by 24 runs — CAN: 256/10 (49.6 ov) | NEP: 232/10 (45.6 ov)",
+          "South Australia vs Queensland (10th Match, ODI): South Australia won by 126 runs — SAUS: 397/7 (49.6 ov) | QL: 271/10 (40.1 ov)",
+          "Canada vs Oman (137th Match, ODI): Canada won by 58 runs — CAN: 256/10 (49.6 ov) | OMAN: 198/10 (46.3 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England coach should be English, suggests Fleming",
+          "Boland exposes South Africa's frailties to give Robinson blueprint",
+          "Brook says he has 'learned a lot' from off-field issues",
+          "Test Match Special Podcast",
+          "How one rule change is altering the face of one-day cricket"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-20-boland-exposes-south-africa-s-frailties-to-give-ro",
+    "title": "Boland exposes South Africa's frailties to give Robinson blueprint | Cricket News",
+    "description": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+    "excerpt": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Boland exposes South Africa's frailties to give Robinson blueprint",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Boland exposes South Africa's frailties to give Robinson blueprint. Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-20-brook-says-he-has-learned-a-lot-from-off-field-iss",
+    "title": "Brook says he has 'learned a lot' from off-field issues | Cricket News",
+    "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
+    "excerpt": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Brook says he has 'learned a lot' from off-field issues",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Brook says he has 'learned a lot' from off-field issues. White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-20-england-coach-should-be-english-suggests-fleming",
+    "title": "England coach should be English, suggests Fleming | Cricket News",
+    "description": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+    "excerpt": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England coach should be English, suggests Fleming",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England coach should be English, suggests Fleming. New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-20-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-afg-vs-zim-2026-10-19",
+    "title": "Afghanistan won by 158 runs | 2nd Match Cricket News",
+    "description": "Afghanistan vs Zimbabwe result: Afghanistan won by 158 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Afghanistan won by 158 runs — AFG: 294/10 (49.6 ov) | ZIM: 136/10 (38.4 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Afghanistan vs Zimbabwe result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Afghanistan vs Zimbabwe cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Afghanistan vs Zimbabwe (2nd Match, ODI) — Afghanistan won by 158 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Afghanistan",
+            "294/10 (49.6 ov)"
+          ],
+          [
+            "Zimbabwe",
+            "136/10 (38.4 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Afghanistan won by 158 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Afghanistan chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Sediqullah Atal delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nep-vs-oman-2026-10-19",
+    "title": "Nepal won by 10 runs | 139th Match Cricket News",
+    "description": "Nepal vs Oman result: Nepal won by 10 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Nepal won by 10 runs — NEP: 280/10 (49.6 ov) | OMAN: 270/7 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nepal vs Oman result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nepal vs Oman cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Nepal vs Oman (139th Match, ODI) — Nepal won by 10 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Nepal",
+            "280/10 (49.6 ov)"
+          ],
+          [
+            "Oman",
+            "270/7 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Nepal won by 10 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Nepal chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Dipendra Singh Airee delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ausw-vs-nzw-2026-10-20",
+    "title": "Australia Women vs New Zealand Women Preview — Pitch, Weather & Lineup | 2nd T20I",
+    "description": "Australia Women vs New Zealand Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 20 Oct, 2026, 1:45 pm.",
+    "excerpt": "Australia Women vs New Zealand Women — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Drizzle · High 21°C / Low 14°C · Rain: 1 mm · Wind: up to 21 km/h. Light rain po…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Australia Women vs New Zealand Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Australia Women vs New Zealand Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Australia Women face New Zealand Women in 2nd T20I (T20) on Tue, 20 Oct, 2026, 1:45 pm at North Sydney Oval Sydney. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Australia Women vs New Zealand Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "New Zealand Women tour of Australia, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 20 Oct, 2026, 1:45 pm"
+          ],
+          [
+            "Venue",
+            "North Sydney Oval Sydney"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 20, 08:15 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 21°C / Low 14°C · Rain: 1 mm · Wind: up to 21 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-lso-vs-moz-2026-10-20",
+    "title": "Lesotho vs Mozambique Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Lesotho vs Mozambique preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 20 Oct, 2026, 6:30 pm.",
+    "excerpt": "Lesotho vs Mozambique — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 30°C / Low 24°C · Rain: 2.1 mm · Wind: up to 11 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lesotho vs Mozambique",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lesotho vs Mozambique cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Lesotho face Mozambique in 2nd Match (T20) on Tue, 20 Oct, 2026, 6:30 pm at Nigeria Cricket Federation Oval 1 Abuja. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Lesotho vs Mozambique"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 20 Oct, 2026, 6:30 pm"
+          ],
+          [
+            "Venue",
+            "Nigeria Cricket Federation Oval 1 Abuja"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 20, 13:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 30°C / Low 24°C · Rain: 2.1 mm · Wind: up to 11 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-pak-vs-eng-2026-10-20",
+    "title": "Pakistan vs England Preview — Pitch, Weather & Lineup | 2nd Match",
+    "description": "Pakistan vs England preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Tue, 20 Oct, 2026, 1:30 pm.",
+    "excerpt": "Pakistan vs England — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Mainly clear · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 7 km/h. Dry condi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan vs England",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan vs England cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Pakistan face England in 2nd Match (ODI) on Tue, 20 Oct, 2026, 1:30 pm at Rawalpindi Cricket Stadium Rawalpindi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Pakistan vs England"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Pakistan ODI Tri-Series, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 20 Oct, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Rawalpindi Cricket Stadium Rawalpindi"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 20, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 28°C / Low 17°C · Rain: 0 mm · Wind: up to 7 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-uga-vs-zmb-2026-10-20",
+    "title": "Uganda vs Zambia Preview — Pitch, Weather & Lineup | 1st Match",
+    "description": "Uganda vs Zambia preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 20 Oct, 2026, 2:30 pm.",
+    "excerpt": "Uganda vs Zambia — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 30°C / Low 24°C · Rain: 2.1 mm · Wind: up to 11 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Uganda vs Zambia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Uganda vs Zambia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Uganda face Zambia in 1st Match (T20) on Tue, 20 Oct, 2026, 2:30 pm at Nigeria Cricket Federation Oval 1 Abuja. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Uganda vs Zambia"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 20 Oct, 2026, 2:30 pm"
+          ],
+          [
+            "Venue",
+            "Nigeria Cricket Federation Oval 1 Abuja"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 20, 09:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 30°C / Low 24°C · Rain: 2.1 mm · Wind: up to 11 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-19",
     "title": "Cricket Daily Digest — Monday, 19 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 4+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
