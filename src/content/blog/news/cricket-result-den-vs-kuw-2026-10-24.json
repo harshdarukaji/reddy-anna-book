@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-den-vs-kuw-2026-10-24",
+  "title": "Denmark won by 102 runs | 34th Match Cricket News",
+  "description": "Denmark vs Kuwait result: Denmark won by 102 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Denmark won by 102 runs — DEN: 274/8 (49.6 ov) | KUW: 172/10 (29.4 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Denmark vs Kuwait result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-25",
+  "updatedAt": "2026-10-25",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Denmark vs Kuwait cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Denmark vs Kuwait (34th Match, ODI) — Denmark won by 102 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Denmark",
+          "274/8 (49.6 ov)"
+        ],
+        [
+          "Kuwait",
+          "172/10 (29.4 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Denmark won by 102 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Denmark chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Saif Ahmad delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

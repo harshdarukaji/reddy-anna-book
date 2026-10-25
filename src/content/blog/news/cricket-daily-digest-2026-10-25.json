@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-10-25",
+  "title": "Cricket Daily Digest — Sunday, 25 October 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 32+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Sunday, 25 October 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-25",
+  "updatedAt": "2026-10-25",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-10-25 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Sunday, 25 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sun, 25 Oct, 2026, 11:00 am",
+          "United Arab Emirates vs Netherlands",
+          "ODI",
+          "Dubai",
+          "ICC Cricket World Cup League Two 2023-27"
+        ],
+        [
+          "Sun, 25 Oct, 2026, 12:00 pm",
+          "Jersey vs Kenya",
+          "ODI",
+          "Nairobi",
+          "ICC CWC Challenge League A, 2024-26"
+        ],
+        [
+          "Sun, 25 Oct, 2026, 12:00 pm",
+          "Denmark vs Papua New Guinea",
+          "ODI",
+          "Nairobi",
+          "ICC CWC Challenge League A, 2024-26"
+        ],
+        [
+          "Sun, 25 Oct, 2026, 1:30 pm",
+          "Pakistan vs England",
+          "ODI",
+          "Lahore",
+          "Pakistan ODI Tri-Series, 2026"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 8:15 am",
+          "Sikkim vs Nagaland",
+          "TEST",
+          "Rangpo",
+          "Ranji Trophy Plate 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Saurashtra vs Assam",
+          "TEST",
+          "Rajkot",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Chhattisgarh vs Andhra",
+          "TEST",
+          "Raipur",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Jharkhand vs Delhi",
+          "TEST",
+          "Ranchi",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Maharashtra vs Gujarat",
+          "TEST",
+          "Pune",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Kerala vs Bengal",
+          "TEST",
+          "Thiruvananthapuram",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Odisha vs Services",
+          "TEST",
+          "Bhubaneswar",
+          "Ranji Trophy Elite 2026-27"
+        ],
+        [
+          "Mon, 26 Oct, 2026, 9:30 am",
+          "Mumbai vs Haryana",
+          "TEST",
+          "Mumbai",
+          "Ranji Trophy Elite 2026-27"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Namibia vs Ireland (2nd ODI, ODI): Namibia won by 31 runs — NAM: 321/6 (49.6 ov) | IRE: 290/10 (47.3 ov)",
+        "Denmark vs Kuwait (34th Match, ODI): Denmark won by 102 runs — DEN: 274/8 (49.6 ov) | KUW: 172/10 (29.4 ov)",
+        "Qatar vs Kenya (35th Match, ODI): Qatar won by 4 runs — QAT: 283/10 (49.1 ov) | KEN: 279/10 (48.5 ov)",
+        "New South Wales vs Western Australia (12th Match, ODI): New South Wales won by 78 runs — NSW: 371/8 (49.6 ov) | WA: 293/10 (46.3 ov)",
+        "Victoria vs Tasmania (11th Match, ODI): Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276 — VIC: 304/7 (49.6 ov) | TAS: 137/10 (25.2 ov)",
+        "Zimbabwe vs Afghanistan (Final, ODI): Afghanistan won by 7 wkts — ZIM: 169/10 (43.3 ov) | AFG: 170/3 (34.3 ov)",
+        "England vs Sri Lanka (3rd Match, ODI): Sri Lanka won by 2 wkts — ENG: 429/4 (49.6 ov) | SL: 430/8 (49.5 ov)",
+        "Ireland vs Namibia (1st ODI, ODI): Ireland won by 55 runs — IRE: 229/9 (49.6 ov) | NAM: 174/10 (37.5 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Erasmus' 156 not out helps Namibia defeat Ireland — An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at ",
+        "Sri Lanka make 430 to beat England after Brook's 202 — Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team bei",
+        "England beaten in record-breaking thriller — Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
+        "Jersey ensure World Cup progress after PNG win — Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Pap",
+        "Why has Lord's dug up its pitch and what comes next? — After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic a",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Brook underlines status as world's best all-format batter in remarkable defeat",
+        "Tilak helps India edge past NZ - second T20 scorecard",
+        "Counties interested in Anderson after Lancs exit",
+        "What next for Australia after chastening defeat by South Africa?",
+        "Afghanistan beat Zimbabwe in ODI tri-series final - scorecard"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
