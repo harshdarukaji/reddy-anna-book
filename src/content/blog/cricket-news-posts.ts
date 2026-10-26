@@ -3,6 +3,816 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-26",
+    "title": "Cricket Daily Digest — Monday, 26 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 1+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 26 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-26 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 26 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 26 Oct, 2026, 4:30 pm",
+            "TBC vs TBC",
+            "T20",
+            "TBC",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England vs Pakistan (4th Match, ODI): Pakistan won by 1 wkt — ENG: 241/10 (46.4 ov) | PAK: 243/9 (47.1 ov)",
+          "Jersey vs Kenya (36th Match, ODI): Jersey won by 123 runs — JER: 320/9 (49.6 ov) | KEN: 197/10 (41.6 ov)",
+          "Denmark vs Papua New Guinea (37th Match, ODI): Papua New Guinea won by 4 wkts — DEN: 304/6 (49.6 ov) | PNG: 307/6 (49.1 ov)",
+          "United Arab Emirates vs Netherlands (140th Match, ODI): Netherlands won by 3 wkts — UAE: 244/8 (49.6 ov) | NED: 245/7 (43.5 ov)",
+          "Namibia vs Ireland (2nd ODI, ODI): Namibia won by 31 runs — NAM: 321/6 (49.6 ov) | IRE: 290/10 (47.3 ov)",
+          "Denmark vs Kuwait (34th Match, ODI): Denmark won by 102 runs — DEN: 274/8 (49.6 ov) | KUW: 172/10 (29.4 ov)",
+          "Qatar vs Kenya (35th Match, ODI): Qatar won by 4 runs — QAT: 283/10 (49.1 ov) | KEN: 279/10 (48.5 ov)",
+          "New South Wales vs Western Australia (12th Match, ODI): New South Wales won by 78 runs — NSW: 371/8 (49.6 ov) | WA: 293/10 (46.3 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Erasmus' 156 not out helps Namibia defeat Ireland — An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at ",
+          "Sri Lanka make 430 to beat England after Brook's 202 — Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team bei",
+          "Jersey ensure World Cup progress after PNG win — Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Pap",
+          "Why has Lord's dug up its pitch and what comes next? — After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic a",
+          "England beaten in record-breaking thriller — Reaction from Rawalpindi where England score 429 runs… and lose to Sri Lanka",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England lose to Pakistan after improbable last-wicket stand",
+          "Anderson stops short of retiring after Lancs exit",
+          "Test Match Special Podcast",
+          "Brook underlines status as world's best all-format batter in remarkable defeat",
+          "Tilak helps India edge past NZ - second T20 scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-anderson-stops-short-of-retiring-after-lancs-exit",
+    "title": "Anderson stops short of retiring after Lancs exit | Cricket News",
+    "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
+    "excerpt": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Anderson stops short of retiring after Lancs exit",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Anderson stops short of retiring after Lancs exit. James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-england-lose-to-pakistan-after-improbable-last-wic",
+    "title": "England lose to Pakistan after improbable last-wicket stand | Cricket News",
+    "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+    "excerpt": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England lose to Pakistan after improbable last-wicket stand",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England lose to Pakistan after improbable last-wicket stand. England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-erasmus-156-not-out-helps-namibia-defeat-ireland",
+    "title": "Erasmus' 156 not out helps Namibia defeat Ireland | Cricket News",
+    "description": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece.",
+    "excerpt": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cvx28ex38x7ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Erasmus' 156 not out helps Namibia defeat Ireland",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Erasmus' 156 not out helps Namibia defeat Ireland. An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece."
+      },
+      {
+        "type": "p",
+        "text": "An unbeaten 156 from Gerhard Erasmus sees Namibia level their five-game one-day international series against Ireland at one win apiece."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-jersey-ensure-world-cup-progress-after-png-win",
+    "title": "Jersey ensure World Cup progress after PNG win | Cricket News",
+    "description": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
+    "excerpt": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6qjnw2y9z5no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Jersey ensure World Cup progress after PNG win",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Jersey ensure World Cup progress after PNG win. Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi."
+      },
+      {
+        "type": "p",
+        "text": "Jersey ensure progression to the next round of qualifying for the Cricket World Cup after a record-breaking win over Papua New Guinea in Nairobi."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-sri-lanka-make-430-to-beat-england-after-brook-s-2",
+    "title": "Sri Lanka make 430 to beat England after Brook's 202 | Cricket News",
+    "description": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a ",
+    "excerpt": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sri Lanka make 430 to beat England after Brook's 202",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sri Lanka make 430 to beat England after Brook's 202. Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi."
+      },
+      {
+        "type": "p",
+        "text": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-26-test-match-special-podcast",
+    "title": "Test Match Special Podcast | Cricket News",
+    "description": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
+    "excerpt": "Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sounds/play/p0pjkv82?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Test Match Special Podcast",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Test Match Special Podcast. Reaction from Lahore as England lose by one wicket to Pakistan in dramatic fashion."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-den-vs-png-2026-10-25",
+    "title": "Papua New Guinea won by 4 wkts | 37th Match Cricket News",
+    "description": "Denmark vs Papua New Guinea result: Papua New Guinea won by 4 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Papua New Guinea won by 4 wkts — DEN: 304/6 (49.6 ov) | PNG: 307/6 (49.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Denmark vs Papua New Guinea result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Denmark vs Papua New Guinea cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Denmark vs Papua New Guinea (37th Match, ODI) — Papua New Guinea won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Denmark",
+            "304/6 (49.6 ov)"
+          ],
+          [
+            "Papua New Guinea",
+            "307/6 (49.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Papua New Guinea won by 4 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Papua New Guinea chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Tony Ura delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-eng-vs-pak-2026-10-25",
+    "title": "Pakistan won by 1 wkt | 4th Match Cricket News",
+    "description": "England vs Pakistan result: Pakistan won by 1 wkt. Scores, player of the match, and pitch report.",
+    "excerpt": "Pakistan won by 1 wkt — ENG: 241/10 (46.4 ov) | PAK: 243/9 (47.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England vs Pakistan result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England vs Pakistan cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: England vs Pakistan (4th Match, ODI) — Pakistan won by 1 wkt. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "England",
+            "241/10 (46.4 ov)"
+          ],
+          [
+            "Pakistan",
+            "243/9 (47.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Pakistan won by 1 wkt."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Pakistan chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Shadab Khan delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-jer-vs-ken-2026-10-25",
+    "title": "Jersey won by 123 runs | 36th Match Cricket News",
+    "description": "Jersey vs Kenya result: Jersey won by 123 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Jersey won by 123 runs — JER: 320/9 (49.6 ov) | KEN: 197/10 (41.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Jersey vs Kenya result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Jersey vs Kenya cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Jersey vs Kenya (36th Match, ODI) — Jersey won by 123 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Jersey",
+            "320/9 (49.6 ov)"
+          ],
+          [
+            "Kenya",
+            "197/10 (41.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Jersey won by 123 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Jersey chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Benjamin Ward delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-tbc-vs-tbc-2026-10-26",
+    "title": "TBC vs TBC Preview — Pitch, Weather & Lineup | Super Eights",
+    "description": "TBC vs TBC preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 26 Oct, 2026, 4:30 pm.",
+    "excerpt": "TBC vs TBC — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Weather data unavailable for this venue.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "TBC vs TBC",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "TBC vs TBC cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: TBC face TBC in Super Eights (T20) on Mon, 26 Oct, 2026, 4:30 pm at TBC TBC. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "TBC vs TBC"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 26 Oct, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "TBC TBC"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 26, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Weather data unavailable for this venue."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-25",
     "title": "Cricket Daily Digest — Sunday, 25 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 32+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

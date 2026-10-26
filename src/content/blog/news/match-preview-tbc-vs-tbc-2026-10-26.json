@@ -1,0 +1,113 @@
+{
+  "slug": "match-preview-tbc-vs-tbc-2026-10-26",
+  "title": "TBC vs TBC Preview — Pitch, Weather & Lineup | Super Eights",
+  "description": "TBC vs TBC preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 26 Oct, 2026, 4:30 pm.",
+  "excerpt": "TBC vs TBC — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Weather data unavailable for this venue.…",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "TBC vs TBC",
+    "pitch report",
+    "weather forecast"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-26",
+  "updatedAt": "2026-10-26",
+  "readingTime": 7,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "TBC vs TBC cricket match preview — pitch and weather report",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match preview: TBC face TBC in Super Eights (T20) on Mon, 26 Oct, 2026, 4:30 pm at TBC TBC. Full pitch report, weather forecast, and squad details below."
+    },
+    {
+      "type": "h2",
+      "text": "Match Details",
+      "id": "match-details"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Detail",
+        "Info"
+      ],
+      "rows": [
+        [
+          "Teams",
+          "TBC vs TBC"
+        ],
+        [
+          "Format",
+          "T20"
+        ],
+        [
+          "Series",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Date & Time (IST)",
+          "Mon, 26 Oct, 2026, 4:30 pm"
+        ],
+        [
+          "Venue",
+          "TBC TBC"
+        ],
+        [
+          "Status",
+          "Match starts at Oct 26, 11:00 GMT"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Report",
+      "id": "pitch-report"
+    },
+    {
+      "type": "p",
+      "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "p",
+      "text": "Expected par score: 160–180 runs par score."
+    },
+    {
+      "type": "h2",
+      "text": "Weather Report",
+      "id": "weather-report"
+    },
+    {
+      "type": "p",
+      "text": "Weather data unavailable for this venue."
+    },
+    {
+      "type": "h2",
+      "text": "Team Lineups & Squads",
+      "id": "lineups"
+    },
+    {
+      "type": "p",
+      "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

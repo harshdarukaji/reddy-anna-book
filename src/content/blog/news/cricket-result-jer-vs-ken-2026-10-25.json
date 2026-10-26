@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-jer-vs-ken-2026-10-25",
+  "title": "Jersey won by 123 runs | 36th Match Cricket News",
+  "description": "Jersey vs Kenya result: Jersey won by 123 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Jersey won by 123 runs — JER: 320/9 (49.6 ov) | KEN: 197/10 (41.6 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Jersey vs Kenya result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-26",
+  "updatedAt": "2026-10-26",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Jersey vs Kenya cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Jersey vs Kenya (36th Match, ODI) — Jersey won by 123 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Jersey",
+          "320/9 (49.6 ov)"
+        ],
+        [
+          "Kenya",
+          "197/10 (41.6 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Jersey won by 123 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Jersey chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Benjamin Ward delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
