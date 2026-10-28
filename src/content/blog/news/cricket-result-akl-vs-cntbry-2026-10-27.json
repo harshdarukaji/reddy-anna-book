@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-akl-vs-cntbry-2026-10-27",
+  "title": "Auckland won by 33 runs - 2nd innings reduced to 46 overs due to rain, target 345 | 1st Match Cricket News",
+  "description": "Auckland vs Canterbury result: Auckland won by 33 runs - 2nd innings reduced to 46 overs due to rain, target 345. Scores, player of the match, and pitch report.",
+  "excerpt": "Auckland won by 33 runs - 2nd innings reduced to 46 overs due to rain, target 345 — AKL: 361/5 (49.6 ov) | CNTBRY: 311/10 (44.1 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Auckland vs Canterbury result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Auckland vs Canterbury cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Auckland vs Canterbury (1st Match, ODI) — Auckland won by 33 runs - 2nd innings reduced to 46 overs due to rain, target 345. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Auckland",
+          "361/5 (49.6 ov)"
+        ],
+        [
+          "Canterbury",
+          "311/10 (44.1 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Auckland won by 33 runs - 2nd innings reduced to 46 overs due to rain, target 345."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Canterbury chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
