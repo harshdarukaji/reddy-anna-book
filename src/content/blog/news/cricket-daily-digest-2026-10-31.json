@@ -1,0 +1,198 @@
+{
+  "slug": "cricket-daily-digest-2026-10-31",
+  "title": "Cricket Daily Digest — Saturday, 31 October 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 31 October 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-31",
+  "updatedAt": "2026-10-31",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-10-31 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Saturday, 31 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sat, 31 Oct, 2026, 11:00 am",
+          "Netherlands vs United Arab Emirates",
+          "ODI",
+          "Dubai",
+          "ICC CWC League Two 2023-27"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 12:15 pm",
+          "Kenya vs Papua New Guinea",
+          "ODI",
+          "Nairobi",
+          "ICC CWC Challenge League A, 2024-26"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 12:15 pm",
+          "Qatar vs Jersey",
+          "ODI",
+          "Nairobi",
+          "ICC CWC Challenge League A, 2024-26"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 1:30 pm",
+          "Pakistan vs Sri Lanka",
+          "ODI",
+          "Lahore",
+          "Pakistan ODI Tri-Series, 2026"
+        ],
+        [
+          "Sun, 1 Nov, 2026, 3:00 am",
+          "Otago vs Central Stags",
+          "ODI",
+          "Dunedin",
+          "The Ford Trophy 2026-27"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 1:40 pm",
+          "Perth Scorchers Women vs Melbourne Renegades Women",
+          "T20",
+          "Perth",
+          "Womens Big Bash League 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 10:50 am",
+          "Sri Lanka vs Oman",
+          "T20",
+          "Mong Kok",
+          "Hong Kong Sixes 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 11:45 am",
+          "Hong Kong, China vs Pakistan",
+          "T20",
+          "Mong Kok",
+          "Hong Kong Sixes 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 12:40 pm",
+          "Australia vs United Arab Emirates",
+          "T20",
+          "Mong Kok",
+          "Hong Kong Sixes 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 1:35 pm",
+          "Scotland vs Afghanistan",
+          "T20",
+          "Mong Kok",
+          "Hong Kong Sixes 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 4:30 pm",
+          "South Western Districts vs Eastern Storm",
+          "T20",
+          "Oudtshoorn",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Sat, 31 Oct, 2026, 9:30 pm",
+          "Warriors vs Western Province",
+          "T20",
+          "Gqeberha",
+          "CSA T20 Challenge 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Northern Districts vs Auckland (4th Match, ODI): Auckland won by 4 wkts — ND: 167/10 (44.4 ov) | AKL: 170/6 (33.2 ov)",
+        "Canterbury vs Wellington (5th Match, ODI): Canterbury won by 209 runs — CNTBRY: 350/5 (49.6 ov) | WEL: 141/10 (32.2 ov)",
+        "Ireland vs Namibia (4th ODI, ODI): Ireland won by 130 runs — IRE: 298/8 (49.6 ov) | NAM: 168/10 (40.6 ov)",
+        "Papua New Guinea vs Kuwait (42nd Match, ODI): Kuwait won by 10 wkts — PNG: 119/10 (39.3 ov) | KUW: 123/0 (21.3 ov)",
+        "Jersey vs Denmark (43rd Match, ODI): Jersey won by 72 runs — JER: 312/8 (49.6 ov) | DEN: 240/10 (47.5 ov)",
+        "England vs Sri Lanka (6th Match, ODI): England won by 55 runs — ENG: 386/5 (49.6 ov) | SL: 331/10 (45.1 ov)",
+        "Oman vs United Arab Emirates (142nd Match, ODI): United Arab Emirates won by 4 wkts — OMAN: 196/10 (45.1 ov) | UAE: 199/6 (47.3 ov)",
+        "Wellington vs Otago (3rd Match, ODI): Otago won by 6 wkts — WEL: 213/10 (48.1 ov) | OTG: 214/4 (37.1 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Anderson 'shocked' by Lancs exit and unsure if he will continue — Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"so",
+        "Moondra's record 6-26 helps Ireland force decider — Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tou",
+        "Phillips ton helps NZ beat India in fourth T20 - scorecard — Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+        "Labuschagne's form hits record low but Australia hint at future — Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong posit",
+        "Abhishek hits 35-ball ton as India hammer New Zealand — Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "South Africa-Australia set for classic finale – what does history suggest could happen?",
+        "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
+        "Bangladesh v West Indies - first Test scorecard",
+        "Adelaide Strikers v Melbourne Stars - WBBL scorecard (from 04:40 GMT)",
+        "Duckett and Dawson deliver in England's consolation win"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

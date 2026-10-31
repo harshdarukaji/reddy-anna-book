@@ -3,6 +3,1214 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-10-31",
+    "title": "Cricket Daily Digest — Saturday, 31 October 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 31 October 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-10-31 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 31 October 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 31 Oct, 2026, 11:00 am",
+            "Netherlands vs United Arab Emirates",
+            "ODI",
+            "Dubai",
+            "ICC CWC League Two 2023-27"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 12:15 pm",
+            "Kenya vs Papua New Guinea",
+            "ODI",
+            "Nairobi",
+            "ICC CWC Challenge League A, 2024-26"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 12:15 pm",
+            "Qatar vs Jersey",
+            "ODI",
+            "Nairobi",
+            "ICC CWC Challenge League A, 2024-26"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 1:30 pm",
+            "Pakistan vs Sri Lanka",
+            "ODI",
+            "Lahore",
+            "Pakistan ODI Tri-Series, 2026"
+          ],
+          [
+            "Sun, 1 Nov, 2026, 3:00 am",
+            "Otago vs Central Stags",
+            "ODI",
+            "Dunedin",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 1:40 pm",
+            "Perth Scorchers Women vs Melbourne Renegades Women",
+            "T20",
+            "Perth",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 10:50 am",
+            "Sri Lanka vs Oman",
+            "T20",
+            "Mong Kok",
+            "Hong Kong Sixes 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 11:45 am",
+            "Hong Kong, China vs Pakistan",
+            "T20",
+            "Mong Kok",
+            "Hong Kong Sixes 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 12:40 pm",
+            "Australia vs United Arab Emirates",
+            "T20",
+            "Mong Kok",
+            "Hong Kong Sixes 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 1:35 pm",
+            "Scotland vs Afghanistan",
+            "T20",
+            "Mong Kok",
+            "Hong Kong Sixes 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 4:30 pm",
+            "South Western Districts vs Eastern Storm",
+            "T20",
+            "Oudtshoorn",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sat, 31 Oct, 2026, 9:30 pm",
+            "Warriors vs Western Province",
+            "T20",
+            "Gqeberha",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Northern Districts vs Auckland (4th Match, ODI): Auckland won by 4 wkts — ND: 167/10 (44.4 ov) | AKL: 170/6 (33.2 ov)",
+          "Canterbury vs Wellington (5th Match, ODI): Canterbury won by 209 runs — CNTBRY: 350/5 (49.6 ov) | WEL: 141/10 (32.2 ov)",
+          "Ireland vs Namibia (4th ODI, ODI): Ireland won by 130 runs — IRE: 298/8 (49.6 ov) | NAM: 168/10 (40.6 ov)",
+          "Papua New Guinea vs Kuwait (42nd Match, ODI): Kuwait won by 10 wkts — PNG: 119/10 (39.3 ov) | KUW: 123/0 (21.3 ov)",
+          "Jersey vs Denmark (43rd Match, ODI): Jersey won by 72 runs — JER: 312/8 (49.6 ov) | DEN: 240/10 (47.5 ov)",
+          "England vs Sri Lanka (6th Match, ODI): England won by 55 runs — ENG: 386/5 (49.6 ov) | SL: 331/10 (45.1 ov)",
+          "Oman vs United Arab Emirates (142nd Match, ODI): United Arab Emirates won by 4 wkts — OMAN: 196/10 (45.1 ov) | UAE: 199/6 (47.3 ov)",
+          "Wellington vs Otago (3rd Match, ODI): Otago won by 6 wkts — WEL: 213/10 (48.1 ov) | OTG: 214/4 (37.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Anderson 'shocked' by Lancs exit and unsure if he will continue — Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"so",
+          "Moondra's record 6-26 helps Ireland force decider — Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tou",
+          "Phillips ton helps NZ beat India in fourth T20 - scorecard — Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+          "Labuschagne's form hits record low but Australia hint at future — Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong posit",
+          "Abhishek hits 35-ball ton as India hammer New Zealand — Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "South Africa-Australia set for classic finale – what does history suggest could happen?",
+          "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
+          "Bangladesh v West Indies - first Test scorecard",
+          "Adelaide Strikers v Melbourne Stars - WBBL scorecard (from 04:40 GMT)",
+          "Duckett and Dawson deliver in England's consolation win"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-anderson-shocked-by-lancs-exit-and-unsure-if-he-wi",
+    "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue | Cricket News",
+    "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a",
+    "excerpt": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Anderson 'shocked' by Lancs exit and unsure if he will continue",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Anderson 'shocked' by Lancs exit and unsure if he will continue. Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\"."
+      },
+      {
+        "type": "p",
+        "text": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\"."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-arrivederci-lancs-buongiorno-napoli-anderson-on-la",
+    "title": "Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast | Cricket News",
+    "description": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
+    "excerpt": "Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sounds/play/p0pkfwdv?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Arrivederci Lancs, Buongiorno Napoli - Anderson on latest Tailenders podcast. Jimmy is back after a crazy 10 days. What next for him after his exit from Lancs?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-bangladesh-v-west-indies-first-test-scorecard",
+    "title": "Bangladesh v West Indies - first Test scorecard | Cricket News",
+    "description": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+    "excerpt": "Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244572?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Bangladesh v West Indies - first Test scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Bangladesh v West Indies - first Test scorecard. Latest scorecard from the first Test between Bangladesh and West Indies in Mirpur."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-moondra-s-record-6-26-helps-ireland-force-decider",
+    "title": "Moondra's record 6-26 helps Ireland force decider | Cricket News",
+    "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series again",
+    "excerpt": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series again",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Moondra's record 6-26 helps Ireland force decider",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Moondra's record 6-26 helps Ireland force decider. Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run "
+      },
+      {
+        "type": "p",
+        "text": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-phillips-ton-helps-nz-beat-india-in-fourth-t20-sco",
+    "title": "Phillips ton helps NZ beat India in fourth T20 - scorecard | Cricket News",
+    "description": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+    "excerpt": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242111?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Phillips ton helps NZ beat India in fourth T20 - scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Phillips ton helps NZ beat India in fourth T20 - scorecard. Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland."
+      },
+      {
+        "type": "p",
+        "text": "Latest scorecard from the fourth Twenty20 international between New Zealand and India in Auckland."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-10-31-south-africa-australia-set-for-classic-finale-what",
+    "title": "South Africa-Australia set for classic finale – what does history suggest could happen? | Cricket News",
+    "description": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+    "excerpt": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: South Africa-Australia set for classic finale – what does history suggest could happen?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: South Africa-Australia set for classic finale – what does history suggest could happen?. South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-cntbry-vs-wel-2026-10-30",
+    "title": "Canterbury won by 209 runs | 5th Match Cricket News",
+    "description": "Canterbury vs Wellington result: Canterbury won by 209 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Canterbury won by 209 runs — CNTBRY: 350/5 (49.6 ov) | WEL: 141/10 (32.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Canterbury vs Wellington result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Canterbury vs Wellington cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Canterbury vs Wellington (5th Match, ODI) — Canterbury won by 209 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Canterbury",
+            "350/5 (49.6 ov)"
+          ],
+          [
+            "Wellington",
+            "141/10 (32.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Canterbury won by 209 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Wellington chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ire-vs-nam-2026-10-30",
+    "title": "Ireland won by 130 runs | 4th ODI Cricket News",
+    "description": "Ireland vs Namibia result: Ireland won by 130 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Ireland won by 130 runs — IRE: 298/8 (49.6 ov) | NAM: 168/10 (40.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland vs Namibia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland vs Namibia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Ireland vs Namibia (4th ODI, ODI) — Ireland won by 130 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Ireland",
+            "298/8 (49.6 ov)"
+          ],
+          [
+            "Namibia",
+            "168/10 (40.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Ireland won by 130 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Namibia chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Jai Moondra delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nd-vs-akl-2026-10-30",
+    "title": "Auckland won by 4 wkts | 4th Match Cricket News",
+    "description": "Northern Districts vs Auckland result: Auckland won by 4 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Auckland won by 4 wkts — ND: 167/10 (44.4 ov) | AKL: 170/6 (33.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Northern Districts vs Auckland result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Northern Districts vs Auckland cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Northern Districts vs Auckland (4th Match, ODI) — Auckland won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Northern Districts",
+            "167/10 (44.4 ov)"
+          ],
+          [
+            "Auckland",
+            "170/6 (33.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Auckland won by 4 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Auckland chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ken-vs-png-2026-10-31",
+    "title": "Kenya vs Papua New Guinea Preview — Pitch, Weather & Lineup | 44th Match",
+    "description": "Kenya vs Papua New Guinea preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 31 Oct, 2026, 12:15 pm.",
+    "excerpt": "Kenya vs Papua New Guinea — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Variable conditions · High 24°C / Low 16°C · Rain: 8.8 mm · Wind: up to 17 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Kenya vs Papua New Guinea",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Kenya vs Papua New Guinea cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Kenya face Papua New Guinea in 44th Match (ODI) on Sat, 31 Oct, 2026, 12:15 pm at Gymkhana Club Ground Nairobi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Kenya vs Papua New Guinea"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League A, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 31 Oct, 2026, 12:15 pm"
+          ],
+          [
+            "Venue",
+            "Gymkhana Club Ground Nairobi"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 31, 06:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 24°C / Low 16°C · Rain: 8.8 mm · Wind: up to 17 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ned-vs-uae-2026-10-31",
+    "title": "Netherlands vs United Arab Emirates Preview — Pitch, Weather & Lineup | 143rd Match",
+    "description": "Netherlands vs United Arab Emirates preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 31 Oct, 2026, 11:00 am.",
+    "excerpt": "Netherlands vs United Arab Emirates — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 36°C / Low 23°C · Rain: 0 mm · Wind: up to 18 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Netherlands vs United Arab Emirates",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Netherlands vs United Arab Emirates cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Netherlands face United Arab Emirates in 143rd Match (ODI) on Sat, 31 Oct, 2026, 11:00 am at ICC Academy Ground Dubai. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Netherlands vs United Arab Emirates"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC League Two 2023-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 31 Oct, 2026, 11:00 am"
+          ],
+          [
+            "Venue",
+            "ICC Academy Ground Dubai"
+          ],
+          [
+            "Status",
+            "Netherlands opt to bat"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 36°C / Low 23°C · Rain: 0 mm · Wind: up to 18 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-pak-vs-sl-2026-10-31",
+    "title": "Pakistan vs Sri Lanka Preview — Pitch, Weather & Lineup | Final",
+    "description": "Pakistan vs Sri Lanka preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 31 Oct, 2026, 1:30 pm.",
+    "excerpt": "Pakistan vs Sri Lanka — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 28°C / Low 19°C · Rain: 0 mm · Wind: up to 7 km/h. Dry conditio…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan vs Sri Lanka",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan vs Sri Lanka cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Pakistan face Sri Lanka in Final (ODI) on Sat, 31 Oct, 2026, 1:30 pm at Gaddafi Stadium Lahore. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Pakistan vs Sri Lanka"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "Pakistan ODI Tri-Series, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 31 Oct, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Gaddafi Stadium Lahore"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 31, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 28°C / Low 19°C · Rain: 0 mm · Wind: up to 7 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-qat-vs-jer-2026-10-31",
+    "title": "Qatar vs Jersey Preview — Pitch, Weather & Lineup | 45th Match",
+    "description": "Qatar vs Jersey preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 31 Oct, 2026, 12:15 pm.",
+    "excerpt": "Qatar vs Jersey — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 24°C / Low 16°C · Rain: 11 mm · Wind: up to 18 km/h. Rain li…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Qatar vs Jersey",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Qatar vs Jersey cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Qatar face Jersey in 45th Match (ODI) on Sat, 31 Oct, 2026, 12:15 pm at Ruaraka Sports Club Ground Nairobi. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Qatar vs Jersey"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ICC CWC Challenge League A, 2024-26"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 31 Oct, 2026, 12:15 pm"
+          ],
+          [
+            "Venue",
+            "Ruaraka Sports Club Ground Nairobi"
+          ],
+          [
+            "Status",
+            "Match starts at Oct 31, 06:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 24°C / Low 16°C · Rain: 11 mm · Wind: up to 18 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-10-30",
     "title": "Cricket Daily Digest — Friday, 30 October 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 21+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",

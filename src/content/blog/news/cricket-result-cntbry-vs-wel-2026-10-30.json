@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-cntbry-vs-wel-2026-10-30",
+  "title": "Canterbury won by 209 runs | 5th Match Cricket News",
+  "description": "Canterbury vs Wellington result: Canterbury won by 209 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Canterbury won by 209 runs — CNTBRY: 350/5 (49.6 ov) | WEL: 141/10 (32.2 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Canterbury vs Wellington result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-10-31",
+  "updatedAt": "2026-10-31",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Canterbury vs Wellington cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Canterbury vs Wellington (5th Match, ODI) — Canterbury won by 209 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Canterbury",
+          "350/5 (49.6 ov)"
+        ],
+        [
+          "Wellington",
+          "141/10 (32.2 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Canterbury won by 209 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Wellington chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
