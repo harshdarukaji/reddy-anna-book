@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-sl-vs-pak-2026-10-31",
+  "title": "Pakistan won by 3 wkts | Final Cricket News",
+  "description": "Sri Lanka vs Pakistan result: Pakistan won by 3 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Pakistan won by 3 wkts — SL: 325/8 (49.6 ov) | PAK: 331/7 (48.3 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Sri Lanka vs Pakistan result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-11-01",
+  "updatedAt": "2026-11-01",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Sri Lanka vs Pakistan cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Sri Lanka vs Pakistan (Final, ODI) — Pakistan won by 3 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Sri Lanka",
+          "325/8 (49.6 ov)"
+        ],
+        [
+          "Pakistan",
+          "331/7 (48.3 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Pakistan won by 3 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Pakistan chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Fakhar Zaman delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
