@@ -3,6 +3,870 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-02",
+    "title": "Cricket Daily Digest — Monday, 2 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 3+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Monday, 2 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-02 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Monday, 2 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Mon, 2 Nov, 2026, 1:40 pm",
+            "Melbourne Stars Women vs Perth Scorchers Women",
+            "T20",
+            "Melbourne",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Mon, 2 Nov, 2026, 12:15 pm",
+            "Karnali Yaks vs Kathmandu Gorkhas",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Mon, 2 Nov, 2026, 4:15 pm",
+            "Chitwan Rhinos vs Sudur Paschim Royals",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ireland vs Namibia (5th ODI, ODI): Namibia won by 5 wkts — IRE: 129/10 (33.1 ov) | NAM: 131/5 (21.2 ov)",
+          "Otago vs Central Stags (6th Match, ODI): Otago won by 29 runs — OTG: 233/10 (49.5 ov) | CEN: 204/10 (47.5 ov)",
+          "Sri Lanka vs Pakistan (Final, ODI): Pakistan won by 3 wkts — SL: 325/8 (49.6 ov) | PAK: 331/7 (48.3 ov)",
+          "Kenya vs Papua New Guinea (44th Match, ODI): Kenya won by 88 runs  -  Match reduced to 38 overs due to rain  — KEN: 230/7 (37.6 ov) | PNG: 142/10 (30.1 ov)",
+          "Jersey vs Qatar (45th Match, ODI): Jersey won by 34 runs  -  Match reduced to 24 overs due to rain — JER: 194/8 (23.6 ov) | QAT: 160/10 (22.2 ov)",
+          "Netherlands vs United Arab Emirates (143rd Match, ODI): United Arab Emirates won by 5 wkts — NED: 263/4 (49.6 ov) | UAE: 266/5 (48.6 ov)",
+          "Northern Districts vs Auckland (4th Match, ODI): Auckland won by 4 wkts — ND: 167/10 (44.4 ov) | AKL: 170/6 (33.2 ov)",
+          "Canterbury vs Wellington (5th Match, ODI): Canterbury won by 209 runs — CNTBRY: 350/5 (49.6 ov) | WEL: 141/10 (32.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "McCullum reflects on tri-series and return to Australia — McCullum discusses taking a team down under for the first time since the Ashes.",
+          "Anderson 'shocked' by Lancs exit and unsure if he will continue — Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"so",
+          "Moondra's record 6-26 helps Ireland force decider — Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tou",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
+          "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+          "NZ win final T20 by seven wickets but India take series - scorecard",
+          "Namibia overpower Ireland in series decider",
+          "'Un-Australian' - Warner tears into former side after SA charge to win"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-anderson-shocked-by-lancs-exit-and-unsure-if-he-wi",
+    "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue | Cricket News",
+    "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a",
+    "excerpt": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Anderson 'shocked' by Lancs exit and unsure if he will continue",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Anderson 'shocked' by Lancs exit and unsure if he will continue. Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\"."
+      },
+      {
+        "type": "p",
+        "text": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\"."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-cummins-concerns-and-weaknesses-to-target-takeaway",
+    "title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia | Cricket News",
+    "description": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+    "excerpt": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Cummins concerns and weaknesses to target - takeaways from SA-Australia. With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?"
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-mccullum-reflects-on-tri-series-and-return-to-aust",
+    "title": "McCullum reflects on tri-series and return to Australia | Cricket News",
+    "description": "McCullum discusses taking a team down under for the first time since the Ashes.",
+    "excerpt": "McCullum discusses taking a team down under for the first time since the Ashes.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sounds/play/p0pkrdkb?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: McCullum reflects on tri-series and return to Australia",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: McCullum reflects on tri-series and return to Australia. McCullum discusses taking a team down under for the first time since the Ashes."
+      },
+      {
+        "type": "p",
+        "text": "McCullum discusses taking a team down under for the first time since the Ashes."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-moondra-s-record-6-26-helps-ireland-force-decider",
+    "title": "Moondra's record 6-26 helps Ireland force decider | Cricket News",
+    "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series again",
+    "excerpt": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series again",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Moondra's record 6-26 helps Ireland force decider",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Moondra's record 6-26 helps Ireland force decider. Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run "
+      },
+      {
+        "type": "p",
+        "text": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-nz-win-final-t20-by-seven-wickets-but-india-take-s",
+    "title": "NZ win final T20 by seven wickets but India take series - scorecard | Cricket News",
+    "description": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
+    "excerpt": "Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242112?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: NZ win final T20 by seven wickets but India take series - scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: NZ win final T20 by seven wickets but India take series - scorecard. Latest scorecard from the fifth Twenty20 international between New Zealand and India in Hamilton."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-02-tribe-unable-to-join-england-lions-after-trip-to-e",
+    "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya | Cricket News",
+    "description": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
+    "excerpt": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Tribe unable to join England Lions after trip to Ebola-hit Kenya",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Tribe unable to join England Lions after trip to Ebola-hit Kenya. Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-ire-vs-nam-2026-11-01",
+    "title": "Namibia won by 5 wkts | 5th ODI Cricket News",
+    "description": "Ireland vs Namibia result: Namibia won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Namibia won by 5 wkts — IRE: 129/10 (33.1 ov) | NAM: 131/5 (21.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland vs Namibia result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland vs Namibia cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Ireland vs Namibia (5th ODI, ODI) — Namibia won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Ireland",
+            "129/10 (33.1 ov)"
+          ],
+          [
+            "Namibia",
+            "131/5 (21.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Namibia won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Ireland chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "JJ Smit delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-chr-vs-spr-2026-11-02",
+    "title": "Chitwan Rhinos vs Sudur Paschim Royals Preview — Pitch, Weather & Lineup | 11th Match",
+    "description": "Chitwan Rhinos vs Sudur Paschim Royals preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 2 Nov, 2026, 4:15 pm.",
+    "excerpt": "Chitwan Rhinos vs Sudur Paschim Royals — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 23°C / Low 13°C · Rain: 1.6 mm · Wind: up to 6 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Chitwan Rhinos vs Sudur Paschim Royals",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Chitwan Rhinos vs Sudur Paschim Royals cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Chitwan Rhinos face Sudur Paschim Royals in 11th Match (T20) on Mon, 2 Nov, 2026, 4:15 pm at Tribhuvan University International Cricket Ground Kirtipur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Chitwan Rhinos vs Sudur Paschim Royals"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 2 Nov, 2026, 4:15 pm"
+          ],
+          [
+            "Venue",
+            "Tribhuvan University International Cricket Ground Kirtipur"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 02, 10:45 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 23°C / Low 13°C · Rain: 1.6 mm · Wind: up to 6 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-kay-vs-kag-2026-11-02",
+    "title": "Karnali Yaks vs Kathmandu Gorkhas Preview — Pitch, Weather & Lineup | 10th Match",
+    "description": "Karnali Yaks vs Kathmandu Gorkhas preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 2 Nov, 2026, 12:15 pm.",
+    "excerpt": "Karnali Yaks vs Kathmandu Gorkhas — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 23°C / Low 13°C · Rain: 1.6 mm · Wind: up to 6 km/h. Light …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Karnali Yaks vs Kathmandu Gorkhas",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Karnali Yaks vs Kathmandu Gorkhas cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Karnali Yaks face Kathmandu Gorkhas in 10th Match (T20) on Mon, 2 Nov, 2026, 12:15 pm at Tribhuvan University International Cricket Ground Kirtipur. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Karnali Yaks vs Kathmandu Gorkhas"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 2 Nov, 2026, 12:15 pm"
+          ],
+          [
+            "Venue",
+            "Tribhuvan University International Cricket Ground Kirtipur"
+          ],
+          [
+            "Status",
+            "Kathmandu Gorkhas opt to bowl"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 23°C / Low 13°C · Rain: 1.6 mm · Wind: up to 6 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-mlsw-vs-prsw-2026-11-02",
+    "title": "Melbourne Stars Women vs Perth Scorchers Women Preview — Pitch, Weather & Lineup | 8th Match",
+    "description": "Melbourne Stars Women vs Perth Scorchers Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Mon, 2 Nov, 2026, 1:40 pm.",
+    "excerpt": "Melbourne Stars Women vs Perth Scorchers Women — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Variable conditions · High 19°C / Low 10°C · Rain: 16.2 mm · Wind: up to 11 km/h…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Melbourne Stars Women vs Perth Scorchers Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Melbourne Stars Women vs Perth Scorchers Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Melbourne Stars Women face Perth Scorchers Women in 8th Match (T20) on Mon, 2 Nov, 2026, 1:40 pm at Junction Oval Melbourne. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Melbourne Stars Women vs Perth Scorchers Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Mon, 2 Nov, 2026, 1:40 pm"
+          ],
+          [
+            "Venue",
+            "Junction Oval Melbourne"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 02, 08:10 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 19°C / Low 10°C · Rain: 16.2 mm · Wind: up to 11 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-01",
     "title": "Cricket Daily Digest — Sunday, 1 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 30+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
