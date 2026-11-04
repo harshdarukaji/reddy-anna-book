@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-wel-vs-nd-2026-11-03",
+  "title": "Wellington won by 202 runs | 8th Match Cricket News",
+  "description": "Wellington vs Northern Districts result: Wellington won by 202 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Wellington won by 202 runs — WEL: 354/7 (49.6 ov) | ND: 152/10 (35.1 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Wellington vs Northern Districts result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Wellington vs Northern Districts cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Wellington vs Northern Districts (8th Match, ODI) — Wellington won by 202 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Wellington",
+          "354/7 (49.6 ov)"
+        ],
+        [
+          "Northern Districts",
+          "152/10 (35.1 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Wellington won by 202 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Northern Districts chose bowling."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
