@@ -3,6 +3,1128 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-06",
+    "title": "Cricket Daily Digest — Friday, 6 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 6 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-06 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 6 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 7 Nov, 2026, 3:30 am",
+            "New Zealand A vs India A",
+            "TEST",
+            "Lincoln",
+            "India A tour of New Zealand, 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 7:30 am",
+            "New Zealand vs India",
+            "ODI",
+            "Wellington",
+            "India tour of New Zealand 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 9:00 am",
+            "Western Australia vs England",
+            "ODI",
+            "Perth",
+            "England tour of Australia, 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 10:30 am",
+            "Afghanistan U19 vs Malaysia U19",
+            "ODI",
+            "Al Amerat",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 10:30 am",
+            "Sri Lanka U19 vs Bangladesh U19",
+            "ODI",
+            "Al Amerat",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 12:00 pm",
+            "Uganda Women vs Namibia Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 1:40 pm",
+            "Melbourne Stars Women vs Sydney Sixers Women",
+            "T20",
+            "Melbourne",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 4:30 pm",
+            "Rwanda Women vs United States of America Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 12:00 pm",
+            "Namibia Women vs United States of America Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 12:15 pm",
+            "Sudur Paschim Royals vs Karnali Yaks",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 4:45 pm",
+            "Chitwan Rhinos vs Pokhara Avengers",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Fri, 6 Nov, 2026, 9:30 pm",
+            "Eastern Storm vs Dolphins",
+            "T20",
+            "Benoni",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Malaysia U19 vs Sri Lanka U19 (1st Match, Group B, ODI): Sri Lanka U19 won by 9 wkts — MLYU19: 88/10 (28.1 ov) | SLU19: 91/1 (13.5 ov)",
+          "Afghanistan U19 vs Bangladesh U19 (2nd Match, Group B, ODI): Afghanistan U19 won by 113 runs — AFGU19: 231/10 (48.6 ov) | BANU19: 118/10 (25.5 ov)",
+          "United Arab Emirates vs Oman (145th Match, ODI): United Arab Emirates won by 42 runs — UAE: 226/8 (49.6 ov) | OMAN: 184/9 (49.6 ov)",
+          "New Zealand vs India (1st ODI, ODI): India won by 5 wkts  -  2nd inns reduced to 32 overs - DLS Target 143 — NZ: 185/10 (40.2 ov) | IND: 143/5 (22.4 ov)",
+          "Canterbury vs Otago (9th Match, ODI): Otago won by 6 wkts (46 Overs game due to rain) — CNTBRY: 175/10 (43.3 ov) | OTG: 176/4 (36.6 ov)",
+          "Auckland vs Central Stags (7th Match, ODI): Auckland won by 74 runs — AKL: 357/7 (49.6 ov) | CEN: 283/10 (45.5 ov)",
+          "Wellington vs Northern Districts (8th Match, ODI): Wellington won by 202 runs — WEL: 354/7 (49.6 ov) | ND: 152/10 (35.1 ov)",
+          "Oman vs Netherlands (144th Match, ODI): Netherlands won by 7 wkts — OMAN: 182/10 (49.2 ov) | NED: 183/3 (35.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Knott century helps Heat beat Strikers - WBBL scorecard — Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyn",
+          "Jersey playing at highest level ever - Tribe — Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Anderson could be given chance to join Surrey",
+          "Northants' Lynn served drugs ban after Blast final",
+          "Gloucestershire to rebrand as Bristol for T20 Blast",
+          "Robinson returns to Sussex as director of cricket",
+          "Leicestershire relegation confirmed after losing appeal"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-anderson-could-be-given-chance-to-join-surrey",
+    "title": "Anderson could be given chance to join Surrey | Cricket News",
+    "description": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+    "excerpt": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Anderson could be given chance to join Surrey",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Anderson could be given chance to join Surrey. James Anderson could be given the opportunity to extend his legendary career by joining Surrey."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-gloucestershire-to-rebrand-as-bristol-for-t20-blas",
+    "title": "Gloucestershire to rebrand as Bristol for T20 Blast | Cricket News",
+    "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+    "excerpt": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Gloucestershire to rebrand as Bristol for T20 Blast",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Gloucestershire to rebrand as Bristol for T20 Blast. Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-jersey-playing-at-highest-level-ever-tribe",
+    "title": "Jersey playing at highest level ever - Tribe | Cricket News",
+    "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+    "excerpt": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Jersey playing at highest level ever - Tribe",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Jersey playing at highest level ever - Tribe. Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket."
+      },
+      {
+        "type": "p",
+        "text": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-knott-century-helps-heat-beat-strikers-wbbl-scorec",
+    "title": "Knott century helps Heat beat Strikers - WBBL scorecard | Cricket News",
+    "description": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
+    "excerpt": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242424?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Knott century helps Heat beat Strikers - WBBL scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Knott century helps Heat beat Strikers - WBBL scorecard. Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval."
+      },
+      {
+        "type": "p",
+        "text": "Latest scorecard from the Women's Big Bash League match between Adelaide Strikers and Brisbane Heat at Sydney's Drummoyne Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-northants-lynn-served-drugs-ban-after-blast-final",
+    "title": "Northants' Lynn served drugs ban after Blast final | Cricket News",
+    "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+    "excerpt": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Northants' Lynn served drugs ban after Blast final",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Northants' Lynn served drugs ban after Blast final. Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-06-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-afgu19-vs-banu19-2026-11-05",
+    "title": "Afghanistan U19 won by 113 runs | 2nd Match, Group B Cricket News",
+    "description": "Afghanistan U19 vs Bangladesh U19 result: Afghanistan U19 won by 113 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Afghanistan U19 won by 113 runs — AFGU19: 231/10 (48.6 ov) | BANU19: 118/10 (25.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Afghanistan U19 vs Bangladesh U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Afghanistan U19 vs Bangladesh U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Afghanistan U19 vs Bangladesh U19 (2nd Match, Group B, ODI) — Afghanistan U19 won by 113 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Afghanistan U19",
+            "231/10 (48.6 ov)"
+          ],
+          [
+            "Bangladesh U19",
+            "118/10 (25.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Afghanistan U19 won by 113 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Afghanistan U19 chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Shah Faisal Rahimi delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-mlyu19-vs-slu19-2026-11-05",
+    "title": "Sri Lanka U19 won by 9 wkts | 1st Match, Group B Cricket News",
+    "description": "Malaysia U19 vs Sri Lanka U19 result: Sri Lanka U19 won by 9 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Sri Lanka U19 won by 9 wkts — MLYU19: 88/10 (28.1 ov) | SLU19: 91/1 (13.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Malaysia U19 vs Sri Lanka U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Malaysia U19 vs Sri Lanka U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Malaysia U19 vs Sri Lanka U19 (1st Match, Group B, ODI) — Sri Lanka U19 won by 9 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Malaysia U19",
+            "88/10 (28.1 ov)"
+          ],
+          [
+            "Sri Lanka U19",
+            "91/1 (13.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Sri Lanka U19 won by 9 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Sri Lanka U19 chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-afgu19-vs-mlyu19-2026-11-07",
+    "title": "Afghanistan U19 vs Malaysia U19 Preview — Pitch, Weather & Lineup | 5th Match, Group B",
+    "description": "Afghanistan U19 vs Malaysia U19 preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 7 Nov, 2026, 10:30 am.",
+    "excerpt": "Afghanistan U19 vs Malaysia U19 — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Mainly clear · High 34°C / Low 23°C · Rain: 0 mm · Wind: up to 15 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Afghanistan U19 vs Malaysia U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Afghanistan U19 vs Malaysia U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Afghanistan U19 face Malaysia U19 in 5th Match, Group B (ODI) on Sat, 7 Nov, 2026, 10:30 am at Al Amerat Cricket Ground (Ministry Turf 2) Al Amerat. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Afghanistan U19 vs Malaysia U19"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 7 Nov, 2026, 10:30 am"
+          ],
+          [
+            "Venue",
+            "Al Amerat Cricket Ground (Ministry Turf 2) Al Amerat"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 07, 05:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 34°C / Low 23°C · Rain: 0 mm · Wind: up to 15 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nz-vs-ind-2026-11-07",
+    "title": "New Zealand vs India Preview — Pitch, Weather & Lineup | 2nd ODI",
+    "description": "New Zealand vs India preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 7 Nov, 2026, 7:30 am.",
+    "excerpt": "New Zealand vs India — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light drizzle · High 19°C / Low 16°C · Rain: 1.6 mm · Wind: up to 25 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New Zealand vs India",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New Zealand vs India cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: New Zealand face India in 2nd ODI (ODI) on Sat, 7 Nov, 2026, 7:30 am at Hnry Stadium Wellington. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "New Zealand vs India"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "India tour of New Zealand 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 7 Nov, 2026, 7:30 am"
+          ],
+          [
+            "Venue",
+            "Hnry Stadium Wellington"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 07, 02:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 19°C / Low 16°C · Rain: 1.6 mm · Wind: up to 25 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nza-vs-inda-2026-11-06",
+    "title": "New Zealand A vs India A Preview — Pitch, Weather & Lineup | 3rd Unofficial Test",
+    "description": "New Zealand A vs India A preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Sat, 7 Nov, 2026, 3:30 am.",
+    "excerpt": "New Zealand A vs India A — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Rain showers · High 27°C / Low 16°C · Rain: 3.2 mm · Wind: up to 27 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New Zealand A vs India A",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New Zealand A vs India A cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: New Zealand A face India A in 3rd Unofficial Test (TEST) on Sat, 7 Nov, 2026, 3:30 am at Bert Sutcliffe Oval Lincoln. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "New Zealand A vs India A"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "India A tour of New Zealand, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 7 Nov, 2026, 3:30 am"
+          ],
+          [
+            "Venue",
+            "Bert Sutcliffe Oval Lincoln"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 07, 22:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 27°C / Low 16°C · Rain: 3.2 mm · Wind: up to 27 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wa-vs-eng-2026-11-07",
+    "title": "Western Australia vs England Preview — Pitch, Weather & Lineup | Tour Match",
+    "description": "Western Australia vs England preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 7 Nov, 2026, 9:00 am.",
+    "excerpt": "Western Australia vs England — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Mainly clear · High 27°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Dry cond…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Western Australia vs England",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-06",
+    "updatedAt": "2026-11-06",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Western Australia vs England cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Western Australia face England in Tour Match (ODI) on Sat, 7 Nov, 2026, 9:00 am at W.A.C.A. Ground Perth. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Western Australia vs England"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England tour of Australia, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 7 Nov, 2026, 9:00 am"
+          ],
+          [
+            "Venue",
+            "W.A.C.A. Ground Perth"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 07, 03:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Mainly clear · High 27°C / Low 16°C · Rain: 0 mm · Wind: up to 17 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-05",
     "title": "Cricket Daily Digest — Thursday, 5 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
