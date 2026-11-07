@@ -3,6 +3,1021 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-07",
+    "title": "Cricket Daily Digest — Saturday, 7 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 17+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 7 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-07 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 7 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 7 Nov, 2026, 11:30 pm",
+            "West Indies A vs England Lions",
+            "ODI",
+            "Basseterre, St Kitts",
+            "England Lions tour of West Indies, 2026"
+          ],
+          [
+            "Sun, 8 Nov, 2026, 3:00 am",
+            "Northern Districts vs Otago",
+            "ODI",
+            "Whangarei",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Sun, 8 Nov, 2026, 3:00 am",
+            "Wellington vs Auckland",
+            "ODI",
+            "Wellington",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Sun, 8 Nov, 2026, 3:00 am",
+            "Central Stags vs Canterbury",
+            "ODI",
+            "Napier",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Sun, 8 Nov, 2026, 10:30 am",
+            "United Arab Emirates U19 vs Nepal U19",
+            "ODI",
+            "Al Amerat",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Sun, 8 Nov, 2026, 10:30 am",
+            "India U19 vs Pakistan U19",
+            "ODI",
+            "Al Amerat",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 12:00 pm",
+            "Namibia Women vs United States of America Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 1:40 pm",
+            "Brisbane Heat Women vs Hobart Hurricanes Women",
+            "T20",
+            "Brisbane",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 4:30 pm",
+            "Uganda Women vs Rwanda Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 4:30 pm",
+            "Boland vs South Western Districts",
+            "T20",
+            "Paarl",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 4:45 pm",
+            "Kathmandu Gorkhas vs Lumbini Lions",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Sat, 7 Nov, 2026, 5:00 pm",
+            "UAE Bulls vs Yas Lions",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nepal U19 vs India U19 (4th Match, Group A, ODI): India U19 won by 10 wkts — NPLU19: 128/10 (42.3 ov) | INDU19: 129/0 (19.1 ov)",
+          "United Arab Emirates U19 vs Pakistan U19 (3rd Match, Group A, ODI): Pakistan U19 won by 9 wkts — UAEU19: 224/10 (49.6 ov) | PAKU19: 225/1 (37.3 ov)",
+          "Malaysia U19 vs Sri Lanka U19 (1st Match, Group B, ODI): Sri Lanka U19 won by 9 wkts — MLYU19: 88/10 (28.1 ov) | SLU19: 91/1 (13.5 ov)",
+          "Afghanistan U19 vs Bangladesh U19 (2nd Match, Group B, ODI): Afghanistan U19 won by 113 runs — AFGU19: 231/10 (48.6 ov) | BANU19: 118/10 (25.5 ov)",
+          "United Arab Emirates vs Oman (145th Match, ODI): United Arab Emirates won by 42 runs — UAE: 226/8 (49.6 ov) | OMAN: 184/9 (49.6 ov)",
+          "Sri Lanka vs Pakistan Cricket Board Patrons XI (3-Day Warm-up Match, TEST): Sri Lanka won by 142 runs — SL: 223/7 (58 ov) & 181/10 (54.3 ov) | PCBPXI: 151/8 (16 ov) & 111/10 (27.1 ov)",
+          "New Zealand vs India (1st ODI, ODI): India won by 5 wkts  -  2nd inns reduced to 32 overs - DLS Target 143 — NZ: 185/10 (40.2 ov) | IND: 143/5 (22.4 ov)",
+          "Wellington vs Northern Districts (8th Match, ODI): Wellington won by 202 runs — WEL: 354/7 (49.6 ov) | ND: 152/10 (35.1 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Whole Australia team knew of sandpaper use - Khawaja",
+          "Western Australia XI v England - warm-up scorecard",
+          "Two-year ban for 'Clicky Ponting' cricketer",
+          "New Zealand v India - second ODI scorecard",
+          "Women's rights matter more than any league, say Afghan cricketers"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-07-two-year-ban-for-clicky-ponting-cricketer",
+    "title": "Two-year ban for 'Clicky Ponting' cricketer | Cricket News",
+    "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+    "excerpt": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Two-year ban for 'Clicky Ponting' cricketer",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Two-year ban for 'Clicky Ponting' cricketer. An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-07-western-australia-xi-v-england-warm-up-scorecard",
+    "title": "Western Australia XI v England - warm-up scorecard | Cricket News",
+    "description": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
+    "excerpt": "Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244989?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Western Australia XI v England - warm-up scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Western Australia XI v England - warm-up scorecard. Latest scorecard from England's warm-up game against a Western Australia XI at the Waca in Perth."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-07-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-07-whole-australia-team-knew-of-sandpaper-use-khawaja",
+    "title": "Whole Australia team knew of sandpaper use - Khawaja | Cricket News",
+    "description": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+    "excerpt": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Whole Australia team knew of sandpaper use - Khawaja",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Whole Australia team knew of sandpaper use - Khawaja. Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nplu19-vs-indu19-2026-11-06",
+    "title": "India U19 won by 10 wkts | 4th Match, Group A Cricket News",
+    "description": "Nepal U19 vs India U19 result: India U19 won by 10 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "India U19 won by 10 wkts — NPLU19: 128/10 (42.3 ov) | INDU19: 129/0 (19.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Nepal U19 vs India U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Nepal U19 vs India U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Nepal U19 vs India U19 (4th Match, Group A, ODI) — India U19 won by 10 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Nepal U19",
+            "128/10 (42.3 ov)"
+          ],
+          [
+            "India U19",
+            "129/0 (19.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: India U19 won by 10 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: India U19 chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Ishan Sood delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-uaeu19-vs-paku19-2026-11-06",
+    "title": "Pakistan U19 won by 9 wkts | 3rd Match, Group A Cricket News",
+    "description": "United Arab Emirates U19 vs Pakistan U19 result: Pakistan U19 won by 9 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Pakistan U19 won by 9 wkts — UAEU19: 224/10 (49.6 ov) | PAKU19: 225/1 (37.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates U19 vs Pakistan U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates U19 vs Pakistan U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: United Arab Emirates U19 vs Pakistan U19 (3rd Match, Group A, ODI) — Pakistan U19 won by 9 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "United Arab Emirates U19",
+            "224/10 (49.6 ov)"
+          ],
+          [
+            "Pakistan U19",
+            "225/1 (37.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Pakistan U19 won by 9 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Pakistan U19 chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Usman Khan delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-cen-vs-cntbry-2026-11-07",
+    "title": "Central Stags vs Canterbury Preview — Pitch, Weather & Lineup | 12th Match",
+    "description": "Central Stags vs Canterbury preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 8 Nov, 2026, 3:00 am.",
+    "excerpt": "Central Stags vs Canterbury — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Variable conditions · High 25°C / Low 17°C · Rain: 7.8 mm · Wind: up to 20 km/h.…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Central Stags vs Canterbury",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Central Stags vs Canterbury cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Central Stags face Canterbury in 12th Match (ODI) on Sun, 8 Nov, 2026, 3:00 am at McLean Park Napier. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Central Stags vs Canterbury"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 8 Nov, 2026, 3:00 am"
+          ],
+          [
+            "Venue",
+            "McLean Park Napier"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 08, 21:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 25°C / Low 17°C · Rain: 7.8 mm · Wind: up to 20 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nd-vs-otg-2026-11-07",
+    "title": "Northern Districts vs Otago Preview — Pitch, Weather & Lineup | 10th Match",
+    "description": "Northern Districts vs Otago preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 8 Nov, 2026, 3:00 am.",
+    "excerpt": "Northern Districts vs Otago — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 22°C / Low 15°C · Rain: 15.1 mm · Wind: up to 25 km/h. Rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Northern Districts vs Otago",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Northern Districts vs Otago cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Northern Districts face Otago in 10th Match (ODI) on Sun, 8 Nov, 2026, 3:00 am at Cobham Oval Whangarei. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Northern Districts vs Otago"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 8 Nov, 2026, 3:00 am"
+          ],
+          [
+            "Venue",
+            "Cobham Oval Whangarei"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 08, 21:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 22°C / Low 15°C · Rain: 15.1 mm · Wind: up to 25 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wel-vs-akl-2026-11-07",
+    "title": "Wellington vs Auckland Preview — Pitch, Weather & Lineup | 11th Match",
+    "description": "Wellington vs Auckland preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 8 Nov, 2026, 3:00 am.",
+    "excerpt": "Wellington vs Auckland — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 22°C / Low 16°C · Rain: 3.7 mm · Wind: up to 12 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Wellington vs Auckland",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Wellington vs Auckland cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Wellington face Auckland in 11th Match (ODI) on Sun, 8 Nov, 2026, 3:00 am at Basin Reserve Wellington. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Wellington vs Auckland"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "The Ford Trophy 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 8 Nov, 2026, 3:00 am"
+          ],
+          [
+            "Venue",
+            "Basin Reserve Wellington"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 08, 21:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 22°C / Low 16°C · Rain: 3.7 mm · Wind: up to 12 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wia-vs-enga-2026-11-07",
+    "title": "West Indies A vs England Lions Preview — Pitch, Weather & Lineup | 1st Unofficial ODI",
+    "description": "West Indies A vs England Lions preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 7 Nov, 2026, 11:30 pm.",
+    "excerpt": "West Indies A vs England Lions — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Thunderstorm · High 28°C / Low 24°C · Rain: 19 mm · Wind: up to 25 km/h. Rain li…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "West Indies A vs England Lions",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "West Indies A vs England Lions cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: West Indies A face England Lions in 1st Unofficial ODI (ODI) on Sat, 7 Nov, 2026, 11:30 pm at Warner Park Basseterre, St Kitts. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "West Indies A vs England Lions"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "England Lions tour of West Indies, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 7 Nov, 2026, 11:30 pm"
+          ],
+          [
+            "Venue",
+            "Warner Park Basseterre, St Kitts"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 07, 18:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 28°C / Low 24°C · Rain: 19 mm · Wind: up to 25 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-06",
     "title": "Cricket Daily Digest — Friday, 6 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
