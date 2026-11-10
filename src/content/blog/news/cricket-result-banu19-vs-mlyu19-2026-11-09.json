@@ -1,0 +1,92 @@
+{
+  "slug": "cricket-result-banu19-vs-mlyu19-2026-11-09",
+  "title": "Bangladesh U19 won by 205 runs | 9th Match, Group B Cricket News",
+  "description": "Bangladesh U19 vs Malaysia U19 result: Bangladesh U19 won by 205 runs. Scores, player of the match, and pitch report.",
+  "excerpt": "Bangladesh U19 won by 205 runs — BANU19: 303/8 (49.6 ov) | MLYU19: 98/10 (30.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Bangladesh U19 vs Malaysia U19 result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-11-10",
+  "updatedAt": "2026-11-10",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Bangladesh U19 vs Malaysia U19 cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Bangladesh U19 vs Malaysia U19 (9th Match, Group B, ODI) — Bangladesh U19 won by 205 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Bangladesh U19",
+          "303/8 (49.6 ov)"
+        ],
+        [
+          "Malaysia U19",
+          "98/10 (30.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Bangladesh U19 won by 205 runs."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Bangladesh U19 chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Player of the Match",
+      "id": "player-of-match"
+    },
+    {
+      "type": "p",
+      "text": "Ahsan Al Mumin delivered a match-winning performance."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

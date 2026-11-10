@@ -3,6 +3,1081 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-10",
+    "title": "Cricket Daily Digest — Tuesday, 10 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Tuesday, 10 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-10 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Tuesday, 10 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Wed, 11 Nov, 2026, 5:00 am",
+            "New South Wales vs South Australia",
+            "TEST",
+            "Sydney",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Wed, 11 Nov, 2026, 5:00 am",
+            "Victoria vs Western Australia",
+            "TEST",
+            "Melbourne",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Wed, 11 Nov, 2026, 6:00 am",
+            "Queensland vs Tasmania",
+            "TEST",
+            "Brisbane",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 4:30 pm",
+            "Namibia Women vs Uganda Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Wed, 11 Nov, 2026, 12:00 pm",
+            "Uganda Women vs Rwanda Women",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 1:40 pm",
+            "Hobart Hurricanes Women vs Adelaide Strikers Women",
+            "T20",
+            "Hobart",
+            "WBBL 2026"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 4:30 pm",
+            "Janakpur Bolts vs Sudur Paschim Royals",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 7:15 pm",
+            "Yas Lions vs United Tigers",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 9:30 pm",
+            "UAE Bulls vs Emirates Eagles",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ],
+          [
+            "Tue, 10 Nov, 2026, 9:30 pm",
+            "Western Province vs South Western Districts",
+            "T20",
+            "Cape Town",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "New Zealand vs India (3rd ODI, ODI): Match abandoned due to rain — NZ: 134/10 (40.6 ov) | IND: 113/7 (25.6 ov)",
+          "England Lions vs West Indies A (2nd Unofficial ODI, ODI): England Lions won by 276 runs — ENGA: 487/5 (49.6 ov) | WIA: 211/10 (30.5 ov)",
+          "Bangladesh U19 vs Malaysia U19 (9th Match, Group B, ODI): Bangladesh U19 won by 205 runs — BANU19: 303/8 (49.6 ov) | MLYU19: 98/10 (30.5 ov)",
+          "Afghanistan U19 vs Sri Lanka U19 (10th Match, Group B, ODI): Afghanistan U19 won by 106 runs — AFGU19: 275/10 (49.5 ov) | SLU19: 169/10 (34.1 ov)",
+          "India U19 vs Pakistan U19 (8th Match, Group A, ODI): Pakistan U19 won by 3 wkts — INDU19: 208/10 (46.3 ov) | PAKU19: 209/7 (48.1 ov)",
+          "Nepal U19 vs United Arab Emirates U19 (7th Match, Group A, ODI): United Arab Emirates U19 won by 7 wkts — NPLU19: 152/10 (40.6 ov) | UAEU19: 158/3 (34.4 ov)",
+          "Wellington vs Auckland (11th Match, ODI): Wellington won by 28 runs — WEL: 205/10 (44.3 ov) | AKL: 177/10 (43.4 ov)",
+          "Central Stags vs Canterbury (12th Match, ODI): Canterbury won by 2 wkts — CEN: 129/10 (41.2 ov) | CNTBRY: 130/8 (33.2 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'No reason' to reopen sandpaper investigation",
+          "England clear way for Carse return and drop Bashir",
+          "Khawaja 100% accurate on ball-tampering - Warner",
+          "Test Match Special Podcast",
+          "Pakistan build big score in first Test against Sri Lanka - scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-10-england-clear-way-for-carse-return-and-drop-bashir",
+    "title": "England clear way for Carse return and drop Bashir | Cricket News",
+    "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+    "excerpt": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England clear way for Carse return and drop Bashir",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England clear way for Carse return and drop Bashir. England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-10-khawaja-100-accurate-on-ball-tampering-warner",
+    "title": "Khawaja 100% accurate on ball-tampering - Warner | Cricket News",
+    "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tamperin",
+    "excerpt": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tamperin",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Khawaja 100% accurate on ball-tampering - Warner",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Khawaja 100% accurate on ball-tampering - Warner. David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-10-no-reason-to-reopen-sandpaper-investigation",
+    "title": "'No reason' to reopen sandpaper investigation | Cricket News",
+    "description": "Cricket Australia CEO Todd Greenberg says he does not see \"any compelling reason\" to reopen the investigation into the 2018 Australia ball-tampering scandal.",
+    "excerpt": "Cricket Australia CEO Todd Greenberg says he does not see \"any compelling reason\" to reopen the investigation into the 2018 Australia ball-tampering scandal.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'No reason' to reopen sandpaper investigation",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'No reason' to reopen sandpaper investigation. Cricket Australia CEO Todd Greenberg says he does not see \"any compelling reason\" to reopen the investigation into the 2018 Australia ball-tampering scandal."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-10-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-banu19-vs-mlyu19-2026-11-09",
+    "title": "Bangladesh U19 won by 205 runs | 9th Match, Group B Cricket News",
+    "description": "Bangladesh U19 vs Malaysia U19 result: Bangladesh U19 won by 205 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Bangladesh U19 won by 205 runs — BANU19: 303/8 (49.6 ov) | MLYU19: 98/10 (30.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh U19 vs Malaysia U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh U19 vs Malaysia U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh U19 vs Malaysia U19 (9th Match, Group B, ODI) — Bangladesh U19 won by 205 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh U19",
+            "303/8 (49.6 ov)"
+          ],
+          [
+            "Malaysia U19",
+            "98/10 (30.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Bangladesh U19 won by 205 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Bangladesh U19 chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Ahsan Al Mumin delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-enga-vs-wia-2026-11-09",
+    "title": "England Lions won by 276 runs | 2nd Unofficial ODI Cricket News",
+    "description": "England Lions vs West Indies A result: England Lions won by 276 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "England Lions won by 276 runs — ENGA: 487/5 (49.6 ov) | WIA: 211/10 (30.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "England Lions vs West Indies A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "England Lions vs West Indies A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: England Lions vs West Indies A (2nd Unofficial ODI, ODI) — England Lions won by 276 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "England Lions",
+            "487/5 (49.6 ov)"
+          ],
+          [
+            "West Indies A",
+            "211/10 (30.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: England Lions won by 276 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: England Lions chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-nz-vs-ind-2026-11-10",
+    "title": "Match abandoned due to rain | 3rd ODI Cricket News",
+    "description": "New Zealand vs India result: Match abandoned due to rain. Scores, player of the match, and pitch report.",
+    "excerpt": "Match abandoned due to rain — NZ: 134/10 (40.6 ov) | IND: 113/7 (25.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New Zealand vs India result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New Zealand vs India cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: New Zealand vs India (3rd ODI, ODI) — Match abandoned due to rain. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "New Zealand",
+            "134/10 (40.6 ov)"
+          ],
+          [
+            "India",
+            "113/7 (25.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Match abandoned due to rain."
+      },
+      {
+        "type": "p",
+        "text": "Toss:  chose ."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-namw-vs-ugaw-2026-11-10",
+    "title": "Namibia Women vs Uganda Women Preview — Pitch, Weather & Lineup | 8th Match",
+    "description": "Namibia Women vs Uganda Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Tue, 10 Nov, 2026, 4:30 pm.",
+    "excerpt": "Namibia Women vs Uganda Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Rain showers · High 26°C / Low 18°C · Rain: 4.1 mm · Wind: up to 17 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Namibia Women vs Uganda Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Namibia Women vs Uganda Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Namibia Women face Uganda Women in 8th Match (T20) on Tue, 10 Nov, 2026, 4:30 pm at Entebbe Cricket Oval Entebbe. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Namibia Women vs Uganda Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Tue, 10 Nov, 2026, 4:30 pm"
+          ],
+          [
+            "Venue",
+            "Entebbe Cricket Oval Entebbe"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 10, 11:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Rain showers · High 26°C / Low 18°C · Rain: 4.1 mm · Wind: up to 17 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-nsw-vs-saus-2026-11-10",
+    "title": "New South Wales vs South Australia Preview — Pitch, Weather & Lineup | 10th Match",
+    "description": "New South Wales vs South Australia preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Wed, 11 Nov, 2026, 5:00 am.",
+    "excerpt": "New South Wales vs South Australia — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Partly cloudy · High 27°C / Low 11°C · Rain: 0 mm · Wind: up to 15 km/h. Dry con…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "New South Wales vs South Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "New South Wales vs South Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: New South Wales face South Australia in 10th Match (TEST) on Wed, 11 Nov, 2026, 5:00 am at Cricket Central Sydney. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "New South Wales vs South Australia"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 11 Nov, 2026, 5:00 am"
+          ],
+          [
+            "Venue",
+            "Cricket Central Sydney"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 11, 23:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Partly cloudy · High 27°C / Low 11°C · Rain: 0 mm · Wind: up to 15 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-ql-vs-tas-2026-11-11",
+    "title": "Queensland vs Tasmania Preview — Pitch, Weather & Lineup | 12th Match",
+    "description": "Queensland vs Tasmania preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Wed, 11 Nov, 2026, 6:00 am.",
+    "excerpt": "Queensland vs Tasmania — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Variable conditions · High 31°C / Low 19°C · Rain: 21.7 mm · Wind: up to 17 km/h…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Queensland vs Tasmania",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Queensland vs Tasmania cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Queensland face Tasmania in 12th Match (TEST) on Wed, 11 Nov, 2026, 6:00 am at The Gabba Brisbane. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Queensland vs Tasmania"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 11 Nov, 2026, 6:00 am"
+          ],
+          [
+            "Venue",
+            "The Gabba Brisbane"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 11, 00:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 31°C / Low 19°C · Rain: 21.7 mm · Wind: up to 17 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-vic-vs-wa-2026-11-10",
+    "title": "Victoria vs Western Australia Preview — Pitch, Weather & Lineup | 11th Match",
+    "description": "Victoria vs Western Australia preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Wed, 11 Nov, 2026, 5:00 am.",
+    "excerpt": "Victoria vs Western Australia — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Drizzle · High 28°C / Low 10°C · Rain: 1.7 mm · Wind: up to 14 km/h. Light rain …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Victoria vs Western Australia",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Victoria vs Western Australia cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Victoria face Western Australia in 11th Match (TEST) on Wed, 11 Nov, 2026, 5:00 am at Melbourne Cricket Ground Melbourne. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Victoria vs Western Australia"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "Sheffield Shield 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Wed, 11 Nov, 2026, 5:00 am"
+          ],
+          [
+            "Venue",
+            "Melbourne Cricket Ground Melbourne"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 11, 23:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Drizzle · High 28°C / Low 10°C · Rain: 1.7 mm · Wind: up to 14 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-09",
     "title": "Cricket Daily Digest — Monday, 9 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 9+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
