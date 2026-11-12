@@ -1,0 +1,83 @@
+{
+  "slug": "cricket-result-nd-vs-cntbry-2026-11-11",
+  "title": "Canterbury won by 4 wkts | 15th Match Cricket News",
+  "description": "Northern Districts vs Canterbury result: Canterbury won by 4 wkts. Scores, player of the match, and pitch report.",
+  "excerpt": "Canterbury won by 4 wkts — ND: 261/7 (49.6 ov) | CNTBRY: 264/6 (49.5 ov)",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "Northern Districts vs Canterbury result",
+    "who won",
+    "cricket scorecard"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "readingTime": 4,
+  "source": "Cricbuzz",
+  "image": "/images/blog/cricket-hero.jpg",
+  "imageAlt": "Northern Districts vs Canterbury cricket match result",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Match result: Northern Districts vs Canterbury (15th Match, ODI) — Canterbury won by 4 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+    },
+    {
+      "type": "h2",
+      "text": "Final Result",
+      "id": "final-result"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Team",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Northern Districts",
+          "261/7 (49.6 ov)"
+        ],
+        [
+          "Canterbury",
+          "264/6 (49.5 ov)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Winner: Canterbury won by 4 wkts."
+    },
+    {
+      "type": "p",
+      "text": "Toss: Northern Districts chose batting."
+    },
+    {
+      "type": "h2",
+      "text": "Pitch Summary",
+      "id": "pitch-summary"
+    },
+    {
+      "type": "p",
+      "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}
