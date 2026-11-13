@@ -1,0 +1,194 @@
+{
+  "slug": "cricket-daily-digest-2026-11-13",
+  "title": "Cricket Daily Digest — Friday, 13 November 2026 | Match Previews & Results",
+  "description": "Daily cricket digest: upcoming 22+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+  "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 13 November 2026.",
+  "keywords": [
+    "cricket news",
+    "cricket match preview",
+    "pitch report",
+    "weather report",
+    "cricket lineup",
+    "live cricket betting",
+    "reddy anna cricket",
+    "cricket daily digest",
+    "upcoming cricket matches",
+    "cricket results today"
+  ],
+  "category": "Cricket News",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "readingTime": 7,
+  "source": "Cricbuzz + BBC Sport",
+  "image": "/images/blog/cricket-news.jpg",
+  "imageAlt": "Cricket daily digest 2026-11-13 — match previews and results",
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Your complete cricket briefing for Friday, 13 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+    },
+    {
+      "type": "h2",
+      "text": "Upcoming Cricket Matches",
+      "id": "upcoming-matches"
+    },
+    {
+      "type": "p",
+      "text": "Fixtures scheduled in the coming days across international and league cricket:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Date (IST)",
+        "Match",
+        "Format",
+        "Venue",
+        "Series"
+      ],
+      "rows": [
+        [
+          "Sat, 14 Nov, 2026, 10:30 am",
+          "Pakistan U19 vs India U19",
+          "ODI",
+          "Al Amerat",
+          "ACC Men's U19 Asia Cup 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 2:45 pm",
+          "Zimbabwe Women vs Bangladesh Women",
+          "T20",
+          "Ajman",
+          "ICC Women's Emerging Nations Trophy, 202"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 2:45 pm",
+          "Thailand Women vs Pakistan Women",
+          "T20",
+          "Ajman",
+          "ICC Women's Emerging Nations Trophy, 202"
+        ],
+        [
+          "Sat, 14 Nov, 2026, 10:10 am",
+          "Hobart Hurricanes Women vs Brisbane Heat Women",
+          "T20",
+          "Hobart",
+          "Womens Big Bash League 2026"
+        ],
+        [
+          "Sat, 14 Nov, 2026, 12:00 pm",
+          "TBC vs TBC",
+          "T20",
+          "Entebbe",
+          "Women's Victoria T20I Series, 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 12:15 pm",
+          "Sudur Paschim Royals vs Kathmandu Gorkhas",
+          "T20",
+          "Kirtipur",
+          "Nepal Premier League 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 4:30 pm",
+          "Warriors vs Boland",
+          "T20",
+          "Cape Town",
+          "CSA T20 Challenge 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 4:45 pm",
+          "Chitwan Rhinos vs Janakpur Bolts",
+          "T20",
+          "Kirtipur",
+          "Nepal Premier League 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 5:00 pm",
+          "United Tigers vs Emirates Eagles",
+          "T20",
+          "Abu Dhabi",
+          "Abu Dhabi T10 League 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 7:15 pm",
+          "Royal Desert Champions vs Yas Lions",
+          "T20",
+          "Abu Dhabi",
+          "Abu Dhabi T10 League 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 9:30 pm",
+          "Arabian Aces vs UAE Bulls",
+          "T20",
+          "Abu Dhabi",
+          "Abu Dhabi T10 League 2026"
+        ],
+        [
+          "Fri, 13 Nov, 2026, 9:30 pm",
+          "Lions vs Western Province",
+          "T20",
+          "Cape Town",
+          "CSA T20 Challenge 2026"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Latest Match Results — Who Won?",
+      "id": "latest-results"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bangladesh U19 vs Pakistan U19 (Semi Final 1 (A1 v B2), ODI): Pakistan U19 won by 9 wkts — BANU19: 138/10 (31.4 ov) | PAKU19: 141/1 (21.5 ov)",
+        "Afghanistan U19 vs India U19 (Semi Final 2 (B1 v A2), ODI): India U19 won by 8 wkts — AFGU19: 227/8 (49.6 ov) | INDU19: 230/2 (36.5 ov)",
+        "Northern Districts vs Canterbury (15th Match, ODI): Canterbury won by 4 wkts — ND: 261/7 (49.6 ov) | CNTBRY: 264/6 (49.5 ov)",
+        "Auckland vs Otago (13th Match, ODI): Otago won by 5 wkts — AKL: 334/8 (49.6 ov) | OTG: 338/5 (49.1 ov)",
+        "Wellington vs Central Stags (14th Match, ODI): Wellington won by 147 runs — WEL: 281/9 (49.6 ov) | CEN: 134/10 (34.5 ov)",
+        "West Indies A vs England Lions (3rd Unofficial ODI, ODI): England Lions won by 6 wkts — WIA: 273/9 (49.6 ov) | ENGA: 274/4 (44.3 ov)",
+        "India U19 vs United Arab Emirates U19 (11th Match, Group A, ODI): India U19 won by 70 runs — INDU19: 309/7 (49.6 ov) | UAEU19: 239/10 (49.6 ov)",
+        "Pakistan U19 vs Nepal U19 (12th Match, Group A, ODI): Pakistan U19 won by 101 runs — PAKU19: 275/7 (49.6 ov) | NPLU19: 174/10 (43.4 ov)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Record-Breaking Performances",
+      "id": "records"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "England legend Anderson, 44, joins Surrey — Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surre",
+        "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Top Cricket Headlines",
+      "id": "headlines"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+        "Pakistan v Sri Lanka - first Test scorecard",
+        "New Zealand v India - fourth ODI scorecard",
+        "Afghanistan v Zimbabwe - second Test scorecard",
+        "Fraser shines as Scotland beat PNG by seven wickets"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bet on Cricket with Reddy Anna Book",
+      "id": "bet-with-reddy-anna"
+    },
+    {
+      "type": "p",
+      "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+    },
+    {
+      "type": "cta",
+      "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+    }
+  ]
+}

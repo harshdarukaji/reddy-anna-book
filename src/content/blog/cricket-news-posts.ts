@@ -3,6 +3,1079 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-13",
+    "title": "Cricket Daily Digest — Friday, 13 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 22+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Friday, 13 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-13 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Friday, 13 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sat, 14 Nov, 2026, 10:30 am",
+            "Pakistan U19 vs India U19",
+            "ODI",
+            "Al Amerat",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 2:45 pm",
+            "Zimbabwe Women vs Bangladesh Women",
+            "T20",
+            "Ajman",
+            "ICC Women's Emerging Nations Trophy, 202"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 2:45 pm",
+            "Thailand Women vs Pakistan Women",
+            "T20",
+            "Ajman",
+            "ICC Women's Emerging Nations Trophy, 202"
+          ],
+          [
+            "Sat, 14 Nov, 2026, 10:10 am",
+            "Hobart Hurricanes Women vs Brisbane Heat Women",
+            "T20",
+            "Hobart",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Sat, 14 Nov, 2026, 12:00 pm",
+            "TBC vs TBC",
+            "T20",
+            "Entebbe",
+            "Women's Victoria T20I Series, 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 12:15 pm",
+            "Sudur Paschim Royals vs Kathmandu Gorkhas",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 4:30 pm",
+            "Warriors vs Boland",
+            "T20",
+            "Cape Town",
+            "CSA T20 Challenge 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 4:45 pm",
+            "Chitwan Rhinos vs Janakpur Bolts",
+            "T20",
+            "Kirtipur",
+            "Nepal Premier League 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 5:00 pm",
+            "United Tigers vs Emirates Eagles",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 7:15 pm",
+            "Royal Desert Champions vs Yas Lions",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 9:30 pm",
+            "Arabian Aces vs UAE Bulls",
+            "T20",
+            "Abu Dhabi",
+            "Abu Dhabi T10 League 2026"
+          ],
+          [
+            "Fri, 13 Nov, 2026, 9:30 pm",
+            "Lions vs Western Province",
+            "T20",
+            "Cape Town",
+            "CSA T20 Challenge 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh U19 vs Pakistan U19 (Semi Final 1 (A1 v B2), ODI): Pakistan U19 won by 9 wkts — BANU19: 138/10 (31.4 ov) | PAKU19: 141/1 (21.5 ov)",
+          "Afghanistan U19 vs India U19 (Semi Final 2 (B1 v A2), ODI): India U19 won by 8 wkts — AFGU19: 227/8 (49.6 ov) | INDU19: 230/2 (36.5 ov)",
+          "Northern Districts vs Canterbury (15th Match, ODI): Canterbury won by 4 wkts — ND: 261/7 (49.6 ov) | CNTBRY: 264/6 (49.5 ov)",
+          "Auckland vs Otago (13th Match, ODI): Otago won by 5 wkts — AKL: 334/8 (49.6 ov) | OTG: 338/5 (49.1 ov)",
+          "Wellington vs Central Stags (14th Match, ODI): Wellington won by 147 runs — WEL: 281/9 (49.6 ov) | CEN: 134/10 (34.5 ov)",
+          "West Indies A vs England Lions (3rd Unofficial ODI, ODI): England Lions won by 6 wkts — WIA: 273/9 (49.6 ov) | ENGA: 274/4 (44.3 ov)",
+          "India U19 vs United Arab Emirates U19 (11th Match, Group A, ODI): India U19 won by 70 runs — INDU19: 309/7 (49.6 ov) | UAEU19: 239/10 (49.6 ov)",
+          "Pakistan U19 vs Nepal U19 (12th Match, Group A, ODI): Pakistan U19 won by 101 runs — PAKU19: 275/7 (49.6 ov) | NPLU19: 174/10 (43.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England legend Anderson, 44, joins Surrey — Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surre",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+          "Pakistan v Sri Lanka - first Test scorecard",
+          "New Zealand v India - fourth ODI scorecard",
+          "Afghanistan v Zimbabwe - second Test scorecard",
+          "Fraser shines as Scotland beat PNG by seven wickets"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-13-england-legend-anderson-44-joins-surrey",
+    "title": "England legend Anderson, 44, joins Surrey | Cricket News",
+    "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+    "excerpt": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: England legend Anderson, 44, joins Surrey",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: England legend Anderson, 44, joins Surrey. Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey."
+      },
+      {
+        "type": "p",
+        "text": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-13-new-zealand-v-india-fourth-odi-scorecard",
+    "title": "New Zealand v India - fourth ODI scorecard | Cricket News",
+    "description": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
+    "excerpt": "Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242116?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: New Zealand v India - fourth ODI scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: New Zealand v India - fourth ODI scorecard. Latest scorecard from the fourth one-day international between New Zealand and India in Mount Maunganui."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-13-pakistan-v-sri-lanka-first-test-scorecard",
+    "title": "Pakistan v Sri Lanka - first Test scorecard | Cricket News",
+    "description": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+    "excerpt": "Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244079?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Pakistan v Sri Lanka - first Test scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Pakistan v Sri Lanka - first Test scorecard. Latest scorecard from the first Test between Pakistan and Sri Lanka in Rawalpindi."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-13-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-13-wrong-and-nonsense-cummins-on-khawaja-sandpaper-cl",
+    "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims | Cricket News",
+    "description": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+    "excerpt": "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims. Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-afgu19-vs-indu19-2026-11-12",
+    "title": "India U19 won by 8 wkts | Semi Final 2 (B1 v A2) Cricket News",
+    "description": "Afghanistan U19 vs India U19 result: India U19 won by 8 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "India U19 won by 8 wkts — AFGU19: 227/8 (49.6 ov) | INDU19: 230/2 (36.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Afghanistan U19 vs India U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Afghanistan U19 vs India U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Afghanistan U19 vs India U19 (Semi Final 2 (B1 v A2), ODI) — India U19 won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Afghanistan U19",
+            "227/8 (49.6 ov)"
+          ],
+          [
+            "India U19",
+            "230/2 (36.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: India U19 won by 8 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Afghanistan U19 chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Lakshya Rajesh Raichandani delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-banu19-vs-paku19-2026-11-12",
+    "title": "Pakistan U19 won by 9 wkts | Semi Final 1 (A1 v B2) Cricket News",
+    "description": "Bangladesh U19 vs Pakistan U19 result: Pakistan U19 won by 9 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Pakistan U19 won by 9 wkts — BANU19: 138/10 (31.4 ov) | PAKU19: 141/1 (21.5 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh U19 vs Pakistan U19 result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh U19 vs Pakistan U19 cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh U19 vs Pakistan U19 (Semi Final 1 (A1 v B2), ODI) — Pakistan U19 won by 9 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh U19",
+            "138/10 (31.4 ov)"
+          ],
+          [
+            "Pakistan U19",
+            "141/1 (21.5 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Pakistan U19 won by 9 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Bangladesh U19 chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Rizwanullah delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-hbhw-vs-brhw-2026-11-14",
+    "title": "Hobart Hurricanes Women vs Brisbane Heat Women Preview — Pitch, Weather & Lineup | 21st Match",
+    "description": "Hobart Hurricanes Women vs Brisbane Heat Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sat, 14 Nov, 2026, 10:10 am.",
+    "excerpt": "Hobart Hurricanes Women vs Brisbane Heat Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Variable conditions · High 19°C / Low 11°C · Rain: 16.6 mm · Wind: up to 13 km/h…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Hobart Hurricanes Women vs Brisbane Heat Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Hobart Hurricanes Women vs Brisbane Heat Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Hobart Hurricanes Women face Brisbane Heat Women in 21st Match (T20) on Sat, 14 Nov, 2026, 10:10 am at Bellerive Oval Hobart. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Hobart Hurricanes Women vs Brisbane Heat Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 14 Nov, 2026, 10:10 am"
+          ],
+          [
+            "Venue",
+            "Bellerive Oval Hobart"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 14, 04:40 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Variable conditions · High 19°C / Low 11°C · Rain: 16.6 mm · Wind: up to 13 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-paku19-vs-indu19-2026-11-14",
+    "title": "Pakistan U19 vs India U19 Preview — Pitch, Weather & Lineup | Final",
+    "description": "Pakistan U19 vs India U19 preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sat, 14 Nov, 2026, 10:30 am.",
+    "excerpt": "Pakistan U19 vs India U19 — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Clear sky · High 29°C / Low 22°C · Rain: 0 mm · Wind: up to 20 km/h. Dry conditi…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan U19 vs India U19",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan U19 vs India U19 cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Pakistan U19 face India U19 in Final (ODI) on Sat, 14 Nov, 2026, 10:30 am at Al Amerat Cricket Ground (Ministry Turf 2) Al Amerat. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Pakistan U19 vs India U19"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "ACC Men's U19 Asia Cup 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sat, 14 Nov, 2026, 10:30 am"
+          ],
+          [
+            "Venue",
+            "Al Amerat Cricket Ground (Ministry Turf 2) Al Amerat"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 14, 05:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Clear sky · High 29°C / Low 22°C · Rain: 0 mm · Wind: up to 20 km/h. Dry conditions expected — good for batting if the pitch is true."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-thaiw-vs-pakw-2026-11-13",
+    "title": "Thailand Women vs Pakistan Women Preview — Pitch, Weather & Lineup | 7th Match, Group B",
+    "description": "Thailand Women vs Pakistan Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 13 Nov, 2026, 2:45 pm.",
+    "excerpt": "Thailand Women vs Pakistan Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 29°C / Low 25°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Thailand Women vs Pakistan Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Thailand Women vs Pakistan Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Thailand Women face Pakistan Women in 7th Match, Group B (T20) on Fri, 13 Nov, 2026, 2:45 pm at Karwan Cricket Ground Ajman. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Thailand Women vs Pakistan Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's Emerging Nations Trophy, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 13 Nov, 2026, 2:45 pm"
+          ],
+          [
+            "Venue",
+            "Karwan Cricket Ground Ajman"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 13, 09:15 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 29°C / Low 25°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-zimw-vs-banw-2026-11-13",
+    "title": "Zimbabwe Women vs Bangladesh Women Preview — Pitch, Weather & Lineup | 8th Match, Group B",
+    "description": "Zimbabwe Women vs Bangladesh Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Fri, 13 Nov, 2026, 2:45 pm.",
+    "excerpt": "Zimbabwe Women vs Bangladesh Women — pitch: Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Overcast · High 29°C / Low 25°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe Women vs Bangladesh Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe Women vs Bangladesh Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Zimbabwe Women face Bangladesh Women in 8th Match, Group B (T20) on Fri, 13 Nov, 2026, 2:45 pm at Seven Districts Ground Ajman. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Zimbabwe Women vs Bangladesh Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "ICC Women's Emerging Nations Trophy, 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Fri, 13 Nov, 2026, 2:45 pm"
+          ],
+          [
+            "Venue",
+            "Seven Districts Ground Ajman"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 13, 09:15 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard T20 surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 160–180 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 29°C / Low 25°C · Rain: 0 mm · Wind: up to 18 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-12",
     "title": "Cricket Daily Digest — Thursday, 12 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 13+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
