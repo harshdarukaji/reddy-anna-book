@@ -3,6 +3,1137 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-25",
+    "title": "Cricket Daily Digest — Wednesday, 25 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 22+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Wednesday, 25 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-25 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Wednesday, 25 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Warriors vs Dolphins",
+            "TEST",
+            "Gqeberha",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Lions vs North West - Eastvaal Renault Dragons",
+            "TEST",
+            "Johannesburg",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Boland vs Knights",
+            "TEST",
+            "Paarl",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Western Province vs Titans",
+            "TEST",
+            "Cape Town",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Eastern Storm vs Northern Cape",
+            "TEST",
+            "Benoni",
+            "CSA Three-Day Series Division Two 2026-2"
+          ],
+          [
+            "Wed, 25 Nov, 2026, 1:40 pm",
+            "Brisbane Heat Women vs Melbourne Renegades Women",
+            "T20",
+            "Melbourne",
+            "WBBL 2026"
+          ],
+          [
+            "Wed, 25 Nov, 2026, 7:30 pm",
+            "Bihar Rising vs Andhra Warriors",
+            "T20",
+            "Bengaluru",
+            "Indian Softball Cricket League 2026"
+          ],
+          [
+            "Wed, 25 Nov, 2026, 8:00 pm",
+            "Dubai Capitals vs Desert Vipers",
+            "T20",
+            "Dubai",
+            "International League T20 2026"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 8:00 am",
+            "Uttarakhand vs Mumbai",
+            "T20",
+            "Kolkata",
+            "Syed Mushtaq Ali Trophy Elite 2026"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 8:30 am",
+            "Madhya Pradesh vs Puducherry",
+            "T20",
+            "Mohali",
+            "Syed Mushtaq Ali Trophy Elite 2026"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 9:00 am",
+            "Karnataka vs Baroda",
+            "T20",
+            "Mumbai",
+            "Syed Mushtaq Ali Trophy Elite 2026"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 9:00 am",
+            "Jammu and Kashmir vs Haryana",
+            "T20",
+            "Indore",
+            "Syed Mushtaq Ali Trophy Elite 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pakistan A vs Nepal (12th Match, Group B, ODI): Pakistan A won by 96 runs — PAKA: 168/10 (41.6 ov) | NEP: 72/10 (17.3 ov)",
+          "United Arab Emirates vs India A (11th Match, Group B, ODI): India A won by 7 wkts — UAE: 249/8 (49.6 ov) | INDA: 254/3 (14.2 ov)",
+          "Bangladesh A vs Sri Lanka A (10th Match, Group A, ODI): Sri Lanka A won by 7 wkts — BANA: 145/10 (42.5 ov) | SLA: 146/3 (21.5 ov)",
+          "Hong Kong, China vs Afghanistan A (9th Match, Group A, ODI): Afghanistan A won by 7 wkts — HKC: 66/10 (21.3 ov) | AFGA: 72/3 (10.2 ov)",
+          "Pakistan A vs India A (8th Match, Group B, ODI): Pakistan A won by 48 runs — PAKA: 313/10 (49.2 ov) | INDA: 265/10 (49.1 ov)",
+          "South Western Districts vs Border (7th Match, ODI): South Western Districts won by 127 runs — SWD: 267/9 (49.6 ov) | BOR: 140/10 (32.6 ov)",
+          "KwaZulu-Natal Inland Tuskers vs Limpopo (8th Match, ODI): KwaZulu - Natal Inland Tuskers won by 99 runs — KZNIN: 314/6 (49.6 ov) | LIMPO: 215/10 (43.2 ov)",
+          "Ireland A vs Zimbabwe A (3rd unofficial ODI, ODI): Ireland A won by 27 runs (DLS method) — IREA: 312/7 (49.6 ov) | ZIMA: 277/9 (47.5 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls — India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for t",
+          "Test Match Special Podcast — Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Khawaja 'disappointed' by Cummins' personal attack",
+          "South Africa v Bangladesh - second Test scorecard",
+          "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
+          "England seamer Robinson joins Notts from Sussex",
+          "Gloucestershire renamed Bristol Lions for T20 Blast"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-khawaja-disappointed-by-cummins-personal-attack",
+    "title": "Khawaja 'disappointed' by Cummins' personal attack | Cricket News",
+    "description": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
+    "excerpt": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Khawaja 'disappointed' by Cummins' personal attack",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Khawaja 'disappointed' by Cummins' personal attack. Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-sooryavanshi-15-breaks-sixes-record-by-scoring-204",
+    "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls | Cricket News",
+    "description": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cric",
+    "excerpt": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cric",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls. India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket."
+      },
+      {
+        "type": "p",
+        "text": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-south-africa-v-bangladesh-second-test-scorecard",
+    "title": "South Africa v Bangladesh - second Test scorecard | Cricket News",
+    "description": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
+    "excerpt": "Latest scorecard from the second Test between South Africa and Bangladesh at Centurion.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-237001?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: South Africa v Bangladesh - second Test scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: South Africa v Bangladesh - second Test scorecard. Latest scorecard from the second Test between South Africa and Bangladesh at Centurion."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-test-match-special-podcast",
+    "title": "Test Match Special Podcast | Cricket News",
+    "description": "Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+    "excerpt": "Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sounds/play/p0pnlrq2?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Test Match Special Podcast",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Test Match Special Podcast. Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence."
+      },
+      {
+        "type": "p",
+        "text": "Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-the-rest-of-the-world-noticed-welshman-donald-demo",
+    "title": "'The rest of the world noticed' - Welshman Donald demolishes Aussies | Cricket News",
+    "description": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+    "excerpt": "A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ck30g8ed598no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: 'The rest of the world noticed' - Welshman Donald demolishes Aussies",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: 'The rest of the world noticed' - Welshman Donald demolishes Aussies. A remarkable opening partnership of 150 in 10 overs between Aneurin Donald and Phil Salt helps England chase 184 against Australia to level the T20 series."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-25-which-england-player-has-had-the-most-test-team-ma",
+    "title": "Which England player has had the most Test team-mates? | Cricket News",
+    "description": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "excerpt": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c980y7n38qro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Which England player has had the most Test team-mates?",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Which England player has had the most Test team-mates?. BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "p",
+        "text": "BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test careers"
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-paka-vs-nep-2026-11-24",
+    "title": "Pakistan A won by 96 runs | 12th Match, Group B Cricket News",
+    "description": "Pakistan A vs Nepal result: Pakistan A won by 96 runs. Scores, player of the match, and pitch report.",
+    "excerpt": "Pakistan A won by 96 runs — PAKA: 168/10 (41.6 ov) | NEP: 72/10 (17.3 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Pakistan A vs Nepal result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Pakistan A vs Nepal cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Pakistan A vs Nepal (12th Match, Group B, ODI) — Pakistan A won by 96 runs. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Pakistan A",
+            "168/10 (41.6 ov)"
+          ],
+          [
+            "Nepal",
+            "72/10 (17.3 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Pakistan A won by 96 runs."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Pakistan A chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Rohail Nazir delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-uae-vs-inda-2026-11-24",
+    "title": "India A won by 7 wkts | 11th Match, Group B Cricket News",
+    "description": "United Arab Emirates vs India A result: India A won by 7 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "India A won by 7 wkts — UAE: 249/8 (49.6 ov) | INDA: 254/3 (14.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "United Arab Emirates vs India A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "United Arab Emirates vs India A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: United Arab Emirates vs India A (11th Match, Group B, ODI) — India A won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "United Arab Emirates",
+            "249/8 (49.6 ov)"
+          ],
+          [
+            "India A",
+            "254/3 (14.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: India A won by 7 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: United Arab Emirates chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Vaibhav Sooryavanshi delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-bol-vs-kng-2026-11-26",
+    "title": "Boland vs Knights Preview — Pitch, Weather & Lineup | 13th Match",
+    "description": "Boland vs Knights preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 26 Nov, 2026, 1:30 pm.",
+    "excerpt": "Boland vs Knights — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 35°C / Low 14°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Boland vs Knights",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Boland vs Knights cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Boland face Knights in 13th Match (TEST) on Thu, 26 Nov, 2026, 1:30 pm at Boland Park Paarl. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Boland vs Knights"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 26 Nov, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Boland Park Paarl"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 26, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 35°C / Low 14°C · Rain: 0 mm · Wind: up to 19 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-lions-vs-nwest-2026-11-26",
+    "title": "Lions vs North West - Eastvaal Renault Dragons Preview — Pitch, Weather & Lineup | 16th Match",
+    "description": "Lions vs North West - Eastvaal Renault Dragons preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 26 Nov, 2026, 1:30 pm.",
+    "excerpt": "Lions vs North West - Eastvaal Renault Dragons — pitch: Bouncy South African surfaces; seam movement early, flatten for batters later.… Weather: Thunderstorm · High 23°C / Low 15°C · Rain: 6.1 mm · Wind: up to 14 km/h. Rain l…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Lions vs North West - Eastvaal Renault Dragons",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Lions vs North West - Eastvaal Renault Dragons cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Lions face North West - Eastvaal Renault Dragons in 16th Match (TEST) on Thu, 26 Nov, 2026, 1:30 pm at The Wanderers Stadium Johannesburg. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Lions vs North West - Eastvaal Renault Dragons"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 26 Nov, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "The Wanderers Stadium Johannesburg"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 26, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Bouncy South African surfaces; seam movement early, flatten for batters later."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–280 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Thunderstorm · High 23°C / Low 15°C · Rain: 6.1 mm · Wind: up to 14 km/h. Rain likely — DLS may apply; favour bowlers who hit the deck and teams with depth."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-war-vs-dol-2026-11-26",
+    "title": "Warriors vs Dolphins Preview — Pitch, Weather & Lineup | 15th Match",
+    "description": "Warriors vs Dolphins preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 26 Nov, 2026, 1:30 pm.",
+    "excerpt": "Warriors vs Dolphins — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 23°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Warriors vs Dolphins",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Warriors vs Dolphins cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Warriors face Dolphins in 15th Match (TEST) on Thu, 26 Nov, 2026, 1:30 pm at St George's Park Gqeberha. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Warriors vs Dolphins"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 26 Nov, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "St George's Park Gqeberha"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 26, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 23°C / Low 16°C · Rain: 0 mm · Wind: up to 16 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-wpr-vs-tit-2026-11-26",
+    "title": "Western Province vs Titans Preview — Pitch, Weather & Lineup | 14th Match",
+    "description": "Western Province vs Titans preview with pitch report, weather forecast, probable lineups, and betting insights for TEST on Thu, 26 Nov, 2026, 1:30 pm.",
+    "excerpt": "Western Province vs Titans — pitch: Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and … Weather: Overcast · High 25°C / Low 15°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover …",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Western Province vs Titans",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-25",
+    "updatedAt": "2026-11-25",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Western Province vs Titans cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Western Province face Titans in 14th Match (TEST) on Thu, 26 Nov, 2026, 1:30 pm at Newlands Cape Town. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Western Province vs Titans"
+          ],
+          [
+            "Format",
+            "TEST"
+          ],
+          [
+            "Series",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Thu, 26 Nov, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Newlands Cape Town"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 26, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard TEST surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 300–400 runs per innings typical."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Overcast · High 25°C / Low 15°C · Rain: 0 mm · Wind: up to 26 km/h. Cloud cover expected — seamers may get movement with the new ball."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-24",
     "title": "Cricket Daily Digest — Tuesday, 24 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 10+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
