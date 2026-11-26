@@ -3,6 +3,587 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-26",
+    "title": "Cricket Daily Digest — Thursday, 26 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 25+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Thursday, 26 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-26 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Thursday, 26 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Boland vs Knights",
+            "TEST",
+            "Paarl",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Western Province vs Titans",
+            "TEST",
+            "Cape Town",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Warriors vs Dolphins",
+            "TEST",
+            "Gqeberha",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Lions vs North West - Eastvaal Renault Dragons",
+            "TEST",
+            "Johannesburg",
+            "CSA Four-Day Series Division One 2026-27"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 1:30 pm",
+            "Eastern Storm vs Northern Cape",
+            "TEST",
+            "Benoni",
+            "CSA Three-Day Series Division Two 2026-2"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 3:30 pm",
+            "Sri Lanka A vs India A",
+            "ODI",
+            "Doha",
+            "ACC Men's Asia Cup Rising Stars 2026"
+          ],
+          [
+            "Fri, 27 Nov, 2026, 3:00 am",
+            "Northern Districts vs Central Districts",
+            "TEST",
+            "Mount Maunganui",
+            "Plunket Shield 2026-27"
+          ],
+          [
+            "Fri, 27 Nov, 2026, 3:00 am",
+            "Otago vs Wellington",
+            "TEST",
+            "Dunedin",
+            "Plunket Shield 2026-27"
+          ],
+          [
+            "Fri, 27 Nov, 2026, 3:30 am",
+            "New Zealand vs India",
+            "TEST",
+            "Christchurch",
+            "India tour of New Zealand 2026"
+          ],
+          [
+            "Fri, 27 Nov, 2026, 1:00 pm",
+            "Zimbabwe A vs Ireland A",
+            "ODI",
+            "Harare",
+            "Ireland A tour of Zimbabwe, 2026"
+          ],
+          [
+            "Thu, 26 Nov, 2026, 6:00 pm",
+            "India Women U19 vs England Women U19",
+            "T20",
+            "Vadodara",
+            "England Women U19 tour of India 2026"
+          ],
+          [
+            "Fri, 27 Nov, 2026, 1:45 pm",
+            "Australia vs England",
+            "T20",
+            "Brisbane",
+            "England tour of Australia, 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Zimbabwe A vs Ireland A (4th unofficial ODI, ODI): Ireland A won by 7 wkts — ZIMA: 209/10 (45.3 ov) | IREA: 210/3 (33.1 ov)",
+          "Pakistan A vs Nepal (12th Match, Group B, ODI): Pakistan A won by 96 runs — PAKA: 168/10 (41.6 ov) | NEP: 72/10 (17.3 ov)",
+          "United Arab Emirates vs India A (11th Match, Group B, ODI): India A won by 7 wkts — UAE: 249/8 (49.6 ov) | INDA: 254/3 (14.2 ov)",
+          "Bangladesh A vs Sri Lanka A (10th Match, Group A, ODI): Sri Lanka A won by 7 wkts — BANA: 145/10 (42.5 ov) | SLA: 146/3 (21.5 ov)",
+          "Bangladesh vs South Africa (2nd Test, TEST): South Africa won by an innings and 219 runs — BAN: 91/10 (33.3 ov) & 184/10 (49.4 ov) | RSA: 494/7 (114.6 ov)",
+          "Hong Kong, China vs Afghanistan A (9th Match, Group A, ODI): Afghanistan A won by 7 wkts — HKC: 66/10 (21.3 ov) | AFGA: 72/3 (10.2 ov)",
+          "Pakistan A vs India A (8th Match, Group B, ODI): Pakistan A won by 48 runs — PAKA: 313/10 (49.2 ov) | INDA: 265/10 (49.1 ov)",
+          "South Western Districts vs Border (7th Match, ODI): South Western Districts won by 127 runs — SWD: 267/9 (49.6 ov) | BOR: 140/10 (32.6 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hundred adds semi-finals from 2027 — An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+          "Dottin out to 'free ball' after historic WBBL decision — Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deeme",
+          "Litchfield hits century as Thunder beat Strikers - WBBL scorecard — Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Ova",
+          "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls — India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for t",
+          "Test Match Special Podcast — Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Motorcycle rider who took stunning cricket catch found",
+          "Greatest catch ever? Man on motorbike takes incredible grab",
+          "The England opening batting pair made in Wales",
+          "Khawaja 'disappointed' by Cummins' personal attack",
+          "South Africa beat Bangladesh by an innings in second Test - scorecard"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-dottin-out-to-free-ball-after-historic-wbbl-decisi",
+    "title": "Dottin out to 'free ball' after historic WBBL decision | Cricket News",
+    "description": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face ",
+    "excerpt": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Dottin out to 'free ball' after historic WBBL decision",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Dottin out to 'free ball' after historic WBBL decision. Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery."
+      },
+      {
+        "type": "p",
+        "text": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-greatest-catch-ever-man-on-motorbike-takes-incredi",
+    "title": "Greatest catch ever? Man on motorbike takes incredible grab | Cricket News",
+    "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+    "excerpt": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Greatest catch ever? Man on motorbike takes incredible grab",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Greatest catch ever? Man on motorbike takes incredible grab. A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-hundred-adds-semi-finals-from-2027",
+    "title": "Hundred adds semi-finals from 2027 | Cricket News",
+    "description": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+    "excerpt": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cv0l34jzx0w4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Hundred adds semi-finals from 2027",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Hundred adds semi-finals from 2027. An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals."
+      },
+      {
+        "type": "p",
+        "text": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-litchfield-hits-century-as-thunder-beat-strikers-w",
+    "title": "Litchfield hits century as Thunder beat Strikers - WBBL scorecard | Cricket News",
+    "description": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Oval.",
+    "excerpt": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242448?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Litchfield hits century as Thunder beat Strikers - WBBL scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Litchfield hits century as Thunder beat Strikers - WBBL scorecard. Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Oval."
+      },
+      {
+        "type": "p",
+        "text": "Latest scorecard from the Women's Big Bash League match between Sydney Thunder and Adelaide Strikers at North Sydney Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-motorcycle-rider-who-took-stunning-cricket-catch-f",
+    "title": "Motorcycle rider who took stunning cricket catch found | Cricket News",
+    "description": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+    "excerpt": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Motorcycle rider who took stunning cricket catch found",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Motorcycle rider who took stunning cricket catch found. Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-26-the-england-opening-batting-pair-made-in-wales",
+    "title": "The England opening batting pair made in Wales | Cricket News",
+    "description": "Aneurin Donald and Phil Salt became the first Welsh duo to open the batting for England and immediately made cricket headlines.",
+    "excerpt": "Aneurin Donald and Phil Salt became the first Welsh duo to open the batting for England and immediately made cricket headlines.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cw1mdzn9dzpzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: The England opening batting pair made in Wales",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: The England opening batting pair made in Wales. Aneurin Donald and Phil Salt became the first Welsh duo to open the batting for England and immediately made cricket headlines."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-zima-vs-irea-2026-11-25",
+    "title": "Ireland A won by 7 wkts | 4th unofficial ODI Cricket News",
+    "description": "Zimbabwe A vs Ireland A result: Ireland A won by 7 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Ireland A won by 7 wkts — ZIMA: 209/10 (45.3 ov) | IREA: 210/3 (33.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Zimbabwe A vs Ireland A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-26",
+    "updatedAt": "2026-11-26",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Zimbabwe A vs Ireland A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Zimbabwe A vs Ireland A (4th unofficial ODI, ODI) — Ireland A won by 7 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Zimbabwe A",
+            "209/10 (45.3 ov)"
+          ],
+          [
+            "Ireland A",
+            "210/3 (33.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Ireland A won by 7 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Ireland A chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-25",
     "title": "Cricket Daily Digest — Wednesday, 25 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 22+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
