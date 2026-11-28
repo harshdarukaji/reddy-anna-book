@@ -3,6 +3,1093 @@ import type { BlogPost } from "./types";
 /** Auto-generated cricket news — run `npm run news:fetch` */
 export const cricketNewsPosts: BlogPost[] = [
   {
+    "slug": "cricket-daily-digest-2026-11-28",
+    "title": "Cricket Daily Digest — Saturday, 28 November 2026 | Match Previews & Results",
+    "description": "Daily cricket digest: upcoming 11+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
+    "excerpt": "Upcoming fixtures, latest results, pitch reports, weather, and squad news for Saturday, 28 November 2026.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket daily digest",
+      "upcoming cricket matches",
+      "cricket results today"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 7,
+    "source": "Cricbuzz + BBC Sport",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket daily digest 2026-11-28 — match previews and results",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Your complete cricket briefing for Saturday, 28 November 2026 — upcoming fixtures between top teams, latest match results, pitch and weather reports, squad updates, and record-breaking performances. Updated daily on Reddy Anna Book."
+      },
+      {
+        "type": "h2",
+        "text": "Upcoming Cricket Matches",
+        "id": "upcoming-matches"
+      },
+      {
+        "type": "p",
+        "text": "Fixtures scheduled in the coming days across international and league cricket:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Date (IST)",
+          "Match",
+          "Format",
+          "Venue",
+          "Series"
+        ],
+        "rows": [
+          [
+            "Sun, 29 Nov, 2026, 1:30 pm",
+            "Eastern Storm vs Northern Cape",
+            "ODI",
+            "Benoni",
+            "CSA Provincial One-Day Challenge Divisio"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 1:00 pm",
+            "India Women U19 vs England Women U19",
+            "T20",
+            "Vadodara",
+            "England Women U19 tour of India 2026"
+          ],
+          [
+            "Sun, 29 Nov, 2026, 6:30 am",
+            "Brisbane Heat Women vs Perth Scorchers Women",
+            "T20",
+            "Adelaide, South Australia",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Sun, 29 Nov, 2026, 10:00 am",
+            "Adelaide Strikers Women vs Hobart Hurricanes Women",
+            "T20",
+            "Adelaide, South Australia",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 1:40 pm",
+            "Sydney Thunder Women vs Sydney Sixers Women",
+            "T20",
+            "Sydney",
+            "WBBL 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 3:00 pm",
+            "UP Kings vs Haryana Phoenix",
+            "T20",
+            "Bengaluru",
+            "Indian Softball Cricket League 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 3:30 pm",
+            "Desert Vipers vs MI Emirates",
+            "T20",
+            "Abu Dhabi",
+            "International League T20 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 5:00 pm",
+            "Bihar Rising vs Telangana Singhams",
+            "T20",
+            "Bengaluru",
+            "Indian Softball Cricket League 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 7:00 pm",
+            "JK Northern Warriors vs Andhra Warriors",
+            "T20",
+            "Bengaluru",
+            "Indian Softball Cricket League 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 8:00 pm",
+            "Dubai Capitals vs Gulf Giants",
+            "T20",
+            "Dubai",
+            "International League T20 2026"
+          ],
+          [
+            "Sat, 28 Nov, 2026, 9:00 pm",
+            "Andaman Admirals vs Bihar Rising",
+            "T20",
+            "Bengaluru",
+            "Indian Softball Cricket League 2026"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Latest Match Results — Who Won?",
+        "id": "latest-results"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Bangladesh A vs Pakistan A (2nd Semi-Final (B1 v A2), ODI): Pakistan A won by 5 wkts — BANA: 232/8 (49.6 ov) | PAKA: 233/5 (45.2 ov)",
+          "Ireland A vs Zimbabwe A (5th unofficial ODI, ODI): Zimbabwe A won by 5 wkts — IREA: 278/9 (49.6 ov) | ZIMA: 279/5 (44.1 ov)",
+          "Sri Lanka A vs India A (1st Semi-Final (A1 v B2), ODI): Sri Lanka A won by 8 wkts — SLA: 318/2 (41.3 ov) | INDA: 317/8 (49.6 ov)",
+          "Western Province vs Titans (14th Match, TEST): Match drawn — WPR: 168/10 (55.3 ov) | TIT: 80/4 (26.6 ov)",
+          "Zimbabwe A vs Ireland A (4th unofficial ODI, ODI): Ireland A won by 7 wkts — ZIMA: 209/10 (45.3 ov) | IREA: 210/3 (33.1 ov)",
+          "Pakistan A vs Nepal (12th Match, Group B, ODI): Pakistan A won by 96 runs — PAKA: 168/10 (41.6 ov) | NEP: 72/10 (17.3 ov)",
+          "United Arab Emirates vs India A (11th Match, Group B, ODI): India A won by 7 wkts — UAE: 249/8 (49.6 ov) | INDA: 254/3 (14.2 ov)",
+          "South Australia vs Victoria (15th Match, TEST): Match drawn — SAUS: 287/10 (97.1 ov) & 277/10 (98.6 ov) | VIC: 417/10 (135.3 ov) & 102/7 (42.4 ov)"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Record-Breaking Performances",
+        "id": "records"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hundred adds semi-finals from 2027 — An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+          "Dottin out to 'free ball' after historic WBBL decision — Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deeme",
+          "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls — India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for t",
+          "Test Match Special Podcast — Michael Vaughan reacts after England win and Cameron Bancroft breaks his silence.",
+          "Which England player has had the most Test team-mates? — BBC Sport looks at which England cricketers have played with the highest number of different team-mates in their Test ca"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Top Cricket Headlines",
+        "id": "headlines"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "England outclass Aussies again to take series lead",
+          "New Zealand v India day two - second Test scorecard",
+          "Melbourne Renegades v Melbourne Stars - WBBL scorecard",
+          "Australia drop Lyon for New Zealand Tests",
+          "Cricket Australia may not like sandpaper forum findings - Vaughan"
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-dottin-out-to-free-ball-after-historic-wbbl-decisi",
+    "title": "Dottin out to 'free ball' after historic WBBL decision | Cricket News",
+    "description": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face ",
+    "excerpt": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face ",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Dottin out to 'free ball' after historic WBBL decision",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Dottin out to 'free ball' after historic WBBL decision. Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery."
+      },
+      {
+        "type": "p",
+        "text": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-england-outclass-aussies-again-to-take-series-lead",
+    "title": "England outclass Aussies again to take series lead | Cricket News",
+    "description": "England reaffirm their advantage over a struggling Australia in white-ball cricket with a seven-wicket thrashing in the third T20 at The Gabba.",
+    "excerpt": "England reaffirm their advantage over a struggling Australia in white-ball cricket with a seven-wicket thrashing in the third T20 at The Gabba.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cm9d704g26z4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: England outclass Aussies again to take series lead",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: England outclass Aussies again to take series lead. England reaffirm their advantage over a struggling Australia in white-ball cricket with a seven-wicket thrashing in the third T20 at The Gabba."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-hundred-adds-semi-finals-from-2027",
+    "title": "Hundred adds semi-finals from 2027 | Cricket News",
+    "description": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+    "excerpt": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/cv0l34jzx0w4o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Hundred adds semi-finals from 2027",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Hundred adds semi-finals from 2027. An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals."
+      },
+      {
+        "type": "p",
+        "text": "An extra match will be added to The Hundred for the first time in 2027 with the introduction of four-team semi-finals."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-melbourne-renegades-v-melbourne-stars-wbbl-scoreca",
+    "title": "Melbourne Renegades v Melbourne Stars - WBBL scorecard | Cricket News",
+    "description": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Melbourne Stars at Melbourne's Junction Oval.",
+    "excerpt": "Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Melbourne Stars at Melbourne's Junction Oval.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242451?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: Melbourne Renegades v Melbourne Stars - WBBL scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: Melbourne Renegades v Melbourne Stars - WBBL scorecard. Latest scorecard from the Women's Big Bash League match between Melbourne Renegades and Melbourne Stars at Melbourne's Junction Oval."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-new-zealand-v-india-day-two-second-test-scorecard",
+    "title": "New Zealand v India day two - second Test scorecard | Cricket News",
+    "description": "Latest scorecard from the second Test between New Zealand and India in Christchurch.",
+    "excerpt": "Latest scorecard from the second Test between New Zealand and India in Christchurch.",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket updates"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-242119?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/cricket-news.jpg",
+    "imageAlt": "Cricket news: New Zealand v India day two - second Test scorecard",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Cricket update: New Zealand v India day two - second Test scorecard. Latest scorecard from the second Test between New Zealand and India in Christchurch."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-news-2026-11-28-sooryavanshi-15-breaks-sixes-record-by-scoring-204",
+    "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls | Cricket News",
+    "description": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cric",
+    "excerpt": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cric",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "cricket records",
+      "cricket milestones"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 3,
+    "source": "BBC Sport Cricket RSS",
+    "externalUrl": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "/images/blog/ipl-cricket.jpg",
+    "imageAlt": "Cricket record: Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Record-breaking cricket news: Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls. India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket."
+      },
+      {
+        "type": "p",
+        "text": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket."
+      },
+      {
+        "type": "h2",
+        "text": "Why This Matters for Bettors",
+        "id": "betting-angle"
+      },
+      {
+        "type": "p",
+        "text": "Record performances often shift team momentum and player markets. Track form on Reddy Anna Book before placing session and match bets."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-bana-vs-paka-2026-11-27",
+    "title": "Pakistan A won by 5 wkts | 2nd Semi-Final (B1 v A2) Cricket News",
+    "description": "Bangladesh A vs Pakistan A result: Pakistan A won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Pakistan A won by 5 wkts — BANA: 232/8 (49.6 ov) | PAKA: 233/5 (45.2 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Bangladesh A vs Pakistan A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Bangladesh A vs Pakistan A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Bangladesh A vs Pakistan A (2nd Semi-Final (B1 v A2), ODI) — Pakistan A won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Bangladesh A",
+            "232/8 (49.6 ov)"
+          ],
+          [
+            "Pakistan A",
+            "233/5 (45.2 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Pakistan A won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Bangladesh A chose batting."
+      },
+      {
+        "type": "h2",
+        "text": "Player of the Match",
+        "id": "player-of-match"
+      },
+      {
+        "type": "p",
+        "text": "Hasan Nawaz delivered a match-winning performance."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-irea-vs-zima-2026-11-27",
+    "title": "Zimbabwe A won by 5 wkts | 5th unofficial ODI Cricket News",
+    "description": "Ireland A vs Zimbabwe A result: Zimbabwe A won by 5 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Zimbabwe A won by 5 wkts — IREA: 278/9 (49.6 ov) | ZIMA: 279/5 (44.1 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Ireland A vs Zimbabwe A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Ireland A vs Zimbabwe A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Ireland A vs Zimbabwe A (5th unofficial ODI, ODI) — Zimbabwe A won by 5 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Ireland A",
+            "278/9 (49.6 ov)"
+          ],
+          [
+            "Zimbabwe A",
+            "279/5 (44.1 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Zimbabwe A won by 5 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: Zimbabwe A chose bowling."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "cricket-result-sla-vs-inda-2026-11-26",
+    "title": "Sri Lanka A won by 8 wkts | 1st Semi-Final (A1 v B2) Cricket News",
+    "description": "Sri Lanka A vs India A result: Sri Lanka A won by 8 wkts. Scores, player of the match, and pitch report.",
+    "excerpt": "Sri Lanka A won by 8 wkts — SLA: 318/2 (41.3 ov) | INDA: 317/8 (49.6 ov)",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Sri Lanka A vs India A result",
+      "who won",
+      "cricket scorecard"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 4,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Sri Lanka A vs India A cricket match result",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match result: Sri Lanka A vs India A (1st Semi-Final (A1 v B2), ODI) — Sri Lanka A won by 8 wkts. Full scorecard summary and player highlights from Reddy Anna Book cricket news."
+      },
+      {
+        "type": "h2",
+        "text": "Final Result",
+        "id": "final-result"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Team",
+          "Score"
+        ],
+        "rows": [
+          [
+            "Sri Lanka A",
+            "318/2 (41.3 ov)"
+          ],
+          [
+            "India A",
+            "317/8 (49.6 ov)"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Winner: Sri Lanka A won by 8 wkts."
+      },
+      {
+        "type": "p",
+        "text": "Toss: undefined chose —."
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Summary",
+        "id": "pitch-summary"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-adsw-vs-hbhw-2026-11-29",
+    "title": "Adelaide Strikers Women vs Hobart Hurricanes Women Preview — Pitch, Weather & Lineup | 40th Match",
+    "description": "Adelaide Strikers Women vs Hobart Hurricanes Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 29 Nov, 2026, 10:00 am.",
+    "excerpt": "Adelaide Strikers Women vs Hobart Hurricanes Women — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Light drizzle · High 19°C / Low 15°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Adelaide Strikers Women vs Hobart Hurricanes Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Adelaide Strikers Women vs Hobart Hurricanes Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Adelaide Strikers Women face Hobart Hurricanes Women in 40th Match (T20) on Sun, 29 Nov, 2026, 10:00 am at Karen Rolton Oval Adelaide, South Australia. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Adelaide Strikers Women vs Hobart Hurricanes Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 29 Nov, 2026, 10:00 am"
+          ],
+          [
+            "Venue",
+            "Karen Rolton Oval Adelaide, South Australia"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 29, 04:30 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 19°C / Low 15°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-brhw-vs-prsw-2026-11-29",
+    "title": "Brisbane Heat Women vs Perth Scorchers Women Preview — Pitch, Weather & Lineup | 39th Match",
+    "description": "Brisbane Heat Women vs Perth Scorchers Women preview with pitch report, weather forecast, probable lineups, and betting insights for T20 on Sun, 29 Nov, 2026, 6:30 am.",
+    "excerpt": "Brisbane Heat Women vs Perth Scorchers Women — pitch: Pace and bounce typical of Australian wickets; good carry for fast bowlers.… Weather: Light drizzle · High 19°C / Low 15°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Brisbane Heat Women vs Perth Scorchers Women",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Brisbane Heat Women vs Perth Scorchers Women cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Brisbane Heat Women face Perth Scorchers Women in 39th Match (T20) on Sun, 29 Nov, 2026, 6:30 am at Karen Rolton Oval Adelaide, South Australia. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Brisbane Heat Women vs Perth Scorchers Women"
+          ],
+          [
+            "Format",
+            "T20"
+          ],
+          [
+            "Series",
+            "Womens Big Bash League 2026"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 29 Nov, 2026, 6:30 am"
+          ],
+          [
+            "Venue",
+            "Karen Rolton Oval Adelaide, South Australia"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 29, 01:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Pace and bounce typical of Australian wickets; good carry for fast bowlers."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 260–290 (ODI)."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light drizzle · High 19°C / Low 15°C · Rain: 2.4 mm · Wind: up to 22 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
+    "slug": "match-preview-estorm-vs-ncape-2026-11-29",
+    "title": "Eastern Storm vs Northern Cape Preview — Pitch, Weather & Lineup | 9th Match",
+    "description": "Eastern Storm vs Northern Cape preview with pitch report, weather forecast, probable lineups, and betting insights for ODI on Sun, 29 Nov, 2026, 1:30 pm.",
+    "excerpt": "Eastern Storm vs Northern Cape — pitch: Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and d… Weather: Light rain · High 9°C / Low 3°C · Rain: 2.9 mm · Wind: up to 27 km/h. Light rain…",
+    "keywords": [
+      "cricket news",
+      "cricket match preview",
+      "pitch report",
+      "weather report",
+      "cricket lineup",
+      "live cricket betting",
+      "reddy anna cricket",
+      "Eastern Storm vs Northern Cape",
+      "pitch report",
+      "weather forecast"
+    ],
+    "category": "Cricket News",
+    "publishedAt": "2026-11-28",
+    "updatedAt": "2026-11-28",
+    "readingTime": 7,
+    "source": "Cricbuzz",
+    "image": "/images/blog/cricket-hero.jpg",
+    "imageAlt": "Eastern Storm vs Northern Cape cricket match preview — pitch and weather report",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Match preview: Eastern Storm face Northern Cape in 9th Match (ODI) on Sun, 29 Nov, 2026, 1:30 pm at Willowmoore Park Benoni. Full pitch report, weather forecast, and squad details below."
+      },
+      {
+        "type": "h2",
+        "text": "Match Details",
+        "id": "match-details"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Detail",
+          "Info"
+        ],
+        "rows": [
+          [
+            "Teams",
+            "Eastern Storm vs Northern Cape"
+          ],
+          [
+            "Format",
+            "ODI"
+          ],
+          [
+            "Series",
+            "CSA Provincial One-Day Challenge Division Two 2026-27"
+          ],
+          [
+            "Date & Time (IST)",
+            "Sun, 29 Nov, 2026, 1:30 pm"
+          ],
+          [
+            "Venue",
+            "Willowmoore Park Benoni"
+          ],
+          [
+            "Status",
+            "Match starts at Nov 29, 08:00 GMT"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Pitch Report",
+        "id": "pitch-report"
+      },
+      {
+        "type": "p",
+        "text": "Standard ODI surface expected. Conditions will be clearer at the toss — monitor team selection and dew factor for night games."
+      },
+      {
+        "type": "p",
+        "text": "Expected par score: 250–290 runs par score."
+      },
+      {
+        "type": "h2",
+        "text": "Weather Report",
+        "id": "weather-report"
+      },
+      {
+        "type": "p",
+        "text": "Light rain · High 9°C / Low 3°C · Rain: 2.9 mm · Wind: up to 27 km/h. Light rain possible — overcast conditions could assist swing bowling early."
+      },
+      {
+        "type": "h2",
+        "text": "Team Lineups & Squads",
+        "id": "lineups"
+      },
+      {
+        "type": "p",
+        "text": "International playing XI is announced at the toss. Check back on match day for confirmed line-ups."
+      },
+      {
+        "type": "h2",
+        "text": "Bet on Cricket with Reddy Anna Book",
+        "id": "bet-with-reddy-anna"
+      },
+      {
+        "type": "p",
+        "text": "Use pitch reports, weather updates, and team news to make smarter cricket bets on Reddy Anna Book. Live odds on IPL, ODIs, Tests, and T20 leagues. New users get ₹5,000 welcome bonus."
+      },
+      {
+        "type": "cta",
+        "text": "Get your Reddy Anna Cricket ID on WhatsApp and bet on live cricket with instant deposits."
+      }
+    ]
+  },
+  {
     "slug": "cricket-daily-digest-2026-11-27",
     "title": "Cricket Daily Digest — Friday, 27 November 2026 | Match Previews & Results",
     "description": "Daily cricket digest: upcoming 12+ matches, latest results, pitch & weather reports, lineups, and record-breaking player performances.",
